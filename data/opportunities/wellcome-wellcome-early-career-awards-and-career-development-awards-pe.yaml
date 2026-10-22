@@ -1,0 +1,96 @@
+id: wellcome-wellcome-early-career-awards-and-career-development-awards-pe
+title: Wellcome Early-Career Awards and Career Development Awards (personal salary + team, 5-8 years;
+  rolling)
+funder: Wellcome
+funder_type: foundation
+program: Discovery Research - Early-Career Awards / Career Development Awards
+opportunity_type: fellowship
+themes:
+- climate_adaptation
+- food_security
+- ai_ml
+- remote_sensing
+- capacity_building
+url: https://wellcome.org/research-funding/schemes/wellcome-career-development-awards
+source_urls:
+- https://wellcome.org/research-funding/schemes/wellcome-early-career-awards
+- https://wellcome.org/research-funding/guidance/prepare-to-apply/eligibility-information-grant-applicants
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'There are no deadlines for applications to this scheme. Applications can be submitted
+  at any time. (Shortlisting three times a year: February, June, September.) Location eligibility changes
+  from 29 October 2026 (lead in UK or LMICs in Africa, South Asia and South-East Asia only).'
+funding_amount_min: null
+funding_amount_max: 400000
+currency: GBP
+funding_text: 'Early-Career Award: ''Your salary and up to GBP 400,000 for research expenses.'' Career
+  Development Award: ''The annual expenditure for a Career Development Award is usually below GBP 250,000
+  excluding the applicant''s salary.'' (funding_amount_max refers to ECA research expenses; CDA has no
+  stated total cap)'
+duration: 'Early-Career Award: usually 5 years. Career Development Award: usually 8 years.'
+duration_months_max: 96
+covers_staff_costs: 'yes'
+support_type: fellowship_salary
+eligible_applicants: 'ECA: early-career researchers with PhD (or equivalent) and up to 3 years postdoctoral
+  experience. CDA: mid-career researchers already leading their own research. Hosted by eligible not-for-profit
+  administering organisations.'
+eligible_countries: 'Until 28 Oct 2026: UK, Ireland, LMICs (excl. India, mainland China). From 29 Oct
+  2026: lead in UK or LMICs in Africa, South Asia and South-East Asia only.'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Colombia-based researchers are effectively ineligible from 29 Oct 2026 (applications
+  on or before 28 Oct 2026 are judged under old rules - too short to be realistic). Possible only if the
+  fellow is based at an Alliance office in an eligible African/Asian LMIC and that office qualifies as
+  an administering organisation. LMIC-based applicants with permanent contracts can still request own
+  salary. Remit must be human health-related.
+lead_applicant_requirements: 'ECA: up to 3 years postdoc experience at submission. CDA: mid-career, leading
+  own research; permanent posts generally started within last 3 years.'
+geographic_restrictions: See eligible_countries.
+consortium_required: 'no'
+consortium_details: Coapplicants not accepted; collaborators allowed.
+cofunding_required: 'no'
+cofunding_details: Not specified
+eligible_activities: Innovative research in any discipline with potential to improve human life, health
+  and wellbeing.
+required_documents: Not specified on scheme summary; application via Wellcome Funding Platform.
+application_procedure: Rolling submission on Wellcome Funding Platform; shortlisting and interview rounds
+  three times a year.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Same remit constraint as Discovery Awards - needs a health outcome framing.
+strategic_relevance: 4
+strategic_relevance_rationale: Among the longest salary-funded fellowships available (5-8 years, plus
+  up to 4 FTE staff for CDA).
+technical_feasibility: 2
+technical_feasibility_rationale: Requires relocation to/affiliation with an Alliance Africa/Asia office
+  and a health-oriented research programme.
+recommendation: Relevant for Alliance staff based in Kenya or Viet Nam working on climate-food-health
+  links; not for Colombia-based staff after 28 Oct 2026.
+potential_partners: Wellcome Africa/Asia programmes (KEMRI-Wellcome, OUCRU), LSHTM.
+next_action: Flag to Alliance Africa/Asia teams; confirm administering-organisation eligibility with Wellcome
+  funding information team.
+evidence:
+  deadline_quote: There are no deadlines for applications to this scheme. Applications can be submitted
+    at any time.
+  eligibility_quote: From 29 October 2026, we will only accept applications from lead applicants based
+    at eligible administering organisations in the UK and low- and middle-income countries in Africa,
+    South Asia and South-East Asia.
+  status_quote: No deadline - apply anytime (applications opened 25 August 2026)
+  staff_costs_quote: 'We will fund the total cost of your salary for the entire period of the grant. ...
+    If you hold a permanent, open-ended or long term rolling contract and are based in a low- or middle-income
+    country, we will fund the cost of your salary for the duration of the award (ECA). CDA: staff costs
+    covered up to 4 FTE (''You can ask for more staff costs (in addition to the 4 FTE staff) if you need:
+    specialist service staff and technical experts, for example ... data analysis, fieldwork'').'
+unverified_fields:
+- Administering-organisation status of Alliance country offices
+verification_notes: Loaded both scheme pages on 2026-10-22 and extracted text from HTML.
+last_verified: '2026-10-22'
+verification_source: import:philanthropy_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:55
+  event: added
+  detail: import:philanthropy_staff_2026-10-22.json

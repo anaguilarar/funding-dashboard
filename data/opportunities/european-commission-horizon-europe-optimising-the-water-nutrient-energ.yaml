@@ -1,0 +1,115 @@
+id: european-commission-horizon-europe-optimising-the-water-nutrient-energ
+title: Optimising the water-nutrient-energy nexus for sustainable and climate smart agriculture in Africa
+  (FNSSA) - HORIZON-CL6-2027-02-FARM2FORK-02-two-stage
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 6, Destination 'Fair, healthy and environment-friendly food systems',
+  Call HORIZON-CL6-2027-02-two-stage (AU-EU FNSSA)
+opportunity_type: consortium_call
+themes:
+- climate_smart_ag
+- climate_adaptation
+- food_security
+- smallholders
+- digital_agriculture
+- biodiversity
+- capacity_building
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-02-two-stage
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-04-08T17:00
+deadline_timezone: CET (Brussels local time, 17:00)
+deadline_text: 'Opening: 04 Feb 2027; Deadline(s): 08 Apr 2027 (First Stage), 14 Sep 2027 (Second Stage).
+  All deadlines are at 17.00.00 Brussels local time.'
+funding_amount_min: null
+funding_amount_max: 6000000
+currency: EUR
+funding_text: Expected EU contribution around EUR 6.00 million per project; total indicative topic budget
+  EUR 12.00 million (around 2 projects). Research and Innovation Action, lump sum. Financial support to
+  third parties allowed (max EUR 60 000 per third party).
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortia of legal entities per General Annex B; multi-actor approach mandatory.
+eligible_countries: EU Member States, Associated Countries, and (exceptionally) all African Union member
+  states; LMIC list per General Annex B.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'Topic text: ''International organisations with headquarters in a Member State
+  or Associated Country are exceptionally eligible for funding.'' Bioversity International (HQ Rome, Italy)
+  can therefore be a funded beneficiary and potentially coordinator; CIAT Africa staff can contribute
+  via the Bioversity entity. CIAT (HQ Colombia) is not covered by this clause.'
+lead_applicant_requirements: Coordinator must be an eligible legal entity; standard Horizon Europe minimum
+  (3 independent entities from 3 different EU MS/AC, at least one from a MS) plus at least three independent
+  legal entities established in AU member states.
+geographic_restrictions: Activities must cover at least two different African agro-ecosystems.
+consortium_required: 'yes'
+consortium_details: Minimum HE consortium + 'at least three independent legal entities established in
+  an African Union member state'. Multi-actor approach with public authorities, advisory services and
+  farmer organisations. First stage evaluated blindly (no organisation names in abstract/Part B).
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs (lump sum); not-for-profit legal entities
+  get 100% in IAs too. See General Annex G.
+eligible_activities: Assess needs/opportunities for water, nutrient and energy management in agriculture;
+  develop knowledge, practices and tools for on-farm resource management at the nexus; evaluate water/energy/nutrient
+  balances, economic feasibility, climate footprint and social effects; enable circular, climate-smart
+  and biodiversity-friendly practices for smallholders; link to AU-EU Innovation Agenda and Horizon Europe
+  living labs in Africa.
+required_documents: Proposal Part A (admin forms via Funding & Tenders Portal) and Part B (technical description
+  per template); ethics self-assessment; lump-sum budget table where lump sum applies. See General Annexes
+  A and E.
+application_procedure: Electronic submission through the EU Funding & Tenders Portal by the coordinator;
+  all participants need a validated PIC.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Climate-smart agriculture for African smallholders with tools/DSS; EO,
+  crop modelling (water/nutrient balances) and digital advisory fit well, though topic is nexus/practice
+  focused rather than RS/AI per se.
+strategic_relevance: 5
+strategic_relevance_rationale: Explicit AU-EU FNSSA priority, Africa smallholders, IOs funded; core CGIAR/Alliance
+  mission and Africa hub presence.
+technical_feasibility: 4
+technical_feasibility_rationale: Alliance has Africa agronomy, soil/water, crop modelling and digital
+  advisory capacity; energy component needs partners.
+recommendation: Top priority. One of very few 2027 Cluster 6 topics that explicitly funds IOs headquartered
+  in the EU and targets African smallholders. Build a consortium now for the 8 Apr 2027 blind first-stage
+  deadline.
+potential_partners: African NARS (e.g., KALRO, EIAR, CORAF members), icipe / RMRN Eastern Africa, CORAF
+  / UCAD (RMRN Western Africa), European universities (WUR, CIRAD, Univ. of Bonn ZEF), farmer organisations,
+  energy/irrigation SMEs.
+next_action: Contact Alliance Africa/Climate Action leads and Bioversity grants office; draft concept
+  and identify coordinator by Dec 2026; register interest on F&T portal partner search.
+evidence:
+  deadline_quote: 'Opening: 04 Feb 2027 / Deadline(s): 08 Apr 2027 (First Stage), 14 Sep 2027 (Second
+    Stage)'
+  eligibility_quote: International organisations with headquarters in a Member State or Associated Country
+    are exceptionally eligible for funding. ... consortia must include at least three independent legal
+    entities established in an African Union member state*.
+  status_quote: F&T Portal search API (queried 2026-10-14) returns status code 31094501 (Forthcoming),
+    startDate 2027-02-04, deadlineDate 2027-04-08 and 2027-09-14.
+  staff_costs_quote: 'A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they
+    fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all
+    estimated costs incl. personnel)'
+unverified_fields:
+- duration
+verification_notes: 'Downloaded official WP 2026-2027 Part 9 (Cluster 6) PDF from ec.europa.eu (Last-Modified
+  29 Sep 2026) and General Annexes (Part 15) on 2026-10-14; read topic conditions (WP pages 162-164).
+  Topic status confirmed via the F&T Portal search API. Portal topic page is a JavaScript app (not text-fetchable)
+  but is the official URL. | 2026-10-22 staff-cost/duration check: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
+  (RIA (two-stage), lump sum. WP9 topic text states no duration.)'
+last_verified: '2026-10-14'
+verification_source: import:europe.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:europe.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

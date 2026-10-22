@@ -1,0 +1,94 @@
+id: water4all-european-partnership-horizon-europe-co-funded-32-funding-org
+title: Water4All 2026 Joint Transnational Call - Sustainable Water Management
+funder: Water4All European Partnership (Horizon Europe co-funded; 32 funding organisations from 29 countries)
+funder_type: research_partnership
+program: Water Security for the Planet (Water4All) Partnership, JTC 2026
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- remote_sensing
+- multifunctional_landscapes
+- climate_data_infrastructure
+url: https://www.water4all-partnership.eu/joint-activities/water4all-2026-joint-transnational-call
+source_urls:
+- https://www.water4all-partnership.eu/sites/default/files/2026-09/Call_Announcement_Water4All_JTC2026_20260908.pdf
+- https://www.water4all-partnership.eu/sites/default/files/2026-09/AnnexA_Water4All_JTC2026.pdf
+status: open
+status_basis: official
+published_date: '2026-09-08'
+deadline: 2026-11-10T15:00
+deadline_timezone: CET
+deadline_text: 'Pre-proposal deadline: 10 November 2026, 15:00 CET; full proposal deadline: 6 April 2027,
+  15:00 CEST.'
+funding_amount_min: null
+funding_amount_max: null
+currency: EUR
+funding_text: Approximately EUR 34 million total call budget, provided by national/regional funders (each
+  partner funded by its own national FPO under national rules).
+duration: 36 months
+duration_months_max: 36
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Partners eligible under participating national/regional funders' rules; maximum seven
+  partners including one self-funded partner.
+eligible_countries: Funders from Austria, Belgium, Brazil (CONFAP), Czechia, Denmark, Estonia, Finland,
+  France, Germany, Greece, Hungary, Ireland, Israel, Latvia, Lithuania, Luxembourg, Malta, Moldova, Netherlands,
+  Norway, Poland, Romania, Slovakia, South Africa (DSTI), Spain, Sweden, Tunisia, Türkiye and others (see
+  Call Announcement Table 1). Italy and Colombia are not funding countries.
+international_orgs_eligible: unclear
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: No Italian or Colombian funder participates, so the Alliance cannot request funding;
+  it can join only as the single 'self-funded partner' (cannot coordinate, must provide a commitment letter,
+  needs a PIC).
+lead_applicant_requirements: Coordinator must be an eligible funded partner; self-funded partners cannot
+  coordinate.
+geographic_restrictions: At least three eligible funded partners from three different countries; at least
+  two independent legal entities from two different EU MS or HE associated countries as funding recipients.
+consortium_required: 'yes'
+consortium_details: Max 7 partners incl. 1 self-funded; no partner >50% person-months; partners from same
+  country together <=50% person-months.
+cofunding_required: Not specified
+cofunding_details: Self-funded partner must cover its own costs.
+eligible_activities: 'Topics: (1) integrated monitoring and assessment; (2) nature-based approaches for
+  resilient water management; (3) smart, secure and adaptive water infrastructures; (4) resilient water
+  systems through governance. Excludes extreme events and circularity.'
+required_documents: Pre-proposal (template provided); full proposal; letter of commitment for self-funded
+  partner; national documents per Annex A/National Regulations.
+application_procedure: Two-stage electronic submission via the Water4All submission system by the coordinator.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Topic 1 (integrated monitoring, EO for agricultural water) fits RS skills,
+  but water management is not the core topic.
+strategic_relevance: 2
+strategic_relevance_rationale: No funding for the Alliance; useful only to support partners (e.g., Brazil
+  CONFAP, South Africa DSTI, Tunisia).
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible as an in-kind EO/data partner; very short timeline.
+recommendation: Low priority; join only if an existing partner (e.g., a Brazilian or South African group)
+  invites the Alliance as self-funded partner before 10 Nov 2026.
+potential_partners: Brazilian state research foundations' grantees (CONFAP), South African universities
+  (DSTI), European water institutes (Deltares, IHE Delft via NWO).
+next_action: Only act if approached; otherwise monitor the next Water4All JTC.
+evidence:
+  deadline_quote: 'Pre-proposal deadline: 10 November 2026, 15:00 CET ... Full proposal deadline: 6 April
+    2027, 15:00 CEST'
+  eligibility_quote: No more than one self-funded project partner per consortium is allowed. ... A self-funded
+    partner cannot coordinate a project.
+  status_quote: Call opened 8 September 2026 (Water4All call page).
+unverified_fields:
+- full list of 32 funders (Austria funder name truncated in PDF extraction)
+verification_notes: 'Loaded official Water4All call page and Call Announcement PDF (2026-09-08) on 2026-10-14;
+  read Table 1 of funders and self-funded partner rules. | 2026-10-22 staff-cost/duration check: https://www.water4all-partnership.eu/sites/default/files/2026-09/Call_Announcement_Water4All_JTC2026_20260908.pdf
+  (''Duration of the Transnational Projects must be 36 months.'' Eligible costs follow each national/regional
+  FPO''s rules; partners from non-participating countries join ''at the institutions'' own expense''.)'
+last_verified: '2026-10-14'
+verification_source: import:europe.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:europe.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

@@ -1,0 +1,77 @@
+id: google-google-research-google-earth-google-earth-ai-research-capabilit
+title: Google Earth AI research capabilities - early access / Trusted Tester waitlist (Remote Sensing
+  Foundations, Population Dynamics embeddings, Geospatial Reasoning)
+funder: Google (Google Research / Google Earth)
+funder_type: tech_company
+program: Google Earth AI Trusted Tester program
+opportunity_type: cloud_credits
+themes:
+- remote_sensing
+- ai_ml
+- climate_adaptation
+- climate_data_infrastructure
+- food_security
+url: https://docs.google.com/forms/d/e/1FAIpQLSfhp8WXrhxAwPlOQxaAJK6qFY3Ga74RONC62W3qhVI7pcVhZw/viewform
+source_urls:
+- https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/
+status: open
+status_basis: official
+published_date: '2025-10-23'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'No deadline; waitlist form: ''If you would like to be added to our waitlist for early
+  access''.'
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: In-kind early access to Earth AI models (Imagery/Remote Sensing Foundations, Population,
+  Environment) on Google Cloud; no monetary award or credits stated.
+duration: Not specified
+eligible_applicants: 'Not specified; form open to all industries incl. Academia and Other. Blog: ''Social
+  impact organizations can learn about future support for nonprofits through Google.org.'''
+eligible_countries: Not specified (form has country dropdown)
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Anyone can join the waitlist; selection discretionary by Google.
+lead_applicant_requirements: Not specified
+geographic_restrictions: Not specified
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: Not specified
+cofunding_details: Access is via Google Cloud; usage costs for testers not stated.
+eligible_activities: Early testing of Earth AI models and Geospatial Reasoning.
+required_documents: 4-page web form (name, email, country, job title, organization, industry, use case).
+application_procedure: Submit waitlist form.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: Geospatial foundation models directly match the researcher's EO + foundation-model
+  interests.
+strategic_relevance: 4
+strategic_relevance_rationale: Early access positions the Alliance as a Global South agricultural test
+  partner for Google geospatial AI.
+technical_feasibility: 5
+technical_feasibility_rationale: Waitlist only.
+recommendation: Sign up now with an agriculture/landscape use case (crop type & yield mapping, climate
+  risk for smallholders in LAC). Also ask about Agricultural Landscape Understanding (ALU/AnthroKrishi)
+  API access for LAC (currently trusted testers in India/APAC/Africa).
+potential_partners: Google Research Earth AI / ALU team
+next_action: Submit waitlist form; contact Google Research ALU team via developers.google.com/agricultural-understanding
+  about LAC access.
+evidence:
+  deadline_quote: Not specified
+  eligibility_quote: If you would like to be added to our waitlist for early access
+  status_quote: Form 'Upcoming Google Earth AI Research Capabilities' live (page 1 of 4) on 2026-10-14
+unverified_fields:
+- eligibility
+- benefit details
+- selection criteria
+verification_notes: Loaded Google blog (Oct 2025) and linked form on 2026-10-14. Status is a waitlist,
+  not a guaranteed award.
+last_verified: '2026-10-14'
+verification_source: import:tech_companies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:tech_companies.json
+flags: []

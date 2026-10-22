@@ -1,0 +1,77 @@
+id: foundation-for-food-agriculture-research-ffar-ffar-submit-a-research-i
+title: FFAR Submit a Research Idea portal (not a funding application; FFAR funds constrained in 2026)
+funder: Foundation for Food & Agriculture Research (FFAR)
+funder_type: foundation
+program: Submit a Research Idea
+opportunity_type: grant
+themes:
+- digital_agriculture
+- climate_smart_ag
+url: https://foundationfar.org/grants-funding/opportunities/submit-a-research-idea/
+source_urls:
+- https://foundationfar.org/grants-funding/
+- https://foundationfar.org/grants-funding/applicant-faqs/
+status: monitoring
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: The Submit a Research Idea portal is open year-round.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Not specified. 'at this time, we cannot commit funds to new programs in 2026.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: partial
+support_type: project_funding
+eligible_applicants: '''We welcome all individuals and groups'' to propose ideas; ideas must ''primarily
+  benefit U.S. agriculture and/or food systems''.'
+eligible_countries: Any, but research must benefit the US
+international_orgs_eligible: 'yes'
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Applicant FAQ (via search snippet) says international institutions are eligible
+  for many programs, but all research must benefit the US food and agriculture system - poor fit for Alliance's
+  LAC/Africa mandate.
+lead_applicant_requirements: Not specified
+geographic_restrictions: Must benefit US agriculture/food systems
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: FFAR programs typically require matching funds; not required at idea stage.
+eligible_activities: Research ideas in FFAR priority areas
+required_documents: Smartsheet idea form
+application_procedure: Submit idea form; FFAR screens and may contact; 'An idea submitted through this
+  portal is not an application.'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Digital ag/EO fits FFAR priorities but US-benefit requirement misaligns.
+strategic_relevance: 1
+strategic_relevance_rationale: US-focused; no funds for new programs in 2026.
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible technically but needs a US partner and US benefit case.
+recommendation: Do not pursue now; monitor FFAR after new Farm Bill funding.
+potential_partners: US land-grant universities
+next_action: Monitor FFAR opportunities page in 2027.
+evidence:
+  deadline_quote: The Submit a Research Idea portal is open year-round.
+  eligibility_quote: primarily benefit[s] U.S. agriculture and/or food systems
+  status_quote: at this time, we cannot commit funds to new programs in 2026.
+  staff_costs_quote: Salary can be charged to a FFAR project proportionate to professional time spent
+    on the project not superseding the cap.
+unverified_fields:
+- international eligibility (FAQ only via search snippet)
+verification_notes: 'Loaded official FFAR idea portal and grants pages on 2026-10-14; /grants-funding/opportunities/
+  returned 404. | 2026-10-22 staff-cost/duration check: https://foundationfar.org/grants-funding/applicant-faqs/
+  (Capped at NIH salary cap; indirect costs up to 15%. No maximum duration stated (refers to each RFA).)'
+last_verified: '2026-10-14'
+verification_source: import:foundations.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:foundations.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

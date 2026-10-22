@@ -1,0 +1,104 @@
+id: european-commission-horizon-europe-international-cooperation-in-ai-ia
+title: International cooperation in AI (IA) - HORIZON-CL4-2027-04-DIGITAL-EMERGING-06 (AI solutions for
+  LMIC innovation hubs in Africa, incl. agriculture/climate)
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 4 (Digital, Industry and Space), call HORIZON-CL4-2027-04
+opportunity_type: consortium_call
+themes:
+- ai_ml
+- digital_agriculture
+- climate_adaptation
+- capacity_building
+- smallholders
+- open_source_software
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DIGITAL-EMERGING-06
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-03-18T17:00
+deadline_timezone: CET/CEST (Brussels local time, 17:00)
+deadline_text: 'Portal: planned opening 2026-11-17; single-stage deadline 2027-03-18.'
+funding_amount_min: 1500000
+funding_amount_max: 1500000
+currency: EUR
+funding_text: Innovation Action (lump sum); topic budget EUR 3 million, 2 grants of EUR 1.5 million each.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Standard Horizon Europe consortium; African LMIC partners eligible for funding per
+  General Annex B.
+eligible_countries: EU MS/AC + LMICs (General Annex B list, incl. Kenya, Ghana, Rwanda, etc.); scope focuses
+  on African countries.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'No IO clause in topic conditions: Bioversity/CIAT funded only if deemed essential,
+  otherwise associated partners. African national partners (universities, innovation hubs) can be funded
+  beneficiaries. IA funding rate up to 100% for non-profits.'
+lead_applicant_requirements: Min. 3 independent entities from 3 different MS/AC (one in a MS).
+geographic_restrictions: Living labs/deployment in low- and middle-income countries, focus on Africa.
+consortium_required: 'yes'
+consortium_details: Should link to AI for Public Good, GenAI for Africa, Digital for Development Hub,
+  Global Gateway; living labs in local innovation hubs.
+cofunding_required: 'no'
+cofunding_details: 'IA: 70% (100% for non-profit legal entities).'
+eligible_activities: TRL 5->7 prototyping, testing, validation and demonstration of locally adapted AI
+  solutions trained on local data; living labs; talent pipelines; areas include 'climate and agriculture,
+  biodiversity'.
+required_documents: Part A administrative forms (in submission system) + Part B technical description
+  per template; detailed lump-sum budget table where lump sum applies; ethics self-assessment. See General
+  Annexes A and E.
+application_procedure: Electronic submission by the coordinator via the EU Funding & Tenders Portal; all
+  participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: AI tools adapted with local data for agriculture/climate in Africa match
+  the digital-advisory and geospatial-AI profile.
+strategic_relevance: 3
+strategic_relevance_rationale: Small (EUR 1.5M) but directly on AI-for-agriculture in Africa; good for
+  Alliance Africa hubs with African partners as funded beneficiaries.
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance has relevant AI/advisory tools at TRL 5+; funding route for
+  Alliance staff uncertain.
+recommendation: Pursue as partner with an EU coordinator and African innovation hubs; clarify early with
+  the EC whether Bioversity can be a funded beneficiary as 'essential'.
+potential_partners: EU AI research groups in AI-for-Public-Good/GenAI4Africa projects; African innovation
+  hubs (e.g., in Kenya, Rwanda, Ghana); Alliance Africa hub.
+next_action: Read full topic when it opens 17 Nov 2026; identify EU coordinator and African hubs by Jan
+  2027.
+evidence:
+  deadline_quote: 'deadlineDates: 2027-03-18 (single-stage); plannedOpeningDate 2026-11-17'
+  eligibility_quote: 'General Annex B: International organisations with headquarters in a Member State
+    or Associated Country are eligible to receive funding for ''Training and mobility'' actions or when
+    provided for in the specific call/topic conditions. Other international organisations are not eligible
+    to receive funding, unless provided for in the specific call/topic conditions, or if their participation
+    is considered essential for implementing the action by the granting authority.'
+  status_quote: Portal status code 'Forthcoming' (31094501).
+  staff_costs_quote: 'General Annexes, Budget categories: ''actual costs (i.e. costs which are real and
+    not estimated or budgeted) for: - personnel costs (unless declared as a unit cost ...)''; ''The maximum
+    Horizon Europe funding rates are as follows: - Research and innovation action: 100% - Innovation action:
+    70% (except for non-profit legal entities, where a rate of up to 100% applies)''. Topic conditions:
+    ''Eligible costs will take the form of a lump sum'' (lump sum is fixed from a detailed budget table
+    that includes personnel).'
+unverified_fields:
+- duration
+- published_date
+verification_notes: 'Topic metadata (dates, budget, status, description, conditions) retrieved 2026-10-22
+  from the official EU Funding & Tenders Portal search API (api.tech.ec.europa.eu/search-api, the data
+  source of the portal topic page). Scope quote: ''Contribution, where possible, to solving global sustainable
+  development challenges, especially climate and agriculture, biodiversity, health and humanitarian needs,
+  education.'''
+last_verified: '2026-10-22'
+verification_source: import:europe_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:01
+  event: added
+  detail: import:europe_staff_2026-10-22.json
+- date: 2026-10-22 11:02
+  event: reverified
+  detail: no material change

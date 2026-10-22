@@ -1,0 +1,87 @@
+id: gates-foundation-and-google-org-gates-foundation-google-org-usd-100m-f
+title: Gates Foundation + Google.org USD 100M for scaling AI-powered climate and crop insights to smallholders
+funder: Gates Foundation and Google.org
+funder_type: foundation
+program: AI for smallholder farmers (Sub-Saharan Africa and South Asia)
+opportunity_type: grant
+themes:
+- digital_agriculture
+- ai_ml
+- climate_adaptation
+- smallholders
+- food_security
+url: https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/
+source_urls:
+- https://www.gatesfoundation.org/about/how-we-work/what-we-do-not-fund
+status: monitoring
+status_basis: official
+published_date: '2026-09-22'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: Not specified - no application route published.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: '''direct $100 million to organizations that scale AI-powered climate and crop insights
+  to 200 million smallholder farmers across Sub-Saharan Africa and South Asia'' plus technical support
+  from Google researchers.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Not specified (appears directed to organizations already scaling such tools)
+eligible_countries: Sub-Saharan Africa and South Asia (implementation focus)
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Gates' funding is mostly proactive ('majority of our funding is proactive ...
+  independently identified by our staff'); CGIAR centers are frequent Gates grantees, so engagement would
+  be via Gates program officers / CGIAR digital initiatives, not an open call. LAC is outside the stated
+  geography.
+lead_applicant_requirements: Not specified
+geographic_restrictions: Sub-Saharan Africa and South Asia
+consortium_required: Not specified
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Scaling real-time climate, agricultural and language AI tools/advisories for smallholders.
+required_documents: Not specified
+application_procedure: Not specified - no open call.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: Digital advisory, AI climate and crop insights, yield forecasting are
+  core interests.
+strategic_relevance: 4
+strategic_relevance_rationale: Very large; aligns with CGIAR digital/advisory agenda in Africa; excludes
+  LAC.
+technical_feasibility: 4
+technical_feasibility_rationale: Crop modelling/EO advisory capability exists; Africa delivery would need
+  Alliance Africa teams.
+recommendation: Not an open call; route interest through Alliance/CGIAR Gates relationship managers and
+  Africa digital-ag teams.
+potential_partners: Alliance Africa digital ag teams, IFPRI, Digital Green, Google Research (AgriML/weather)
+next_action: Ask Alliance partnerships office whether Gates/Google plan an RFP or direct solicitations
+  under this commitment.
+evidence:
+  deadline_quote: Not specified
+  eligibility_quote: 'Gates: ''The majority of our funding is proactive and made to U.S. tax-exempt organizations
+    that are independently identified by our staff.'''
+  status_quote: Google blog (2026-09-22) gives no open call, application link, deadline or eligibility.
+unverified_fields:
+- eligible_applicants
+- application_procedure
+- deadline
+verification_notes: 'Loaded official Google blog post on 2026-10-14. Gates press release itself not loaded.
+  Gates ''what we do not fund'' quote via search snippet of official page. | 2026-10-22 staff-cost/duration
+  check: https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/
+  (Announcement only; no cost rules or duration.)'
+last_verified: '2026-10-14'
+verification_source: import:foundations.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:foundations.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

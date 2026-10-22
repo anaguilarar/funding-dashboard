@@ -1,0 +1,104 @@
+id: minciencias-colombia-sistema-general-de-regalias-sgr-convocatoria-53-f
+title: Convocatoria 53 - Fortalecimiento de capacidades de CTeI en el departamento de Córdoba (Plan bienal
+  2025-2026, corte 2)
+funder: MinCiencias, Colombia - Sistema General de Regalías (SGR)
+funder_type: national_agency
+program: Plan de convocatorias ASCTeI SGR 2025-2026
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_smart_ag
+- food_security
+- biodiversity
+- smallholders
+- multifunctional_landscapes
+url: https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-para-el-fortalecimiento-capacidades-0
+source_urls:
+- https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria_53_del_sgr_0.pdf
+status: open
+status_basis: official
+published_date: '2026-09-25'
+deadline: 2026-10-23T16:00
+deadline_timezone: COT (UTC-5)
+deadline_text: 'Cierre: viernes 23 de octubre de 2026, 4:00 p.m.'
+funding_amount_min: null
+funding_amount_max: null
+currency: COP
+funding_text: 'Recursos disponibles: COP $28.094.792.444,00 (total). Per-project cap not verified.'
+duration: Not specified
+duration_months_max: 24
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: 'Proponente: IES, entidad del sector productivo u organización de sociedad civil
+  domiciliada en Córdoba, con al menos dos proyectos CTeI ejecutados en los últimos 5 años.'
+eligible_countries: Colombia (Departamento de Córdoba).
+international_orgs_eligible: 'yes'
+cgiar_eligible: unclear
+cgiar_eligibility_notes: International entities can participate with a 'Carta entidad internacional' (no
+  NIT, no carta aval Anexo 1), registered in SIGP/Anexo 2, not part of governance. CIAT cannot be proponent
+  (must be domiciled in Córdoba).
+lead_applicant_requirements: Domiciled in Córdoba; adequate DNP performance if measured in last 2 years;
+  >=2 CTeI projects executed in last 5 years.
+geographic_restrictions: Department of Córdoba.
+consortium_required: 'yes'
+consortium_details: 'Alliance: >=1 IES headquartered in Córdoba; 2 territorial entities in Córdoba (one
+  must be the Departamento); 1 productive-sector actor; 1 civil-society organization in Córdoba; at least
+  one member with research group A1/A/B.'
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Agricultural, social and environmental reactivation; Reto 2 food sovereignty; Line
+  4 CTeI solutions for socioeconomic reactivation and mitigating extreme climate conditions; projects
+  must address >=2 thematic lines.
+required_documents: Per TdR; Carta entidad internacional for international partners; Anexo 2 alliance
+  registration; Anexo 4 territorial demands.
+application_procedure: Online via SIGP (MinCiencias).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Climate extremes and food sovereignty in Córdoba fit climate-smart ag;
+  RS/AI methods supportive rather than core.
+strategic_relevance: 3
+strategic_relevance_rationale: Colombian public funding, but CIAT is a non-governing ally; Córdoba is
+  outside core HQ region.
+technical_feasibility: 2
+technical_feasibility_rationale: 9 days to deadline and complex 5-member local alliance must already be
+  formed.
+recommendation: Only pursue if an existing Córdoba consortium (e.g., Universidad de Córdoba, AGROSAVIA
+  Turipaná) invites CIAT as international ally; otherwise skip.
+potential_partners: Universidad de Córdoba, AGROSAVIA C.I. Turipaná, Gobernación de Córdoba, CVS, local
+  producer associations.
+next_action: Ask Universidad de Córdoba / AGROSAVIA contacts by 2026-10-16 whether a proposal needs an
+  international EO/crop-modelling ally.
+evidence:
+  deadline_quote: 'Cierre: viernes 23 de octubre de 2026 4:00 p.m.'
+  eligibility_quote: International entities submit a 'Carta entidad internacional'; do not need NIT or
+    carta aval (Anexo 1); not part of governance model.
+  status_quote: Page showed call open with 9 days remaining at capture.
+  staff_costs_quote: • Vinculación de talento humano. • Vinculación de jóvenes investigadores máximo por
+    12 meses. ... • Vinculación de talento humano con título de doctorado para estancias posdoctorales
+unverified_fields:
+- funding per project
+- duration
+- cofunding
+verification_notes: 'Loaded official call page 2026-10-14. TdR PDF not parsed. An OCAD act (Apr 2026)
+  mentioned reformulation of conv. 53, superseded by Sept 2026 opening. | Review 2026-10-14: downgraded
+  to potentially_eligible — the terms of reference allow international organisations only as "aliados"
+  contributing in-kind/cash; whether an international ally can receive project funds, and whether CIAT
+  holds MinCiencias SNCTI recognition (needed to lead), are not verified. | 2026-10-22 staff-cost/duration
+  check: https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria_53_del_sgr_0.pdf
+  (''13.1 Plazo de ejecución: El término de la ejecución de los proyectos será de hasta veinticuatro (24)
+  meses.'')'
+last_verified: '2026-10-14'
+verification_source: import:national_agencies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:national_agencies.json
+- date: 2026-10-14 11:50
+  event: review
+  detail: 'eligibility downgraded: ally role, funding flow to international allies unverified'
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

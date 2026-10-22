@@ -1,0 +1,79 @@
+id: google-google-earth-noncommercial-credit-program-credits-for-google-ea
+title: Google Earth Noncommercial Credit Program (credits for Google Earth Professional / Professional
+  Advanced plans)
+funder: Google
+funder_type: tech_company
+program: Google Earth Public Programs - Noncommercial credits
+opportunity_type: cloud_credits
+themes:
+- remote_sensing
+- climate_adaptation
+- climate_mitigation
+- multifunctional_landscapes
+url: https://developers.google.com/maps/documentation/earth/noncommercial-credits-apply
+source_urls:
+- https://developers.google.com/maps/documentation/earth/noncommercial-credits-terms
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline stated.
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: Credits to cover monthly subscription costs of Google Earth Professional and Professional
+  Advanced plans (amount not stated).
+duration: Not specified
+eligible_applicants: '''Only nonprofits, crisis response organizations, news media organizations'' and
+  faculty at educational organizations.'
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: CIAT would apply as a nonprofit organization; detailed criteria are on the Public
+  Programs page (not loaded).
+lead_applicant_requirements: Nonprofit status; Cloud billing account linked to Google Earth.
+geographic_restrictions: Not specified
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: 'no'
+cofunding_details: Free trial requires a payment method, then upgrade to paid billing account before credits
+  apply.
+eligible_activities: Projects on climate change mitigation, adaptation, protection or public health with
+  'clear evidence of high-impact sustainability or public health work.'
+required_documents: Public Programs form + reply to support ticket explaining which features/data layers/scale
+  need a Professional plan.
+application_procedure: Start Professional trial -> upgrade billing -> Public Programs page -> select org
+  type -> form -> support ticket follow-up.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Google Earth Professional (incl. Gemini/AI features) useful for landscape
+  stakeholder work; less central than Earth Engine.
+strategic_relevance: 2
+strategic_relevance_rationale: Tool subscription only.
+technical_feasibility: 5
+technical_feasibility_rationale: Administrative application.
+recommendation: Optional; pursue only if the team needs Google Earth Professional features for landscape
+  engagement.
+potential_partners: None
+next_action: Review Public Programs eligibility page; decide need.
+evidence:
+  deadline_quote: Not specified
+  eligibility_quote: Only nonprofits, crisis response organizations, news media organizations ... clear
+    evidence of high-impact sustainability or public health work
+  status_quote: Application steps published on official page
+unverified_fields:
+- credit amount
+- country restrictions
+- Public Programs page criteria
+verification_notes: Loaded developers.google.com/maps/documentation/earth/noncommercial-credits-apply
+  on 2026-10-14.
+last_verified: '2026-10-14'
+verification_source: import:tech_companies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:tech_companies.json
+flags:
+- call_page_changed

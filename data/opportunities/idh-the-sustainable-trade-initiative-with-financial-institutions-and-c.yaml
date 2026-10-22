@@ -1,0 +1,87 @@
+id: idh-the-sustainable-trade-initiative-with-financial-institutions-and-c
+title: IDH LATTE - Latin America Climate Resilient Coffee Facility (Colombia pilot; partnership opportunity,
+  no open call)
+funder: IDH - The Sustainable Trade Initiative (with financial institutions and coffee buyers; incubated
+  by the Global Innovation Lab for Climate Finance)
+funder_type: research_partnership
+program: LATTE blended-finance facility for climate-resilient coffee (corporate value-chain finance)
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_smart_ag
+- smallholders
+- multifunctional_landscapes
+- food_security
+url: https://idh.org/news/latte-enters-climate-finance-lab-to-mobilise-capital-for-coffee-resilience
+source_urls:
+- https://idh.org/
+- https://idh.org/contact
+status: monitoring
+status_basis: official
+published_date: '2026-03-19'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No call; "Over the coming months, the LATTE concept will be refined through the Lab's incubation
+  process."
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: '"LATTE is designed to unlock fit-for-purpose financing for climate-resilient coffee production",
+  combining value chain finance, climate-smart lending, technical assistance and payments for ecosystem
+  services. No amounts stated.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: core_or_program_funding
+eligible_applicants: Not applicable - IDH-designed facility.
+eligible_countries: Colombia (initial pilot); Latin America implied by name.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Possible role as technical-assistance / climate-risk and MRV data partner (landscape
+  climate risk, EO-based monitoring of resilient practices) via contract with IDH; not an application.
+lead_applicant_requirements: Not applicable
+geographic_restrictions: Colombia pilot
+consortium_required: 'yes'
+consortium_details: IDH with financial institutions and global coffee buyers.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Value-chain finance, climate-smart lending, technical assistance, payments for ecosystem
+  services in coffee landscapes.
+required_documents: Not specified
+application_procedure: No public procedure; contact IDH via its contact form.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Climate-risk analytics, EO monitoring/MRV for landscapes and coffee suitability
+  modelling are relevant, but the facility is primarily finance.
+strategic_relevance: 4
+strategic_relevance_rationale: Colombia coffee landscapes, climate resilience, private-capital mobilization;
+  complements Alliance coffee/climate work.
+technical_feasibility: 4
+technical_feasibility_rationale: Alliance has coffee climate-suitability models and EO capacity for landscape
+  monitoring.
+recommendation: Industry-backed platform (IDH convenes corporate buyers). Monitor and approach IDH Colombia
+  to position the Alliance as climate-risk/EO-MRV technical partner while LATTE is still being designed.
+potential_partners: IDH Colombia, FNC/Cenicafe, coffee buyers (e.g., Nestle/Nespresso, JDE Peet's, Starbucks),
+  Colombian banks
+next_action: Contact the IDH coffee/Colombia team (idh.org/contact) offering climate-risk and EO monitoring
+  support for LATTE design; follow Climate Finance Lab 2026 cohort outputs.
+evidence:
+  deadline_quote: '"Over the coming months, the LATTE concept will be refined through the Lab''s incubation
+    process." (19 March 2026)'
+  eligibility_quote: No eligibility/call information on the page.
+  status_quote: '"LATTE is designed to unlock fit-for-purpose financing for climate-resilient coffee production"'
+  staff_costs_quote: Not specified
+unverified_fields:
+- funding_amount
+- partners
+- duration
+- any procurement for technical assistance
+verification_notes: Loaded the idh.org news item (19 Mar 2026) and idh.org home on 2026-10-22; no IDH
+  calls for proposals listed on the home page.
+last_verified: '2026-10-22'
+verification_source: import:corporate_agrifood_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:56
+  event: added
+  detail: import:corporate_agrifood_2026-10-22.json

@@ -1,0 +1,668 @@
+{
+  "group": "national_agencies",
+  "searched_on": "2026-10-14",
+  "opportunities": [
+    {
+      "title": "Convocatoria 56 - Convocatoria de emergencia para la recuperación y generación de capacidades transformadoras (Decreto 1414 de 2026)",
+      "funder": "Ministerio de Ciencia, Tecnología e Innovación (MinCiencias), Colombia - Sistema General de Regalías (SGR) Asignación CTeI",
+      "funder_type": "national_agency",
+      "program": "Plan de convocatorias ASCTeI SGR 2025-2026",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "digital_agriculture",
+        "remote_sensing",
+        "ai_ml",
+        "food_security",
+        "smallholders",
+        "multifunctional_landscapes"
+      ],
+      "url": "https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras",
+      "source_urls": [
+        "https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_conv_56_v_1.6docx.pdf",
+        "https://www.minciencias.gov.co/convocatorias/todas"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-10-08",
+      "deadline": "2026-11-03T16:00",
+      "deadline_timezone": "COT (UTC-5)",
+      "deadline_text": "Cierre: martes 3 de noviembre de 2026, 4:00 pm (cronograma oficial). Resultados preliminares 1 dic 2026; definitivos 7 dic 2026.",
+      "funding_amount_min": null,
+      "funding_amount_max": 14000000000,
+      "currency": "COP",
+      "funding_text": "'se asigna un monto de $700.000.000.000 provenientes de los recursos del Sistema General de Regalías' ... 'Cada proyecto podrá solicitar hasta $14.000.000.000.' Se espera financiar 10 proyectos por línea temática.",
+      "duration": "Hasta 24 meses ('El término de la ejecución de los proyectos será de hasta veinticuatro (24) meses').",
+      "eligible_applicants": "Entidad proponente/ejecutora: IES, actores del SNCTI (con reconocimiento vigente), entidades territoriales o actores del sector productivo. Alianza mínima: al menos una IES + al menos una entidad territorial de un departamento afectado + al menos uno de: actor SNCTI reconocido, actor del sector productivo o organización de sociedad civil domiciliada en departamento afectado. Entidades internacionales pueden ser aliados.",
+      "eligible_countries": "Colombia (ejecución en 16 departamentos afectados: Antioquia, Bolívar, Caldas, Caquetá, Cauca, Chocó, Cundinamarca, Huila, Nariño, Norte de Santander, Quindío, Risaralda, Santander, Sucre, Tolima y Valle del Cauca).",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "CIAT/Alliance can join as an international ally ('entidades u organizaciones de carácter internacional, en calidad de aliados') with a 'Carta entidad internacional' specifying its in-kind/cash contribution in COP; international allies are not part of the governance model. CIAT could only be proponent/ejecutora if it holds valid MinCiencias recognition as an SNCTI actor (not verified). Most realistic: a Valle del Cauca/Cauca IES (e.g., Univalle, Univ. del Cauca, UNAL Palmira) leads; CIAT contributes EO/AI/crop-modelling and risk analytics.",
+      "lead_applicant_requirements": "Proponente/ejecutora must be an IES, recognized SNCTI actor, territorial entity, or productive-sector actor; must demonstrate direct link between emergency impacts and the CTeI gap.",
+      "geographic_restrictions": "Execution only in the 16 departments covered by Decreto 1261/2026 (mod. 1348/2026); must show direct link to the emergency.",
+      "consortium_required": "yes",
+      "consortium_details": "Alianza estratégica mínima: IES + entidad territorial afectada + (actor SNCTI reconocido | sector productivo | sociedad civil domiciliada en departamento afectado). International entities may be added as allies.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "International ally letter must state contribution 'ya sea en especie o en efectivo expresado en pesos colombianos'. General counterpart rules in TdR not fully reviewed.",
+      "eligible_activities": "Adapt, validate, transfer, appropriate or scale technologies/innovations for recovery. Lines: 5.1 risk management and regional security (early warning, monitoring, digital twins, predictive analytics, damage assessment); 5.2 sustainable reconstruction incl. environmental and agro-productive recovery; 5.3 social recovery incl. rural productive recovery and food security; 5.4 science-based companies; 5.5 knowledge ecosystems.",
+      "required_documents": "Per TdR (36 pp): project in SIGP, alliance letters, Carta entidad internacional (si aplica, in Spanish or English, signed by director of institute/centre/group), Anexo 12 talent hiring guidelines, among others.",
+      "application_procedure": "Online submission via SIGP (MinCiencias) per the TdR; projects become a bank of eligible projects for SGR CTeI financing.",
+      "eligibility_assessment": "confirmed_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Early warning, monitoring, digital twins, predictive analytics, damage assessment and agro-productive recovery map directly to EO/AI/crop-modelling capacities.",
+      "strategic_relevance": 5,
+      "strategic_relevance_rationale": "Large Colombian public funding (COP 14 bn/project) in Valle del Cauca and Cauca, CIAT's home region; strengthens national partnerships.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Science fits well, but only ~3 weeks to deadline and requires a national IES lead plus territorial entity buy-in; CIAT only as ally.",
+      "recommendation": "Pursue immediately as international ally to a Valle del Cauca/Cauca university consortium on EO-based damage assessment, early warning and agro-productive recovery. Verify if CIAT has SNCTI recognition that would allow a stronger role.",
+      "potential_partners": "Universidad del Valle, Universidad del Cauca, Universidad Nacional (Palmira), AGROSAVIA, Gobernación del Valle del Cauca / municipal governments, CVC, gremios (e.g., Asocaña, Fedearroz).",
+      "next_action": "Contact Valle/Cauca IES research offices this week; prepare Carta entidad internacional with in-kind contribution in COP; confirm CIAT SNCTI recognition status with MinCiencias.",
+      "evidence": {
+        "deadline_quote": "Cierre: martes 3 noviembre 2026 4:00 pm (cronograma, página oficial)",
+        "eligibility_quote": "Las alianzas podrán adicionalmente incluir dentro de su conformación entidades u organizaciones de carácter internacional, en calidad de aliados.",
+        "status_quote": "Page showed '20 día(s)' remaining (open) as of 2026-10-13 update."
+      },
+      "unverified_fields": [
+        "CIAT SNCTI recognition status",
+        "cofunding/contrapartida requirements"
+      ],
+      "verification_notes": "Loaded official call page and TdR PDF v1.6 on 2026-10-14 (text extracted locally). Title cites Decreto 1414 while scope cites Decreto 1261/1348 - both appear in TdR."
+    },
+    {
+      "title": "Convocatoria 53 - Fortalecimiento de capacidades de CTeI en el departamento de Córdoba (Plan bienal 2025-2026, corte 2)",
+      "funder": "MinCiencias, Colombia - Sistema General de Regalías (SGR)",
+      "funder_type": "national_agency",
+      "program": "Plan de convocatorias ASCTeI SGR 2025-2026",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "food_security",
+        "biodiversity",
+        "smallholders",
+        "multifunctional_landscapes"
+      ],
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-para-el-fortalecimiento-capacidades-0",
+      "source_urls": [
+        "https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria_53_del_sgr_0.pdf"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-09-25",
+      "deadline": "2026-10-23T16:00",
+      "deadline_timezone": "COT (UTC-5)",
+      "deadline_text": "Cierre: viernes 23 de octubre de 2026, 4:00 p.m.",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "COP",
+      "funding_text": "Recursos disponibles: COP $28.094.792.444,00 (total). Per-project cap not verified.",
+      "duration": "Not specified",
+      "eligible_applicants": "Proponente: IES, entidad del sector productivo u organización de sociedad civil domiciliada en Córdoba, con al menos dos proyectos CTeI ejecutados en los últimos 5 años.",
+      "eligible_countries": "Colombia (Departamento de Córdoba).",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "International entities can participate with a 'Carta entidad internacional' (no NIT, no carta aval Anexo 1), registered in SIGP/Anexo 2, not part of governance. CIAT cannot be proponent (must be domiciled in Córdoba).",
+      "lead_applicant_requirements": "Domiciled in Córdoba; adequate DNP performance if measured in last 2 years; >=2 CTeI projects executed in last 5 years.",
+      "geographic_restrictions": "Department of Córdoba.",
+      "consortium_required": "yes",
+      "consortium_details": "Alliance: >=1 IES headquartered in Córdoba; 2 territorial entities in Córdoba (one must be the Departamento); 1 productive-sector actor; 1 civil-society organization in Córdoba; at least one member with research group A1/A/B.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Agricultural, social and environmental reactivation; Reto 2 food sovereignty; Line 4 CTeI solutions for socioeconomic reactivation and mitigating extreme climate conditions; projects must address >=2 thematic lines.",
+      "required_documents": "Per TdR; Carta entidad internacional for international partners; Anexo 2 alliance registration; Anexo 4 territorial demands.",
+      "application_procedure": "Online via SIGP (MinCiencias).",
+      "eligibility_assessment": "confirmed_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Climate extremes and food sovereignty in Córdoba fit climate-smart ag; RS/AI methods supportive rather than core.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Colombian public funding, but CIAT is a non-governing ally; Córdoba is outside core HQ region.",
+      "technical_feasibility": 2,
+      "technical_feasibility_rationale": "9 days to deadline and complex 5-member local alliance must already be formed.",
+      "recommendation": "Only pursue if an existing Córdoba consortium (e.g., Universidad de Córdoba, AGROSAVIA Turipaná) invites CIAT as international ally; otherwise skip.",
+      "potential_partners": "Universidad de Córdoba, AGROSAVIA C.I. Turipaná, Gobernación de Córdoba, CVS, local producer associations.",
+      "next_action": "Ask Universidad de Córdoba / AGROSAVIA contacts by 2026-10-16 whether a proposal needs an international EO/crop-modelling ally.",
+      "evidence": {
+        "deadline_quote": "Cierre: viernes 23 de octubre de 2026 4:00 p.m.",
+        "eligibility_quote": "International entities submit a 'Carta entidad internacional'; do not need NIT or carta aval (Anexo 1); not part of governance model.",
+        "status_quote": "Page showed call open with 9 days remaining at capture."
+      },
+      "unverified_fields": [
+        "funding per project",
+        "duration",
+        "cofunding"
+      ],
+      "verification_notes": "Loaded official call page 2026-10-14. TdR PDF not parsed. An OCAD act (Apr 2026) mentioned reformulation of conv. 53, superseded by Sept 2026 opening."
+    },
+    {
+      "title": "SATREPS FY2027 (令和9年度) - Science and Technology Research Partnership for Sustainable Development",
+      "funder": "Japan Science and Technology Agency (JST) with JICA",
+      "funder_type": "national_agency",
+      "program": "SATREPS (Environment & Energy; Bioresources; Disaster Prevention). FY2027 includes 'Priority SATREPS' (重点推進型) for Africa, Latin America and Pacific Islands.",
+      "opportunity_type": "research_partnership",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "remote_sensing",
+        "ai_ml",
+        "crop_modeling",
+        "food_security",
+        "biodiversity",
+        "capacity_building"
+      ],
+      "url": "https://www.jst.go.jp/global/english/koubo/index.html",
+      "source_urls": [
+        "https://www.jst.go.jp/global/koubo/index.html",
+        "https://www.jst.go.jp/global/pdf/koubo2027.pdf",
+        "https://www.jst.go.jp/global/english/"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-08-18",
+      "deadline": "2026-10-19T12:00",
+      "deadline_timezone": "JST",
+      "deadline_text": "Application Period: Aug. 18, 2026 - Oct. 19, 2026 at 12:00 noon (Japan Time). ODA request from partner government to Japan MOFA: 令和8年10月13日（火）中【厳守】.",
+      "funding_amount_min": null,
+      "funding_amount_max": 175000000,
+      "currency": "JPY",
+      "funding_text": "About ¥100 million per project per year total; JST ~¥35 million/yr (incl. indirect), max ¥175 million over 5 years; JICA ODA technical cooperation up to ¥300 million over 5 years.",
+      "duration": "3-5 years after provisional period.",
+      "eligible_applicants": "Japanese PI at a research institution in Japan (国内の研究機関) submits via e-Rad; partner-country institution must have its government submit an ODA request via the Japanese embassy.",
+      "eligible_countries": "ODA-eligible countries listed in 別添1; Colombia (コロンビア共和国) is listed. Max 12 requests per country this year.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "Q&A: regional international organizations in a developing country are not excluded, but the partner government must approve their ODA implementation, submit the ODA request, a government-to-government international agreement is required, and the organization must secure its own personnel and costs. Realistic route: Japanese PI (e.g., Univ. of Tokyo contacts) + Colombian national counterpart (AGROSAVIA/university) with CIAT as participating institution.",
+      "lead_applicant_requirements": "Japanese PI at a Japanese institution; partner-country counterpart PI capable of leading the partner implementation structure.",
+      "geographic_restrictions": "Partner countries per Annex 1 (Colombia included); priority regions Africa, Latin America, Pacific Islands.",
+      "consortium_required": "yes",
+      "consortium_details": "Japan-partner country joint research under JICA technical cooperation project; multi-country proposals possible only if all governments submit ODA requests by deadline.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Joint research addressing global issues with ODA impact; capacity building; equipment; researcher exchange (JICA experts/trainees).",
+      "required_documents": "Forms 1-9 (yoshiki2027.docx), outcome target sheet (PPTX), e-Rad submission; partner-country ODA request.",
+      "application_procedure": "Japanese PI submits via e-Rad by Oct 19, 2026 noon JST; partner country submits ODA request through MOFA/embassy by Oct 13, 2026.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 5,
+      "scientific_alignment_rationale": "Bioresources / environment fields fit plant phenotyping, RS, crop modelling and climate adaptation; researcher has Univ. of Tokyo PhD ties.",
+      "strategic_relevance": 5,
+      "strategic_relevance_rationale": "Latin America is a FY2027 priority region; large 5-year budget; strong Japan-Colombia partnership potential.",
+      "technical_feasibility": 1,
+      "technical_feasibility_rationale": "ODA request deadline (Oct 13) already passed; unless a Japanese PI already filed with a Colombian ODA request, FY2027 is not achievable. Feasible for FY2028 with ~12 months preparation.",
+      "recommendation": "For FY2027: only check whether any Japanese team already filed a Colombia ODA request that could include CIAT. Main value: start FY2028 preparation now (Japanese PI, Colombian counterpart, APC Colombia ODA request).",
+      "potential_partners": "University of Tokyo (former lab), JIRCAS, AGROSAVIA, Universidad Nacional de Colombia, APC-Colombia (ODA focal point), JICA Colombia office.",
+      "next_action": "Email Univ. of Tokyo contacts about a FY2028 SATREPS concept; contact APC-Colombia on the ODA request timeline (FY2027 request was due 2026-10-13).",
+      "evidence": {
+        "deadline_quote": "Application Period: Aug. 18 ,2026 - Oct. 19 ,2026 at 12:00 noon (Japan Time)",
+        "eligibility_quote": "開発途上国にある地域国際機関や私立大学であれば、参画を排除はしませんが、相手国政府が当該国際機関もしくは私立大学による ODA 事業の実施を認め…",
+        "status_quote": "JST English news, 2026-08-18: Open call for FY2027 proposals announced."
+      },
+      "unverified_fields": [
+        "FY2028 call timing (not officially announced)"
+      ],
+      "verification_notes": "Loaded JST SATREPS English home, Japanese koubo page and downloaded koubo2027.pdf (Japanese guidelines; English version 'in preparation') on 2026-10-14."
+    },
+    {
+      "title": "JSPS Invitational Fellowships for Research in Japan FY2027 - Short-term, 2nd recruitment",
+      "funder": "Japan Society for the Promotion of Science (JSPS)",
+      "funder_type": "national_agency",
+      "program": "Invitational Fellowships for Research in Japan",
+      "opportunity_type": "fellowship",
+      "themes": [
+        "remote_sensing",
+        "ai_ml",
+        "crop_modeling",
+        "capacity_building"
+      ],
+      "url": "https://www.jsps.go.jp/english/e-inv/application/index.html",
+      "source_urls": [
+        "https://www.jsps.go.jp/english/e-inv/how.html",
+        "https://www.jsps.go.jp/english/e-inv/application/guideline.html"
+      ],
+      "status": "upcoming",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": "2027-04-23T17:00",
+      "deadline_timezone": "JST",
+      "deadline_text": "2nd recruitment (Short-term only): application deadline (host institution to JSPS) April 23, 2027, 5 p.m. JST; arrival Oct 1, 2027 - Mar 31, 2028. (1st recruitment closed Aug 28, 2026.)",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "JPY",
+      "funding_text": "Round-trip economy airfare; maintenance allowance JPY18,000/day (short-term); overseas travel insurance; research support up to JPY150,000 via host.",
+      "duration": "Short-term: 14 to 60 days.",
+      "eligible_applicants": "Host researcher in Japan applies via the head of their institution; fellow is a full-time researcher at a foreign university or research institution.",
+      "eligible_countries": "Citizens/permanent residents of countries with which Japan has diplomatic relations.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "The CIAT researcher would be the invited fellow (candidate), hosted by e.g. a Univ. of Tokyo professor. Status requirement: equivalent to professor/associate/assistant professor, or >=6 years post-PhD with continuous research abroad - host must judge equivalence of 'Research Specialist' at an international research centre.",
+      "lead_applicant_requirements": "Host researcher at Japanese institution submits; institutional internal deadlines are often 1+ month earlier.",
+      "geographic_restrictions": "Research stay in Japan.",
+      "consortium_required": "no",
+      "consortium_details": "Not specified",
+      "cofunding_required": "no",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Joint research, discussions, lectures in Japan.",
+      "required_documents": "Host application forms; Fellow's Curriculum Vitae.",
+      "application_procedure": "Host submits via JSPS Electronic Application System (opens ~2 months before deadline) through their institution.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Enables phenotyping/RS/AI collaboration with former Japanese lab.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Small mobility award, but seeds a SATREPS FY2028 partnership.",
+      "technical_feasibility": 5,
+      "technical_feasibility_rationale": "Low effort; depends on host.",
+      "recommendation": "Use as a low-cost vehicle to co-design a SATREPS FY2028 proposal with Univ. of Tokyo hosts.",
+      "potential_partners": "University of Tokyo (Graduate School of Agricultural and Life Sciences), JIRCAS.",
+      "next_action": "Ask Univ. of Tokyo host to confirm internal deadline (likely ~March 2027) and eligibility of CIAT Research Specialist position.",
+      "evidence": {
+        "deadline_quote": "2nd: Short-term, April 23, 2027, 5 p.m. JST",
+        "eligibility_quote": "Candidates must be ... full-time researcher ... at a foreign university or research institution (equivalent to professor/associate/assistant professor), or 6+ years since doctorate.",
+        "status_quote": "Electronic Application System will be available approximately two months before the application deadlines."
+      },
+      "unverified_fields": [
+        "whether CIAT Research Specialist is accepted as equivalent position"
+      ],
+      "verification_notes": "Loaded JSPS application schedule and program pages 2026-10-14."
+    },
+    {
+      "title": "FAPESP SPRINT 2026 - São Paulo Researchers in International Collaboration",
+      "funder": "São Paulo Research Foundation (FAPESP), Brazil",
+      "funder_type": "national_agency",
+      "program": "SPRINT (Call 48/2026)",
+      "opportunity_type": "research_partnership",
+      "themes": [
+        "food_security",
+        "ai_ml",
+        "biodiversity",
+        "climate_smart_ag",
+        "remote_sensing"
+      ],
+      "url": "https://fapesp.br/sprint/chamada2026",
+      "source_urls": [
+        "https://fapesp.br/en/17334/call-for-proposals-2026"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": "2026-10-26",
+      "deadline_timezone": "Not specified",
+      "deadline_text": "Edition 1: 26 October 2026; Edition 2: 22 February 2027.",
+      "funding_amount_min": null,
+      "funding_amount_max": 12500,
+      "currency": "USD",
+      "funding_text": "Phase 1: up to US$12,500 for one year per researcher/mission costs; Phase 2 up to additional US$12,500; Phase 3 up to US$25,000 (requires partner co-financing). Up to 30 proposals per edition.",
+      "duration": "12 months, extendable up to 24 more months.",
+      "eligible_applicants": "São Paulo researcher with active FAPESP grant (Regular, Jovem Pesquisador, Temático, PITE, etc.) leads; one foreign partner institution.",
+      "eligible_countries": "Lead in São Paulo state; partner from any foreign institution.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "Call allows partners from 'qualquer instituição estrangeira' without a FAPESP agreement; international organizations not explicitly mentioned. CIAT would be the foreign partner and must document funding for its own missions (FAPESP funds the SP side).",
+      "lead_applicant_requirements": "SP researcher with active FAPESP Auxílio.",
+      "geographic_restrictions": "Not specified",
+      "consortium_required": "yes",
+      "consortium_details": "SP researcher + exactly one foreign partner institution.",
+      "cofunding_required": "yes",
+      "cofunding_details": "Partner side covers its own mission costs; Phase 3 requires partner co-financing.",
+      "eligible_activities": "Mobility missions (airfare, insurance, per diems); strategic axes incl. 'biodiversidade, produção sustentável de alimentos e segurança alimentar' and 'transição digital e inteligência artificial'.",
+      "required_documents": "Not specified",
+      "application_procedure": "SP researcher submits via FAPESP SAGe.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Food security and AI axes match; small mobility grant.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Builds Brazil (ESALQ/USP, Unicamp, INPE) links on EO/AI for agriculture.",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Low effort if an SP partner with active grant exists; Edition 2 (Feb 2027) more realistic.",
+      "recommendation": "Target Edition 2 (22 Feb 2027) with an SP partner working on EO/crop modelling.",
+      "potential_partners": "ESALQ/USP, Unicamp (CEPAGRI), INPE is federal (check FAPESP grant), Embrapa units in SP with FAPESP grants.",
+      "next_action": "Identify SP collaborator with active FAPESP grant; confirm CIAT can sign partner letter and fund its missions.",
+      "evidence": {
+        "deadline_quote": "Edição 1: 26 de outubro de 2026; Edição 2: 22 de fevereiro de 2027",
+        "eligibility_quote": "Pesquisadores parceiros de qualquer instituição estrangeira podem comprovar o financiamento das missões",
+        "status_quote": "Listed among open FAPESP 2026 calls (page updated 2026-10-13)."
+      },
+      "unverified_fields": [
+        "explicit acceptance of international organizations as partner institution",
+        "deadline time"
+      ],
+      "verification_notes": "Loaded SPRINT 2026 call and FAPESP 2026 calls list on 2026-10-14."
+    },
+    {
+      "title": "NASA ROSES-2025 A.13 Accelerating Earth Solutions (AES)",
+      "funder": "NASA Science Mission Directorate - Earth Science Division (Earth Action)",
+      "funder_type": "national_agency",
+      "program": "ROSES-2025 (NNH25ZDA001N), Amendment 62",
+      "opportunity_type": "grant",
+      "themes": [
+        "remote_sensing",
+        "ai_ml",
+        "climate_adaptation",
+        "digital_agriculture",
+        "climate_data_infrastructure"
+      ],
+      "url": "https://science.nasa.gov/?p=1257410",
+      "source_urls": [
+        "https://science.nasa.gov/researchers/sara/faqs/",
+        "https://science.nasa.gov/researchers/sara/grant-solicitations/"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": "2026-10-15",
+      "deadline_timezone": "Not specified",
+      "deadline_text": "Proposals due October 15, 2026.",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Not specified",
+      "duration": "Market Discovery: 1 year; Solutions Accelerator: up to 3 years; Force Multiplier: up to 2 years.",
+      "eligible_applicants": "U.S. organizations (per NASA policy, non-U.S. organizations participate on no-exchange-of-funds basis).",
+      "eligible_countries": "USA lead.",
+      "international_orgs_eligible": "no",
+      "cgiar_eligible": "no",
+      "cgiar_eligibility_notes": "CIAT can only be an unfunded collaborator/Co-I on a U.S.-led proposal: 'NASA funding may not support research efforts by non-U.S. organizations, collaborators or subcontracts at any level'.",
+      "lead_applicant_requirements": "U.S. institution PI.",
+      "geographic_restrictions": "Not specified",
+      "consortium_required": "optional",
+      "consortium_details": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Accelerate use of Earth observations in decision-making across agriculture, disasters, water, etc.; priorities include U.S. resilience, AI/ML, NISAR/PACE/SWOT data.",
+      "required_documents": "Not specified",
+      "application_procedure": "Via NSPIRES/Grants.gov by U.S. organization.",
+      "eligibility_assessment": "confirmed_ineligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "EO-to-decision and AI themes match; but U.S.-priority framing.",
+      "strategic_relevance": 1,
+      "strategic_relevance_rationale": "No funds to CIAT; U.S. focus.",
+      "technical_feasibility": 1,
+      "technical_feasibility_rationale": "Due tomorrow; only as unfunded collaborator.",
+      "recommendation": "Not worth pursuing now; listed as partner-only reference. Monitor ROSES-2026 (release status unconfirmed) for SERVIR/food-security elements where CIAT could be an unfunded collaborator.",
+      "potential_partners": "U.S. universities with NASA Harvest / Acres ties (UMD, etc.).",
+      "next_action": "None for this cycle; subscribe to NSPIRES ROSES-2026 notices.",
+      "evidence": {
+        "deadline_quote": "Amendment 62: New Opportunity: A.13 Accelerating Earth Solutions ... due October 15, 2026",
+        "eligibility_quote": "NASA's policy welcomes the opportunity to conduct research with non-U.S. organizations on a cooperative, no-exchange-of-funds basis.",
+        "status_quote": "Amendment 62 posted on NASA Science."
+      },
+      "unverified_fields": [
+        "funding amounts",
+        "ROSES-2026 release status"
+      ],
+      "verification_notes": "Loaded NASA Science amendment page and SARA FAQ (citing NASA Grant and Cooperative Agreement Manual) 2026-10-14. NASA SARA page (updated 2026-06-10) anticipated ROSES-26 in July 2026; could not confirm release."
+    },
+    {
+      "title": "NSFC-CGIAR Organization-to-Organization Cooperative Research Projects (annual guide)",
+      "funder": "National Natural Science Foundation of China (NSFC)",
+      "funder_type": "national_agency",
+      "program": "NSFC-CGIAR (国际组织) 组织间合作研究项目",
+      "opportunity_type": "research_partnership",
+      "themes": [
+        "climate_adaptation",
+        "biodiversity",
+        "food_security",
+        "multifunctional_landscapes"
+      ],
+      "url": "https://www.nsfc.gov.cn",
+      "source_urls": [
+        "https://research.ustb.edu.cn/docs/2025-08/8562eb011bdb4daa97713dd9f66aae32.pdf"
+      ],
+      "status": "monitoring",
+      "status_basis": "speculative",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Beijing time",
+      "deadline_text": "2025 cycle: '在线申报接收期为 2025 年 8 月 28 日至 2025 年 9 月 28 日下午 16 时'. 2026 guide not found.",
+      "funding_amount_min": null,
+      "funding_amount_max": 2000000,
+      "currency": "CNY",
+      "funding_text": "2025: Chinese side up to 200万元/project (direct costs); ~12 projects; CGIAR side not funded by NSFC (not stated).",
+      "duration": "5 years (2025 guide: 2026-01-01 to 2030-12-31).",
+      "eligible_applicants": "Chinese PI (senior title, current/past NSFC project >=3 yrs) applies jointly with a researcher of one of 11 CGIAR centres incl. Bioversity and CIAT.",
+      "eligible_countries": "China lead; CGIAR centre partner.",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "CIAT and Bioversity are named partner centres ('国际生物多样性中心（Bioversity）、国际热带农业中心（CIAT）'); CIAT researcher co-writes the English proposal; funding goes to Chinese side.",
+      "lead_applicant_requirements": "Chinese PI with senior title and NSFC grant history.",
+      "geographic_restrictions": "Not specified",
+      "consortium_required": "yes",
+      "consortium_details": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "2025 areas: crop germplasm, water/nutrient efficient cultivation, tropical forage, agro-biodiversity, terrestrial ecosystem biodiversity mitigation/adaptation to climate change, ag policy, etc.",
+      "required_documents": "Not specified",
+      "application_procedure": "Not specified",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Climate/biodiversity areas relevant; RS/AI not explicit; basic research focus.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Dedicated CGIAR channel naming CIAT; Asia partnerships.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Needs a Chinese PI partner (e.g., CAAS, CATAS); no direct funds to CIAT.",
+      "recommendation": "Monitor for the 2026/2027 guide (2025 cycle ran Aug-Sep); line up a Chinese PI (CATAS/CAAS) in advance.",
+      "potential_partners": "Chinese Academy of Tropical Agricultural Sciences (CATAS), CAAS institutes, China Agricultural University.",
+      "next_action": "Ask Alliance Asia office / CAAS contacts whether the 2026 NSFC-CGIAR guide was issued; prepare for 2027.",
+      "evidence": {
+        "deadline_quote": "在线申报接收期为 2025 年 8 月 28 日至 2025 年 9 月 28 日下午 16 时",
+        "eligibility_quote": "中方科研人员应以项目主持人身份与上述 CGIAR 下属 11 个研究中心（研究所）之一的科研人员共同提出项目申请。",
+        "status_quote": "No 2026 edition found."
+      },
+      "unverified_fields": [
+        "2026 edition existence and dates",
+        "official NSFC URL for guide (text read from university repost of NSFC guide)"
+      ],
+      "verification_notes": "2025 guide text read from a Chinese university repost (links to nsfc.gov.cn attachments); NSFC site itself not loaded. Treat as monitoring."
+    },
+    {
+      "title": "ACIAR commissioned research projects (bilateral/multilateral program)",
+      "funder": "Australian Centre for International Agricultural Research (ACIAR)",
+      "funder_type": "bilateral",
+      "program": "ACIAR research program (Annual Operational Plan 2026-27)",
+      "opportunity_type": "research_partnership",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "food_security",
+        "smallholders",
+        "crop_modeling"
+      ],
+      "url": "https://www.aciar.gov.au/aciar-research-projects",
+      "source_urls": [
+        "https://www.aciar.gov.au/AOP_2026-27"
+      ],
+      "status": "monitoring",
+      "status_basis": "speculative",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "No open call identified; projects are developed with Research Program Managers.",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "AUD",
+      "funding_text": "Not specified",
+      "duration": "Not specified",
+      "eligible_applicants": "Not specified",
+      "eligible_countries": "Not specified",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "ACIAR historically funds CGIAR centres in Indo-Pacific, but official eligibility could not be loaded (site returned 403).",
+      "lead_applicant_requirements": "Not specified",
+      "geographic_restrictions": "Not specified",
+      "consortium_required": "optional",
+      "consortium_details": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Not specified",
+      "required_documents": "Not specified",
+      "application_procedure": "Not specified",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Climate-smart ag in Indo-Pacific.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Relevant for Alliance Asia programs; little LAC focus.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Requires RPM engagement.",
+      "recommendation": "Engage via Alliance Asia colleagues with relevant ACIAR Research Program Manager; not a call-based opportunity.",
+      "potential_partners": "Not specified",
+      "next_action": "Ask Alliance Asia office for existing ACIAR RPM contacts and AOP 2026-27 priorities.",
+      "evidence": {
+        "deadline_quote": "",
+        "eligibility_quote": "",
+        "status_quote": ""
+      },
+      "unverified_fields": [
+        "all fields - official site blocked (HTTP 403)"
+      ],
+      "verification_notes": "aciar.gov.au returned 403 to fetch and curl on 2026-10-14; status kept as monitoring."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "IDRC",
+      "name": "IDRC funding calls",
+      "url": "https://idrc-crdi.ca/en/funding",
+      "type": "html",
+      "why": "No open calls as of 2026-10-14; watch for Climate-resilient food systems / AI4D calls."
+    },
+    {
+      "funder": "JST",
+      "name": "SATREPS call announcements",
+      "url": "https://www.jst.go.jp/global/english/",
+      "type": "html",
+      "why": "FY2028 call expected ~mid-2027 (not yet announced); LAC was a FY2027 priority region."
+    },
+    {
+      "funder": "JSPS",
+      "name": "Invitational Fellowships application",
+      "url": "https://www.jsps.go.jp/english/e-inv/application/index.html",
+      "type": "html",
+      "why": "2nd recruitment Apr 23, 2027."
+    },
+    {
+      "funder": "NASA",
+      "name": "ROSES solicitations / SARA",
+      "url": "https://science.nasa.gov/researchers/sara/grant-solicitations/",
+      "type": "html",
+      "why": "ROSES-2026 release status unconfirmed; Earth Action/SERVIR elements (no-exchange-of-funds for CIAT)."
+    },
+    {
+      "funder": "NASA",
+      "name": "NSPIRES",
+      "url": "https://nspires.nasaprs.com/external/",
+      "type": "html",
+      "why": "Official ROSES element due dates."
+    },
+    {
+      "funder": "MinCiencias",
+      "name": "Convocatorias MinCiencias",
+      "url": "https://www.minciencias.gov.co/convocatorias/todas",
+      "type": "html",
+      "why": "SGR and national calls admitting international allies."
+    },
+    {
+      "funder": "MinCiencias",
+      "name": "Plan de convocatorias ACTeI 2025-2026",
+      "url": "https://minciencias.gov.co/plan-convocatorias-actei-2025-2026-0",
+      "type": "html",
+      "why": "Upcoming SGR regional calls (Valle, Cauca, etc.)."
+    },
+    {
+      "funder": "FAPESP",
+      "name": "Calls for proposals 2026",
+      "url": "https://fapesp.br/en/17334/call-for-proposals-2026",
+      "type": "html",
+      "why": "International joint calls (NSFC, NERC, SPRINT)."
+    },
+    {
+      "funder": "Grand Challenges Canada",
+      "name": "Apply for funding",
+      "url": "https://www.grandchallenges.ca/apply-for-funding/",
+      "type": "html",
+      "why": "Nexa Lighthouse (Asia-Pacific climate-health) first call stated to open Oct 2026; climate-health only."
+    },
+    {
+      "funder": "NSFC",
+      "name": "NSFC international cooperation guides",
+      "url": "https://www.nsfc.gov.cn",
+      "type": "html",
+      "why": "NSFC-CGIAR guide (names CIAT and Bioversity)."
+    },
+    {
+      "funder": "USDA FAS",
+      "name": "Borlaug Fellowship Program (Grants.gov)",
+      "url": "https://simpler.grants.gov/opportunity/bd5eb2ec-d0c0-4137-b0f2-185f37785dee",
+      "type": "html",
+      "why": "FY2027 NOFO not yet posted; U.S. institutions apply, CIAT could host/mentor."
+    },
+    {
+      "funder": "ACIAR",
+      "name": "ACIAR research projects",
+      "url": "https://www.aciar.gov.au/aciar-research-projects",
+      "type": "html",
+      "why": "Site blocked automated fetch; check manually."
+    },
+    {
+      "funder": "SECIHTI (Mexico)",
+      "name": "Convocatorias SECIHTI",
+      "url": "https://secihti.mx",
+      "type": "html",
+      "why": "No 2026 international/climate call found."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "NSF AccelNet (NSF 23-619)",
+      "url": "https://www.nsf.gov/funding/opportunities/accelnet-accelerating-research-through-international-network-network/nsf23-619/solicitation",
+      "reason": "Closed: annual deadline third Monday in September (2026-09-21); US-led only."
+    },
+    {
+      "title": "USDA NIFA AFRI Foundational and Applied Science FY2026",
+      "url": "https://simpler.grants.gov/opportunity/10a7404c-3e2f-4355-9044-78c8bafc35cd",
+      "reason": "Ineligible: 'Eligible institutions do not include foreign and international organizations.'"
+    },
+    {
+      "title": "USDA FAS Borlaug Fellowship FY2026",
+      "url": "https://simpler.grants.gov/opportunity/bd5eb2ec-d0c0-4137-b0f2-185f37785dee",
+      "reason": "Closed (Aug 14, 2026 per NOFO); U.S. institutions only; FY2027 not posted."
+    },
+    {
+      "title": "MinCiencias ColombIA Inteligente 2026 (conv. 976)",
+      "url": "https://minciencias.gov.co/convocatorias/convocatoria-colombia-inteligente-2026",
+      "reason": "Closed 2026-04-13; terminated 2026-08-06."
+    },
+    {
+      "title": "IDRC SGCI STISA 2034 multilateral call",
+      "url": "https://idrc-crdi.ca/en/funding",
+      "reason": "Closed 2026-09-25; IDRC lists no open calls."
+    },
+    {
+      "title": "Grand Challenges Canada Nexa (Africa/LAC)",
+      "url": "https://www.grandchallenges.ca/funding-opportunity-nexa/",
+      "reason": "Closed (Jul/Aug 2026); climate-health focus."
+    },
+    {
+      "title": "FAPESP/NSFC 2026 (Low-Carbon Agriculture)",
+      "url": "https://fapesp.br/18122/chamada-fapespnsfc-fundacao-nacional-de-ciencias-naturais-da-china-edicao-2026",
+      "reason": "Closed May 2026; SP and China researchers only."
+    },
+    {
+      "title": "JSPS Invitational Fellowships FY2027 1st recruitment",
+      "url": "https://www.jsps.go.jp/english/e-inv/application/index.html",
+      "reason": "Closed 2026-08-28 (2nd recruitment recorded as upcoming)."
+    },
+    {
+      "title": "RDA KOPIA / KOICA (Colombia)",
+      "url": "https://www.koica.go.kr",
+      "reason": "Could not verify any KOPIA Colombia centre or open call on official pages."
+    },
+    {
+      "title": "NSERC Alliance International",
+      "url": "https://www.nserc-crsng.gc.ca/",
+      "reason": "Official page redirected to 404; Canadian-university-led; could not verify."
+    },
+    {
+      "title": "Mitacs Globalink / NOAA / CAAS / MOST / JIRCAS / CONAHCYT-SECIHTI",
+      "url": "Not specified",
+      "reason": "No open, CIAT-eligible call found or verified in this pass."
+    }
+  ]
+}

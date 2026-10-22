@@ -1,0 +1,92 @@
+id: world-food-programme-wfp-innovation-accelerator-wfp-innovation-acceler
+title: WFP Innovation Accelerator - rolling open applications (up to US$100,000 equity-free)
+funder: World Food Programme (WFP) Innovation Accelerator
+funder_type: multilateral
+program: WFP Innovation Challenge / rolling applications
+opportunity_type: accelerator
+themes:
+- digital_agriculture
+- food_security
+- smallholders
+- climate_adaptation
+- ai_ml
+url: https://innovation.wfp.org/wfp-innovation-challenge
+source_urls:
+- https://innovation.wfp.org/apply
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: '''we accept rolling applications for innovations that are working to end hunger, improve
+  humanitarian response and build resilient food systems. We process and review applications periodically
+  throughout the year.'''
+funding_amount_min: null
+funding_amount_max: 100000
+currency: USD
+funding_text: '''Access to up to US$100,000 equity-free funding to test the venture''s scalability potential.'''
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: '''Your organization must be an established legal entity. It can be for profit or
+  not-for-profit.'' ''Your innovation must at least be at the Minimum Viable Product (MVP) stage. Proof-of-concept
+  and initial traction is preferred.'''
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: The legal-entity, for-profit or not-for-profit wording does not exclude international
+  research organizations, but the programme targets ventures; an Alliance digital tool at MVP stage (e.g.,
+  climate-informed agro-advisory or yield/drought forecasting for anticipatory action) could apply directly
+  or via a national/startup partner. Confirm with WFP first.
+lead_applicant_requirements: Established legal entity; MVP-stage innovation.
+geographic_restrictions: Not specified
+consortium_required: optional
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Testing/scaling innovations for hunger, humanitarian response and resilient food
+  systems (sprint programme).
+required_documents: Online application form (details not shown on page).
+application_procedure: Apply via the innovation.wfp.org Apply page; applications are also considered for
+  future topic-specific cohorts.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Digital/AI advisory and forecasting tools fit, but the programme favours
+  operational products over research.
+strategic_relevance: 3
+strategic_relevance_rationale: WFP is a key operational partner for scaling climate services and anticipatory
+  action; small amount.
+technical_feasibility: 3
+technical_feasibility_rationale: Requires an MVP with traction and a product/venture framing.
+recommendation: Apply only if the team has an MVP-stage digital tool and a WFP country-office champion;
+  otherwise monitor topic-specific cohorts (e.g., next AFCIA cohort).
+potential_partners: WFP country offices (Colombia, Honduras, Guatemala), national startups.
+next_action: Email the WFP Innovation Accelerator to confirm whether international research organizations
+  are eligible before applying.
+evidence:
+  deadline_quote: we accept rolling applications ... We process and review applications periodically throughout
+    the year.
+  eligibility_quote: Your organization must be an established legal entity. It can be for profit or not-for-profit.
+  status_quote: You could either apply for topic-specific cohorts or submit your project to be reviewed
+    on a rolling basis.
+unverified_fields:
+- eligibility of intergovernmental/international research organizations
+- geographic scope
+- required documents
+verification_notes: 'Loaded innovation.wfp.org/apply and /wfp-innovation-challenge on 2026-10-14. The
+  challenge page cites 2024 food-insecurity figures, so it may be older text; the rolling-application
+  statement is current on /apply. | 2026-10-22 staff-cost/duration check: https://innovation.wfp.org/wfp-innovation-challenge
+  (''access to equity-free funding'' plus consulting/mentoring; sprint length and permitted uses not stated.)'
+last_verified: '2026-10-14'
+verification_source: import:multilateral.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:51
+  event: added
+  detail: import:multilateral.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

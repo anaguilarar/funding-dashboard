@@ -1,0 +1,78 @@
+id: google-google-tpu-research-cloud-trc-free-cloud-tpu-access-for-researc
+title: Google TPU Research Cloud (TRC) - free Cloud TPU access for researchers
+funder: Google
+funder_type: tech_company
+program: TPU Research Cloud (corporate in-kind compute)
+opportunity_type: cloud_credits
+themes:
+- ai_ml
+- remote_sensing
+- open_source_software
+url: https://sites.research.google/trc/about/
+source_urls:
+- https://sites.research.google/trc/faq/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: '"Invitations are sent out to approved applicants on a rolling basis."'
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: '"TRC enables researchers to access a cluster of more than 1,000 Cloud TPU devices"; accepted
+  researchers "will have access to Cloud TPUs at no charge." "While Cloud TPUs are free to use for TRC
+  participants, other GCP services are not."'
+duration: Quota granted "on a temporary basis"; length not specified
+duration_months_max: null
+covers_staff_costs: 'no'
+support_type: in_kind_resources
+eligible_applicants: '"Anyone can express interest in joining the program by signing up."'
+eligible_countries: No restriction stated.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Individual researchers express interest; no institutional restriction stated.
+  Obligation to share results openly (papers, open-source code, blog posts) fits CGIAR open-access policy.
+lead_applicant_requirements: Researcher; agree to Google Terms, Privacy Policy and AI principles; share
+  feedback with Google.
+geographic_restrictions: None stated.
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Training/inference of ML models on Cloud TPUs (TensorFlow, PyTorch, JAX, Julia) -
+  e.g., EO foundation-model fine-tuning, crop-type/phenology deep learning.
+required_documents: Express-interest form.
+application_procedure: Submit the 'Express interest' form; rolling invitations.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Directly useful for deep learning / geospatial foundation-model work on
+  Sentinel/Landsat time series.
+strategic_relevance: 2
+strategic_relevance_rationale: Compute only; no staff funding; complements existing Google Cloud/Earth
+  Engine credits in the dashboard.
+technical_feasibility: 4
+technical_feasibility_rationale: Team uses TensorFlow; JAX/PyTorch-XLA porting may be needed for best
+  TPU use.
+recommendation: 'Low-effort add-on: express interest for a specific EO deep-learning project (e.g., rice
+  phenology/crop mapping foundation-model fine-tuning). Budget small GCP costs for VMs/storage.'
+potential_partners: Not specified
+next_action: Submit the TRC express-interest form describing an EO/agriculture DL project and planned
+  open outputs.
+evidence:
+  deadline_quote: '"Invitations are sent out to approved applicants on a rolling basis."'
+  eligibility_quote: '"Anyone can express interest in joining the program by signing up."'
+  status_quote: Accepted researchers "will have access to Cloud TPUs at no charge."
+  staff_costs_quote: Not applicable - in-kind compute only; "other GCP services are not" free.
+unverified_fields:
+- access duration
+- approval timeline
+verification_notes: Loaded TRC about and FAQ pages on 2026-10-22. Distinct from Google Cloud Research
+  Credits / Earth Engine tiers already in the dashboard.
+last_verified: '2026-10-22'
+verification_source: import:corporate_agrifood_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:56
+  event: added
+  detail: import:corporate_agrifood_2026-10-22.json

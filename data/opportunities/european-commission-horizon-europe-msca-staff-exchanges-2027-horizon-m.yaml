@@ -1,0 +1,104 @@
+id: european-commission-horizon-europe-msca-staff-exchanges-2027-horizon-m
+title: MSCA Staff Exchanges 2027 - HORIZON-MSCA-2027-SE-01-01 (secondment-based collaboration; does NOT
+  pay salaries)
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe - Marie Sklodowska-Curie Actions, Staff Exchanges
+opportunity_type: consortium_call
+themes:
+- capacity_building
+- remote_sensing
+- ai_ml
+- crop_modeling
+- climate_adaptation
+- digital_agriculture
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2027-SE-01-01
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-04-15T17:00
+deadline_timezone: CET/CEST (Brussels local time, 17:00)
+deadline_text: 'Portal topic: planned opening 2026-12-15, deadline 2027-04-15. NOTE: the MSCA WP PDF call
+  table reads ''Opening: 15 Dec 2026 Deadline(s): 13 Apr 2027'' - confirm on the portal when the call
+  opens.'
+funding_amount_min: null
+funding_amount_max: null
+currency: EUR
+funding_text: 'Call budget EUR 95.15 million (WP) / EUR 95.04 million (portal). Per seconded person-month:
+  top-up allowance EUR 2,870; research, training and networking EUR 1,300; management and indirect EUR
+  1,000. Max 360 person-months per project.'
+duration: Project max 48 months; each secondment 1-12 months.
+duration_months_max: 48
+covers_staff_costs: 'no'
+support_type: project_funding
+eligible_applicants: 'Consortia of academic and non-academic organisations: at least three independent
+  legal entities in three different countries, two of them in different EU MS/AC. ''Only legal entities
+  that are established in EU Member States or Horizon Europe Associated Countries can be beneficiaries.'''
+eligible_countries: 'Beneficiaries: EU MS/AC. Associated partners from any third country; secondments
+  between MS/AC and third countries.'
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Bioversity International (IO HQ Italy) deemed established in Italy -> can be
+  beneficiary/coordinator and second its staff (incl. Alliance staff employed by Bioversity). CIAT (Colombia)
+  can only be an associated partner hosting/sending secondees; secondments between non-associated third
+  countries are not eligible.
+lead_applicant_requirements: Coordinator must be a beneficiary in EU MS/AC; consortium must mix academic
+  and non-academic sectors.
+geographic_restrictions: Secondments must be between different countries; physical mobility required;
+  no third-country-to-third-country secondments.
+consortium_required: 'yes'
+consortium_details: Min. 3 independent entities in 3 countries, 2 in different MS/AC; academic + non-academic
+  sectors required.
+cofunding_required: 'no'
+cofunding_details: Unit contributions; seconded staff remain on their home salary (top-up only).
+eligible_activities: Secondments (1-12 months) of researchers and technical/administrative staff for a
+  joint R&I project, networking, workshops, training.
+required_documents: Part A administrative forms (in submission system) + Part B technical description
+  per template; detailed lump-sum budget table where lump sum applies; ethics self-assessment. See General
+  Annexes A and E.
+application_procedure: Electronic submission by the coordinator via the EU Funding & Tenders Portal; all
+  participants need a validated PIC.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Joint R&I project could be on EO/AI for crop monitoring with EU partners
+  and LAC/African institutions.
+strategic_relevance: 3
+strategic_relevance_rationale: Builds a 4-year EU-LAC/Africa collaboration and funds travel/research costs,
+  but does not pay salaries (top-up only), so weak against the staff-funding goal.
+technical_feasibility: 3
+technical_feasibility_rationale: 30-page consortium proposal; feasible if an EU university coordinates
+  or Bioversity leads.
+recommendation: 'Secondary option: use to deepen collaborations that can later feed DN/PF/Cluster 6 proposals;
+  not a salary source.'
+potential_partners: EU universities and agri-tech SMEs (non-academic sector) + LAC/African universities
+  as associated partners.
+next_action: Only pursue if an EU partner proposes it; check final deadline on portal after 15 Dec 2026.
+evidence:
+  deadline_quote: 'Portal: deadlineDate 2027-04-15; WP: ''Opening: 15 Dec 2026 Deadline(s): 13 Apr 2027'''
+  eligibility_quote: Only legal entities that are established in EU Member States or Horizon Europe Associated
+    Countries can be beneficiaries. ... International organisations with headquarters in an EU Member
+    State or Horizon Europe Associated Country will be deemed to be established in this Member State or
+    Associated Country.
+  status_quote: Portal status code 'Forthcoming' (31094501).
+  staff_costs_quote: The top-up allowance for the seconded staff member contributes to travel, accommodation
+    and subsistence costs related to the secondment. ... The management and indirect contribution should
+    cover the beneficiary's additional costs in connection with the action (e.g. personnel costs for project
+    management/coordination, indirect costs).
+unverified_fields:
+- exact deadline (13 vs 15 Apr 2027 discrepancy between WP PDF and portal)
+verification_notes: Topic metadata (dates, budget, status, description, conditions) retrieved 2026-10-22
+  from the official EU Funding & Tenders Portal search API (api.tech.ec.europa.eu/search-api, the data
+  source of the portal topic page). Rules from MSCA WP 2026-2027 PDF section 3 (Staff Exchanges).
+last_verified: '2026-10-22'
+verification_source: import:europe_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:01
+  event: added
+  detail: import:europe_staff_2026-10-22.json
+- date: 2026-10-22 11:02
+  event: reverified
+  detail: no material change

@@ -1,0 +1,99 @@
+id: google-google-earth-engine-noncommercial-partner-tier-100-000-eecu-hou
+title: Google Earth Engine Noncommercial Partner Tier (100,000 EECU-hours/month for climate & nature projects)
+funder: Google
+funder_type: tech_company
+program: Earth Engine noncommercial quota tiers (Community / Contributor / Partner)
+opportunity_type: cloud_credits
+themes:
+- remote_sensing
+- climate_adaptation
+- climate_mitigation
+- climate_smart_ag
+- multifunctional_landscapes
+- biodiversity
+- climate_data_infrastructure
+- ai_ml
+url: https://developers.google.com/earth-engine/guides/noncommercial_tiers
+source_urls:
+- https://earthengine.google.com/noncommercial/
+- https://developers.google.com/earth-engine/help#computational_tiers
+status: rolling
+status_basis: official
+published_date: '2026-09-25'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline. Tier can be changed at any time; Partner Tier 'Requires a separate application
+  with details about your project and its impact.' Noncommercial status reverified annually and Partner
+  Tier projects must reapply each year.
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: 'In-kind compute quota: Community 150 EECU-hours/month (default); Contributor 1,000 EECU-hours/month
+  (requires active billing account, noncommercial usage not charged); Partner 100,000 EECU-hours/month
+  (by application). Quotas enforced for noncommercial projects since 2026-04-27; exceeding quota puts
+  the project in restricted (slower) mode.'
+duration: Annual (Partner Tier must reapply yearly)
+eligible_applicants: Registered noncommercial Earth Engine projects. Partner Tier aimed at nonprofits/NGOs,
+  university and government research groups and similar organizations with heavy compute needs and clear
+  evidence of high-impact sustainability work; priority to groups under a single PI.
+eligible_countries: Not specified (global)
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: CIAT/Alliance qualifies for noncommercial use as a nonprofit research organization
+  ('Earth Engine will remain free of charge for nonprofit organizations using the services for scientific
+  research'). Apply as lead for a lab/team-level Partner Tier project (one project per group; splitting
+  requests across projects is a ToS violation).
+lead_applicant_requirements: Project must already be registered as noncommercial; real identity and organizational
+  email; one application per lab/organization group (no quota farming).
+geographic_restrictions: None stated
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: 'no'
+cofunding_details: Contributor tier needs a Cloud billing account attached, but noncommercial Earth Engine
+  usage is not charged.
+eligible_activities: Projects related to climate mitigation, adaptation (climate change resilience), or
+  protection (nature and biodiversity protection, management and restoration).
+required_documents: Online application describing the project, its compute needs and its climate/nature
+  impact (form via Earth Engine help page).
+application_procedure: 1) Register Cloud project for noncommercial Earth Engine use; 2) move to Contributor
+  tier on the Manage Tier page (immediate); 3) for Partner Tier submit the separate application via developers.google.com/earth-engine/help#computational_tiers;
+  decision 'within several weeks'.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: Core infrastructure for the team's Sentinel/Landsat/MODIS crop and landscape
+  analytics, AlphaEarth satellite embeddings (public in EE catalog) and yield/phenology mapping at scale.
+strategic_relevance: 5
+strategic_relevance_rationale: Since quotas started (April 2026) default 150 EECU-h/month is a real bottleneck
+  for regional/continental CIAT products in LAC/Africa/Asia; Partner Tier secures free compute for a year.
+technical_feasibility: 5
+technical_feasibility_rationale: Team already uses Earth Engine daily; application is lightweight.
+recommendation: Pursue immediately. Highest-value, low-effort item in this group. Consolidate Alliance
+  climate/landscape EE workloads under one PI-led Partner Tier project.
+potential_partners: Internal Alliance Climate Action / Multifunctional Landscapes teams; Google Earth
+  Engine partner team.
+next_action: Check current tier of the team's EE Cloud project(s); switch to Contributor now; draft Partner
+  Tier application (project description, expected EECU usage, climate adaptation/nature impact evidence,
+  publications).
+evidence:
+  deadline_quote: 'Partner Tier: ''Requires a separate application with details about your project and
+    its impact.'' ... ''We''ll review your application and get back to you with a decision within several
+    weeks.'''
+  eligibility_quote: 'Earth Engine will remain free of charge for nonprofit organizations using the services
+    for scientific research. Partner Tier: projects related to climate mitigation, adaptation, or protection;
+    aimed at nonprofits/NGOs, university research groups, government research groups ... with ''clear
+    evidence of high-impact sustainability work.'''
+  status_quote: Since April 27, 2026, noncommercial projects have a monthly EECU-hour quota ... You can
+    change a project's tier at any time.
+unverified_fields:
+- Exact content of the Partner Tier application form
+verification_notes: Loaded developers.google.com/earth-engine/guides/noncommercial_tiers (page updated
+  2026-09-25) and earthengine.google.com/noncommercial on 2026-10-14. Did not open the application form
+  itself.
+last_verified: '2026-10-14'
+verification_source: import:tech_companies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:tech_companies.json
+flags: []

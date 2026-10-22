@@ -1,0 +1,311 @@
+{
+  "checked_on": "2026-10-22",
+  "patches": [
+    {
+      "file": "adaptation-fund-af-adaptation-fund-project-programme-proposals-regular.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.adaptation-fund.org/apply-funding/project-funding/",
+      "notes": "Project-funding page states no duration or eligible-cost/staff rules (points to OPG annexes)."
+    },
+    {
+      "file": "asia-pacific-network-for-global-change-research-apn-apn-call-for-propo.yaml",
+      "covers_staff_costs": "partial",
+      "duration_months_max": 36,
+      "support_type": "project_funding",
+      "staff_costs_quote": "APN may be able to provide some salary support for time spent on a project ... assuming that a full-time salary is not already being paid",
+      "source": "https://www.apn-gcr.org/opportunities/calls-for-proposals/frequently-asked-questions/",
+      "notes": "FAQ 11: 'The maximum number of years for one project under regional research is 3 years' / '2 years for capacity development projects'. FAQ 30: 'Consultancy fees and salary payments are not accepted by APN, at APN's expense.'"
+    },
+    {
+      "file": "australian-centre-for-international-agricultural-research-aciar-aciar.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.aciar.gov.au/aciar-research-projects",
+      "notes": "Official page returned HTTP 403 on 2026-10-22; nothing confirmed."
+    },
+    {
+      "file": "bezos-earth-fund-bezos-earth-fund-ai-for-climate-and-nature-grand-chal.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.bezosearthfund.org/news-and-insights/bezos-earth-fund-announces-30-million-in-ai-grand-challenge-awards",
+      "notes": "Phase II: 'Each receives up to $2 million to scale real-world AI solutions', 'over the next several years'; no fixed duration or cost rules stated."
+    },
+    {
+      "file": "chinese-academy-of-sciences-cas-cas-president-s-international-fellowsh.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "fellowship_salary",
+      "staff_costs_quote": "",
+      "source": "https://pifi.cas.cn/front/mobi/PIFIInfo.html?index=0",
+      "notes": "Official PIFI page gives no duration or stipend details; refers to international-talent.cas.cn (did not resolve on 2026-10-22). Programme currently suspended."
+    },
+    {
+      "file": "european-commission-horizon-europe-africa-eu-co-fund-action-on-climate.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": 72,
+      "support_type": "core_or_program_funding",
+      "staff_costs_quote": "A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all estimated costs incl. personnel)",
+      "source": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf",
+      "notes": "WP8 topic text: 'The estimated duration of the action ... is 5-6 years.' Programme Co-fund, 'funding rate is up to 50% of the eligible costs'; CIAT would normally receive funds as a third party through the co-fund's joint calls."
+    },
+    {
+      "file": "european-commission-horizon-europe-african-union-european-union-partne.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all estimated costs incl. personnel)",
+      "source": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf",
+      "notes": "CSA, lump sum. WP9 topic text states no duration."
+    },
+    {
+      "file": "european-commission-horizon-europe-ai-supporting-informed-advice-for-f.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all estimated costs incl. personnel)",
+      "source": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf",
+      "notes": "IA, lump sum. WP9 topic text states no duration."
+    },
+    {
+      "file": "european-commission-horizon-europe-better-understanding-and-attributio.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all estimated costs incl. personnel)",
+      "source": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf",
+      "notes": "RIA, lump sum. WP8 topic text states no duration."
+    },
+    {
+      "file": "european-commission-horizon-europe-increasing-the-resilience-of-agricu.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all estimated costs incl. personnel)",
+      "source": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf",
+      "notes": "RIA, lump sum. WP9 topic text states no duration."
+    },
+    {
+      "file": "european-commission-horizon-europe-integrating-remote-sensing-and-in-s.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all estimated costs incl. personnel)",
+      "source": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf",
+      "notes": "RIA, lump sum. WP9 topic text states no duration."
+    },
+    {
+      "file": "european-commission-horizon-europe-optimising-the-water-nutrient-energ.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all estimated costs incl. personnel)",
+      "source": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf",
+      "notes": "RIA (two-stage), lump sum. WP9 topic text states no duration."
+    },
+    {
+      "file": "fontagro-regional-fund-for-agricultural-technology-sponsored-by-idb-an.yaml",
+      "covers_staff_costs": "no",
+      "duration_months_max": 42,
+      "support_type": "project_funding",
+      "staff_costs_quote": "El financiamiento ... será entregado a las organizaciones coejecutoras exclusivamente mediante la provisión de bienes, insumos, servicios y consultorías ... No se realizarán desembolsos en efectivo.",
+      "source": "https://strapi-fontagro.nyc3.digitaloceanspaces.com/5_Preguntas_Frecuentes_Convocatoria_2026_5af7de1421.pdf",
+      "notes": "2026 FAQ (2027 terms not yet published): 'plazo máximo de 36 a 42 meses de ejecución técnica y 48 meses de ejecución financiera'. FAQ recommends staff salaries as counterpart: 'se recomienda que se utilice el rubro de sueldos del personal staff de la organización'."
+    },
+    {
+      "file": "foundation-for-food-agriculture-research-ffar-ffar-submit-a-research-i.yaml",
+      "covers_staff_costs": "partial",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "Salary can be charged to a FFAR project proportionate to professional time spent on the project not superseding the cap.",
+      "source": "https://foundationfar.org/grants-funding/applicant-faqs/",
+      "notes": "Capped at NIH salary cap; indirect costs up to 15%. No maximum duration stated (refers to each RFA)."
+    },
+    {
+      "file": "gates-foundation-and-google-org-gates-foundation-google-org-usd-100m-f.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/",
+      "notes": "Announcement only; no cost rules or duration."
+    },
+    {
+      "file": "global-environment-facility-gef-gef-9-2026-2030-projects-and-integrate.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.thegef.org/partners/gef-agencies",
+      "notes": "GEF-9 (2026-2030) is a replenishment cycle, not a project duration; project-level cost rules not checked."
+    },
+    {
+      "file": "global-methane-hub-with-gates-foundation-philanthropy-asia-alliance-qu.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.globalmethanehub.org/?p=2614",
+      "notes": "Announcement does not state grant durations or eligible costs."
+    },
+    {
+      "file": "global-research-alliance-on-agricultural-greenhouse-gases-gra-global-m.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": 6,
+      "support_type": "fellowship_salary",
+      "staff_costs_quote": "",
+      "source": "https://www.cgiar.org/news-events/news/now-open-applications-to-cliff-grads-round-6",
+      "notes": "Round 6: 'The fellowship involves a grant of USD 14,000' for 'a research stay that spans four to six months'; cost categories not stated. Round 7 not confirmed on an official page."
+    },
+    {
+      "file": "green-climate-fund-gcf-gcf-readiness-and-preparatory-support-country-s.yaml",
+      "covers_staff_costs": "partial",
+      "duration_months_max": 48,
+      "support_type": "project_funding",
+      "staff_costs_quote": "PMC ... broken down by category, including personnel such as Project Manager, Assistants, Procurement, Finance, and Support/Administrative staff ... capped at 7.5 per cent ... non-eligible costs encompass salaries of staff ... incurred in the regular course of the NDA/focal point daily operations",
+      "source": "https://www.greenclimate.fund/sites/default/files/documents/2026-06/guide-accessing-readiness-support-country-support-modality.pdf",
+      "notes": "Main country envelope 'up to USD 4 million over four years'; 'One programme of activities for four-years'."
+    },
+    {
+      "file": "green-climate-fund-gcf-green-climate-fund-funding-proposals-through-th.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.greenclimate.fund/partners/accredited-entities/cgiar",
+      "notes": "Accreditation page; no cost or duration rules."
+    },
+    {
+      "file": "japan-science-and-technology-agency-jst-with-jica-satreps-fy2027-9-sci.yaml",
+      "covers_staff_costs": "no",
+      "duration_months_max": 60,
+      "support_type": "project_funding",
+      "staff_costs_quote": "「相手国側の人件費」、「相手国における事務所借上費」…等は、R/D での合意事項に基づき、原則として相手国側負担となります。",
+      "source": "https://www.jst.go.jp/global/pdf/koubo2027.pdf",
+      "notes": "Partner-country side (e.g., CIAT) personnel costs are borne by the partner side; JICA does not compensate personnel costs either. JST funds Japanese-side 人件費・謝金 for 研究参加者 only (excluding 研究担当者). Duration: '研究期間（暫定期間後）3～5 年'."
+    },
+    {
+      "file": "japan-society-for-the-promotion-of-science-jsps-jsps-invitational-fell.yaml",
+      "covers_staff_costs": "no",
+      "duration_months_max": 2,
+      "support_type": "fellowship_salary",
+      "staff_costs_quote": "Support: round-trip air ticket (economy-class); maintenance allowance 'JPY18,000 per day'; overseas travel insurance; research support allowance 'Up to JPY150,000'",
+      "source": "https://www.jsps.go.jp/english/e-inv/how.html",
+      "notes": "Personal maintenance allowance to the fellow, not salary/personnel costs. Short-term: '14 to 60 days' (~2 months); Long-term track: '2 to 10 months'."
+    },
+    {
+      "file": "kunming-biodiversity-fund-initiated-and-financed-by-the-government-of.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": 24,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.unep.org/events/award/2026-call-proposals-kunming-biodiversity-fund",
+      "notes": "Page blocked (403/Cloudflare) on 2026-10-22; 12-24 months kept from the record's earlier verification of this official page; staff-cost rules not confirmed."
+    },
+    {
+      "file": "mastercard-foundation-administered-by-university-of-cambridge-cambridg.yaml",
+      "covers_staff_costs": "no",
+      "duration_months_max": 18,
+      "support_type": "project_funding",
+      "staff_costs_quote": "We do not cover salaries of either investigator, institutional overheads, indirect costs or grant administration costs.",
+      "source": "https://www.cambridge-africa.cam.ac.uk/assets/MCF-Call/MCF-2026/Cambridge-Africa-Climate-Collaborative-Research-Fund-Guidance-for-Applicants-2026-27.pdf",
+      "notes": "'Research Project Grants may extend to a duration of up to 18 months' (Catalyst/Workshop ~12 months). Guidance silent on non-investigator staff."
+    },
+    {
+      "file": "minciencias-colombia-sistema-general-de-regalias-sgr-convocatoria-53-f.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": 24,
+      "support_type": "project_funding",
+      "staff_costs_quote": "• Vinculación de talento humano. • Vinculación de jóvenes investigadores máximo por 12 meses. ... • Vinculación de talento humano con título de doctorado para estancias posdoctorales",
+      "source": "https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria_53_del_sgr_0.pdf",
+      "notes": "'13.1 Plazo de ejecución: El término de la ejecución de los proyectos será de hasta veinticuatro (24) meses.'"
+    },
+    {
+      "file": "ministerio-de-ciencia-tecnologia-e-innovacion-minciencias-colombia-sis.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": 24,
+      "support_type": "project_funding",
+      "staff_costs_quote": "● Vinculación de talento humano. ... La entidad ejecutora garantizará los pagos al equipo de talento humano durante el tiempo de su vinculación al proyecto",
+      "source": "https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_conv_56_v_1.6docx.pdf",
+      "notes": "'14.1 Plazo de ejecución: El término de la ejecución de los proyectos será de hasta veinticuatro (24) meses.'"
+    },
+    {
+      "file": "ministry-of-science-and-technology-of-china-most-administered-by-china.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "fellowship_salary",
+      "staff_costs_quote": "",
+      "source": "http://tysp.cstec.org.cn",
+      "notes": "Duration (3/6/12 months) only seen in a non-official mirrored call document; not confirmed on the official site."
+    },
+    {
+      "file": "national-natural-science-foundation-of-china-nsfc-nsfc-international-r.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.nsfc.gov.cn/p1/2931/3971/3998/gjdqhzyjyjlxm2026.html",
+      "notes": "Official page lists sub-types only; no duration or budget categories. NSFC funds only the Chinese side."
+    },
+    {
+      "file": "national-natural-science-foundation-of-china-nsfc-nsfc-sdic-2026-strat.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": 36,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.nsfc.gov.cn/p1/3381/2824/zntg.html",
+      "notes": "'能力培育项目及重点项目资助期限为 3 年' (2027-01-01 to 2029-12-31; confirmed in guide PDF at research.ustb.edu.cn mirror of the official guide). NSFC funds the Chinese side only; staff-cost rules not stated in the guide."
+    },
+    {
+      "file": "national-natural-science-foundation-of-china-nsfc-with-cgiar-nsfc-cgia.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": 36,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.nsfc.gov.cn/u/cms/www/202604/01164828l4ao.pdf",
+      "notes": "'For Capacity-building Projects and Key Projects, the project duration is 3 years'; Cooperative Exchange 2 years, budget 'limited to International Cooperation and Exchange Expenses'. NSFC funds the Chinese side; the CGIAR PI is not funded by NSFC."
+    },
+    {
+      "file": "sao-paulo-research-foundation-fapesp-brazil-fapesp-sprint-2026-sao-pau.yaml",
+      "covers_staff_costs": "no",
+      "duration_months_max": 36,
+      "support_type": "project_funding",
+      "staff_costs_quote": "Itens financiáveis (Fase 1): 'Passagens Aéreas', 'Seguro Viagem', 'Diárias' (Fase 3 adds 'Material de Consumo' and 'Serviços de Terceiros')",
+      "source": "https://fapesp.br/sprint/chamada2026",
+      "notes": "Mobility-only funding; salaries not among the listed fundable items. '12 meses' and 'pode ser prorrogada por até mais 24 meses' (+ up to 6 months no-cost extension in exceptional cases)."
+    },
+    {
+      "file": "water4all-european-partnership-horizon-europe-co-funded-32-funding-org.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": 36,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://www.water4all-partnership.eu/sites/default/files/2026-09/Call_Announcement_Water4All_JTC2026_20260908.pdf",
+      "notes": "'Duration of the Transnational Projects must be 36 months.' Eligible costs follow each national/regional FPO's rules; partners from non-participating countries join 'at the institutions' own expense'."
+    },
+    {
+      "file": "wellcome-wellcome-climate-impacts-awards-annual-2026-round-closed-next.yaml",
+      "covers_staff_costs": "yes",
+      "duration_months_max": 36,
+      "support_type": "project_funding",
+      "staff_costs_quote": "We will cover the salary costs of all staff, full or part-time, who will work on your grant.",
+      "source": "https://wellcome.org/research-funding/schemes/climate-impacts-awards-unlocking-urgent-climate-action-making-health-2",
+      "notes": "'Up to 3 years'. Lead applicants at universities/research institutes generally cannot claim their own salary."
+    },
+    {
+      "file": "world-food-programme-wfp-innovation-accelerator-wfp-innovation-acceler.yaml",
+      "covers_staff_costs": "Not specified",
+      "duration_months_max": null,
+      "support_type": "project_funding",
+      "staff_costs_quote": "",
+      "source": "https://innovation.wfp.org/wfp-innovation-challenge",
+      "notes": "'access to equity-free funding' plus consulting/mentoring; sprint length and permitted uses not stated."
+    }
+  ]
+}

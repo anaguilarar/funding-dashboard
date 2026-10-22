@@ -1,0 +1,101 @@
+id: european-commission-horizon-europe-integrating-remote-sensing-and-in-s
+title: Integrating Remote Sensing and in-situ observations of Biodiversity, towards a fully interoperable
+  observation and data framework - HORIZON-CL6-2027-01-BIODIV-01
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 6, Destination 'Biodiversity and ecosystem services', Call HORIZON-CL6-2027-01
+opportunity_type: consortium_call
+themes:
+- remote_sensing
+- ai_ml
+- biodiversity
+- climate_data_infrastructure
+- open_source_software
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-BIODIV-01
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-09-22T17:00
+deadline_timezone: CET (Brussels local time, 17:00)
+deadline_text: 'Opening: 20 Apr 2027; Deadline(s): 22 Sep 2027 (17.00.00 Brussels local time).'
+funding_amount_min: null
+funding_amount_max: 5000000
+currency: EUR
+funding_text: Expected EU contribution around EUR 5.00 million per project; total indicative budget EUR
+  10.00 million (around 2 projects). Research and Innovation Action, lump sum.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortia per General Annex B.
+eligible_countries: EU MS, Associated Countries, LMICs per General Annex B; no IO exception in topic.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'Horizon Europe General Annex B (WP 2026-2027): Colombia, Kenya and most African/LAC
+  countries are on the list of low- and middle-income countries automatically eligible for funding, but
+  the Alliance entities are international organisations, to which the IO rule applies: IOs are funded
+  only when the topic says so or when deemed essential. Where the topic does not open funding to IOs,
+  Bioversity International/CIAT can join as an associated partner (unfunded) or argue ''essential participation''
+  (risky). Bioversity International is headquartered in Italy (an EU Member State), so it fits the ''IO
+  with headquarters in a Member State'' clause; CIAT (HQ Colombia) does not. Confirm the Alliance''s PIC/legal
+  status validation (IO vs. national entity) with the Alliance grants office.'
+lead_applicant_requirements: Standard HE rules.
+geographic_restrictions: Use cases across terrestrial, freshwater and marine ecosystems in Member States
+  and Associated Countries; assessments at 'international, regional and European scales'. Copernicus/Galileo
+  must be used if satellite EO is used.
+consortium_required: 'yes'
+consortium_details: Standard RIA consortium; JRC may participate.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs (lump sum); not-for-profit legal entities
+  get 100% in IAs too. See General Annex G.
+eligible_activities: Multisensor biodiversity data integration (omics, in-situ, drone/airborne, satellite
+  RS), FAIR data frameworks, AI training/validation datasets for habitat classification, ecosystem mapping
+  and biodiversity trend prediction.
+required_documents: Proposal Part A (admin forms via Funding & Tenders Portal) and Part B (technical description
+  per template); ethics self-assessment; lump-sum budget table where lump sum applies. See General Annexes
+  A and E.
+application_procedure: Electronic submission through the EU Funding & Tenders Portal by the coordinator;
+  all participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: EO + in-situ + AI integration, UAV/hyperspectral and FAIR data are core
+  skills; biodiversity (agrobiodiversity) angle matches Multifunctional Landscapes.
+strategic_relevance: 3
+strategic_relevance_rationale: Mostly European use cases; Alliance could bring tropical/agrobiodiversity
+  use cases only if justified.
+technical_feasibility: 4
+technical_feasibility_rationale: Strong RS/ML capacity; omics-integration partners needed.
+recommendation: 'Medium priority: join an EU-led consortium (EuropaBON/Biodiversa networks) as partner,
+  ideally via Bioversity International; clarify funding eligibility early.'
+potential_partners: EuropaBON/GEO BON partners, iDiv, ESA/EEA-linked groups, WUR, CNR Italy.
+next_action: Identify EU coordinators (GEO BON/EuropaBON) by early 2027; confirm IO funding route with
+  EC NCP Italy (APRE).
+evidence:
+  deadline_quote: 'Opening: 20 Apr 2027 / Deadline(s): 22 Sep 2027'
+  eligibility_quote: 'The conditions are described in General Annex B. The following exceptions apply:
+    The Joint Research Centre (JRC) may participate ... If projects use satellite-based earth observation
+    ... beneficiaries must make use of Copernicus and/or Galileo/EGNOS'
+  status_quote: 'F&T Portal search API (2026-10-14): status 31094501 (Forthcoming), startDate 2027-04-20,
+    deadlineDate 2027-09-22.'
+  staff_costs_quote: 'A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they
+    fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all
+    estimated costs incl. personnel)'
+unverified_fields:
+- duration
+verification_notes: 'Read WP Part 9 pages 73-75 (official PDF, 2026-10-14); status via F&T Portal API.
+  | 2026-10-22 staff-cost/duration check: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
+  (RIA, lump sum. WP9 topic text states no duration.)'
+last_verified: '2026-10-14'
+verification_source: import:europe.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:europe.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

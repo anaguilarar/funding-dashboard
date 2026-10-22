@@ -1,0 +1,111 @@
+id: w-k-kellogg-foundation-wkkf-w-k-kellogg-foundation-mexico-programme-ch
+title: 'W.K. Kellogg Foundation - Mexico programme (Chiapas Highlands & inner Yucatan Peninsula): rolling
+  Letter of Inquiry for food systems / seed-land-water access / climate adaptation / agroecology'
+funder: W.K. Kellogg Foundation (WKKF)
+funder_type: foundation
+program: WKKF Mexico - Health (Food Systems, Community Water Management) and Family Economic Security
+  (coffee, honey, milpa, backyard gardens)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- food_security
+- smallholders
+- multifunctional_landscapes
+- climate_smart_ag
+- biodiversity
+url: https://www.wkkf.org/grantseekers/
+source_urls:
+- https://www.wkkf.org/where-we-work/mexico/
+- https://www.wkkf.org/i/mexico-food-systems/
+- https://www.wkkf.org/i/mexico-economic-security/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: '"Our application process is always open." "In general, we don''t have specific grantmaking
+  cycles or deadlines."'
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: Not specified on official pages (award size determined case by case after invited proposal).
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Organizations whose work fits WKKF priorities; "We are unable to make grants for
+  individuals, capital investments, political parties or candidates." No formal eligibility list on the
+  grantseekers page.
+eligible_countries: 'USA; Mexico (25 municipalities in Chiapas Highlands and inner Yucatan Peninsula:
+  Yucatan, Campeche, Quintana Roo); Haiti (central and southwest).'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'Official pages do not restrict applicant nationality or legal form, but grants
+  are place-based and community-led in 25 specific municipalities. Secondary sources report a WKKF-UNDP
+  Mexico partnership in 40 southeastern communities (UNDP page returned 403, unverified), suggesting international
+  organizations can be grantees. Most realistic route: Alliance as technical partner to a local community
+  organization or to the locally managed Agroecology Fund of the Yucatan Peninsula, or a direct LOI for
+  a co-designed project; confirm with the WKKF Concierge Desk whether CIAT/Bioversity can be direct grantees.'
+lead_applicant_requirements: Register in WKKF's Fluxx system and submit a Letter of Inquiry; formal proposal
+  only by invitation.
+geographic_restrictions: Mexico grantmaking concentrated on 25 municipalities in Chiapas Highlands and
+  inner Yucatan Peninsula.
+consortium_required: optional
+consortium_details: Not required; strong emphasis on community-led, Indigenous-knowledge-based partnerships.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Food systems: "We are supporting communities to secure access to seed, land and
+  water to advance food sovereignty and enhance adaptation, as well as helping get healthy, locally produced
+  food into schools and local and regional markets." Agroecology: "We are committed to supporting agroecology
+  as a movement that recognizes Indigenous knowledge". Economic security: agriculture, especially coffee,
+  honey, milpa, backyard gardens, animal husbandry. Also community water management.'
+required_documents: Letter of Inquiry (short, high-level description) via Fluxx; full proposal if invited.
+application_procedure: 'Register in Fluxx -> submit LOI (instructions in English, Spanish, Haitian Creole)
+  -> WKKF responds within ~30 business days -> invited proposals reviewed in ~60 business days. Questions:
+  conciergedesk@wkkf.org.'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Climate adaptation of milpa/coffee/honey systems, agrobiodiversity and
+  water access are relevant, but WKKF funds community-led action and equity outcomes; RS/AI/crop modelling
+  would only be a supporting component (e.g., participatory climate-risk maps, milpa suitability).
+strategic_relevance: 3
+strategic_relevance_rationale: Large foundation with multi-year, place-based commitments in Mexico; Alliance
+  has milpa/agrobiodiversity and coffee-climate expertise in Mesoamerica; but narrow geography and community-led
+  ethos limit research-staff funding.
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible only with established local community partners in Yucatan/Chiapas.
+recommendation: Only funder among those checked with an always-open official application route touching
+  LAC climate adaptation. Pursue only if a Yucatan/Chiapas community partner can lead; frame the Alliance
+  role as climate-risk/agrobiodiversity science service to community food sovereignty. Do not expect it
+  to fund an EO/AI research agenda.
+potential_partners: Agroecology Fund of the Yucatan Peninsula; UNDP Mexico (reported WKKF partner); local
+  milpa/apiculture/coffee cooperatives; ECOSUR; Alliance Mesoamerica agrobiodiversity team
+next_action: Email conciergedesk@wkkf.org asking whether an international organization (CIAT/Bioversity)
+  can be a direct grantee in the Mexico programme and whether staff costs are allowable; in parallel identify
+  a Yucatan community partner to co-author a Fluxx LOI.
+evidence:
+  deadline_quote: '"Our application process is always open." / "In general, we don''t have specific grantmaking
+    cycles or deadlines."'
+  eligibility_quote: '"We also fund in Chiapas and the Yucatán Peninsula in Mexico and in central and
+    southwest Haiti." / "We are unable to make grants for individuals, capital investments, political
+    parties or candidates."'
+  status_quote: '"We are supporting communities to secure access to seed, land and water to advance food
+    sovereignty and enhance adaptation"'
+  staff_costs_quote: Not specified - grantseekers page does not address personnel or overhead costs.
+unverified_fields:
+- funding_amount
+- duration
+- covers_staff_costs
+- international_orgs_eligible (WKKF-UNDP Mexico partnership only seen in secondary sources; UNDP page
+  403)
+- awarded-grants database returned 0 results when loaded
+verification_notes: Loaded wkkf.org/grantseekers, wkkf.org/where-we-work/mexico and wkkf.org/i/mexico-food-systems
+  on 2026-10-22. Economic-security wording (coffee, honey, milpa) from wkkf.org/i/mexico-economic-security
+  via search snippet. Awarded-grants filter page returned no listings.
+last_verified: '2026-10-22'
+verification_source: import:corporate_agrifood_2_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:03
+  event: added
+  detail: import:corporate_agrifood_2_2026-10-22.json

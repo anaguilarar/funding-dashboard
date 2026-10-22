@@ -1,0 +1,98 @@
+# Research Funding Intelligence Dashboard — configuration
+# Edit this file to change thresholds, weights, schedule and notifications.
+
+profile:
+  owner: "Andrés Aguilar Ariza"
+  institution: "Alliance of Bioversity International and CIAT (CGIAR)"
+  research_areas: ["Climate Action", "Multifunctional Landscapes"]
+
+paths:
+  opportunities: data/opportunities      # one YAML file per active/upcoming record
+  archive: data/archive                  # closed/expired records (kept for future cycles)
+  candidates: data/candidates            # leads detected by the monitor, awaiting verification
+  sources: data/sources.yaml             # funder pages/feeds watched by the monitor
+  state: data/state                      # snapshots, hashes, change log (machine-managed)
+  site: site                             # generated dashboard (site/index.html)
+  reports: reports                       # generated digests (markdown)
+
+monitoring:
+  # Schedule is enforced by Windows Task Scheduler (scripts/register_task.ps1) or the
+  # GitHub Actions workflow; these values are read by those installers.
+  schedule:
+    full_run: "daily"            # daily | weekly
+    time: "07:00"                # local time
+    weekday: "Monday"            # used when full_run = weekly
+  request_timeout_s: 30
+  user_agent: "FundingIntelBot/1.0 (+research funding monitor; Alliance Bioversity-CIAT)"
+  polite_delay_s: 1.5
+  # A source is flagged (not expired!) after this many consecutive failed fetches
+  failures_before_flag: 2
+  # Records not verified for this many days are flagged for re-verification
+  reverify_after_days: 14
+  # Structured APIs (no key required)
+  apis:
+    grants_gov: true
+    eu_funding_tenders: true
+
+deadlines:
+  urgent_days: 14          # red
+  soon_days: 45            # amber
+
+scoring:
+  # Weighted 0-5 criteria -> 0-100 score. Institutional eligibility is a gate (see README).
+  weights:
+    scientific_alignment: 0.30
+    institutional_eligibility: 0.25
+    technical_feasibility: 0.15
+    strategic_relevance: 0.15
+    application_feasibility: 0.15
+  # Credits / in-kind resources (cloud, storage, data) cannot pay staff: cap their score so they
+  # rank below staff-funding calls. Set to 100 to disable.
+  cap_in_kind: 60
+  tiers:
+    high: 70
+    medium: 50
+  # Approximate rates used ONLY to sort/filter by amount across currencies (not displayed as facts)
+  fx_to_usd: {USD: 1.0, EUR: 1.08, GBP: 1.27, CAD: 0.73, CHF: 1.12, JPY: 0.0068, AUD: 0.65,
+              SEK: 0.095, NOK: 0.093, DKK: 0.145, CNY: 0.14, COP: 0.00025, BRL: 0.18, MXN: 0.055}
+
+# Keywords used by the monitor to flag new/changed funder pages as relevant leads.
+keywords:
+  strong: ["remote sensing", "earth observation", "satellite", "crop model", "yield forecast",
+           "climate-smart", "climate smart", "digital agriculture", "agricultural advisory",
+           "geospatial", "machine learning", "artificial intelligence", "foundation model",
+           "climate services", "food security", "smallholder", "landscape restoration",
+           "agrifood", "agri-food", "food systems", "climate adaptation", "climate resilience",
+           # Chinese (official NSFC/MOST/CAS/CAAS pages are often Chinese-only)
+           "遥感", "对地观测", "作物模型", "数字农业", "智慧农业", "人工智能", "气候变化", "粮食安全",
+           "国际(地区)合作", "国际合作", "CGIAR", "国际农业研究磋商组织"]
+  weak: ["agriculture", "climate", "biodiversity", "AI", "data", "land use", "ecosystem",
+         "innovation", "open source", "digital public", "Latin America", "Africa"]
+  call_markers: ["call for proposals", "request for proposals", "funding opportunity",
+                 "apply now", "applications open", "deadline", "convocatoria", "grant",
+                 "expression of interest", "RFP", "challenge",
+                 "项目指南", "申请指南", "征集", "申报", "通知", "资助"]
+
+notifications:
+  enabled: true
+  # Channels: "file" always writes reports/digest-YYYY-MM-DD.md.
+  # "email" needs SMTP settings (env vars below). "teams" / "slack" need a webhook URL (env var).
+  channels: ["file"]
+  email:
+    to: ["andres.aguilar@cgiar.org"]
+    smtp_host_env: FUNDINTEL_SMTP_HOST
+    smtp_port_env: FUNDINTEL_SMTP_PORT
+    smtp_user_env: FUNDINTEL_SMTP_USER
+    smtp_password_env: FUNDINTEL_SMTP_PASSWORD
+    from_env: FUNDINTEL_SMTP_FROM
+  teams_webhook_env: FUNDINTEL_TEAMS_WEBHOOK
+  slack_webhook_env: FUNDINTEL_SLACK_WEBHOOK
+  triggers:
+    new_high_priority: true
+    deadline_approaching: true      # uses deadlines.urgent_days / soon_days
+    deadline_reminder_days: [45, 21, 14, 7, 3]
+    eligibility_or_funding_change: true
+    new_upcoming_program: true
+    consortium_needed: true
+    source_changed: true            # a watched funder page changed and mentions keywords
+    needs_reverification: true

@@ -1,0 +1,79 @@
+id: anthropic-anthropic-ai-for-science-program-free-claude-api-credits
+title: Anthropic AI for Science program (free Claude API credits)
+funder: Anthropic
+funder_type: tech_company
+program: AI for Science
+opportunity_type: cloud_credits
+themes:
+- ai_ml
+- food_security
+- crop_modeling
+- digital_agriculture
+- open_source_software
+url: https://www.anthropic.com/news/ai-for-science-program
+source_urls:
+- https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform
+status: rolling
+status_basis: official
+published_date: '2025-05-05'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline; application form states submissions are evaluated monthly.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: '''significant API credits to qualified researchers'' - amount not specified.'
+duration: Not specified
+eligible_applicants: '''Researchers attached to a research institution''; form: qualified nonprofit and
+  academic researchers.'
+eligible_countries: Not specified
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: CIAT researcher can apply directly as lead (nonprofit research institution).
+  Program explicitly cites 'Increasing agricultural productivity' as an example application.
+lead_applicant_requirements: Researcher attached to a research institution; academic/institutional email
+  and credentials preferred.
+geographic_restrictions: Not specified (presumably Anthropic-supported countries; Colombia is generally
+  supported - not confirmed on page)
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: 'no'
+cofunding_details: Not applicable
+eligible_activities: Research where AI accelerates science; 'particular focus on biology and life sciences
+  applications', incl. 'Increasing agricultural productivity'; also welcomes natural sciences and math.
+required_documents: Online Google Form (3 pages; contents of pages 2-3 not visible).
+application_procedure: Submit the application form; reviewed monthly by Anthropic team incl. subject matter
+  experts; unsuccessful applicants not notified individually.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Agriculture explicitly in scope; useful for LLM-based agro-climatic advisory,
+  literature/data mining, agentic coding for crop-model/EO pipelines; not EO-specific.
+strategic_relevance: 3
+strategic_relevance_rationale: Low-cost enabler for digital advisory tools and research software; small
+  scale.
+technical_feasibility: 5
+technical_feasibility_rationale: Short form; team already does Python/ML.
+recommendation: Apply with a focused agriculture use case (e.g., LLM-assisted climate advisory for smallholders
+  in Honduras/Colombia, or automated extraction of crop-trial data). Low effort.
+potential_partners: None needed
+next_action: Fill the form with a concrete project and expected token usage.
+evidence:
+  deadline_quote: Submissions are evaluated monthly (application form)
+  eligibility_quote: Researchers attached to a research institution interested in the AI for Science program
+    can apply
+  status_quote: Form live with option 'Standard AI for Science program' (checked 2026-10-14)
+unverified_fields:
+- funding_amount
+- eligible_countries
+- full form questions
+verification_notes: Loaded the Anthropic announcement (2025-05-05) and the linked Google Form on 2026-10-14;
+  form displayed live page 1 of 3. No explicit closure notice found.
+last_verified: '2026-10-14'
+verification_source: import:tech_companies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:tech_companies.json
+flags:
+- call_page_changed

@@ -1,0 +1,83 @@
+id: bezos-earth-fund-bezos-earth-fund-ai-for-climate-and-nature-grand-chal
+title: Bezos Earth Fund AI for Climate and Nature Grand Challenge (no new round announced)
+funder: Bezos Earth Fund
+funder_type: foundation
+program: AI for Climate and Nature Grand Challenge
+opportunity_type: challenge
+themes:
+- ai_ml
+- climate_adaptation
+- biodiversity
+- food_security
+- remote_sensing
+url: https://www.bezosearthfund.org/news-and-insights/bezos-earth-fund-announces-30-million-in-ai-grand-challenge-awards
+source_urls: []
+status: monitoring
+status_basis: official
+published_date: '2025-10-23'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: Not specified - no new round announced.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: 'Phase II (Oct 2025): fifteen teams, each up to USD 2 million (~USD 30M total). Phase I
+  (May 2025): USD 50,000 each. No future round amounts announced.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Not specified for any future round
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Bioversity International USA is already a Phase II awardee (Rumen Digital Twin
+  for livestock methane), showing the Alliance's US entity has been eligible in past rounds.
+lead_applicant_requirements: Not specified
+geographic_restrictions: Not specified
+consortium_required: Not specified
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Past rounds: sustainable proteins, power grid optimization, biodiversity conservation,
+  wildcard.'
+required_documents: Not specified
+application_procedure: Not specified - no open round.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: AI for climate/nature/food insecurity; FineCast (AI weather forecasting
+  for African farmers) was funded, so ag-EO/AI fits a wildcard track.
+strategic_relevance: 4
+strategic_relevance_rationale: Large grants; Alliance already in portfolio.
+technical_feasibility: 4
+technical_feasibility_rationale: Strong AI/EO capabilities.
+recommendation: Monitor for a new round; coordinate with the Bioversity International USA Phase II team
+  for learning and connections to the Fund's AI director.
+potential_partners: Bioversity International USA Phase II team; Wits University (FineCast)
+next_action: Monitor bezosearthfund.org news; ask internal Phase II awardee team about any planned Phase
+  III/new round.
+evidence:
+  deadline_quote: Not specified
+  eligibility_quote: 'Phase II awardee: Bioversity International USA - ''Rumen Digital Twin'' (per official
+    release).'
+  status_quote: 'Official Oct 23, 2025 release: awardees will ''test, refine, and evaluate the impact
+    of their approaches'' - no mention of future rounds.'
+unverified_fields:
+- eligible_applicants
+- deadline
+verification_notes: 'Loaded official Phase II release on 2026-10-14. The previous challenge landing URL
+  (bezosearthfund.org/ai-grand-challenge) returned 404. No 2026 call found on official site. | 2026-10-22
+  staff-cost/duration check: https://www.bezosearthfund.org/news-and-insights/bezos-earth-fund-announces-30-million-in-ai-grand-challenge-awards
+  (Phase II: ''Each receives up to $2 million to scale real-world AI solutions'', ''over the next several
+  years''; no fixed duration or cost rules stated.)'
+last_verified: '2026-10-14'
+verification_source: import:foundations.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:foundations.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

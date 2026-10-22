@@ -1,0 +1,66 @@
+# Daily funding-intelligence run: verify -> monitor -> build -> notify, then publish to GitHub Pages.
+# Data changes (records, archive, leads, page hashes, change log, digests) are committed back so
+# the repository keeps the full history. Settings > Pages > Source must be "GitHub Actions".
+name: Funding monitor
+
+on:
+  schedule:
+    - cron: "0 12 * * *"        # 12:00 UTC = 07:00 Colombia
+  workflow_dispatch:            # "Run workflow" button
+  push:
+    branches: [main]
+    paths: ["data/**", "templates/**", "fundintel/**", "config.yaml", "research/raw/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: funding-monitor
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q
+      - name: Pipeline
+        env:
+          PYTHONIOENCODING: utf-8
+          # optional alert channels (add as repository secrets and list them in config.yaml)
+          FUNDINTEL_SMTP_HOST: ${{ secrets.FUNDINTEL_SMTP_HOST }}
+          FUNDINTEL_SMTP_PORT: ${{ secrets.FUNDINTEL_SMTP_PORT }}
+          FUNDINTEL_SMTP_USER: ${{ secrets.FUNDINTEL_SMTP_USER }}
+          FUNDINTEL_SMTP_PASSWORD: ${{ secrets.FUNDINTEL_SMTP_PASSWORD }}
+          FUNDINTEL_SMTP_FROM: ${{ secrets.FUNDINTEL_SMTP_FROM }}
+          FUNDINTEL_TEAMS_WEBHOOK: ${{ secrets.FUNDINTEL_TEAMS_WEBHOOK }}
+          FUNDINTEL_SLACK_WEBHOOK: ${{ secrets.FUNDINTEL_SLACK_WEBHOOK }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python -m fundintel build      # data edited by hand: just rebuild
+          else
+            python -m fundintel run
+          fi
+      - name: Commit data changes
+        run: |
+          git config user.name "funding-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          git diff --cached --quiet || git commit -m "Monitor run $(date -u +%F)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

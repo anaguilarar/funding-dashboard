@@ -1,0 +1,82 @@
+id: amazon-web-services-aws-cloud-credit-for-research
+title: AWS Cloud Credit for Research
+funder: Amazon Web Services
+funder_type: tech_company
+program: AWS Cloud Credit for Research (also the route used by Amazon Sustainability Data Initiative for
+  researcher credits)
+opportunity_type: cloud_credits
+themes:
+- remote_sensing
+- ai_ml
+- climate_data_infrastructure
+- open_source_software
+- capacity_building
+url: https://aws.amazon.com/research-credits/
+source_urls:
+- https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: Proposals are evaluated 'on a rolling basis throughout the year.' Typical review 90-120
+  days.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: AWS Promotional Credit. 'Student awards will be up to a maximum of $5,000.00.' 'Faculty
+  and Staff awards are not capped.' EC2 limited to on-demand and spot instances.
+duration: Not specified
+eligible_applicants: Full-time faculty, full-time research staff, and graduate/post-graduate/PhD students
+  at an accredited research institution.
+eligible_countries: Not specified on the official page
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: CIAT staff are full-time research staff at a research institution, but 'accredited
+  research institution' is not defined; CIAT is not an academic institution. Apply as lead and state CGIAR
+  status; fallback is via a university partner.
+lead_applicant_requirements: Full-time faculty/research staff at an accredited research institution.
+geographic_restrictions: Not specified on official page
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Per program description: building publicly available cloud-hosted science tools,
+  proof-of-concept/benchmarking of moving research workloads to the cloud, training the community via
+  workshops/tutorials.'
+required_documents: Not specified on the main page (see FAQs and Terms linked from it).
+application_procedure: '''Apply now'' link on the official page; communication via aws-research-credit@amazon.com.'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Generic compute; relevant if building open cloud-hosted tools (e.g., crop
+  model/advisory APIs, Sentinel data on AWS Open Data).
+strategic_relevance: 3
+strategic_relevance_rationale: Uncapped staff awards could support an open-source climate data infrastructure
+  product.
+technical_feasibility: 4
+technical_feasibility_rationale: Team cloud-capable; slow review (90-120 days).
+recommendation: Apply only if a concrete AWS-hosted public tool is planned (e.g., open crop-forecast service
+  using Sentinel-2/ERA5 on AWS Open Data). Otherwise prioritize Google credits.
+potential_partners: Optional university co-PI to remove accreditation ambiguity.
+next_action: Read AWS research credits FAQ/T&Cs to confirm whether non-university research institutes
+  qualify; scope a public tool proposal.
+evidence:
+  deadline_quote: evaluated on a rolling basis throughout the year
+  eligibility_quote: Full-time faculty at an accredited research institution; Full-time research staff
+    at an accredited research institution; Graduate, post-graduate, or PhD students enrolled at an accredited
+    research institution
+  status_quote: Apply now (rolling)
+unverified_fields:
+- eligible_countries
+- required_documents
+- accreditation definition
+verification_notes: Loaded aws.amazon.com/research-credits/ on 2026-10-14. ASDI-specific grants page not
+  loaded; ASDI researcher credits are channelled through this program per secondary sources.
+last_verified: '2026-10-14'
+verification_source: import:tech_companies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:tech_companies.json
+flags: []

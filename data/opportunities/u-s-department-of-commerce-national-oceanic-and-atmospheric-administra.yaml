@@ -1,0 +1,120 @@
+id: u-s-department-of-commerce-national-oceanic-and-atmospheric-administra
+title: NOAA NESDIS Broad Agency Announcement FY2027-2028 (rolling; foreign/international organizations
+  eligible)
+funder: U.S. Department of Commerce - National Oceanic and Atmospheric Administration (NOAA), National
+  Environmental Satellite, Data, and Information Service (NESDIS)
+funder_type: national_agency
+program: NOAA-NESDIS-NESDISPO-2027-33921 (Assistance Listing 11.015)
+opportunity_type: grant
+themes:
+- remote_sensing
+- climate_data_infrastructure
+- climate_adaptation
+- ai_ml
+- open_source_software
+url: https://www.grants.gov/search-results-detail/364069
+source_urls:
+- https://apply07.grants.gov/grantsws/rest/opportunity/att/download/355212
+- https://api.grants.gov/v1/api/fetchOpportunity (opportunityId 364069)
+status: rolling
+status_basis: official
+published_date: '2026-10-13'
+deadline: 2028-09-30T23:59
+deadline_timezone: ET
+deadline_text: Applications must be submitted to Grants.gov up to 11:59:59 p.m. Eastern Daylight Time
+  September 30, 2028. ... Applications will be considered on a continuing/rolling basis as they are received.
+  Funding opportunity is subject to the availability of funds.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: '"There are no funds specifically appropriated by Congress for this BAA. Funding for potential
+  projects in this notice is contingent upon the availability of appropriations in the fiscal years applicable
+  to the application." No award floor/ceiling stated (Grants.gov lists ceiling/floor 0).'
+duration: '"Applications should generally be submitted for a one-year award period, but this may be negotiated
+  if the application is recommended for funding." Anticipated start generally six months after receipt.'
+duration_months_max: 12
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Eligible applicants may be institutions of higher education, nonprofits, commercial
+  organizations, international or foreign organizations or governments, state, local, and Indian Tribal
+  governments. Eligibility also depends on the statutory authority that permits NOAA to fund the proposed
+  activity. CESU projects restricted to non-federal CESU partner institutions.
+eligible_countries: Not specified (no country restriction stated; foreign organizations explicitly eligible).
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'LEAD: yes - the NOFO explicitly lists ''international or foreign organizations
+  or governments'' as eligible applicants, so CIAT (international org, Colombia) or Bioversity (Italy)
+  can apply directly and be funded, subject to NOAA having statutory authority for the specific activity
+  and to SAM.gov UEI + Grants.gov + eRA Commons registration. SUBAWARDEE: also possible under a U.S. lead
+  (subawards follow 2 CFR 200 cost principles). Caveat: this is a non-competitive-discretionary BAA with
+  no dedicated appropriation; success depends on finding a NESDIS program office willing to fund. Duration
+  generally 1 year (negotiable), so it is not a multi-year staff-funding vehicle unless negotiated.'
+lead_applicant_requirements: Single organization applicant with SAM.gov UEI, Grants.gov and eRA Commons
+  registration (Signing Official + PD/PI accounts).
+geographic_restrictions: None stated; project must address NOAA mission areas.
+consortium_required: 'no'
+consortium_details: Not required.
+cofunding_required: 'no'
+cofunding_details: '"Cost sharing is not required unless it is determined that a project can only be funded
+  under an authority that requires matching/cost sharing funds."'
+eligible_activities: '"NOAA issues this BAA for extramural research, innovative projects, and sponsorship
+  (e.g., conferences, newsletters, etc.) that address one or more of NOAA''s mission areas." Mechanism
+  for activities "not addressed through NOAA''s competitive discretionary programs"; not for goods/services
+  for NOAA''s direct benefit.'
+required_documents: SF-424 (with eRA Commons PI ID), SF-424A, SF-424B, CD-511, SF-LLL if applicable; 1-page
+  title page; 1-page project synopsis tied to NOAA mission; project description max 15 pages addressing
+  evaluation criteria; literature cited; CVs of key personnel; NOAA NEPA questionnaire (Q1-19 and 51-57);
+  Data Management Plan (up to 2 pages); budget + detailed budget justification; indirect cost rate agreement
+  if charging above de minimis.
+application_procedure: 'Submit via Grants.gov (validated through eRA Commons); rolling review as received.
+  Requires SAM.gov UEI, Grants.gov and eRA Commons (organization profile + Signing Official + PD/PI accounts);
+  registration can take 6+ weeks. Title page must name the NOAA Line Office and target program. Contact
+  the Line Office before submitting. NESDIS contact: Olga Dixon (Olga.Dixon@noaa.gov); grants mailbox
+  nesdis.grants@noaa.gov.'
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: NESDIS covers satellite data/products (e.g., GOES, JPSS/VIIRS, data stewardship).
+  EO-based drought/vegetation monitoring, AI on satellite data and climate data services for agriculture
+  fit methodologically, but NESDIS's mission is weather/environmental satellites rather than agriculture,
+  so the agricultural framing must be built around NOAA products/services.
+strategic_relevance: 3
+strategic_relevance_rationale: One of very few open U.S. federal research vehicles where a foreign/international
+  organization can be the funded lead and salaries are allowable; useful to build a NOAA relationship
+  (e.g., LAC climate services) but unsolicited BAAs have low and unpredictable funding.
+technical_feasibility: 4
+technical_feasibility_rationale: Team has strong Sentinel/Landsat/MODIS + ML skills; adapting to NOAA
+  satellite products (VIIRS, GOES) is straightforward. Administrative burden (eRA Commons, NEPA questionnaire)
+  is the main hurdle.
+recommendation: 'Pursue opportunistically: only submit after a NESDIS program officer signals interest.
+  Pitch a concrete NOAA-product use case (e.g., VIIRS/GOES-based crop drought early warning or validation
+  of NOAA vegetation/drought products in the Andes/Central America). Do not rely on it for multi-year
+  staff funding; at most a 1-year (negotiable) award.'
+potential_partners: NOAA NESDIS Center for Satellite Applications and Research (STAR) scientists; U.S.
+  universities with NOAA cooperative institutes (e.g., CISESS/U. Maryland, CIRA/Colorado State) as co-investigators.
+next_action: Email Olga.Dixon@noaa.gov / nesdis.grants@noaa.gov with a 1-page concept to identify a sponsoring
+  NESDIS program; in parallel confirm CIAT's SAM.gov UEI status and eRA Commons registration.
+evidence:
+  deadline_quote: Applications must be submitted to Grants.gov up to 11:59:59 p.m. Eastern Daylight Time
+    September 30, 2028. ... Applications will be considered on a continuing/rolling basis as they are
+    received.
+  eligibility_quote: Eligible applicants may be institutions of higher education, nonprofits, commercial
+    organizations, international or foreign organizations or governments, state, local, and Indian Tribal
+    governments. Eligibility also depends on the statutory authority that permits NOAA to fund the proposed
+    activity.
+  status_quote: 'Grants.gov status: posted (posting date Oct 13, 2026; close date Sep 30, 2028).'
+  staff_costs_quote: Generally, costs that are allowable include salaries, equipment and supplies, as
+    long as these are "necessary and reasonable" specifically for the purpose of the award.
+unverified_fields:
+- funding_amount_min
+- funding_amount_max
+- specific NESDIS research priorities (none listed in the NOFO)
+verification_notes: Loaded Grants.gov record via official API (fetchOpportunity id 364069) and the full
+  NOFO PDF (attachment 355212) on 2026-10-22. NOFO gives no amounts and no topic list; eligibility and
+  allowable-cost text quoted from the NOFO.
+last_verified: '2026-10-22'
+verification_source: import:usa_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:55
+  event: added
+  detail: import:usa_staff_2026-10-22.json

@@ -1,0 +1,89 @@
+id: alexander-von-humboldt-foundation-funded-by-the-german-federal-governm
+title: Humboldt Research Fellowship for Postdocs (next call opens 15 Nov 2026)
+funder: Alexander von Humboldt Foundation (funded by the German Federal Government)
+funder_type: national_agency
+program: Humboldt Research Fellowship
+opportunity_type: fellowship
+themes:
+- remote_sensing
+- ai_ml
+- crop_modeling
+- climate_adaptation
+- digital_agriculture
+url: https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship
+source_urls: []
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'Page: ''We have received the maximum number of applications for the current call.'' Next
+  call opens November 15, 2026. Three calls per year (15 March, 15 July, 15 November); ''Once a call has
+  reached the maximum number of currently 800 applications, the application round will be closed.'''
+funding_amount_min: null
+funding_amount_max: null
+currency: EUR
+funding_text: 'Postdocs: EUR 3,000 per month plus additional benefits; experienced researchers: EUR 3,600
+  per month.'
+duration: Postdocs 6-24 months (can be split into up to three stays within three years).
+duration_months_max: 24
+covers_staff_costs: 'yes'
+support_type: fellowship_salary
+eligible_applicants: Individual researchers (non-German) with doctorate completed within the last four
+  years (postdocs) or twelve years (experienced), with a host at a German university or research institution.
+eligible_countries: Any nationality except German nationals (with exceptions); research conducted in Germany.
+international_orgs_eligible: 'no'
+cgiar_eligible: 'no'
+cgiar_eligibility_notes: 'Individual fellowship: the Alliance is not an applicant or host. The researcher
+  personally qualifies (PhD March 2024 < 4 years; Colombian national; check <90 days in Germany in last
+  18 months). Funds the researcher''s stipend at a German host (e.g., Univ. of Bonn, Hohenheim, PIK, ZALF);
+  Alliance could be a collaborating partner. Would require leave/secondment from CIAT. [Ingest note 2026-10-22:
+  individual fellowship — the researcher may qualify personally, but the Alliance is not an applicant
+  and research must be carried out at a host in Germany; recorded as potentially_eligible.]'
+lead_applicant_requirements: Applicant + German host researcher (host statement, mentoring agreement,
+  facilities confirmation).
+geographic_restrictions: Research stay in Germany.
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: 'no'
+cofunding_details: Not specified
+eligible_activities: Self-chosen research project at the German host institution.
+required_documents: Not specified on the page beyond host's statement, mentoring agreement and confirmation
+  of facilities; see foundation's application guidelines.
+application_procedure: Online application when a call window is open (first-come until 800-application
+  cap).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Open-topic fellowship; an EO/AI crop-modelling project with a German agri-geospatial
+  group fits.
+strategic_relevance: 2
+strategic_relevance_rationale: Pays the researcher for up to 24 months but moves the work to Germany rather
+  than funding Alliance staff.
+technical_feasibility: 4
+technical_feasibility_rationale: Researcher meets criteria; individual proposal; needs a German host agreement
+  before the window opens.
+recommendation: Good personal-career option if a German host is secured; apply on 15 Nov 2026 opening
+  day or in the March/July 2027 windows because windows close at 800 applications.
+potential_partners: University of Bonn (remote sensing / crop modelling), University of Hohenheim, PIK
+  Potsdam, ZALF Muencheberg.
+next_action: Identify German host and prepare documents before the 15 Nov 2026 window (or 15 Mar 2027).
+evidence:
+  deadline_quote: We have received the maximum number of applications for the current call. ... next call
+    opens on November 15, 2026
+  eligibility_quote: Did you complete your doctorate - or equivalent academic qualification - during the
+    last four years?
+  status_quote: Once a call has reached the maximum number of currently 800 applications, the application
+    round will be closed.
+  staff_costs_quote: 'Postdocs: EUR 3,000 plus additional benefits (monthly fellowship).'
+unverified_fields:
+- required_documents detail
+- exact closing date of the Nov 2026 window (cap-based)
+verification_notes: Official Humboldt Foundation programme page loaded 2026-10-22 via WebFetch (summary
+  of page text).
+last_verified: '2026-10-22'
+verification_source: import:europe_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:02
+  event: added
+  detail: import:europe_staff_2026-10-22.json

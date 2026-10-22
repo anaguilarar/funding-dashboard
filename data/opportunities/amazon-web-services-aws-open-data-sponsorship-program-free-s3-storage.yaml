@@ -1,0 +1,85 @@
+id: amazon-web-services-aws-open-data-sponsorship-program-free-s3-storage
+title: AWS Open Data Sponsorship Program (free S3 storage + egress for open, cloud-optimized datasets)
+funder: Amazon Web Services
+funder_type: tech_company
+program: Registry of Open Data on AWS - Open Data Sponsorship Program (corporate in-kind)
+opportunity_type: cloud_credits
+themes:
+- climate_data_infrastructure
+- open_source_software
+- remote_sensing
+- digital_agriculture
+url: https://aws.amazon.com/opendata/open-data-sponsorship-program/
+source_urls:
+- https://aws.amazon.com/opendata/faqs/
+- https://application.opendata.aws/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: '"We evaluate applications on a rolling basis." Decisions generally communicated "within
+  a two-week period."'
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: 'Program "covers the cost of storing and sharing publicly available, high-value, cloud-optimized
+  datasets"; FAQ: "The program covers Amazon S3 storage costs for the specific dataset approved under
+  the program" plus distribution costs (egress, cross-region). Compute/analytics not covered.'
+duration: Not specified on loaded official pages (periodic renewal review described)
+duration_months_max: null
+covers_staff_costs: 'no'
+support_type: in_kind_resources
+eligible_applicants: Data providers with openly licensed, well-documented datasets; signer must be an
+  authorized representative of the organization.
+eligible_countries: No restriction stated.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'No applicant-type restriction stated; the Alliance can apply directly as data
+  provider. Constraint: "Datasets must be accessible to all users, usable for any purpose, and available
+  at no cost" (CC BY 4.0 recommended; NC/ND licences excluded).'
+lead_applicant_requirements: Authorized representative of the data-providing organization.
+geographic_restrictions: None stated.
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Hosting and distribution of open, cloud-optimized datasets (e.g., COG/Zarr crop-yield
+  forecasts, climate projections, EO-derived maps) on the Registry of Open Data.
+required_documents: 'Online application: contacts, institution, dataset name/description, size, growth
+  rate, formats, license, intended use and novelty.'
+application_procedure: Review Terms and Conditions, submit the form at application.opendata.aws; rolling
+  review.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Supports climate data infrastructure / open dissemination of RS and crop-model
+  outputs; does not fund research itself.
+strategic_relevance: 3
+strategic_relevance_rationale: Free, durable hosting for Alliance open datasets (e.g., Climate Data Hub
+  layers) increases reuse and visibility; no staff funding.
+technical_feasibility: 5
+technical_feasibility_rationale: Team already produces COG/NetCDF/Zarr datasets with metadata.
+recommendation: Apply for one flagship open dataset (e.g., gridded crop yield forecasts or downscaled
+  climate/crop-suitability layers already CC BY 4.0) to remove storage/egress costs.
+potential_partners: Alliance Climate Data Hub team
+next_action: Pick a CC BY 4.0 dataset, convert to cloud-optimized formats, read the T&Cs and submit at
+  application.opendata.aws.
+evidence:
+  deadline_quote: '"We evaluate applications on a rolling basis."'
+  eligibility_quote: '"Datasets must be accessible to all users, usable for any purpose, and available
+    at no cost."'
+  status_quote: '"The program covers Amazon S3 storage costs for the specific dataset approved under the
+    program"'
+  staff_costs_quote: Not applicable - in-kind storage only; compute, analytics and other services are
+    not covered.
+unverified_fields:
+- term length (a search summary mentioned a two-year renewable term; not confirmed on loaded official
+  pages)
+verification_notes: Loaded the AWS program page and Open Data FAQ on 2026-10-22.
+last_verified: '2026-10-22'
+verification_source: import:corporate_agrifood_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:56
+  event: added
+  detail: import:corporate_agrifood_2026-10-22.json

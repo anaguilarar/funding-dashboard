@@ -1,0 +1,110 @@
+id: european-commission-horizon-europe-msca-choose-europe-for-science-2027
+title: MSCA Choose Europe for Science 2027 - HORIZON-MSCA-2027-COFUND-02-01 (institutional postdoc recruitment
+  programme, Bioversity as single beneficiary)
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe - Marie Sklodowska-Curie Actions, COFUND (Choose Europe for Science)
+opportunity_type: grant
+themes:
+- capacity_building
+- climate_adaptation
+- digital_agriculture
+- remote_sensing
+- ai_ml
+- biodiversity
+- multifunctional_landscapes
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2027-COFUND-02-01
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+- https://rea.ec.europa.eu/funding-and-grants/horizon-europe-marie-sklodowska-curie-actions/msca-choose-europe-science_en
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-04-06T17:00
+deadline_timezone: CET/CEST (Brussels local time, 17:00)
+deadline_text: 'MSCA WP 2026-2027: ''Call - MSCA Choose Europe for Science 2027 HORIZON-MSCA-2027-COFUND-02
+  ... Opening: 08 Dec 2026 Deadline(s): 06 Apr 2027'' (budget EUR 51.32 million).'
+funding_amount_min: null
+funding_amount_max: 10000000
+currency: EUR
+funding_text: 'Call budget EUR 51.32 million. Unit contributions in the EU-funded phase per researcher
+  per month: living allowance EUR 6,350 (x CCC), mobility EUR 710, family EUR 660; institutional: research/training/networking
+  EUR 1,000, management/indirect EUR 650. ''The EU contribution is limited to EUR 10 million per beneficiary
+  for this call.'''
+duration: EU-funded phase 24-36 months + beneficiary-funded phase 24 months; fellowships of 48 or 60 months;
+  action max 60 months (48-month fellowships) or 72 months (60-month fellowships).
+duration_months_max: 72
+covers_staff_costs: 'yes'
+support_type: fellowship_salary
+eligible_applicants: '''Applications must be submitted by a single entity established in an EU Member
+  State or Horizon Europe Associated Country.'' Implementing partners must also be in MS/AC.'
+eligible_countries: 'Beneficiary and implementing partners: EU Member States / Horizon Europe Associated
+  Countries. Recruited researchers: any nationality.'
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Bioversity International (IO HQ in Italy) is 'deemed to be established' in Italy
+  and could be the single beneficiary running a postdoc recruitment programme (min. 3 researchers). It
+  must guarantee funds for the 24-month self-funded phase. Researchers 'already permanently employed by
+  the organisation hosting them cannot be funded'; IO mobility rule (max 12 of last 36 months in the same
+  appointing organisation) applies. CIAT cannot be beneficiary or implementing partner (not in MS/AC).
+lead_applicant_requirements: Single beneficiary; 'The beneficiary will be responsible for the availability
+  of the necessary complementary funds to implement the proposal and ensure the coverage of the phase
+  fully funded by the beneficiary'; at least three researchers recruited within first 12 months.
+geographic_restrictions: Researchers hosted in MS/AC; secondments allowed.
+consortium_required: 'no'
+consortium_details: Single beneficiary, optional implementing partners in MS/AC.
+cofunding_required: 'yes'
+cofunding_details: 'Two-phase model: EU-funded phase 24-36 months; ''a phase funded fully by the beneficiary
+  (24 months) in which the applicant is expected to set salaries attractive at a national level and ensure
+  availability of the necessary internal or external funds''.'
+eligible_activities: Institutional talent-recruitment programmes for postdoctoral researchers with open,
+  merit-based international selection, career development and training.
+required_documents: Part A administrative forms (in submission system) + Part B technical description
+  per template; detailed lump-sum budget table where lump sum applies; ethics self-assessment. See General
+  Annexes A and E.
+application_procedure: Electronic submission by the coordinator via the EU Funding & Tenders Portal; all
+  participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Discipline-open programme; Bioversity could focus it on climate/landscapes/digital
+  agriculture, but it is an institutional, not project, instrument.
+strategic_relevance: 4
+strategic_relevance_rationale: Directly funds multi-year (48-60 month) postdoctoral positions in Italy
+  - exactly the staff/long-term objective - but requires institutional commitment.
+technical_feasibility: 2
+technical_feasibility_rationale: Requires Bioversity management decision and secured co-funding for 24
+  months per fellow by April 2027.
+recommendation: Raise with Alliance leadership/Bioversity Italy grants office as an institutional option
+  for building an EO/AI postdoc cohort; only viable with committed matching funds.
+potential_partners: Bioversity International (beneficiary); Italian universities as implementing partners.
+next_action: Brief Bioversity research-management on the scheme before 8 Dec 2026 opening; estimate co-funding
+  need (24 months x >=3 postdocs).
+evidence:
+  deadline_quote: 'Opening: 08 Dec 2026 Deadline(s): 06 Apr 2027'
+  eligibility_quote: Applications must be submitted by a single entity established in an EU Member State
+    or Horizon Europe Associated Country. ... International organisations with headquarters in an EU Member
+    State or Horizon Europe Associated Country will be deemed to be established in this Member State or
+    Associated Country.
+  status_quote: Portal status code 'Forthcoming' (31094501); planned opening 2026-12-08.
+  staff_costs_quote: The beneficiary or implementing partner must recruit the researcher under an employment
+    contract or equivalent direct contract ... with full social security coverage. ... The monthly gross
+    salary (net salary + employee's taxes and contributions) for the two phases of each Choose Europe
+    for Science programme, should be clearly communicated in the vacancy notice.
+unverified_fields:
+- published_date
+- funding_amount_max is the per-beneficiary cap, not a typical award
+verification_notes: Topic metadata (dates, budget, status, description, conditions) retrieved 2026-10-22
+  from the official EU Funding & Tenders Portal search API (api.tech.ec.europa.eu/search-api, the data
+  source of the portal topic page). Programme rules read from MSCA WP 2026-2027 PDF (section 5, Choose
+  Europe for Science) downloaded 2026-10-22.
+last_verified: '2026-10-22'
+verification_source: import:europe_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:01
+  event: added
+  detail: import:europe_staff_2026-10-22.json
+- date: 2026-10-22 11:02
+  event: reverified
+  detail: no material change

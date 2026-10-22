@@ -1,0 +1,104 @@
+id: european-commission-horizon-europe-ai-supporting-informed-advice-for-f
+title: AI supporting informed advice for farmers and foresters to improve competitiveness and sustainability
+  - HORIZON-CL6-2027-03-GOVERNANCE-04
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 6, Destination 'Innovative governance, environmental observations and
+  digital solutions', Call HORIZON-CL6-2027-03
+opportunity_type: consortium_call
+themes:
+- ai_ml
+- digital_agriculture
+- remote_sensing
+- climate_smart_ag
+- capacity_building
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-03-GOVERNANCE-04
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-05-11T17:00
+deadline_timezone: CET (Brussels local time, 17:00)
+deadline_text: 'Opening: 04 Feb 2027; Deadline(s): 11 May 2027 (17.00.00 Brussels local time).'
+funding_amount_min: 5000000
+funding_amount_max: 6000000
+currency: EUR
+funding_text: Expected EU contribution between EUR 5.00 and 6.00 million per project; total indicative
+  budget EUR 11.80 million. Innovation Action (TRL 8), lump sum.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortia per General Annex B; multi-actor approach mandatory; entities controlled
+  by China excluded (critical technology restriction).
+eligible_countries: EU MS and Associated Countries (+ LMIC list per General Annex B); no IO exception
+  in topic.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'Horizon Europe General Annex B (WP 2026-2027): Colombia, Kenya and most African/LAC
+  countries are on the list of low- and middle-income countries automatically eligible for funding, but
+  the Alliance entities are international organisations, to which the IO rule applies: IOs are funded
+  only when the topic says so or when deemed essential. Where the topic does not open funding to IOs,
+  Bioversity International/CIAT can join as an associated partner (unfunded) or argue ''essential participation''
+  (risky). Bioversity International is headquartered in Italy (an EU Member State), so it fits the ''IO
+  with headquarters in a Member State'' clause; CIAT (HQ Colombia) does not. Confirm the Alliance''s PIC/legal
+  status validation (IO vs. national entity) with the Alliance grants office. This topic has no IO exception
+  and targets EU agriculture/forestry, so the Alliance is realistically an associated partner (e.g., contributing
+  open AI advisory models/datasets) rather than a funded beneficiary.'
+lead_applicant_requirements: Standard HE rules (3 independent entities from 3 MS/AC).
+geographic_restrictions: Focus on EU agriculture and forestry sectors; must use Copernicus and/or Galileo
+  if satellite EO is used.
+consortium_required: 'yes'
+consortium_details: Multi-actor approach (advisors, farmers, foresters). JRC may participate.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs (lump sum); not-for-profit legal entities
+  get 100% in IAs too. See General Annex G.
+eligible_activities: Develop, test, validate and pilot AI-based advisory solutions using multimodal inputs
+  (text, images, audio, video), standardised datasets and in-situ data; build advisor/farmer AI skills.
+required_documents: Proposal Part A (admin forms via Funding & Tenders Portal) and Part B (technical description
+  per template); ethics self-assessment; lump-sum budget table where lump sum applies. See General Annexes
+  A and E.
+application_procedure: Electronic submission through the EU Funding & Tenders Portal by the coordinator;
+  all participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: AI/LLM-based digital advisory with EO and in-situ data is a core interest
+  of the researcher.
+strategic_relevance: 2
+strategic_relevance_rationale: EU-focused competitiveness topic; limited fit to Alliance geographies;
+  IO funding not provided.
+technical_feasibility: 4
+technical_feasibility_rationale: Alliance has digital advisory experience (e.g., site-specific advisories),
+  but TRL 8 in EU farms requires EU partners.
+recommendation: Consider only as associated/knowledge partner with an EU consortium bringing Global-South
+  advisory experience; low funding likelihood for the Alliance.
+potential_partners: EU AKIS actors, WUR, Fraunhofer, agri-tech SMEs, EU farm advisory networks.
+next_action: Check with Bioversity grants office whether participation could be funded via 'essential
+  participation'; otherwise offer associated-partner role to EU contacts.
+evidence:
+  deadline_quote: 'Opening: 04 Feb 2027 / Deadline(s): 11 May 2027'
+  eligibility_quote: The conditions are described in General Annex B. ... the proposals must apply the
+    multi-actor approach.
+  status_quote: 'F&T Portal search API (2026-10-14): status 31094501 (Forthcoming), startDate 2027-02-04,
+    deadlineDate 2027-05-11.'
+  staff_costs_quote: 'A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they
+    fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all
+    estimated costs incl. personnel)'
+unverified_fields:
+- duration
+verification_notes: 'Read WP Part 9 pages 319-321 (official PDF, 2026-10-14); General Annex B IO rule
+  read; status via F&T Portal API. | 2026-10-22 staff-cost/duration check: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
+  (IA, lump sum. WP9 topic text states no duration.)'
+last_verified: '2026-10-14'
+verification_source: import:europe.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:europe.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

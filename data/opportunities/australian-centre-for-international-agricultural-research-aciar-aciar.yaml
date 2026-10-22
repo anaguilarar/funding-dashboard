@@ -1,0 +1,80 @@
+id: australian-centre-for-international-agricultural-research-aciar-aciar
+title: ACIAR commissioned research projects (bilateral/multilateral program)
+funder: Australian Centre for International Agricultural Research (ACIAR)
+funder_type: bilateral
+program: ACIAR research program (Annual Operational Plan 2026-27)
+opportunity_type: research_partnership
+themes:
+- climate_adaptation
+- climate_smart_ag
+- food_security
+- smallholders
+- crop_modeling
+url: https://www.aciar.gov.au/aciar-research-projects
+source_urls:
+- https://www.aciar.gov.au/AOP_2026-27
+status: needs_reverification
+status_basis: speculative
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No open call identified; projects are developed with Research Program Managers.
+funding_amount_min: null
+funding_amount_max: null
+currency: AUD
+funding_text: Not specified
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Not specified
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: ACIAR historically funds CGIAR centres in Indo-Pacific, but official eligibility
+  could not be loaded (site returned 403).
+lead_applicant_requirements: Not specified
+geographic_restrictions: Not specified
+consortium_required: optional
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Not specified
+required_documents: Not specified
+application_procedure: Not specified
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Climate-smart ag in Indo-Pacific.
+strategic_relevance: 3
+strategic_relevance_rationale: Relevant for Alliance Asia programs; little LAC focus.
+technical_feasibility: 3
+technical_feasibility_rationale: Requires RPM engagement.
+recommendation: Engage via Alliance Asia colleagues with relevant ACIAR Research Program Manager; not
+  a call-based opportunity.
+potential_partners: Not specified
+next_action: Ask Alliance Asia office for existing ACIAR RPM contacts and AOP 2026-27 priorities.
+evidence:
+  deadline_quote: ''
+  eligibility_quote: ''
+  status_quote: ''
+unverified_fields:
+- all fields - official site blocked (HTTP 403)
+verification_notes: 'aciar.gov.au returned 403 to fetch and curl on 2026-10-14; status kept as monitoring.
+  | 2026-10-22 staff-cost/duration check: https://www.aciar.gov.au/aciar-research-projects (Official page
+  returned HTTP 403 on 2026-10-22; nothing confirmed.)'
+last_verified: '2026-10-14'
+verification_source: import:national_agencies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:49
+  event: added
+  detail: import:national_agencies.json
+- date: 2026-10-14 11:56
+  event: flagged
+  detail: needs re-verification (url_unreachable); previous status monitoring
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- url_unreachable
+status_before_flag: monitoring

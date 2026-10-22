@@ -1,0 +1,82 @@
+id: google-google-cloud-research-credits-academic-research-grants
+title: Google Cloud Research Credits (academic research grants)
+funder: Google
+funder_type: tech_company
+program: Google for Education - Google Cloud research credits
+opportunity_type: cloud_credits
+themes:
+- ai_ml
+- remote_sensing
+- climate_data_infrastructure
+- crop_modeling
+- open_source_software
+url: https://edu.google.com/intl/ALL_us/programs/credits/research/
+source_urls: []
+status: open
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline stated on the page; online application form available. Credits must be activated
+  within 60 days of the project start date; credits expire 365 days after redemption.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Google Cloud credits; amount not stated on the official page (form asks for expected costs
+  from the GCP pricing calculator). Third-party mirrors cite up to USD 5,000 for faculty/postdocs (not
+  confirmed officially).
+duration: Up to 12 months (credit expires 365 days after redemption or when used up)
+eligible_applicants: Faculty, PhD students and postdoctoral researchers at accredited higher education
+  institutions and eligible nonprofit research institutions in approved countries.
+eligible_countries: Approved country list on the page; Colombia is listed.
+international_orgs_eligible: 'yes'
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Form offers institution type 'Nonprofit Research Institution' and Colombia is
+  an approved country, so CIAT staff (PhD-level researcher) can apply as lead; 'eligible' nonprofit research
+  institution is not defined, so final eligibility is at Google's discretion.
+lead_applicant_requirements: Faculty / postdoc / PhD student at an eligible institution; institutional
+  email preferred; Google Cloud Billing Account ID required.
+geographic_restrictions: Only approved countries (Colombia included).
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: 'no'
+cofunding_details: Form asks how the project will be funded after credits expire.
+eligible_activities: Non-commercial research on Google Cloud (compute, storage, Vertex AI etc.).
+required_documents: 'Online form: personal/institutional details; project name and start date; proposal
+  of max 250 words (research problem, GCP tools, timeline, milestones, outcomes, future GCP support);
+  field of research; external funding; pricing calculator estimate + URL; Cloud Billing Account ID.'
+application_procedure: Complete the online form on the official page.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Useful for training EO/foundation models and running crop-model ensembles
+  on GCP close to Earth Engine data; generic compute support.
+strategic_relevance: 3
+strategic_relevance_rationale: Small, one-off in-kind support; complements EE Partner Tier.
+technical_feasibility: 5
+technical_feasibility_rationale: 250-word proposal; team has GCP/EE skills.
+recommendation: Apply for a defined project (e.g., fine-tuning AlphaEarth embeddings / yield forecasting
+  for Honduras or SAI crop impact runs). Low effort, modest return.
+potential_partners: None needed
+next_action: Prepare pricing-calculator estimate and 250-word proposal; create billing account; submit
+  form.
+evidence:
+  deadline_quote: Not stated; 'credit expires 365 days after redemption or when fully used'
+  eligibility_quote: faculty, PhD students and postdoctoral researchers at accredited higher education
+    institutions and eligible nonprofit research institutions ... currently only available in the countries
+    listed
+  status_quote: 'Online application form live on edu.google.com (institution type options: University,
+    Nonprofit Research Institution)'
+unverified_fields:
+- funding_amount_max
+- review timeline
+- definition of eligible nonprofit research institution
+verification_notes: Loaded edu.google.com/intl/ALL_us/programs/credits/research/ on 2026-10-14. FAQ URL
+  returned 404; amount caps only from third-party mirror, not used.
+last_verified: '2026-10-14'
+verification_source: import:tech_companies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:tech_companies.json
+flags: []

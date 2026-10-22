@@ -1,0 +1,95 @@
+id: global-environment-facility-gef-gef-9-2026-2030-projects-and-integrate
+title: GEF-9 (2026-2030) projects and Integrated Programs via GEF Agencies (CGIAR as executing/knowledge
+  partner)
+funder: Global Environment Facility (GEF)
+funder_type: multilateral
+program: GEF-9 Trust Fund programming (Food Systems, Forest Biomes and other Integrated Programs; focal
+  area projects)
+opportunity_type: consortium_call
+themes:
+- multifunctional_landscapes
+- biodiversity
+- climate_smart_ag
+- food_security
+- remote_sensing
+- climate_mitigation
+url: https://www.thegef.org/partners/gef-agencies
+source_urls:
+- https://www.thegef.org/sites/default/files/documents/2025-12/GEF_R.9.12_%20Programming%20Directions.pdf
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No open call; projects are developed by GEF Agencies with countries during the cycle ('the
+  Global Environment Facility's ninth replenishment cycle (2026-2030)').
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Not specified
+duration: GEF-9 cycle 2026-2030
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Only the 18 GEF Agencies (ADB, AfDB, EBRD, FAO, IDB, IFAD, UNDP, UNEP, UNIDO, World
+  Bank Group, CI, CAF, DBSA, FECO, FUNBIO, IUCN, BOAD, WWF-US) submit projects, with country Operational
+  Focal Point endorsement.
+eligible_countries: GEF-eligible recipient countries; Integrated Programs select countries by criteria.
+international_orgs_eligible: unclear
+cgiar_eligible: 'no'
+cgiar_eligibility_notes: 'VERIFIED: no CGIAR center is a GEF Agency. The GEF-9 Programming Directions
+  list ''Research Centers: Consultative Group on International Agricultural Research (CGIAR), Center for
+  International Forestry Research and World Agroforestry (CIFOR-ICRAF)'' among partners (Forest Biomes
+  IP section). Route: executing partner or knowledge-platform/EO monitoring partner in an agency-led child
+  project or IP global platform (FAO, IFAD, UNDP, CI, WWF, IUCN, CAF, IDB).'
+lead_applicant_requirements: GEF Agency as lead; OFP endorsement.
+geographic_restrictions: Not specified
+consortium_required: 'yes'
+consortium_details: Agency + government + executing partners.
+cofunding_required: 'yes'
+cofunding_details: GEF projects require co-financing (GEF-9 ratio not verified).
+eligible_activities: Integrated Programs incl. Food Systems and Forest Biomes; the programming document
+  cites monitoring systems ('digital platforms, remote sensing, blockchain traceability').
+required_documents: Not specified
+application_procedure: Engage GEF Agencies' regional teams during GEF-9 PIF development and IP child-project
+  design.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Landscape/food-system monitoring with EO and geospatial analytics is a
+  natural knowledge-platform role.
+strategic_relevance: 4
+strategic_relevance_rationale: Multifunctional landscapes and food systems are core Alliance themes; GEF-9
+  is in its first programming year.
+technical_feasibility: 3
+technical_feasibility_rationale: Depends on agency partnership; strong fit for MRV/EO components.
+recommendation: Position the Alliance early with FAO (Food Systems IP) and CI/WWF/IUCN for GEF-9 child
+  projects in LAC, offering EO-based landscape monitoring and crop-climate analytics.
+potential_partners: FAO, IFAD, UNDP, CI, WWF-US, IUCN, CAF, IDB; CIFOR-ICRAF.
+next_action: Identify GEF-9 Food Systems/Forest Biomes IP lead agencies and LAC countries; request meetings
+  with agency GEF coordinators.
+evidence:
+  deadline_quote: Global Environment Facility's ninth replenishment cycle (2026-2030) for the GEF Trust
+    Fund
+  eligibility_quote: 'Research Centers: Consultative Group on International Agricultural Research (CGIAR),
+    Center for International Forestry Research and World Agroforestry (CIFOR-ICRAF).'
+  status_quote: GEF-9 PROGRAMMING DIRECTIONS (GEF/R.9/12, December 5, 2025)
+unverified_fields:
+- final Council-endorsed GEF-9 programming (June 2026; seen only in secondary sources)
+- co-financing ratio
+- GEF-9 IP lead agencies
+verification_notes: 'Loaded the GEF Agencies page and the official GEF/R.9/12 Programming Directions PDF
+  (Dec 2025 replenishment document) on 2026-10-14. Endorsement of the US$3.9bn GEF-9 package at the 71st
+  Council (Samarkand, June 2026) seen only in secondary sources. | 2026-10-22 staff-cost/duration check:
+  https://www.thegef.org/partners/gef-agencies (GEF-9 (2026-2030) is a replenishment cycle, not a project
+  duration; project-level cost rules not checked.)'
+last_verified: '2026-10-14'
+verification_source: import:multilateral.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:51
+  event: added
+  detail: import:multilateral.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

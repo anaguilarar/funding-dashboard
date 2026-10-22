@@ -1,0 +1,89 @@
+id: global-research-alliance-on-agricultural-greenhouse-gases-gra-global-m
+title: CLIFF-GRADS (GRA / Global Methane Hub / CGIAR Climate Action) - next round, as host institution
+  only
+funder: Global Research Alliance on Agricultural Greenhouse Gases (GRA), Global Methane Hub, CGIAR Climate
+  Action Science Program
+funder_type: research_partnership
+program: CLIFF-GRADS
+opportunity_type: fellowship
+themes:
+- climate_mitigation
+- climate_smart_ag
+- capacity_building
+url: https://globalresearchalliance.org/capability-building/cliff-grads/
+source_urls:
+- https://www.cgiar.org/news-events/news/now-open-applications-to-cliff-grads-round-6
+- https://www.surveymonkey.com/r/L53RXR3
+status: monitoring
+status_basis: speculative
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'No next round announced. Round 7 form title: ''CLIFF-GRADS Round 7: Call for Student Applications.
+  Deadline: Sun, 11 Jan 2026, 11:59 p.m. GMT.'''
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: 'Round 6 (CGIAR news): grant of USD 14,000 per student for a research stay; round 7 amount
+  seen only on aggregators.'
+duration: 4-6 month research stay (previous rounds)
+duration_months_max: 6
+covers_staff_costs: Not specified
+support_type: fellowship_salary
+eligible_applicants: PhD students from developing countries enrolled at a developing-country university.
+  Host institutions are research institutions linked to GRA (CGIAR centers have hosted).
+eligible_countries: Developing countries
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: The researcher cannot apply (not a PhD student). The Alliance could host/supervise
+  a student on GHG measurement/modelling; CGIAR Climate Action co-sponsors.
+lead_applicant_requirements: Individual PhD student with supervisor letter.
+geographic_restrictions: Applicant from a developing country
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Research stays on agricultural GHG measurement, modelling, mitigation, soil carbon.
+required_documents: Not specified
+application_procedure: Student application form (SurveyMonkey in round 7).
+eligibility_assessment: confirmed_ineligible
+scientific_alignment: 2
+scientific_alignment_rationale: GHG mitigation focus; tangential unless the topic is EO-based emissions/carbon
+  estimation.
+strategic_relevance: 3
+strategic_relevance_rationale: CGIAR Climate Action co-sponsorship; partner/host channel rather than funding
+  for the researcher.
+technical_feasibility: 3
+technical_feasibility_rationale: Hosting a student is easy if aligned with an ongoing project.
+recommendation: Not funding for the researcher; useful only as host/partner channel. Watch for round 8
+  (previous rounds opened ~Nov-Dec).
+potential_partners: GRA Croplands Research Group, CGIAR Climate Action program, Latin American universities
+  with PhD programmes
+next_action: Monitor GRA/CGIAR news in Nov-Dec 2026 for round 8; if a suitable PhD candidate exists, offer
+  to host.
+evidence:
+  deadline_quote: '''Deadline: Sun, 11 Jan 2026, 11:59 p.m. GMT.'' (round 7 form title)'
+  eligibility_quote: Not verified on an official page for round 7; aggregators state applicants must be
+    PhD students enrolled at a developing-country university.
+  status_quote: Official GRA CLIFF-GRADS page shows only 2020 content; no next round announced.
+unverified_fields:
+- round 8 existence and dates
+- grant amount for next round
+- host eligibility rules
+- eligible_applicants (round 7)
+verification_notes: 'GRA page loaded 2026-10-14 (outdated content). Round 7 details mostly from aggregators;
+  only the organisers'' form title seen. Kept as a monitoring/partner record per brief. | 2026-10-22 staff-cost/duration
+  check: https://www.cgiar.org/news-events/news/now-open-applications-to-cliff-grads-round-6 (Round 6:
+  ''The fellowship involves a grant of USD 14,000'' for ''a research stay that spans four to six months'';
+  cost categories not stated. Round 7 not confirmed on an official page.)'
+last_verified: '2026-10-14'
+verification_source: import:partnerships_regional.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:49
+  event: added
+  detail: import:partnerships_regional.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

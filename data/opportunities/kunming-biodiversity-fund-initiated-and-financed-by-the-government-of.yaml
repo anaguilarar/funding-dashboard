@@ -1,0 +1,109 @@
+id: kunming-biodiversity-fund-initiated-and-financed-by-the-government-of
+title: Kunming Biodiversity Fund (KBF) 2026 Call for Proposals - Stage 2
+funder: Kunming Biodiversity Fund (initiated and financed by the Government of China; Secretariat hosted
+  with UNEP)
+funder_type: multilateral
+program: Kunming Biodiversity Fund - 2026 Full Size Project call
+opportunity_type: grant
+themes:
+- biodiversity
+- multifunctional_landscapes
+- climate_adaptation
+- remote_sensing
+- capacity_building
+url: https://www.unep.org/events/award/2026-call-proposals-kunming-biodiversity-fund
+source_urls:
+- https://www.unep.org/topics/nature-action/kunming-biodiversity-fund-kbf
+status: open
+status_basis: official
+published_date: '2026-08-11'
+deadline: 2026-11-15T23:59
+deadline_timezone: Not specified
+deadline_text: The deadline for Stage 1 submissions is 15 September 2026. ... A second deadline for Stage
+  2 submissions is 15 November 2026. ... All submissions must be made to the KBF Secretariat by 23:59
+  on the day of the respective deadline.
+funding_amount_min: null
+funding_amount_max: 800000
+currency: USD
+funding_text: The project budget for each single country project is no more than $500,000. Regional projects
+  with multiple countries will also be considered. The project budget for each multi-country project should
+  not exceed $800,000.
+duration: 12-24 months
+duration_months_max: 24
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: UN organizations (direct recipients) co-developing the project with an eligible developing-country
+  Party to the CBD; non-UN organizations only as sub-partners.
+eligible_countries: Developing country Parties to the CBD (guidelines prepared 'to assist developing country
+  Parties to the CBD'); Colombia is a CBD Party and developing country.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Alliance/CIAT cannot be the direct recipient. It can only join as a non-UN sub-partner
+  of a participating UN organization (e.g., UNEP, UNDP, FAO country office) on a country-endorsed project
+  (e.g., Colombia, with endorsement from the CBD national focal point / Ministerio de Ambiente).
+lead_applicant_requirements: A UN Participating Organization chosen by the beneficiary country; PSC no
+  more than 7%; endorsement letter(s) from the CBD national focal point or designated official in the
+  lead ministry (one per country for multi-country projects).
+geographic_restrictions: Country-level or sub-national implementation of KMGBF/NBSAPs in developing country
+  Parties.
+consortium_required: 'yes'
+consortium_details: Must be co-developed between the country and a UN Participating Organization; non-UN
+  organizations may be sub-partners.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Thematic areas: restoring and protecting ecosystems; mainstreaming biodiversity
+  into policies/planning; strengthening resource mobilization; sharing benefits from genetic resources
+  and DSI. Must respond to gaps in the Global Review of KMGBF implementation (incl. biodiversity data
+  and monitoring systems).'
+required_documents: Full project proposal template (Annex 2), budget template (Annex 3), compliance with
+  KBF Risk Management Strategy (Annex 4), CBD focal point endorsement letter(s).
+application_procedure: Email the proposal to the KBF Secretariat at kbf@un.org; review by the KBF Independent
+  Technical Advisory Group, final decision by the KBF Executive Council; results anticipated by 31 Dec
+  2026 for Stage 2.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Biodiversity/restoration focus; EO-based restoration and agrobiodiversity
+  monitoring, landscape planning tools could be a component, but RS/AI is not the core ask.
+strategic_relevance: 4
+strategic_relevance_rationale: China-funded, UN-channelled biodiversity money for Colombia/LAC; fits Alliance
+  Multifunctional Landscapes and Bioversity agrobiodiversity mandate.
+technical_feasibility: 2
+technical_feasibility_rationale: Team capability is fine, but only ~1 month remains and the project needs
+  a UN agency lead plus a ministerial endorsement letter, which is hard to get in time unless a UNEP/UNDP/FAO
+  Colombia proposal is already in preparation.
+recommendation: 'Pursue only as a sub-partner: ask UNDP/FAO/UNEP Colombia offices and Alliance biodiversity
+  colleagues immediately whether a Stage 2 proposal is being prepared and offer the EO/biodiversity monitoring
+  component. Otherwise monitor for the 2027 call.'
+potential_partners: UNEP LAC office, UNDP Colombia, FAO Colombia; Ministerio de Ambiente y Desarrollo
+  Sostenible (CBD focal point); Instituto Humboldt; Alliance Bioversity agrobiodiversity teams.
+next_action: 'Before end Oct 2026: email kbf@un.org for the annexes/templates and contact UN country offices
+  in Colombia to join a Stage 2 proposal as sub-partner.'
+evidence:
+  deadline_quote: A second deadline for Stage 2 submissions is 15 November 2026. ... All submissions must
+    be made to the KBF Secretariat by 23:59 on the day of the respective deadline.
+  eligibility_quote: For this Call for Proposals, the KBF will only directly fund UN agencies. Beneficiary
+    countries will access funding through the participating UN organization. Non-UN Organizations may
+    be considered sub-partners in all proposals, as appropriate.
+  status_quote: Start date 11 Aug 2026 End Date 15 Nov 2026 ... The 2026 Call for Proposals will be conducted
+    in two stages
+unverified_fields:
+- deadline_timezone
+- annex templates (not linked on the page; obtained via kbf@un.org)
+- cofunding_required
+verification_notes: 'Loaded the official UNEP call page (full guidelines text embedded) and the UNEP KBF
+  overview page via direct HTTP on 2026-10-14. Stage 1 (15 Sep 2026) has passed; Stage 2 open. | 2026-10-22
+  staff-cost/duration check: https://www.unep.org/events/award/2026-call-proposals-kunming-biodiversity-fund
+  (Page blocked (403/Cloudflare) on 2026-10-22; 12-24 months kept from the record''s earlier verification
+  of this official page; staff-cost rules not confirmed.)'
+last_verified: '2026-10-14'
+verification_source: import:china.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 12:21
+  event: added
+  detail: import:china.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

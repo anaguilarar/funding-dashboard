@@ -1,0 +1,97 @@
+id: national-natural-science-foundation-of-china-nsfc-nsfc-sdic-2026-strat
+title: NSFC SDIC 2026 Strategic Cooperation Projects (Guideline Two) - incl. 'Agricultural product security
+  under climate change'
+funder: National Natural Science Foundation of China (NSFC)
+funder_type: national_agency
+program: 可持续发展国际合作科学计划 2026年度项目指南（第二批）战略性合作项目
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_smart_ag
+- food_security
+- ai_ml
+- crop_modeling
+url: https://www.nsfc.gov.cn/p1/3381/2824/zntg.html
+source_urls:
+- https://research.ustb.edu.cn/docs/2026-06/01b47105f4f641d5a71433a2594cdc4d.pdf
+status: monitoring
+status_basis: speculative
+published_date: '2026-06-05'
+deadline: null
+deadline_timezone: Beijing time (UTC+8)
+deadline_text: '2026 round (closed): "科学基金网络信息系统在线申报接收期为 2026 年 6 月 5 日至 2026 年 7 月 27 日 16:00 时" (online
+  submission 5 June - 27 July 2026, 16:00).'
+funding_amount_min: null
+funding_amount_max: 2000000
+currency: CNY
+funding_text: 拟资助能力培育项目 23 项左右，资助强度不超过 60 万元/项（直接费用）；重点项目 15 项左右，资助强度不超过 200 万元/项 (about 23 capacity-building
+  projects up to 600k RMB; about 15 key projects up to 2M RMB; youth exchange and seminar projects up
+  to 300k RMB). Chinese side only.
+duration: 3 years (2027-2029) for research projects
+duration_months_max: 36
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: 'Chinese PI (senior title, NSFC 3-year project PI). Foreign partner: "外方合作者应在境外从事科学研究，具有所在国（或所在地）相当于副教授以上的专业技术职务（职称），并独立主持实验室或重要的研究项目"
+  (foreign partner must work abroad, hold associate-professor-equivalent title, and independently lead
+  a lab or major project).'
+eligible_countries: Any country for foreign partner; focus on Belt and Road partner countries and typical
+  regions worldwide.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Senior Alliance scientist could be the foreign collaborator of a Chinese PI.
+  No CGIAR-specific window. Chinese lead required.
+lead_applicant_requirements: 中方申请人应具有高级专业技术职务（职称），应作为负责人正在承担或承担过 3 年期（含）以上国家自然科学基金项目 (Chinese applicant
+  must hold a senior title and be/have been PI of a 3+ year NSFC project).
+geographic_restrictions: Chinese mainland lead; '重点聚焦“一带一路”共建国家及全球典型区域' (focus on Belt and Road countries
+  and typical global regions).
+consortium_required: 'yes'
+consortium_details: Chinese PI + foreign collaborator; joint English application signed by the foreign
+  partner.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Direction (五) 气候变化下的农产品安全: ''构建气候适配型粮食稳产预测与风险预警体系，研发推广跨境协同的气候智慧型农业方案'' (climate-adapted
+  grain yield prediction and risk early-warning systems; cross-border climate-smart agriculture). Integration
+  of observation, simulation, big data and AI is encouraged.'
+required_documents: Chinese application; English application (Appendix 1/2) signed by the foreign partner;
+  cooperation agreement after approval.
+application_procedure: Chinese PI via https://grants.nsfc.gov.cn (组织间合作研究 > SDIC).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: Yield forecasting/early warning under climate change using observation,
+  modelling, big data and AI is exactly the researcher's profile.
+strategic_relevance: 4
+strategic_relevance_rationale: Builds China partnerships on climate-ag forecasting; Belt and Road framing
+  fits less with LAC but global typical regions allowed.
+technical_feasibility: 4
+technical_feasibility_rationale: Feasible as foreign collaborator, but the foreign partner must hold associate-professor-equivalent
+  rank and lead a lab or major project, so a senior Alliance scientist may need to be the named partner.
+recommendation: Closed for 2026; watch for a 2027 Guideline Two. Pair with a Chinese crop-modelling/RS
+  group.
+potential_partners: AIRCAS, CAAS-IARRP, China Agricultural University, Nanjing Agricultural University.
+next_action: Monitor NSFC guide list from ~March 2027; secure Chinese PI.
+evidence:
+  deadline_quote: 科学基金网络信息系统在线申报接收期为 2026 年 6 月 5 日至 2026 年 7 月 27 日 16:00 时
+  eligibility_quote: 外方合作者应在境外从事科学研究，具有所在国（或所在地）相当于副教授以上的专业技术职务（职称），并独立主持实验室或重要的研究项目。
+  status_quote: 2026 年度，科学计划将发布两批指南，包括组织间合作及战略性合作两类。本次发布的是战略性合作项目指南
+unverified_fields:
+- direct nsfc.gov.cn URL of the Guideline Two notice (text read from a university mirror of the NSFC document
+  signed '国家自然科学基金委员会 国际合作局 2026 年 6 月 5 日')
+- 2027 timing
+verification_notes: 'Text extracted 2026-10-14 from the PDF of the NSFC Bureau of International Cooperation
+  guideline mirrored by USTB; contents consistent with the official SDIC Guideline One on nsfc.gov.cn.
+  Closed on 27 July 2026. | 2026-10-22 staff-cost/duration check: https://www.nsfc.gov.cn/p1/3381/2824/zntg.html
+  (''能力培育项目及重点项目资助期限为 3 年'' (2027-01-01 to 2029-12-31; confirmed in guide PDF at research.ustb.edu.cn
+  mirror of the official guide). NSFC funds the Chinese side only; staff-cost rules not stated in the
+  guide.)'
+last_verified: '2026-10-14'
+verification_source: import:china.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 12:21
+  event: added
+  detail: import:china.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

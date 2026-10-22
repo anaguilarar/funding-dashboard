@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Funding Intelligence</title>
+<style>
+:root{
+  --bg:#f6f5f1; --panel:#ffffff; --ink:#1d2321; --muted:#5f6a66; --faint:#8a9490; --line:#e1e0d8;
+  --accent:#1f6f4a; --accent-soft:#e3f0e8; --chip:#eef0ec;
+  --red:#b3261e; --red-soft:#fbe9e7; --amber:#a15c00; --amber-soft:#fdf0dc;
+  --green:#1f6f4a; --green-soft:#e3f0e8; --blue:#2457a6; --blue-soft:#e6eefb;
+  --grey-soft:#efefec; --shadow:0 1px 2px rgba(0,0,0,.05);
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#141816; --panel:#1c211f; --ink:#e6ebe8; --muted:#a3ada9; --faint:#7b8581; --line:#2e3532;
+  --accent:#6cc79a; --accent-soft:#1f3a2c; --chip:#262d2a;
+  --red:#ff8a80; --red-soft:#3d1f1d; --amber:#f2b45a; --amber-soft:#3a2c14;
+  --green:#6cc79a; --green-soft:#1f3a2c; --blue:#8fb4f5; --blue-soft:#1d2a40; --grey-soft:#262d2a;
+}}
+:root[data-theme="dark"]{
+  --bg:#141816; --panel:#1c211f; --ink:#e6ebe8; --muted:#a3ada9; --faint:#7b8581; --line:#2e3532;
+  --accent:#6cc79a; --accent-soft:#1f3a2c; --chip:#262d2a;
+  --red:#ff8a80; --red-soft:#3d1f1d; --amber:#f2b45a; --amber-soft:#3a2c14;
+  --green:#6cc79a; --green-soft:#1f3a2c; --blue:#8fb4f5; --blue-soft:#1d2a40; --grey-soft:#262d2a;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--blue)}
+header{padding:20px 24px 8px;max-width:1400px;margin:0 auto;display:flex;gap:16px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap}
+h1{font-size:22px;margin:0;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:13px}
+main{max-width:1400px;margin:0 auto;padding:0 24px 40px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:14px 0}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer;box-shadow:var(--shadow)}
+.kpi b{display:block;font-size:24px;font-variant-numeric:tabular-nums}
+.kpi span{color:var(--muted);font-size:12px}
+nav.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-top:6px;overflow-x:auto}
+nav.tabs button{background:none;border:0;padding:10px 14px;color:var(--muted);font:inherit;cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap}
+nav.tabs button.on{color:var(--ink);border-bottom-color:var(--accent);font-weight:600}
+.layout{display:grid;grid-template-columns:260px 1fr;gap:18px;margin-top:16px}
+@media (max-width:900px){.layout{grid-template-columns:1fr}}
+aside.filters{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px;align-self:start;position:sticky;top:10px}
+aside.filters label{display:block;font-size:12px;color:var(--muted);margin:10px 0 4px}
+aside.filters label:first-child{margin-top:0}
+select,input[type=text],input[type=number]{width:100%;padding:7px 8px;border:1px solid var(--line);border-radius:7px;background:var(--bg);color:var(--ink);font:inherit}
+input[type=range]{width:100%}
+.btn{background:var(--panel);border:1px solid var(--line);color:var(--ink);padding:7px 11px;border-radius:7px;cursor:pointer;font:inherit}
+.btn:hover{border-color:var(--accent)}
+.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
+.toolbar .count{color:var(--muted);margin-right:auto}
+.toolbar select{width:auto}
+.themechips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{display:inline-block;background:var(--chip);border-radius:999px;padding:2px 8px;font-size:12px;color:var(--muted);border:1px solid transparent}
+button.chip{cursor:pointer;font:inherit;font-size:12px}
+button.chip.on{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-bottom:10px;box-shadow:var(--shadow)}
+.card.tier-high{border-left:4px solid var(--green)}
+.card.tier-medium{border-left:4px solid var(--amber)}
+.card.tier-low,.card.tier-ineligible{border-left:4px solid var(--line)}
+.card-h{display:grid;grid-template-columns:minmax(0,1fr) 230px;gap:12px;padding:12px 14px;cursor:pointer}
+.card-h h3{margin:0 0 2px;font-size:15px}
+.meta{color:var(--muted);font-size:13px}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.b{font-size:11.5px;border-radius:5px;padding:2px 7px;font-weight:600;white-space:nowrap}
+.b-open,.b-rolling{background:var(--green-soft);color:var(--green)}
+.b-upcoming{background:var(--blue-soft);color:var(--blue)}
+.b-monitoring,.b-closed{background:var(--grey-soft);color:var(--muted)}
+.b-needs_reverification{background:var(--red-soft);color:var(--red)}
+.b-el-confirmed_eligible{background:var(--green-soft);color:var(--green)}
+.b-el-potentially_eligible{background:var(--amber-soft);color:var(--amber)}
+.b-el-confirmed_ineligible{background:var(--red-soft);color:var(--red)}
+.b-spec{background:var(--amber-soft);color:var(--amber)}
+.b-plain{background:var(--grey-soft);color:var(--muted)}
+.right{text-align:right;min-width:150px}
+.score{font-size:22px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+.score small{font-size:11px;color:var(--muted);font-weight:500;display:block;margin-top:2px}
+.dl{font-size:13px;margin-top:6px;font-variant-numeric:tabular-nums}
+.dl.urgent{color:var(--red);font-weight:600}.dl.soon{color:var(--amber);font-weight:600}
+.next{font-size:13px;margin-top:6px}
+.next b{color:var(--accent)}
+.detail{display:none;border-top:1px solid var(--line);padding:12px 14px}
+.card.open .detail{display:block}
+.grid{display:grid;grid-template-columns:200px 1fr;gap:4px 14px;font-size:13px}
+@media (max-width:640px){.grid{grid-template-columns:1fr}.card-h{grid-template-columns:1fr}.right{text-align:left}}
+.grid dt{color:var(--muted)}
+.grid dd{margin:0;overflow-wrap:anywhere}
+.ns{color:var(--faint);font-style:italic}
+.sec{font-weight:600;margin:14px 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.bars{display:grid;grid-template-columns:200px 1fr 34px;gap:4px 10px;font-size:12.5px;align-items:center;max-width:620px}
+.bar{height:8px;background:var(--grey-soft);border-radius:4px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent)}
+.warn{background:var(--amber-soft);color:var(--amber);border-radius:7px;padding:8px 10px;font-size:13px;margin:8px 0}
+.quote{border-left:3px solid var(--line);padding:2px 10px;color:var(--muted);font-size:13px;margin:4px 0}
+table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:13px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:12px;background:var(--bg)}
+.tablewrap{overflow-x:auto}
+.empty{padding:30px;text-align:center;color:var(--muted);background:var(--panel);border:1px dashed var(--line);border-radius:10px}
+.doc{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 22px;max-width:900px}
+.doc h2{font-size:17px;margin-top:0}.doc h3{font-size:14px;margin-bottom:4px}
+.hidden{display:none!important}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Research Funding Intelligence</h1>
+    <div class="sub" id="subtitle"></div>
+  </div>
+  <div class="sub">
+    <button class="btn" id="themeBtn" title="Toggle light/dark">◐ Theme</button>
+  </div>
+</header>
+<main>
+  <section class="kpis" id="kpis"></section>
+  <nav class="tabs" id="tabs">
+    <button data-tab="active" class="on">Active opportunities</button>
+    <button data-tab="leads">Leads to verify</button>
+    <button data-tab="archive">Archive</button>
+    <button data-tab="sources">Monitored sources</button>
+    <button data-tab="log">Activity log</button>
+    <button data-tab="method">Method &amp; scoring</button>
+  </nav>
+
+  <div id="tab-active" class="layout">
+    <aside class="filters" id="filters">
+      <label for="q">Search</label>
+      <input type="text" id="q" placeholder="title, funder, keyword…">
+      <label for="fStatus">Application status</label>
+      <select id="fStatus"><option value="">All active</option><option value="open_or_rolling">Open or rolling</option><option value="open">Open (fixed deadline)</option><option value="rolling">Rolling / continuous</option><option value="upcoming">Upcoming</option><option value="monitoring">Monitoring required</option><option value="needs_reverification">Needs re-verification</option></select>
+      <label for="fElig">Institutional eligibility</label>
+      <select id="fElig"><option value="">Any</option><option value="confirmed_eligible">Confirmed eligible</option><option value="potentially_eligible">Potentially eligible (clarify)</option><option value="confirmed_ineligible">Not eligible as applicant</option></select>
+      <label for="fTier">Priority tier</label>
+      <select id="fTier"><option value="">Any</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option><option value="ineligible">Ineligible</option></select>
+      <label for="fScore">Min. research-fit score: <span id="fScoreV">0</span></label>
+      <input type="range" id="fScore" min="0" max="100" step="5" value="0">
+      <label for="fFunder">Funding organisation</label>
+      <select id="fFunder"><option value="">All</option></select>
+      <label for="fFType">Funder category</label>
+      <select id="fFType"><option value="">All</option></select>
+      <label for="fType">Opportunity type</label>
+      <select id="fType"><option value="">All</option></select>
+      <label for="fScope">Funding scope</label>
+      <select id="fScope"><option value="">Any</option><option value="staff_any">Can pay staff salaries</option><option value="staff_multi_year">Staff + multi-year (≥24 months)</option><option value="not_resources">Exclude credits / in-kind</option><option value="no_staff">Cash, but no salary costs</option><option value="resources_only">Credits / in-kind only</option><option value="unknown">Staff costs not specified</option></select>
+      <label for="fCons">Consortium requirement</label>
+      <select id="fCons"><option value="">Any</option><option value="yes">Required</option><option value="optional">Optional</option><option value="no">Not required</option><option value="Not specified">Not specified</option></select>
+      <label for="fGeo">Geographic eligibility contains</label>
+      <input type="text" id="fGeo" placeholder="e.g. Colombia, Africa, global">
+      <label for="fDays">Deadline within (days)</label>
+      <input type="number" id="fDays" min="0" placeholder="any">
+      <label for="fAmt">Min. funding (≈USD)</label>
+      <input type="number" id="fAmt" min="0" step="10000" placeholder="any">
+      <label>Research theme</label>
+      <div class="themechips" id="fThemes"></div>
+      <div style="margin-top:12px"><button class="btn" id="reset">Reset filters</button></div>
+    </aside>
+    <section>
+      <div class="toolbar">
+        <span class="count" id="count"></span>
+        <label for="sort" class="sub">Sort</label>
+        <select id="sort">
+          <option value="score">Priority score</option>
+          <option value="deadline">Deadline (soonest)</option>
+          <option value="amount">Funding amount (≈USD)</option>
+          <option value="duration">Duration (longest)</option>
+          <option value="funder">Funder A–Z</option>
+          <option value="verified">Last verified (oldest)</option>
+        </select>
+        <button class="btn" id="expand">Expand all</button>
+        <button class="btn" id="csv">Export CSV</button>
+      </div>
+      <div id="list"></div>
+    </section>
+  </div>
+
+  <div id="tab-leads" class="hidden" style="margin-top:16px">
+    <div class="warn">These are <b>unverified leads</b> detected automatically (funder pages, Grants.gov and EU Funding &amp; Tenders APIs). They are not recommendations. Verify each against the official call documentation before acting; then promote or reject it (see README).</div>
+    <div class="toolbar"><input type="text" id="lq" placeholder="filter leads…" style="max-width:320px"><span class="count" id="lcount"></span></div>
+    <div class="tablewrap"><table id="leads"></table></div>
+  </div>
+  <div id="tab-archive" class="hidden" style="margin-top:16px"><div id="archiveList"></div></div>
+  <div id="tab-sources" class="hidden" style="margin-top:16px"><div class="tablewrap"><table id="sources"></table></div></div>
+  <div id="tab-log" class="hidden" style="margin-top:16px"><div class="tablewrap"><table id="log"></table></div></div>
+  <div id="tab-method" class="hidden" style="margin-top:16px"><div class="doc" id="method"></div></div>
+</main>
+
+<script>
+const DATA = /*__DATA__*/null;
+const NS = DATA.ns;
+const $ = s => document.querySelector(s);
+const esc = v => String(v ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const val = v => (v === null || v === undefined || v === "" || v === NS || (Array.isArray(v) && !v.length))
+  ? `<span class="ns">Not specified</span>` : esc(Array.isArray(v) ? v.join(", ") : v);
+const link = u => u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>` : `<span class="ns">Not specified</span>`;
+const STATUS = {open:"Open", rolling:"Rolling", upcoming:"Upcoming", monitoring:"Monitoring", closed:"Closed", needs_reverification:"Re-verify"};
+const ELIG = {confirmed_eligible:"Eligible", potentially_eligible:"Eligibility: clarify", confirmed_ineligible:"Not eligible (applicant)"};
+const TYPES = {multilateral:"Multilateral fund", national_agency:"National agency", foundation:"Foundation", tech_company:"Tech company", research_partnership:"Research partnership", bilateral:"Bilateral agency", cgiar:"CGIAR", regional_fund:"Regional fund"};
+const CRIT = {scientific_alignment:"Scientific alignment", institutional_eligibility:"Institutional eligibility", technical_feasibility:"Technical feasibility", strategic_relevance:"Strategic relevance", application_feasibility:"Application feasibility"};
+
+/* theme toggle (per-viewer convenience only) */
+(function(){
+  let t = null; try { t = localStorage.getItem("fi-theme"); } catch(e) {}
+  if (t) document.documentElement.dataset.theme = t;
+  $("#themeBtn").onclick = () => {
+    const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+    const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
+    const nxt = cur === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = nxt;
+    try { localStorage.setItem("fi-theme", nxt); } catch(e) {}
+  };
+})();
+
+$("#subtitle").textContent = `${DATA.profile.institution} · ${DATA.profile.research_areas.join(" & ")} · generated ${DATA.generated}`;
+
+const A = DATA.active;
+const fmtAmt = r => {
+  const c = r.currency && r.currency !== NS ? r.currency + " " : "";
+  const f = n => Number(n).toLocaleString("en-US", {maximumFractionDigits:0});
+  if (r.funding_amount_min && r.funding_amount_max && r.funding_amount_min !== r.funding_amount_max) return `${c}${f(r.funding_amount_min)}–${f(r.funding_amount_max)}`;
+  if (r.funding_amount_max || r.funding_amount_min) return `${c}${f(r.funding_amount_max || r.funding_amount_min)}`;
+  return null;
+};
+const dlClass = r => r.days_left == null ? "" : r.days_left <= DATA.deadlines.urgent_days ? "urgent" : r.days_left <= DATA.deadlines.soon_days ? "soon" : "";
+const dlText = r => {
+  if (!r.deadline) { if (r.status === "rolling") return "Rolling / no fixed deadline"; const t = r.deadline_text && r.deadline_text !== NS ? r.deadline_text : "Deadline not specified"; return t.length > 70 ? t.slice(0, 67) + "…" : t; }
+  const tz = r.deadline_timezone && r.deadline_timezone !== NS ? " " + r.deadline_timezone : "";
+  const d = r.days_left;
+  return `${r.deadline.replace("T"," ")}${tz} · ${d < 0 ? "passed" : d + " days left"}`;
+};
+
+/* KPIs */
+function kpis(){
+  const k = [
+    ["High-priority & eligible", A.filter(r => r.tier === "high").length, () => setF({fTier:"high"})],
+    ["Open / rolling", A.filter(r => ["open","rolling"].includes(r.status)).length, () => setF({fStatus:"open_or_rolling"})],
+    [`Deadlines ≤ ${DATA.deadlines.soon_days} days`, A.filter(r => r.days_left != null && r.days_left >= 0 && r.days_left <= DATA.deadlines.soon_days).length, () => setF({fDays:DATA.deadlines.soon_days})],
+    ["Funds staff, multi-year", A.filter(r => r.funding_scope === "staff_multi_year").length, () => setF({fScope:"staff_multi_year"})],
+    ["Upcoming (announced)", A.filter(r => r.status === "upcoming").length, () => setF({fStatus:"upcoming"})],
+    ["Needs re-verification", A.filter(r => r.status === "needs_reverification" || (r.flags||[]).some(f => f !== "stale_verification")).length, () => setF({fStatus:"needs_reverification"})],
+    ["Leads to verify", DATA.leads.length, () => tab("leads")],
+  ];
+  $("#kpis").innerHTML = k.map((x,i) => `<div class="kpi" data-i="${i}"><b>${x[1]}</b><span>${esc(x[0])}</span></div>`).join("");
+  document.querySelectorAll(".kpi").forEach(el => el.onclick = () => { tab("active"); k[+el.dataset.i][2](); });
+}
+
+/* filters */
+const uniq = a => [...new Set(a.filter(Boolean))].sort((x,y) => String(x).localeCompare(String(y)));
+function fillSelect(id, values, labels){ const s = $(id); values.forEach(v => s.insertAdjacentHTML("beforeend", `<option value="${esc(v)}">${esc(labels ? (labels[v]||v) : v)}</option>`)); }
+fillSelect("#fFunder", uniq(A.map(r => r.funder)));
+fillSelect("#fFType", uniq(A.map(r => r.funder_type)), TYPES);
+fillSelect("#fType", uniq(A.map(r => r.opportunity_type)));
+const activeThemes = new Set();
+$("#fThemes").innerHTML = Object.entries(DATA.themes).filter(([k]) => A.some(r => (r.themes||[]).includes(k)))
+  .map(([k,v]) => `<button class="chip" data-t="${k}">${esc(v)}</button>`).join("");
+$("#fThemes").onclick = e => { const t = e.target.dataset.t; if (!t) return; activeThemes.has(t) ? activeThemes.delete(t) : activeThemes.add(t); e.target.classList.toggle("on"); render(); };
+const FIDS = ["q","fStatus","fElig","fTier","fScore","fFunder","fFType","fType","fScope","fCons","fGeo","fDays","fAmt","sort"];
+FIDS.forEach(id => $("#"+id).addEventListener("input", render));
+$("#reset").onclick = () => { FIDS.forEach(id => { const el = $("#"+id); if (id === "sort") return; el.value = id === "fScore" ? 0 : ""; }); activeThemes.clear(); document.querySelectorAll("#fThemes .chip").forEach(c => c.classList.remove("on")); render(); };
+function setF(o){ $("#reset").click(); Object.entries(o).forEach(([k,v]) => $("#"+k).value = v); render(); }
+
+const SCOPE = {staff_multi_year: "Funds staff · multi-year", staff: "Funds staff", no_staff: "No salary costs", resources_only: "Credits / in-kind", unknown: ""};
+function scopeOk(r, v){
+  if (!v) return true;
+  if (v === "staff_any") return ["staff","staff_multi_year"].includes(r.funding_scope);
+  if (v === "not_resources") return r.funding_scope !== "resources_only";
+  return r.funding_scope === v;
+}
+function filtered(){
+  const q = $("#q").value.toLowerCase().trim(), geo = $("#fGeo").value.toLowerCase().trim();
+  const days = $("#fDays").value === "" ? null : +$("#fDays").value, amt = $("#fAmt").value === "" ? null : +$("#fAmt").value;
+  const minS = +$("#fScore").value; $("#fScoreV").textContent = minS;
+  const st = $("#fStatus").value;
+  let out = A.filter(r =>
+    (!st || r.status === st || (st === "open_or_rolling" && ["open","rolling"].includes(r.status))) &&
+    (!$("#fElig").value || r.eligibility_assessment === $("#fElig").value) &&
+    (!$("#fTier").value || r.tier === $("#fTier").value) &&
+    (r.score >= minS) &&
+    (!$("#fFunder").value || r.funder === $("#fFunder").value) &&
+    (!$("#fFType").value || r.funder_type === $("#fFType").value) &&
+    (!$("#fType").value || r.opportunity_type === $("#fType").value) &&
+    scopeOk(r, $("#fScope").value) &&
+    (!$("#fCons").value || r.consortium_required === $("#fCons").value) &&
+    (!geo || [r.eligible_countries, r.geographic_restrictions, r.eligible_applicants].join(" ").toLowerCase().includes(geo)) &&
+    (days == null || (r.days_left != null && r.days_left >= 0 && r.days_left <= days)) &&
+    (amt == null || (r.amount_usd_approx != null && r.amount_usd_approx >= amt)) &&
+    (!activeThemes.size || [...activeThemes].every(t => (r.themes||[]).includes(t))) &&
+    (!q || JSON.stringify([r.title,r.funder,r.program,r.themes,r.eligible_activities,r.recommendation,r.funding_text]).toLowerCase().includes(q))
+  );
+  const s = $("#sort").value;
+  const big = 1e9;
+  out.sort({
+    score: (a,b) => b.score - a.score || (a.days_left ?? big) - (b.days_left ?? big),
+    deadline: (a,b) => ((a.days_left ?? big) < 0 ? big : (a.days_left ?? big)) - ((b.days_left ?? big) < 0 ? big : (b.days_left ?? big)),
+    amount: (a,b) => (b.amount_usd_approx ?? -1) - (a.amount_usd_approx ?? -1),
+    duration: (a,b) => (b.duration_months_max ?? -1) - (a.duration_months_max ?? -1),
+    funder: (a,b) => a.funder.localeCompare(b.funder),
+    verified: (a,b) => String(a.last_verified).localeCompare(String(b.last_verified)),
+  }[s]);
+  return out;
+}
+
+function card(r, archived){
+  const amt = fmtAmt(r);
+  const flags = (r.flags||[]).filter(f => f !== "stale_verification");
+  const stale = (r.flags||[]).includes("stale_verification");
+  return `<article class="card tier-${r.tier}" id="c-${esc(r.id)}">
+  <div class="card-h" onclick="this.parentNode.classList.toggle('open')">
+    <div>
+      <h3>${esc(r.title)}</h3>
+      <div class="meta">${esc(r.funder)}${r.program && r.program !== NS ? " · " + esc(r.program) : ""}</div>
+      <div class="badges">
+        <span class="b b-${r.status}">${STATUS[r.status]||r.status}</span>
+        ${r.status_basis === "speculative" ? `<span class="b b-spec">Speculative</span>` : ""}
+        <span class="b b-el-${r.eligibility_assessment}">${ELIG[r.eligibility_assessment]}</span>
+        ${SCOPE[r.funding_scope] ? `<span class="b ${["resources_only","no_staff"].includes(r.funding_scope) ? "b-plain" : "b-open"}">${SCOPE[r.funding_scope]}</span>` : ""}
+        ${r.consortium_required === "yes" ? `<span class="b b-plain">Consortium required</span>` : ""}
+        ${r.opportunity_type && r.opportunity_type !== NS ? `<span class="b b-plain">${esc(r.opportunity_type)}</span>` : ""}
+        ${flags.length ? `<span class="b b-needs_reverification">⚑ ${esc(flags.join(", "))}</span>` : ""}
+        ${stale ? `<span class="b b-spec">verification stale</span>` : ""}
+      </div>
+      <div class="badges">${(r.themes||[]).map(t => `<span class="chip">${esc(DATA.themes[t]||t)}</span>`).join("")}</div>
+      ${archived ? "" : `<div class="next"><b>Next:</b> ${val(r.next_action)}</div>`}
+    </div>
+    <div class="right">
+      <div class="score">${r.score}<small>${esc(r.tier)} priority</small></div>
+      <div class="dl ${archived ? "" : dlClass(r)}">${esc(dlText(r))}</div>
+      <div class="meta">${amt ? esc(amt) : "Amount not specified"}</div>
+      <div class="meta">verified ${esc(r.last_verified)}</div>
+    </div>
+  </div>
+  <div class="detail">${detail(r)}</div>
+</article>`;
+}
+
+function detail(r){
+  const rows = (pairs) => `<dl class="grid">${pairs.map(([k,v,raw]) => `<dt>${k}</dt><dd>${raw ? v : val(v)}</dd>`).join("")}</dl>`;
+  const comps = r.score_components || {};
+  const unv = r.unverified_fields || [];
+  const ev = r.evidence || {};
+  return `
+  ${unv.length ? `<div class="warn">Could not be verified on official sources: <b>${esc(unv.join(", "))}</b>. Treat these fields as unconfirmed.</div>` : ""}
+  <div class="sec">Call</div>
+  ${rows([
+    ["Official call URL", link(r.url), true],
+    ["Other official sources", (r.source_urls||[]).length ? r.source_urls.map(link).join("<br>") : val(null), true],
+    ["Funding mechanism", r.program], ["Opportunity type", r.opportunity_type], ["Funder category", TYPES[r.funder_type]||r.funder_type],
+    ["Status", `${STATUS[r.status]||r.status} (${r.status_basis === "official" ? "official source" : "speculative / unconfirmed"})`],
+    ["Publication date", r.published_date],
+    ["Deadline", r.deadline ? `${r.deadline.replace("T"," ")} ${r.deadline_timezone !== NS ? r.deadline_timezone : "(time zone not specified)"}` : null],
+    ["Deadline (as published)", r.deadline_text],
+    ["Funding", r.funding_text], ["Amount", fmtAmt(r)], ["Duration", r.duration],
+    ["Max duration (months)", r.duration_months_max], ["Covers staff / salary costs", r.covers_staff_costs], ["Support type", r.support_type],
+  ])}
+  <div class="sec">Eligibility</div>
+  ${rows([
+    ["Eligible applicants", r.eligible_applicants], ["Eligible countries", r.eligible_countries],
+    ["International orgs eligible", r.international_orgs_eligible], ["CGIAR centres eligible", r.cgiar_eligible],
+    ["How the Alliance could apply", r.cgiar_eligibility_notes], ["Lead applicant", r.lead_applicant_requirements],
+    ["Geographic restrictions", r.geographic_restrictions],
+    ["Consortium", `${esc(r.consortium_required)}${r.consortium_details && r.consortium_details !== NS ? " — " + esc(r.consortium_details) : ""}`, true],
+    ["Co-funding / matching", `${esc(r.cofunding_required)}${r.cofunding_details && r.cofunding_details !== NS ? " — " + esc(r.cofunding_details) : ""}`, true],
+    ["Eligible activities", r.eligible_activities],
+    ["Institutional-eligibility assessment", ELIG[r.eligibility_assessment]],
+  ])}
+  <div class="sec">Application</div>
+  ${rows([["Required documents", r.required_documents], ["Application procedure", r.application_procedure]])}
+  <div class="sec">Assessment (subjective, see Method tab)</div>
+  <div class="bars">${Object.entries(CRIT).map(([k,l]) => `<span>${l}</span><div class="bar"><i style="width:${(comps[k]||0)/5*100}%"></i></div><span>${(comps[k]||0).toFixed(1)}</span>`).join("")}</div>
+  ${(r.score_caps||[]).length ? `<div class="warn">Score capped: ${esc(r.score_caps.join("; "))}</div>` : ""}
+  ${rows([
+    ["Scientific alignment", r.scientific_alignment_rationale], ["Technical feasibility", r.technical_feasibility_rationale],
+    ["Strategic relevance", r.strategic_relevance_rationale], ["Reason for recommendation", r.recommendation],
+    ["Potential partners / consortium needs", r.potential_partners], ["Next action required", r.next_action],
+  ])}
+  <div class="sec">Verification</div>
+  ${rows([
+    ["Date last verified", r.last_verified], ["Verification source", r.verification_source], ["Notes", r.verification_notes],
+    ["First seen", r.first_seen],
+  ])}
+  ${Object.entries(ev).filter(([,v]) => v && v !== NS).map(([k,v]) => `<div class="quote"><b>${esc(k.replace(/_/g," "))}:</b> “${esc(v)}”</div>`).join("")}
+  ${(r.history||[]).length ? `<div class="sec">History</div>${r.history.slice().reverse().map(h => `<div class="meta">${esc(h.date)} — ${esc(h.event)} ${esc(h.detail||"")}</div>`).join("")}` : ""}`;
+}
+
+let lastList = [];
+function render(){
+  lastList = filtered();
+  $("#count").textContent = `${lastList.length} of ${A.length} active records`;
+  $("#list").innerHTML = lastList.length ? lastList.map(r => card(r)).join("") : `<div class="empty">No opportunities match these filters.</div>`;
+}
+$("#expand").onclick = () => { const all = document.querySelectorAll("#list .card"); const anyClosed = [...all].some(c => !c.classList.contains("open")); all.forEach(c => c.classList.toggle("open", anyClosed)); };
+$("#csv").onclick = () => {
+  const cols = ["title","funder","program","opportunity_type","status","status_basis","deadline","deadline_timezone","funding_text","currency","funding_amount_min","funding_amount_max","duration","duration_months_max","covers_staff_costs","support_type","funding_scope","eligibility_assessment","cgiar_eligible","consortium_required","score","tier","themes","url","next_action","last_verified"];
+  const q = v => `"${String(Array.isArray(v) ? v.join("; ") : (v ?? "")).replace(/"/g,'""')}"`;
+  const csv = [cols.join(","), ...lastList.map(r => cols.map(c => q(r[c])).join(","))].join("\n");
+  const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob(["﻿" + csv], {type:"text/csv"})); a.download = `funding-opportunities-${DATA.generated.slice(0,10)}.csv`; a.click();
+};
+
+/* other tabs */
+function renderLeads(){
+  const q = $("#lq").value.toLowerCase();
+  const L = DATA.leads.filter(l => !q || JSON.stringify(l).toLowerCase().includes(q));
+  $("#lcount").textContent = `${L.length} pending leads`;
+  $("#leads").innerHTML = `<tr><th>Relevance</th><th>Lead</th><th>Funder</th><th>Found via</th><th>API status / dates</th><th>Found</th></tr>` +
+    (L.length ? L.map(l => `<tr><td>${esc(l.relevance)}</td><td><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title)}</a><div class="meta">${esc((l.matched_keywords||[]).slice(0,6).join(", "))}${l.note ? "<br>" + esc(l.note) : ""}</div></td><td>${esc(l.funder)}</td><td class="meta">${esc(l.found_via)}</td><td class="meta">${esc(l.api_status||"")} ${esc([].concat(l.api_deadlines||l.api_close_date||[]).join(", "))}</td><td class="meta">${esc(l.found_on)} <span class="meta">${esc(l.id)}</span></td></tr>`).join("")
+     : `<tr><td colspan="6" class="ns">No pending leads.</td></tr>`);
+}
+$("#lq").oninput = renderLeads;
+function renderArchive(){
+  $("#archiveList").innerHTML = DATA.archive.length ? `<p class="meta">Closed or expired calls kept for reporting and to anticipate future cycles.</p>` + DATA.archive.map(r => card(r, true)).join("") : `<div class="empty">Archive is empty.</div>`;
+}
+function renderSources(){
+  $("#sources").innerHTML = `<tr><th>Funder</th><th>Source</th><th>Type</th><th>Category</th><th>Last checked</th><th>Health</th></tr>` +
+    DATA.sources.map(s => `<tr><td>${esc(s.funder)}</td><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name || s.url)}</a></td><td>${esc(s.type)}</td><td>${esc(s.category)}</td><td class="meta">${esc(s.last_checked||"never")}</td><td>${!s.enabled ? `<span class="b b-plain">disabled</span> <span class="meta">${esc(s.note)}</span>` : s.manual ? `<span class="b b-spec">manual check</span> <span class="meta">${esc(s.note)}</span>` : s.failures ? `<span class="b b-needs_reverification">${s.failures} failure(s)</span> <span class="meta">${esc(s.last_error)}</span>` : s.last_checked ? `<span class="b b-open">OK</span>` : `<span class="b b-plain">not yet run</span>`}</td></tr>`).join("");
+}
+function renderLog(){
+  $("#log").innerHTML = `<tr><th>Time</th><th>Event</th><th>Details</th></tr>` + (DATA.events.length ? DATA.events.map(e => {
+    const {ts, kind, ...rest} = e;
+    return `<tr><td class="meta">${esc(ts)}</td><td>${esc(kind)}</td><td class="meta">${esc(JSON.stringify(rest))}</td></tr>`; }).join("") : `<tr><td colspan="3" class="ns">No events yet.</td></tr>`);
+}
+function renderMethod(){
+  const w = DATA.weights;
+  $("#method").innerHTML = `<h2>How opportunities are verified and scored</h2>
+  <h3>Verification rules</h3>
+  <ul><li>Only official funder pages and original call documents count as evidence. Secondary reports are used only to discover leads.</li>
+  <li>Fields that are not published are shown as <span class="ns">Not specified</span>; nothing is inferred. Fields that could not be confirmed are listed in a warning on the record.</li>
+  <li>“Open” requires an official, available application process. Anticipated calls are “Upcoming” and labelled <span class="b b-spec">Speculative</span> unless officially announced.</li>
+  <li>An unreachable page never closes a call: the record is flagged <span class="b b-needs_reverification">Re-verify</span>. Calls whose deadline has passed move to the Archive automatically.</li>
+  <li>Records not re-verified within the configured window are flagged as stale. Re-check the official page before preparing an application.</li></ul>
+  <h3>Score (0–100)</h3>
+  <p>Weighted mean of five criteria scored 0–5:</p>
+  <ul>${Object.entries(CRIT).map(([k,l]) => `<li><b>${l}</b> — weight ${Math.round(w[k]*100)}% — ${{
+    scientific_alignment:"<i>subjective</i>: match with the CV (remote sensing, ML/AI, crop modelling, climate–agriculture) and Climate Action / Multifunctional Landscapes priorities.",
+    institutional_eligibility:"<i>derived from verified facts</i>: 5 = CGIAR/international orgs confirmed eligible; 4 = eligible in a defined role (e.g. partner); 2–3 = needs clarification; 0 = ineligible.",
+    technical_feasibility:"<i>subjective</i>: can the team deliver with existing skills, data and infrastructure.",
+    strategic_relevance:"<i>subjective</i>: fit with Alliance/CGIAR mission, partnerships, regions and scale.",
+    application_feasibility:"<i>derived</i>: status and days to deadline (≥45 days = 5; 21–44 = 3.5; 7–20 = 2; <7 = 1; rolling = 4; upcoming = 3.5 official / 2 speculative), minus penalties for consortium building under short deadlines and co-funding."}[k]}</li>`).join("")}</ul>
+  <h3>Eligibility gates</h3>
+  <ul><li>Confirmed ineligible → score capped at 25, tier “ineligible” (kept only when useful as a partner route).</li>
+  <li>Potentially eligible (needs clarification) → capped at 69: cannot be “high” priority until clarified.</li>
+  <li>Essential facts unverified (eligibility, deadline, status) → capped at 69.</li>
+  <li>Monitoring / speculative → capped at 60.</li>
+  <li>Weak scientific alignment (≤ 2/5) → capped at 69: accessible but off-topic calls are never “high”.</li></ul>
+  <p>Tiers: high ≥ ${DATA.tiers.high}, medium ≥ ${DATA.tiers.medium}. Approximate USD amounts are used only for sorting/filtering across currencies.</p>`;
+}
+function tab(name){
+  document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("on", b.dataset.tab === name));
+  ["active","leads","archive","sources","log","method"].forEach(t => $("#tab-"+t).classList.toggle("hidden", t !== name));
+}
+$("#tabs").onclick = e => { if (e.target.dataset.tab) tab(e.target.dataset.tab); };
+kpis(); render(); renderLeads(); renderArchive(); renderSources(); renderLog(); renderMethod();
+</script>
+</body>
+</html>

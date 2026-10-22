@@ -1,0 +1,102 @@
+id: european-commission-horizon-europe-advancing-understanding-modelling-a
+title: Advancing understanding, modelling and prediction of extreme events in a changing climate - HORIZON-CL5-2027-01-D1-07
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 5, Destination 1 (Climate sciences and responses), call HORIZON-CL5-2027-01
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- ai_ml
+- remote_sensing
+- climate_data_infrastructure
+- food_security
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-01-D1-07
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-03-04T17:00
+deadline_timezone: CET/CEST (Brussels local time, 17:00)
+deadline_text: 'Portal: planned opening 2026-11-17; single-stage deadline 2027-03-04.'
+funding_amount_min: 6000000
+funding_amount_max: 6000000
+currency: EUR
+funding_text: Research and Innovation Action, lump sum; topic budget EUR 18 million, 3 grants expected
+  of about EUR 6 million each.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Standard Horizon Europe consortium (General Annex B).
+eligible_countries: EU MS/AC; LMICs automatically eligible for HE funding (incl. Colombia, Kenya etc.)
+  - LMIC cooperation explicitly encouraged.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Topic encourages 'international cooperation with low- to middle-income countries
+  automatically eligible for Horizon Europe funding', but contains no IO clause. Bioversity (IO HQ Italy)
+  and CIAT (IO HQ Colombia) are therefore funded only if deemed essential by the granting authority; otherwise
+  associated partners. National LMIC partners (e.g., Colombian/Kenyan universities, IDEAM) can be funded.
+lead_applicant_requirements: Min. 3 independent entities from 3 different MS/AC (one in a MS).
+geographic_restrictions: Europe and global; must use Copernicus and/or Galileo/EGNOS if satellite EO used;
+  coordination with ESA FutureEO Extreme-Events Flagship Cluster expected.
+consortium_required: 'yes'
+consortium_details: Must budget for clustering with ESA FutureEO projects; JRC involvement possible.
+cofunding_required: 'no'
+cofunding_details: RIA funded at 100% (lump sum).
+eligible_activities: Process understanding, seamless prediction/projection and attribution of extreme
+  and compound events, AI-based emulation, case studies, contributions to EUCRA and EU Adaptation Mission.
+required_documents: Part A administrative forms (in submission system) + Part B technical description
+  per template; detailed lump-sum budget table where lump sum applies; ethics self-assessment. See General
+  Annexes A and E.
+application_procedure: Electronic submission by the coordinator via the EU Funding & Tenders Portal; all
+  participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: AI-based prediction of extremes and impacts on livelihoods/socio-economic
+  sectors overlaps with EO/AI and crop-impact work, but the core is climate science/modelling.
+strategic_relevance: 3
+strategic_relevance_rationale: Could fund an agricultural-impact and LMIC capacity-building WP; Europe-centred
+  policy focus.
+technical_feasibility: 2
+technical_feasibility_rationale: Needs a European climate-science lead; Alliance funding eligibility uncertain.
+recommendation: 'Partner-level opportunity: offer AI/EO crop-impact case studies in LAC/Africa to a European
+  consortium; funding via a national LMIC partner if Alliance cannot be funded.'
+potential_partners: European climate centres (e.g., national met services, universities in ESA FutureEO
+  projects); Colombian/Honduran/Kenyan university partners.
+next_action: Monitor topic opening (17 Nov 2026) and partner-search page; contact EU coordinators in Dec
+  2026.
+evidence:
+  deadline_quote: 'deadlineDates: 2027-03-04 (single-stage); plannedOpeningDate 2026-11-17'
+  eligibility_quote: 'In addition, international cooperation with low- to middle-income countries automatically
+    eligible for Horizon Europe funding is encouraged in support of climate resilience efforts, especially
+    for capacity building. | General Annex B: International organisations with headquarters in a Member
+    State or Associated Country are eligible to receive funding for ''Training and mobility'' actions
+    or when provided for in the specific call/topic conditions. Other international organisations are
+    not eligible to receive funding, unless provided for in the specific call/topic conditions, or if
+    their participation is considered essential for implementing the action by the granting authority.'
+  status_quote: Portal status code 'Forthcoming' (31094501).
+  staff_costs_quote: 'General Annexes, Budget categories: ''actual costs (i.e. costs which are real and
+    not estimated or budgeted) for: - personnel costs (unless declared as a unit cost ...)''; ''The maximum
+    Horizon Europe funding rates are as follows: - Research and innovation action: 100% - Innovation action:
+    70% (except for non-profit legal entities, where a rate of up to 100% applies)''. Topic conditions:
+    ''Eligible costs will take the form of a lump sum'' (lump sum is fixed from a detailed budget table
+    that includes personnel).'
+unverified_fields:
+- duration
+- published_date
+verification_notes: Topic metadata (dates, budget, status, description, conditions) retrieved 2026-10-22
+  from the official EU Funding & Tenders Portal search API (api.tech.ec.europa.eu/search-api, the data
+  source of the portal topic page). Not previously in dashboard (dashboard holds D1-11 and D1-12 only;
+  D1-10 previously rejected).
+last_verified: '2026-10-22'
+verification_source: import:europe_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:01
+  event: added
+  detail: import:europe_staff_2026-10-22.json
+- date: 2026-10-22 11:02
+  event: reverified
+  detail: no material change

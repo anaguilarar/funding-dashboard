@@ -1,0 +1,100 @@
+id: u-s-national-institutes-of-health-nih-fogarty-international-center-fic
+title: NIH Fogarty GEOHealth - Hubs of Interdisciplinary Research and Training in Global Environmental
+  and Occupational Health (RFA-TW-28-001, forecast)
+funder: U.S. National Institutes of Health (NIH) - Fogarty International Center (FIC)
+funder_type: national_agency
+program: GEOHealth (RFA-TW-28-001)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- capacity_building
+- food_security
+url: https://www.grants.gov/search-results-detail/363873
+source_urls:
+- https://www.fic.nih.gov/Programs/Pages/environmental-occupational.aspx
+- https://api.grants.gov/v1/api/fetchOpportunity (opportunityId 363873)
+status: upcoming
+status_basis: official
+published_date: '2026-09-16'
+deadline: 2027-09-22T23:59
+deadline_timezone: Not specified
+deadline_text: 'Forecast: "Estimated Application Due Date: Sep 22, 2027"; estimated synopsis posting Apr
+  22, 2027; estimated award/project start Jul 20, 2028.'
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Not specified in the forecast.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: 'Forecast applicant types: public and private institutions of higher education; nonprofits
+  with or without 501(c)(3) status. Foreign-organization eligibility Not specified in the forecast.'
+eligible_countries: Collaboration between U.S. and LMIC scientists required ("include collaboration between
+  U.S. and LMIC scientists").
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Unclear until the NOFO is published (est. Apr 2027). Past GEOHealth rounds (RFA-TW-21-001)
+  used a U01 award to an LMIC institution linked to a U2R award to a U.S. institution (per FIC programme
+  page), which would suggest CIAT (Colombia-based) could be the LMIC institution - but this could not
+  be verified for the new RFA, and NIH's 2025 foreign-subaward policy (NOT-OD-25-104) now uses linked
+  foreign awards. Treat as potential funded LMIC partner/lead pending NOFO. Topic must be environmental/occupational
+  exposures and health (e.g., heat/pesticide exposure of agricultural workers, wildfire smoke), not agriculture
+  per se.
+lead_applicant_requirements: Not specified until NOFO.
+geographic_restrictions: LMIC focus with U.S. benefit.
+consortium_required: 'yes'
+consortium_details: '"GEOHealth awards will 1) include collaboration between U.S. and LMIC scientists,
+  2) include closely aligned components for research and research training".'
+cofunding_required: 'no'
+cofunding_details: 'Forecast lists cost sharing: no.'
+eligible_activities: Environmental and occupational health research plus research training; address environmental/chemical
+  exposures and their health impacts; data sharing; training of graduate students, postdocs and early-career
+  investigators.
+required_documents: Not specified
+application_procedure: Not specified until NOFO (NIH ASSIST/Grants.gov; requires eRA Commons).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Climate and health is adjacent; EO/climate data for exposure assessment
+  (heat, smoke, agro-chemicals) could be a component, but the core must be health research.
+strategic_relevance: 2
+strategic_relevance_rationale: Multi-year hub format with research training; would require a health-research
+  lead partner; outside the Alliance's core mandate.
+technical_feasibility: 2
+technical_feasibility_rationale: Requires health/epidemiology leadership the team does not have.
+recommendation: 'Low priority. Monitor NOFO release (~Apr 2027); pursue only if a Colombian or U.S. health
+  research partner wants EO/climate exposure expertise. Alternative NIH route: PA-26-002 (Collaborative
+  International Research Project, PF5) allows funded linked foreign awards under a U.S. prime, but also
+  requires an NIH health mission focus.'
+potential_partners: Universidad del Valle / Universidad de Antioquia public health schools; U.S. schools
+  of public health with LAC environmental-health programmes.
+next_action: Set a reminder for April 2027 to read the NOFO eligibility section (foreign/LMIC institution
+  rules).
+evidence:
+  deadline_quote: 'estApplicationResponseDate: Sep 22, 2027 (Grants.gov forecast)'
+  eligibility_quote: GEOHealth awards will 1) include collaboration between U.S. and LMIC scientists,
+    2) include closely aligned components for research and research training
+  status_quote: 'Grants.gov status: forecasted (posted Sep 16, 2026; estimated synopsis posting Apr 22,
+    2027).'
+  staff_costs_quote: Not specified
+unverified_fields:
+- foreign/LMIC institution eligibility
+- budget
+- duration
+- covers_staff_costs
+verification_notes: Loaded the Grants.gov forecast via official API (opportunityId 363873) and the FIC
+  GEOHealth programme page (shows 'Not accepting applications at this time', last round 2021) on 2026-10-22.
+  NIH Guide pages for prior RFAs returned 403 and could not be checked.
+last_verified: '2026-10-22'
+verification_source: import:usa_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:54
+  event: added
+  detail: import:usa_staff_2026-10-22.json
+- date: 2026-10-22 10:54
+  event: reverified
+  detail: no material change
+- date: 2026-10-22 10:55
+  event: reverified
+  detail: no material change

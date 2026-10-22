@@ -1,0 +1,96 @@
+id: adaptation-fund-af-adaptation-fund-project-programme-proposals-regular
+title: Adaptation Fund project/programme proposals (regular, Large Innovation, Locally Led Adaptation
+  windows) via accredited implementing entities - rolling submission
+funder: Adaptation Fund (AF)
+funder_type: multilateral
+program: Adaptation Fund funding windows (regular projects, innovation grants, LLA) - rolling basis
+opportunity_type: grant
+themes:
+- climate_adaptation
+- climate_smart_ag
+- food_security
+- smallholders
+- climate_data_infrastructure
+url: https://www.adaptation-fund.org/apply-funding/project-funding/
+source_urls:
+- https://www.adaptation-fund.org/apply-funding/
+- https://www.adaptation-fund.org/apply-funding/implementing-entities/multilateral-implementing-entities/
+- https://www.adaptation-fund.org/apply-funding/implementing-entities/regional-implementing-entities/
+- https://adaptation-fund.org/?p=38731
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: '''Submissions for all funding windows are now accepted on a rolling basis (Decision B.40/59).''
+  / ''The Adaptation Fund Board accepts and considers regular project and programme proposals on a rolling
+  basis.'''
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: 'Large innovation grants: ''grants of up to US$ 5 million to NIEs, RIEs and MIEs'' (AF large
+  innovation material from the 2021 round). Country caps and FY2027 set-asides not verified.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: '''Eligible parties seeking financial resources from the Adaptation Fund must submit
+  their project and programme proposals directly through accredited National, Regional, or Multilateral
+  Implementing Entities.'''
+eligible_countries: AF-eligible developing countries (endorsement by the country's AF Designated Authority).
+international_orgs_eligible: unclear
+cgiar_eligible: 'no'
+cgiar_eligibility_notes: 'VERIFIED: no CGIAR center is an AF implementing entity. The 14 MIEs are ADB,
+  World Bank, IDB, IFAD, UNDP, UNEP, WFP, UNESCO, EBRD, UN-Habitat, WMO, UNIDO, FAO, WHO; the 9 RIEs are
+  BOAD, OSS, SPREP, CAF, CABEI, CDB, SPC, ICIMOD, CCCCC. The Alliance can take part only as executing
+  entity/technical partner under an IE (e.g., FAO, IFAD, WFP, CAF, CABEI, or an accredited NIE).'
+lead_applicant_requirements: Accredited NIE/RIE/MIE; endorsement letter from the country's AF Designated
+  Authority.
+geographic_restrictions: AF-eligible developing countries.
+consortium_required: 'yes'
+consortium_details: Implementing entity + Designated Authority endorsement + executing entities.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Concrete adaptation projects; innovation (accelerators, scaling adaptation innovations);
+  locally led adaptation.
+required_documents: AF project/programme proposal templates (Project Proposal Materials page).
+application_procedure: The IE e-mails the proposal to submissions@adaptation-fund.org (rolling); reviewed
+  by the AFB secretariat and PPRC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Agricultural adaptation, early warning/climate services and innovation
+  windows can embed EO, crop modelling and advisory tools, but AF funds implementation, not research.
+strategic_relevance: 4
+strategic_relevance_rationale: Strong LAC IE options (CAF, CABEI, IDB, FAO, WFP, IFAD) match the Alliance's
+  LAC presence.
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible as executing partner; depends on IE pipeline and DA endorsement.
+recommendation: Approach FAO, WFP, IFAD or CABEI/CAF country teams with a climate-services/digital advisory
+  component for upcoming AF proposals (including Large Innovation grants up to US$5m). Do not plan as
+  lead.
+potential_partners: FAO, WFP, IFAD, CAF, CABEI, WMO, national NIEs.
+next_action: Review the AF 'Proposals Under Review' / 'Active Pipeline' pages for LAC countries and contact
+  IEs with agri-climate projects in preparation.
+evidence:
+  deadline_quote: Submissions for all funding windows are now accepted on a rolling basis (Decision B.40/59).
+  eligibility_quote: must submit their project and programme proposals directly through accredited National,
+    Regional, or Multilateral Implementing Entities
+  status_quote: The Adaptation Fund Board accepts and considers regular project and programme proposals
+    on a rolling basis.
+unverified_fields:
+- current per-country funding caps and FY2027 set-asides for innovation/LLA windows
+- current status of the large innovation set-aside (page text dates from the 2021 round)
+verification_notes: 'Loaded AF Apply for Funding, Project Funding, MIE and RIE pages on 2026-10-14 (implementing
+  entities page: ''14 MIEs'' as of 5 October 2026). | 2026-10-22 staff-cost/duration check: https://www.adaptation-fund.org/apply-funding/project-funding/
+  (Project-funding page states no duration or eligible-cost/staff rules (points to OPG annexes).)'
+last_verified: '2026-10-14'
+verification_source: import:multilateral.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:51
+  event: added
+  detail: import:multilateral.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

@@ -1,0 +1,96 @@
+id: world-coffee-research-industry-funded-by-200-coffee-companies-incl-sta
+title: World Coffee Research (WCR) - Innovea Global Coffee Breeding Network / member-funded research partnerships
+  (partnership-based, no open call)
+funder: World Coffee Research (industry-funded by 200+ coffee companies incl. Starbucks, Tchibo, Keurig
+  Dr Pepper; co-funders incl. JDE Peet's, Lavazza Foundation, Taylors of Harrogate)
+funder_type: research_partnership
+program: Corporate-funded industry research consortium (Innovea breeding network; CafeClima; molecular
+  breeding tools initiative)
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- crop_modeling
+- remote_sensing
+- food_security
+- smallholders
+- climate_smart_ag
+url: https://worldcoffeeresearch.org/news/world-coffee-research-launches-1-5-million-initiative-to-modernize-breeding-tools-for-global-coffee-resilience
+source_urls:
+- https://worldcoffeeresearch.org/news/world-coffee-research-and-ciat-unveil-science-based-tool-for-climate-smart-coffee-replanting-investments
+- https://worldcoffeeresearch.org/membership
+- https://worldcoffeeresearch.org/
+status: monitoring
+status_basis: official
+published_date: '2026-06-05'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No call; partnership-based. No requests for proposals found on worldcoffeeresearch.org
+  (checked 2026-10-22).
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: 'Example: USD 1.5 million initiative (5 June 2026) funded by an FFAR grant "matched by industry
+  co-investment from Taylors of Harrogate, Coffee Circle, and other WCR member companies"; Uganda seed-systems
+  effort where UNIDO, JDE Peet''s, The J.M. Smucker Co. and Lavazza Foundation "commit EUR 850,000 toward
+  a WCR-led effort".'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Not applicable - WCR selects national research partners (e.g., Cenicafe, KALRO, USDA-ARS)
+  and technical collaborators.
+eligible_countries: Coffee-producing countries in the WCR network (Colombia via Cenicafe among others).
+international_orgs_eligible: unclear
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'The Alliance already partners with WCR: CafeClima (Feb 2026) uses advanced climate
+  projections supplied by the Alliance (Eric Rahn quoted). Route is a sub-award/partnership, not a competitive
+  application.'
+lead_applicant_requirements: Not applicable
+geographic_restrictions: Not specified
+consortium_required: 'yes'
+consortium_details: WCR-led partnerships with national coffee research institutes and member companies.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Breeding (Innovea network), molecular markers, variety trials, climate suitability
+  tools (CafeClima).
+required_documents: Not specified
+application_procedure: No public procedure; partnership negotiated with WCR.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Multi-location variety trials + climate modelling are a natural fit for
+  UAV/RS phenotyping, ML and crop/climate suitability modelling; the June 2026 initiative itself is genomics-focused
+  and does not fund phenotyping.
+strategic_relevance: 4
+strategic_relevance_rationale: Existing Alliance-WCR relationship (CafeClima), Colombia/LAC coffee focus,
+  corporate co-funding pipeline (FFAR + member companies).
+technical_feasibility: 4
+technical_feasibility_rationale: High-throughput phenotyping of Innovea trials and climate-informed variety
+  recommendations are within team capabilities.
+recommendation: 'Strategic monitoring (corporate-funded consortium): propose a remote-sensing/UAV phenotyping
+  + climate-modelling add-on to WCR''s Innovea trials (incl. Cenicafe), building on CafeClima. Funding
+  would likely come from WCR member companies or FFAR-matched grants.'
+potential_partners: WCR, Cenicafe (FNC Colombia), Taylors of Harrogate, Coffee Circle, Alliance coffee
+  team (Eric Rahn)
+next_action: Coordinate with Alliance coffee researchers (Eric Rahn) and contact the WCR science team
+  to explore a phenotyping/climate-analytics workstream for the Innovea network; watch WCR news for new
+  co-funded initiatives.
+evidence:
+  deadline_quote: No call published; the 5 June 2026 release lists partners only and invites no applications.
+  eligibility_quote: 'CafeClima release (2026.02.11): the Alliance of Bioversity International and CIAT
+    supplied the advanced climate projections behind the tool.'
+  status_quote: '"Public-private partnership aims to make breeding faster, better, and cheaper for the
+    entire sector"'
+  staff_costs_quote: Not specified
+unverified_fields:
+- funding_amount
+- duration
+- covers_staff_costs
+verification_notes: Loaded worldcoffeeresearch.org home, the 5 Jun 2026 breeding-tools release and the
+  11 Feb 2026 CafeClima release on 2026-10-22.
+last_verified: '2026-10-22'
+verification_source: import:corporate_agrifood_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:56
+  event: added
+  detail: import:corporate_agrifood_2026-10-22.json

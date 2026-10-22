@@ -1,0 +1,87 @@
+id: ministry-of-science-and-technology-of-china-most-administered-by-china
+title: MOST Talented Young Scientist Program (TYSP / 国际杰青计划) - next cycle
+funder: Ministry of Science and Technology of China (MOST), administered by China Science and Technology
+  Exchange Center (CSTEC)
+funder_type: national_agency
+program: Talented Young Scientist Program (Belt and Road S&T Innovation Action Plan)
+opportunity_type: fellowship
+themes:
+- capacity_building
+- climate_smart_ag
+- remote_sensing
+url: http://tysp.cstec.org.cn
+source_urls:
+- https://iec.edu.kz/wp-content/uploads/2026/02/tysp.doc
+status: needs_reverification
+status_basis: speculative
+published_date: '2026-01-16'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: '2026 call (closed): notice ''科技部国际合作司关于征集2026年度国际杰青计划项目的通知'' dated 2026-01-16; the circulated
+  call text states the 2026 deadline as 16 March 2026.'
+funding_amount_min: null
+funding_amount_max: null
+currency: CNY
+funding_text: Not specified on official site (call document circulated via partner country channels; not
+  quoted here).
+duration: 3, 6 or 12 months in China (per 2026 call document)
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: fellowship_salary
+eligible_applicants: 'Young scientists from developing countries working with a Chinese host institution
+  (age limit stated in call document: 45).'
+eligible_countries: Developing countries (Belt and Road partners); applications channelled via national
+  focal points/Chinese embassies.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Individual fellowship; a Colombian researcher would need a Chinese host institution;
+  whether staff of an international organization are accepted is not stated.
+lead_applicant_requirements: Chinese host institution required.
+geographic_restrictions: Work in China.
+consortium_required: 'no'
+consortium_details: Chinese host institution.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Research stay in China.
+required_documents: Not specified
+application_procedure: Online via TYSP system (tysp.cstec.org.cn); review by CSTEC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Topic-open mobility fellowship.
+strategic_relevance: 2
+strategic_relevance_rationale: Individual mobility; limited institutional value.
+technical_feasibility: 3
+technical_feasibility_rationale: Requires 3-12 months in China.
+recommendation: Low priority; consider only if a long China stay is desired. Watch for the 2027 notice
+  (likely Jan-Mar 2027).
+potential_partners: CAAS, AIRCAS host labs.
+next_action: Check tysp.cstec.org.cn in Jan 2027.
+evidence:
+  deadline_quote: 科技部国际合作司关于征集2026年度国际杰青计划项目的通知 [2026-01-16]
+  eligibility_quote: Not verified on official page
+  status_quote: 2026 notice is the latest on tysp.cstec.org.cn; no 2027 notice.
+unverified_fields:
+- eligibility
+- funding_text
+- deadline of 2026 (from non-Chinese-government mirror document)
+- 2027 timing
+verification_notes: 'Loaded official TYSP site (GBK) on 2026-10-14; notice detail page did not render.
+  2026 call details came from a mirrored call document (Kazakhstan university) - lead only. | 2026-10-22
+  staff-cost/duration check: http://tysp.cstec.org.cn (Duration (3/6/12 months) only seen in a non-official
+  mirrored call document; not confirmed on the official site.)'
+last_verified: '2026-10-14'
+verification_source: import:china.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 12:21
+  event: added
+  detail: import:china.json
+- date: 2026-10-15 08:18
+  event: flagged
+  detail: needs re-verification (url_unreachable); previous status monitoring
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed
+status_before_flag: monitoring

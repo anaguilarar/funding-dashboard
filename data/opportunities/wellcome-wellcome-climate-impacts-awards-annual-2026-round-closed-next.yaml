@@ -1,0 +1,83 @@
+id: wellcome-wellcome-climate-impacts-awards-annual-2026-round-closed-next
+title: Wellcome Climate Impacts Awards (annual; 2026 round closed, next round not yet announced)
+funder: Wellcome
+funder_type: foundation
+program: Climate and Health - Climate Impacts Awards
+opportunity_type: research_award
+themes:
+- climate_adaptation
+- food_security
+- climate_data_infrastructure
+url: https://wellcome.org/research-funding/schemes/climate-impacts-awards-unlocking-urgent-climate-action-making-health-2
+source_urls:
+- https://wellcome.org/research-funding/schemes
+status: monitoring
+status_basis: official
+published_date: '2026-01-20'
+deadline: null
+deadline_timezone: BST
+deadline_text: '2026 round: ''15:00 BST on 8 April 2026'' (closed). Next round date not stated.'
+funding_amount_min: null
+funding_amount_max: 2500000
+currency: GBP
+funding_text: Up to GBP 2.5 million per award, up to 3 years; around 10-15 awards expected (2026 round).
+duration: Up to 3 years
+duration_months_max: 36
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Not-for-profit administering organisations (HEIs, research institutes, NGOs) anywhere
+  except mainland China; lead applicant mid-career or established researcher; transdisciplinary teams
+  (lead + up to 7 co-applicants).
+eligible_countries: Global except mainland China
+international_orgs_eligible: 'yes'
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Multilateral organisations can apply but must 'contact us' first. As a not-for-profit
+  research institute the Alliance would likely qualify as administering organisation; confirm with Wellcome.
+lead_applicant_requirements: Mid-career or established researcher with suitable long-term contract.
+geographic_restrictions: None besides mainland China exclusion
+consortium_required: 'yes'
+consortium_details: Lead + up to seven co-applicants forming a transdisciplinary team.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Research making the health effects of climate change visible, combining health and
+  economic arguments for policy.
+required_documents: Not specified
+application_procedure: Via Wellcome Funding platform when a round opens.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Health is the core outcome; EO/crop modelling would be secondary (e.g.,
+  climate-driven crop/nutrition impacts on health).
+strategic_relevance: 3
+strategic_relevance_rationale: Large awards; could link with Alliance nutrition/food-systems work.
+technical_feasibility: 2
+technical_feasibility_rationale: Requires health/epidemiology partners to lead the health evidence.
+recommendation: Monitor for the 2027 round (scope 'may not be the same next year'); only pursue with a
+  health-research partner.
+potential_partners: LSHTM, national public health institutes in LAC/Africa, Alliance food environment/nutrition
+  team
+next_action: Watch Wellcome Climate and Health funding listing from Dec 2026-Jan 2027.
+evidence:
+  deadline_quote: 15:00 BST on 8 April 2026
+  eligibility_quote: Commercial organisations are not eligible to apply as administering organisation
+    for this call.
+  status_quote: Scheme is annual; scope 'may not be the same next year'.
+  staff_costs_quote: We will cover the salary costs of all staff, full or part-time, who will work on
+    your grant.
+unverified_fields:
+- next round dates
+- cgiar_eligible
+verification_notes: 'Loaded official Wellcome scheme page 2026-10-14 (first 100k chars). | 2026-10-22
+  staff-cost/duration check: https://wellcome.org/research-funding/schemes/climate-impacts-awards-unlocking-urgent-climate-action-making-health-2
+  (''Up to 3 years''. Lead applicants at universities/research institutes generally cannot claim their
+  own salary.)'
+last_verified: '2026-10-14'
+verification_source: import:foundations.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:foundations.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

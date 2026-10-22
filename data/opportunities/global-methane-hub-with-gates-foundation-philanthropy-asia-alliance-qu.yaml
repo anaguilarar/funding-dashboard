@@ -1,0 +1,94 @@
+id: global-methane-hub-with-gates-foundation-philanthropy-asia-alliance-qu
+title: Rice Methane Innovation Accelerator (Global Methane Hub)
+funder: Global Methane Hub (with Gates Foundation, Philanthropy Asia Alliance, Quadrature Climate Foundation,
+  Temasek Life Sciences Laboratory)
+funder_type: foundation
+program: Rice Methane Innovation Accelerator
+opportunity_type: consortium_call
+themes:
+- climate_mitigation
+- climate_smart_ag
+- remote_sensing
+- crop_modeling
+- ai_ml
+url: https://www.globalmethanehub.org/?p=2614
+source_urls:
+- https://www.globalmethanehub.org/
+status: monitoring
+status_basis: official
+published_date: '2025-11-06'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: Not specified (no open call published). Strategy 'expected to be released in early 2026'.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Hub committed USD 30 million; accelerator aims to raise at least USD 100 million in philanthropic,
+  public and private funding. Per-project amounts not specified.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Not specified (no application process published)
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: The official announcement names IRRI, AfricaRice and the Alliance of Bioversity
+  International and CIAT among research-ecosystem partners, so engagement is likely via direct partnership/invitation
+  rather than an open call. Research areas include 'emissions measurement' - the entry point for rice
+  remote sensing (AWD/flooding detection with Sentinel-1, MRV).
+lead_applicant_requirements: Not specified
+geographic_restrictions: Not specified
+consortium_required: Not specified
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Four research areas: plant genetics and physiology, soil microbiome, agronomy, and
+  emissions measurement.'
+required_documents: Not specified
+application_procedure: Not specified - no open call on official site as of 2026-10-14.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: Rice methane emissions measurement/MRV directly matches the researcher's
+  MPhil work on satellite rice phenology and SAR/optical rice mapping.
+strategic_relevance: 5
+strategic_relevance_rationale: Alliance explicitly named as partner; large multi-funder pool; LAC/Asia/Africa
+  rice systems.
+technical_feasibility: 4
+technical_feasibility_rationale: Existing Sentinel-1/2 rice mapping and phenology skills; would need partners
+  for flux/chamber measurements.
+recommendation: 'High priority to engage proactively: contact the Alliance''s existing GMH focal points
+  and the Hub''s agriculture team to position an EO-based rice methane MRV/water-management detection
+  component in the accelerator portfolio.'
+potential_partners: IRRI, AfricaRice, FLAR (Latin American Fund for Irrigated Rice), Global Research Alliance
+  on Agricultural GHG, national rice institutes (e.g., Fedearroz Colombia)
+next_action: Ask Alliance leadership/Climate Action lever who manages the GMH relationship; request the
+  accelerator strategy document and any planned funding windows.
+evidence:
+  deadline_quote: Not specified
+  eligibility_quote: Existing partners include IRRI, AfricaRice, the Alliance of Bioversity International
+    and CIAT, national agricultural research institutes, and universities (paraphrase of official page
+    partner list).
+  status_quote: Accelerator strategy ... 'expected to be released in early 2026' (no open call or application
+    process mentioned).
+unverified_fields:
+- eligible_applicants
+- application_procedure
+- deadline
+- funding_amount_max
+verification_notes: 'Loaded official GMH announcement (dated 2025-11-06) and homepage on 2026-10-14; no
+  RFP/open call found on site. Secondary press (AgNavigator) says allocations follow a scientific committee''s
+  recommendations and funder decisions - not confirmed on official page. | 2026-10-22 staff-cost/duration
+  check: https://www.globalmethanehub.org/?p=2614 (Announcement does not state grant durations or eligible
+  costs.)'
+last_verified: '2026-10-14'
+verification_source: import:foundations.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:foundations.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

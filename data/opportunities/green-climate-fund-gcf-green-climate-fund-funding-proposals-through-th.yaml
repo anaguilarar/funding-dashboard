@@ -1,0 +1,113 @@
+id: green-climate-fund-gcf-green-climate-fund-funding-proposals-through-th
+title: Green Climate Fund funding proposals through the CGIAR System Organization (GCF-accredited entity)
+funder: Green Climate Fund (GCF)
+funder_type: multilateral
+program: GCF funded activities (funding proposals; Simplified Approval Process / Project Preparation Facility
+  as applicable) via accredited entity 'CGIAR System Organization'
+opportunity_type: grant
+themes:
+- climate_adaptation
+- climate_mitigation
+- climate_smart_ag
+- multifunctional_landscapes
+- food_security
+- smallholders
+- climate_data_infrastructure
+url: https://www.greenclimate.fund/partners/accredited-entities/cgiar
+source_urls:
+- https://www.greenclimate.fund/partners/accredited-entities/all
+- https://www.greenclimate.fund/document/accreditation-master-agreement-between-gcf-and-cgiar-system-organization
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'No call deadline; GCF funding proposals are submitted by accredited entities on a continuous
+  basis. Accreditation term on the AE page: ''Renewal date | 29 Sep 2027''; ''Re-accreditation submission
+  deadline (29 Mar 2027)''.'
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: 'Accreditation scope listed by GCF: ''Size | Small''; ''ESS Category | Category C, Intermediation
+  3''; ''Fiduciary standards | Basic, Project management, Grant award''. No per-project amount stated
+  on the page (check GCF ''Small'' size thresholds in the accreditation framework).'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Only GCF accredited entities submit funding proposals. CGIAR System Organization
+  is accredited ('Status | Accredited'); CGIAR centers would develop/execute projects under it.
+eligible_countries: GCF-eligible developing countries; NDA no-objection letter required (standard GCF
+  rule, not restated on the AE page).
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'VERIFIED: ''CGIAR System Organization (CGIAR)'' is on the official GCF Accredited
+  Entities directory: accredited 19/20 Oct 2018, AMA executed 21 Sep 2022, effective 30 Sep 2022, renewal
+  29 Sep 2027. It already has one approved project, FP304 ''Enhancing Sustainable Land Management and
+  Climate-Resilient Agri-food Systems in Cote d''Ivoire (LARACI)'' (approved funding proposal document
+  dated 23 Jul 2026, status ''Under implementation''). No individual CGIAR center (CIAT, Bioversity, CIFOR-ICRAF,
+  IWMI, IFPRI, etc.) appears separately on the GCF list, and none is an Adaptation Fund implementing entity
+  or GEF Agency. Realistic route for the Alliance: co-develop a concept with an NDA and submit through
+  the CGIAR System Organization, or act as executing/technical partner of another AE (FAO, IFAD, UNDP,
+  WFP, CAF, CABEI, IDB, national DAEs). Constraint: CGIAR accreditation covers only Small-size, minimal-risk
+  (Category C) grant projects.'
+lead_applicant_requirements: Accredited entity (CGIAR System Organization) as lead; NDA no-objection;
+  project must fit the AE's accreditation scope (Small, Category C, grant award).
+geographic_restrictions: GCF-eligible developing countries.
+consortium_required: 'yes'
+consortium_details: Accredited entity + NDA (country ownership) + executing entities (CGIAR centers, national
+  institutions).
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Climate adaptation and mitigation projects in GCF result areas (e.g., health, food
+  and water security; livelihoods; ecosystems; forests and land use).
+required_documents: Standard GCF concept note / funding proposal package (not restated on the AE page).
+application_procedure: Engage the CGIAR System Organization's GCF focal point and the target country's
+  NDA; submit concept note via the GCF Partner Portal through the AE; optionally request Project Preparation
+  Facility support.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Climate-resilient agri-food systems and land management (cf. FP304) use
+  climate risk analytics, EO monitoring and crop modelling directly; methods are components rather than
+  the main output.
+strategic_relevance: 5
+strategic_relevance_rationale: Only verified direct route from CGIAR to GCF; large-scale, country-owned
+  adaptation programmes in LAC/Africa/Asia fit the Alliance mission.
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance can deliver climate-information/EO/advisory components, but
+  GCF project development takes 1-3 years, needs NDA buy-in and CGIAR System-level coordination; accreditation
+  renewal due Sep 2027.
+recommendation: 'Pursue as a medium-term pipeline: pick an NDA (e.g., Colombia, Honduras, Central America
+  Dry Corridor) and co-develop a Small, low-risk climate-services/agri-adaptation concept with the CGIAR
+  System Organization. Confirm its re-accreditation plans (submission deadline 29 Mar 2027).'
+potential_partners: CGIAR System Organization (AE); NDAs; national meteorological services; FAO/IFAD/WFP
+  as alternative AEs; CIFOR-ICRAF (FP304 experience).
+next_action: Contact the CGIAR System Organization GCF focal point about the internal pipeline process
+  and FP304 lessons; shortlist 1-2 countries with NDAs open to a CGIAR-led concept.
+evidence:
+  deadline_quote: Renewal date | 29 Sep 2027 ... Re-accreditation submission deadline (29 Mar 2027)
+  eligibility_quote: CGIAR System Organization (CGIAR) ... Status | Accredited ... Size | Small | ESS
+    Category | Category C, Intermediation 3 | Fiduciary standards | Basic, Project management, Grant award
+  status_quote: FP304 ... Enhancing Sustainable Land Management and Climate-Resilient Agri-food Systems
+    in Cote d'Ivoire (LARACI) ... Under implementation ... Approved funding proposal ... 23 Jul 2026
+unverified_fields:
+- per-project USD range for GCF 'Small' category
+- internal CGIAR process for centers to channel proposals through the System Organization
+- NDA no-objection requirement (standard GCF rule, not restated on AE page)
+verification_notes: 'On 2026-10-14 downloaded all pages (0-8) of the official GCF AE directory (/partners/accredited-entities/all)
+  and searched for CGIAR center names: only ''CGIAR System Organization'' matched; no CIAT, Bioversity,
+  CIFOR/ICRAF, IWMI, IFPRI etc. Loaded the CGIAR AE page directly. Caveat: the AE page overview describes
+  ''promotion of agroforestry systems'', suggesting the record originates from the 2018 ICRAF accreditation
+  later held by the System Organization; confirm with CGIAR. | 2026-10-22 staff-cost/duration check: https://www.greenclimate.fund/partners/accredited-entities/cgiar
+  (Accreditation page; no cost or duration rules.)'
+last_verified: '2026-10-14'
+verification_source: import:multilateral.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:51
+  event: added
+  detail: import:multilateral.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

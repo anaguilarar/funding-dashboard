@@ -1,0 +1,107 @@
+id: corteva-agriscience-corteva-open-innovation-rolling-proposals-in-digit
+title: Corteva Open Innovation - rolling proposals in Digital Solutions / Plant Breeding (drone & satellite
+  analytics, crop growth modeling, AI for breeding)
+funder: Corteva Agriscience
+funder_type: tech_company
+program: Corteva Open Innovation (corporate agri-input company; sponsored/collaborative research)
+opportunity_type: grant
+themes:
+- digital_agriculture
+- remote_sensing
+- ai_ml
+- crop_modeling
+- climate_smart_ag
+url: https://openinnovation.corteva.com/our-interests.html
+source_urls:
+- https://www.openinnovation.corteva.com/resource/faq.html
+- https://openinnovation.corteva.com/resource/process-of-applying.html
+- https://openinnovation.corteva.com/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'Traits, Plant Breeding, Enabling Technologies and Digital Solutions: evaluated on a rolling
+  basis. Crop Protection and Biologicals: evaluated quarterly with cutoffs on February 1, May 1, August
+  1 and November 1.'
+funding_amount_min: null
+funding_amount_max: 50000
+currency: USD
+funding_text: '"Typical collaborative and sponsored research projects funded through Open Innovation may
+  receive up to $50,000 funding" to reach a defined proof of concept "within a one-year timeframe". "We
+  may cover a maximum of 10% indirect costs for a project with academic and nonprofit research institutions
+  only." Corteva also offers "Short term funding to support proposed research in areas of interest" and
+  "Enabling Capabilities" (in-kind access to technology).'
+duration: Proof of concept within a one-year timeframe
+duration_months_max: 12
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Academics, research institutes, nonprofits, startups; students/postdocs with advisor
+  support. FAQ refers to 'academic and nonprofit research institutions' for indirect-cost rules.
+eligible_countries: No country restriction stated on the official pages.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'No restriction on institution type or country is stated; CIAT/Alliance as a
+  nonprofit research institution could submit directly as lead (indirect costs capped at 10%). Main issue
+  is contractual: agreement terms (IP, confidentiality, publication) are negotiated case by case and must
+  be compatible with CGIAR IP Principles/open-access policy - check with Alliance legal before pitching.'
+lead_applicant_requirements: Not specified (submitter; advisor statement needed if student/postdoc).
+geographic_restrictions: None stated.
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Areas of interest include Plant Breeding: "crop growth modeling", "artificial intelligence
+  application for breeding programs"; Digital Solutions: "improved analytics of drone and satellite imaging
+  data for plant health diagnostics"; Enabling Technologies: "sensor platforms for in-field continuous
+  characterization of soil composition and microclimates"; also crop protection, traits, biologicals.'
+required_documents: Non-confidential proposal, "typically 1-3 pages in length", using Corteva's Collaboration
+  Proposal Template.
+application_procedure: Submit via the Open Innovation site (links to Halo platform) either to a time-limited
+  challenge or in an area of interest; Corteva responds with level of interest within 60 days; if selected,
+  virtual pitch/Q&A, then funding level, resources and agreement terms are agreed.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Digital Solutions (drone/satellite analytics for plant health) and Plant
+  Breeding (crop growth modeling, AI for breeding) match the researcher's UAV/hyperspectral phenotyping,
+  deep learning and crop modelling skills directly; focus is industry R&D proof-of-concept rather than
+  smallholder climate adaptation.
+strategic_relevance: 2
+strategic_relevance_rationale: Small, short corporate grant; useful for a seed-company partnership and
+  phenotyping pipeline demonstration (e.g., maize/rice in LAC) but limited for sustaining multi-year staff;
+  IP/confidentiality terms may conflict with CGIAR open-access.
+technical_feasibility: 5
+technical_feasibility_rationale: A 1-3 page proposal on UAV/satellite-based plant health or phenotype
+  prediction is fully within existing capabilities.
+recommendation: 'Corporate open-innovation funding. Pursue opportunistically: submit a 1-3 page non-confidential
+  proposal under Digital Solutions or Plant Breeding (e.g., UAV/hyperspectral + DL phenotyping for disease/stress
+  in maize trials, or crop-model-assisted GxE prediction). Low effort, rolling, but expect max ~USD 50k
+  / 12 months and negotiate IP terms early.'
+potential_partners: Corteva/Pioneer breeding stations in Colombia/Mexico/Brazil; CIMMYT (maize)
+next_action: 'Draft a 1-3 page non-confidential concept using the Collaboration Proposal Template; confirm
+  with Alliance legal/BD that a sponsored-research agreement with Corteva fits CGIAR IP principles; submit
+  via openinnovation.corteva.com (questions: openinnovation@corteva.com).'
+evidence:
+  deadline_quote: 'Areas of interest page: Traits, Plant Breeding, Enabling Technologies and Digital Solutions
+    are "evaluated on a rolling basis"; FAQ: "we aim to respond with our level of interest within 60 days
+    of receiving your proposal."'
+  eligibility_quote: '"We may cover a maximum of 10% indirect costs for a project with academic and nonprofit
+    research institutions only."'
+  status_quote: '"Short term funding to support proposed research in areas of interest." / Digital Solutions:
+    "improved analytics of drone and satellite imaging data for plant health diagnostics"'
+  staff_costs_quote: Not specified - FAQ only states "Depending on the project, we may provide in kind
+    resources"; process page says funding levels are agreed case by case.
+unverified_fields:
+- covers_staff_costs
+- eligible_applicants (no explicit eligibility section)
+- IP/terms (terms and conditions page not loaded)
+verification_notes: Loaded openinnovation.corteva.com home, our-interests, FAQ and process-of-applying
+  pages on 2026-10-22. A third-party aggregator listed quarterly cutoffs incl. 1 Nov 2026 for crop protection/biologicals
+  (consistent with official page). Halo company page for Corteva listed no dated opportunities.
+last_verified: '2026-10-22'
+verification_source: import:corporate_agrifood_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:56
+  event: added
+  detail: import:corporate_agrifood_2026-10-22.json

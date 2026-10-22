@@ -1,0 +1,511 @@
+{
+  "group": "corporate_agrifood",
+  "searched_on": "2026-10-22",
+  "opportunities": [
+    {
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "funding_amount_min": null,
+      "funding_amount_max": 50000,
+      "currency": "USD",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "consortium_required": "no",
+      "consortium_details": "Not specified",
+      "unverified_fields": [
+        "covers_staff_costs",
+        "eligible_applicants (no explicit eligibility section)",
+        "IP/terms (terms and conditions page not loaded)"
+      ],
+      "title": "Corteva Open Innovation - rolling proposals in Digital Solutions / Plant Breeding (drone & satellite analytics, crop growth modeling, AI for breeding)",
+      "funder": "Corteva Agriscience",
+      "funder_type": "tech_company",
+      "program": "Corteva Open Innovation (corporate agri-input company; sponsored/collaborative research)",
+      "opportunity_type": "grant",
+      "themes": [
+        "digital_agriculture",
+        "remote_sensing",
+        "ai_ml",
+        "crop_modeling",
+        "climate_smart_ag"
+      ],
+      "url": "https://openinnovation.corteva.com/our-interests.html",
+      "source_urls": [
+        "https://www.openinnovation.corteva.com/resource/faq.html",
+        "https://openinnovation.corteva.com/resource/process-of-applying.html",
+        "https://openinnovation.corteva.com/"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "deadline_text": "Traits, Plant Breeding, Enabling Technologies and Digital Solutions: evaluated on a rolling basis. Crop Protection and Biologicals: evaluated quarterly with cutoffs on February 1, May 1, August 1 and November 1.",
+      "funding_text": "\"Typical collaborative and sponsored research projects funded through Open Innovation may receive up to $50,000 funding\" to reach a defined proof of concept \"within a one-year timeframe\". \"We may cover a maximum of 10% indirect costs for a project with academic and nonprofit research institutions only.\" Corteva also offers \"Short term funding to support proposed research in areas of interest\" and \"Enabling Capabilities\" (in-kind access to technology).",
+      "duration": "Proof of concept within a one-year timeframe",
+      "duration_months_max": 12,
+      "covers_staff_costs": "Not specified",
+      "support_type": "project_funding",
+      "eligible_applicants": "Academics, research institutes, nonprofits, startups; students/postdocs with advisor support. FAQ refers to 'academic and nonprofit research institutions' for indirect-cost rules.",
+      "eligible_countries": "No country restriction stated on the official pages.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "No restriction on institution type or country is stated; CIAT/Alliance as a nonprofit research institution could submit directly as lead (indirect costs capped at 10%). Main issue is contractual: agreement terms (IP, confidentiality, publication) are negotiated case by case and must be compatible with CGIAR IP Principles/open-access policy - check with Alliance legal before pitching.",
+      "lead_applicant_requirements": "Not specified (submitter; advisor statement needed if student/postdoc).",
+      "geographic_restrictions": "None stated.",
+      "eligible_activities": "Areas of interest include Plant Breeding: \"crop growth modeling\", \"artificial intelligence application for breeding programs\"; Digital Solutions: \"improved analytics of drone and satellite imaging data for plant health diagnostics\"; Enabling Technologies: \"sensor platforms for in-field continuous characterization of soil composition and microclimates\"; also crop protection, traits, biologicals.",
+      "required_documents": "Non-confidential proposal, \"typically 1-3 pages in length\", using Corteva's Collaboration Proposal Template.",
+      "application_procedure": "Submit via the Open Innovation site (links to Halo platform) either to a time-limited challenge or in an area of interest; Corteva responds with level of interest within 60 days; if selected, virtual pitch/Q&A, then funding level, resources and agreement terms are agreed.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Digital Solutions (drone/satellite analytics for plant health) and Plant Breeding (crop growth modeling, AI for breeding) match the researcher's UAV/hyperspectral phenotyping, deep learning and crop modelling skills directly; focus is industry R&D proof-of-concept rather than smallholder climate adaptation.",
+      "strategic_relevance": 2,
+      "strategic_relevance_rationale": "Small, short corporate grant; useful for a seed-company partnership and phenotyping pipeline demonstration (e.g., maize/rice in LAC) but limited for sustaining multi-year staff; IP/confidentiality terms may conflict with CGIAR open-access.",
+      "technical_feasibility": 5,
+      "technical_feasibility_rationale": "A 1-3 page proposal on UAV/satellite-based plant health or phenotype prediction is fully within existing capabilities.",
+      "recommendation": "Corporate open-innovation funding. Pursue opportunistically: submit a 1-3 page non-confidential proposal under Digital Solutions or Plant Breeding (e.g., UAV/hyperspectral + DL phenotyping for disease/stress in maize trials, or crop-model-assisted GxE prediction). Low effort, rolling, but expect max ~USD 50k / 12 months and negotiate IP terms early.",
+      "potential_partners": "Corteva/Pioneer breeding stations in Colombia/Mexico/Brazil; CIMMYT (maize)",
+      "next_action": "Draft a 1-3 page non-confidential concept using the Collaboration Proposal Template; confirm with Alliance legal/BD that a sponsored-research agreement with Corteva fits CGIAR IP principles; submit via openinnovation.corteva.com (questions: openinnovation@corteva.com).",
+      "evidence": {
+        "deadline_quote": "Areas of interest page: Traits, Plant Breeding, Enabling Technologies and Digital Solutions are \"evaluated on a rolling basis\"; FAQ: \"we aim to respond with our level of interest within 60 days of receiving your proposal.\"",
+        "eligibility_quote": "\"We may cover a maximum of 10% indirect costs for a project with academic and nonprofit research institutions only.\"",
+        "status_quote": "\"Short term funding to support proposed research in areas of interest.\" / Digital Solutions: \"improved analytics of drone and satellite imaging data for plant health diagnostics\"",
+        "staff_costs_quote": "Not specified - FAQ only states \"Depending on the project, we may provide in kind resources\"; process page says funding levels are agreed case by case."
+      },
+      "verification_notes": "Loaded openinnovation.corteva.com home, our-interests, FAQ and process-of-applying pages on 2026-10-22. A third-party aggregator listed quarterly cutoffs incl. 1 Nov 2026 for crop protection/biologicals (consistent with official page). Halo company page for Corteva listed no dated opportunities."
+    },
+    {
+      "published_date": "2026-06-05",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "consortium_required": "yes",
+      "consortium_details": "WCR-led partnerships with national coffee research institutes and member companies.",
+      "unverified_fields": [
+        "funding_amount",
+        "duration",
+        "covers_staff_costs"
+      ],
+      "title": "World Coffee Research (WCR) - Innovea Global Coffee Breeding Network / member-funded research partnerships (partnership-based, no open call)",
+      "funder": "World Coffee Research (industry-funded by 200+ coffee companies incl. Starbucks, Tchibo, Keurig Dr Pepper; co-funders incl. JDE Peet's, Lavazza Foundation, Taylors of Harrogate)",
+      "funder_type": "research_partnership",
+      "program": "Corporate-funded industry research consortium (Innovea breeding network; CafeClima; molecular breeding tools initiative)",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_adaptation",
+        "crop_modeling",
+        "remote_sensing",
+        "food_security",
+        "smallholders",
+        "climate_smart_ag"
+      ],
+      "url": "https://worldcoffeeresearch.org/news/world-coffee-research-launches-1-5-million-initiative-to-modernize-breeding-tools-for-global-coffee-resilience",
+      "source_urls": [
+        "https://worldcoffeeresearch.org/news/world-coffee-research-and-ciat-unveil-science-based-tool-for-climate-smart-coffee-replanting-investments",
+        "https://worldcoffeeresearch.org/membership",
+        "https://worldcoffeeresearch.org/"
+      ],
+      "status": "monitoring",
+      "status_basis": "official",
+      "deadline_text": "No call; partnership-based. No requests for proposals found on worldcoffeeresearch.org (checked 2026-10-22).",
+      "funding_text": "Example: USD 1.5 million initiative (5 June 2026) funded by an FFAR grant \"matched by industry co-investment from Taylors of Harrogate, Coffee Circle, and other WCR member companies\"; Uganda seed-systems effort where UNIDO, JDE Peet's, The J.M. Smucker Co. and Lavazza Foundation \"commit EUR 850,000 toward a WCR-led effort\".",
+      "duration": "Not specified",
+      "duration_months_max": null,
+      "covers_staff_costs": "Not specified",
+      "support_type": "project_funding",
+      "eligible_applicants": "Not applicable - WCR selects national research partners (e.g., Cenicafe, KALRO, USDA-ARS) and technical collaborators.",
+      "eligible_countries": "Coffee-producing countries in the WCR network (Colombia via Cenicafe among others).",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "The Alliance already partners with WCR: CafeClima (Feb 2026) uses advanced climate projections supplied by the Alliance (Eric Rahn quoted). Route is a sub-award/partnership, not a competitive application.",
+      "lead_applicant_requirements": "Not applicable",
+      "geographic_restrictions": "Not specified",
+      "eligible_activities": "Breeding (Innovea network), molecular markers, variety trials, climate suitability tools (CafeClima).",
+      "required_documents": "Not specified",
+      "application_procedure": "No public procedure; partnership negotiated with WCR.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Multi-location variety trials + climate modelling are a natural fit for UAV/RS phenotyping, ML and crop/climate suitability modelling; the June 2026 initiative itself is genomics-focused and does not fund phenotyping.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Existing Alliance-WCR relationship (CafeClima), Colombia/LAC coffee focus, corporate co-funding pipeline (FFAR + member companies).",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "High-throughput phenotyping of Innovea trials and climate-informed variety recommendations are within team capabilities.",
+      "recommendation": "Strategic monitoring (corporate-funded consortium): propose a remote-sensing/UAV phenotyping + climate-modelling add-on to WCR's Innovea trials (incl. Cenicafe), building on CafeClima. Funding would likely come from WCR member companies or FFAR-matched grants.",
+      "potential_partners": "WCR, Cenicafe (FNC Colombia), Taylors of Harrogate, Coffee Circle, Alliance coffee team (Eric Rahn)",
+      "next_action": "Coordinate with Alliance coffee researchers (Eric Rahn) and contact the WCR science team to explore a phenotyping/climate-analytics workstream for the Innovea network; watch WCR news for new co-funded initiatives.",
+      "evidence": {
+        "deadline_quote": "No call published; the 5 June 2026 release lists partners only and invites no applications.",
+        "eligibility_quote": "CafeClima release (2026.02.11): the Alliance of Bioversity International and CIAT supplied the advanced climate projections behind the tool.",
+        "status_quote": "\"Public-private partnership aims to make breeding faster, better, and cheaper for the entire sector\"",
+        "staff_costs_quote": "Not specified"
+      },
+      "verification_notes": "Loaded worldcoffeeresearch.org home, the 5 Jun 2026 breeding-tools release and the 11 Feb 2026 CafeClima release on 2026-10-22."
+    },
+    {
+      "published_date": "2026-03-19",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "consortium_required": "yes",
+      "consortium_details": "IDH with financial institutions and global coffee buyers.",
+      "unverified_fields": [
+        "funding_amount",
+        "partners",
+        "duration",
+        "any procurement for technical assistance"
+      ],
+      "title": "IDH LATTE - Latin America Climate Resilient Coffee Facility (Colombia pilot; partnership opportunity, no open call)",
+      "funder": "IDH - The Sustainable Trade Initiative (with financial institutions and coffee buyers; incubated by the Global Innovation Lab for Climate Finance)",
+      "funder_type": "research_partnership",
+      "program": "LATTE blended-finance facility for climate-resilient coffee (corporate value-chain finance)",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "smallholders",
+        "multifunctional_landscapes",
+        "food_security"
+      ],
+      "url": "https://idh.org/news/latte-enters-climate-finance-lab-to-mobilise-capital-for-coffee-resilience",
+      "source_urls": [
+        "https://idh.org/",
+        "https://idh.org/contact"
+      ],
+      "status": "monitoring",
+      "status_basis": "official",
+      "deadline_text": "No call; \"Over the coming months, the LATTE concept will be refined through the Lab's incubation process.\"",
+      "funding_text": "\"LATTE is designed to unlock fit-for-purpose financing for climate-resilient coffee production\", combining value chain finance, climate-smart lending, technical assistance and payments for ecosystem services. No amounts stated.",
+      "duration": "Not specified",
+      "duration_months_max": null,
+      "covers_staff_costs": "Not specified",
+      "support_type": "core_or_program_funding",
+      "eligible_applicants": "Not applicable - IDH-designed facility.",
+      "eligible_countries": "Colombia (initial pilot); Latin America implied by name.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "Possible role as technical-assistance / climate-risk and MRV data partner (landscape climate risk, EO-based monitoring of resilient practices) via contract with IDH; not an application.",
+      "lead_applicant_requirements": "Not applicable",
+      "geographic_restrictions": "Colombia pilot",
+      "eligible_activities": "Value-chain finance, climate-smart lending, technical assistance, payments for ecosystem services in coffee landscapes.",
+      "required_documents": "Not specified",
+      "application_procedure": "No public procedure; contact IDH via its contact form.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Climate-risk analytics, EO monitoring/MRV for landscapes and coffee suitability modelling are relevant, but the facility is primarily finance.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Colombia coffee landscapes, climate resilience, private-capital mobilization; complements Alliance coffee/climate work.",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Alliance has coffee climate-suitability models and EO capacity for landscape monitoring.",
+      "recommendation": "Industry-backed platform (IDH convenes corporate buyers). Monitor and approach IDH Colombia to position the Alliance as climate-risk/EO-MRV technical partner while LATTE is still being designed.",
+      "potential_partners": "IDH Colombia, FNC/Cenicafe, coffee buyers (e.g., Nestle/Nespresso, JDE Peet's, Starbucks), Colombian banks",
+      "next_action": "Contact the IDH coffee/Colombia team (idh.org/contact) offering climate-risk and EO monitoring support for LATTE design; follow Climate Finance Lab 2026 cohort outputs.",
+      "evidence": {
+        "deadline_quote": "\"Over the coming months, the LATTE concept will be refined through the Lab's incubation process.\" (19 March 2026)",
+        "eligibility_quote": "No eligibility/call information on the page.",
+        "status_quote": "\"LATTE is designed to unlock fit-for-purpose financing for climate-resilient coffee production\"",
+        "staff_costs_quote": "Not specified"
+      },
+      "verification_notes": "Loaded the idh.org news item (19 Mar 2026) and idh.org home on 2026-10-22; no IDH calls for proposals listed on the home page."
+    },
+    {
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "consortium_required": "no",
+      "consortium_details": "Not specified",
+      "unverified_fields": [
+        "term length (a search summary mentioned a two-year renewable term; not confirmed on loaded official pages)"
+      ],
+      "title": "AWS Open Data Sponsorship Program (free S3 storage + egress for open, cloud-optimized datasets)",
+      "funder": "Amazon Web Services",
+      "funder_type": "tech_company",
+      "program": "Registry of Open Data on AWS - Open Data Sponsorship Program (corporate in-kind)",
+      "opportunity_type": "cloud_credits",
+      "themes": [
+        "climate_data_infrastructure",
+        "open_source_software",
+        "remote_sensing",
+        "digital_agriculture"
+      ],
+      "url": "https://aws.amazon.com/opendata/open-data-sponsorship-program/",
+      "source_urls": [
+        "https://aws.amazon.com/opendata/faqs/",
+        "https://application.opendata.aws/"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "deadline_text": "\"We evaluate applications on a rolling basis.\" Decisions generally communicated \"within a two-week period.\"",
+      "funding_text": "Program \"covers the cost of storing and sharing publicly available, high-value, cloud-optimized datasets\"; FAQ: \"The program covers Amazon S3 storage costs for the specific dataset approved under the program\" plus distribution costs (egress, cross-region). Compute/analytics not covered.",
+      "duration": "Not specified on loaded official pages (periodic renewal review described)",
+      "duration_months_max": null,
+      "covers_staff_costs": "no",
+      "support_type": "in_kind_resources",
+      "eligible_applicants": "Data providers with openly licensed, well-documented datasets; signer must be an authorized representative of the organization.",
+      "eligible_countries": "No restriction stated.",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "No applicant-type restriction stated; the Alliance can apply directly as data provider. Constraint: \"Datasets must be accessible to all users, usable for any purpose, and available at no cost\" (CC BY 4.0 recommended; NC/ND licences excluded).",
+      "lead_applicant_requirements": "Authorized representative of the data-providing organization.",
+      "geographic_restrictions": "None stated.",
+      "eligible_activities": "Hosting and distribution of open, cloud-optimized datasets (e.g., COG/Zarr crop-yield forecasts, climate projections, EO-derived maps) on the Registry of Open Data.",
+      "required_documents": "Online application: contacts, institution, dataset name/description, size, growth rate, formats, license, intended use and novelty.",
+      "application_procedure": "Review Terms and Conditions, submit the form at application.opendata.aws; rolling review.",
+      "eligibility_assessment": "confirmed_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Supports climate data infrastructure / open dissemination of RS and crop-model outputs; does not fund research itself.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Free, durable hosting for Alliance open datasets (e.g., Climate Data Hub layers) increases reuse and visibility; no staff funding.",
+      "technical_feasibility": 5,
+      "technical_feasibility_rationale": "Team already produces COG/NetCDF/Zarr datasets with metadata.",
+      "recommendation": "Apply for one flagship open dataset (e.g., gridded crop yield forecasts or downscaled climate/crop-suitability layers already CC BY 4.0) to remove storage/egress costs.",
+      "potential_partners": "Alliance Climate Data Hub team",
+      "next_action": "Pick a CC BY 4.0 dataset, convert to cloud-optimized formats, read the T&Cs and submit at application.opendata.aws.",
+      "evidence": {
+        "deadline_quote": "\"We evaluate applications on a rolling basis.\"",
+        "eligibility_quote": "\"Datasets must be accessible to all users, usable for any purpose, and available at no cost.\"",
+        "status_quote": "\"The program covers Amazon S3 storage costs for the specific dataset approved under the program\"",
+        "staff_costs_quote": "Not applicable - in-kind storage only; compute, analytics and other services are not covered."
+      },
+      "verification_notes": "Loaded the AWS program page and Open Data FAQ on 2026-10-22."
+    },
+    {
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "consortium_required": "no",
+      "consortium_details": "Not specified",
+      "unverified_fields": [
+        "access duration",
+        "approval timeline"
+      ],
+      "title": "Google TPU Research Cloud (TRC) - free Cloud TPU access for researchers",
+      "funder": "Google",
+      "funder_type": "tech_company",
+      "program": "TPU Research Cloud (corporate in-kind compute)",
+      "opportunity_type": "cloud_credits",
+      "themes": [
+        "ai_ml",
+        "remote_sensing",
+        "open_source_software"
+      ],
+      "url": "https://sites.research.google/trc/about/",
+      "source_urls": [
+        "https://sites.research.google/trc/faq/"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "deadline_text": "\"Invitations are sent out to approved applicants on a rolling basis.\"",
+      "funding_text": "\"TRC enables researchers to access a cluster of more than 1,000 Cloud TPU devices\"; accepted researchers \"will have access to Cloud TPUs at no charge.\" \"While Cloud TPUs are free to use for TRC participants, other GCP services are not.\"",
+      "duration": "Quota granted \"on a temporary basis\"; length not specified",
+      "duration_months_max": null,
+      "covers_staff_costs": "no",
+      "support_type": "in_kind_resources",
+      "eligible_applicants": "\"Anyone can express interest in joining the program by signing up.\"",
+      "eligible_countries": "No restriction stated.",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "Individual researchers express interest; no institutional restriction stated. Obligation to share results openly (papers, open-source code, blog posts) fits CGIAR open-access policy.",
+      "lead_applicant_requirements": "Researcher; agree to Google Terms, Privacy Policy and AI principles; share feedback with Google.",
+      "geographic_restrictions": "None stated.",
+      "eligible_activities": "Training/inference of ML models on Cloud TPUs (TensorFlow, PyTorch, JAX, Julia) - e.g., EO foundation-model fine-tuning, crop-type/phenology deep learning.",
+      "required_documents": "Express-interest form.",
+      "application_procedure": "Submit the 'Express interest' form; rolling invitations.",
+      "eligibility_assessment": "confirmed_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Directly useful for deep learning / geospatial foundation-model work on Sentinel/Landsat time series.",
+      "strategic_relevance": 2,
+      "strategic_relevance_rationale": "Compute only; no staff funding; complements existing Google Cloud/Earth Engine credits in the dashboard.",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Team uses TensorFlow; JAX/PyTorch-XLA porting may be needed for best TPU use.",
+      "recommendation": "Low-effort add-on: express interest for a specific EO deep-learning project (e.g., rice phenology/crop mapping foundation-model fine-tuning). Budget small GCP costs for VMs/storage.",
+      "potential_partners": "Not specified",
+      "next_action": "Submit the TRC express-interest form describing an EO/agriculture DL project and planned open outputs.",
+      "evidence": {
+        "deadline_quote": "\"Invitations are sent out to approved applicants on a rolling basis.\"",
+        "eligibility_quote": "\"Anyone can express interest in joining the program by signing up.\"",
+        "status_quote": "Accepted researchers \"will have access to Cloud TPUs at no charge.\"",
+        "staff_costs_quote": "Not applicable - in-kind compute only; \"other GCP services are not\" free."
+      },
+      "verification_notes": "Loaded TRC about and FAQ pages on 2026-10-22. Distinct from Google Cloud Research Credits / Earth Engine tiers already in the dashboard."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "Corteva Agriscience",
+      "name": "Corteva Open Innovation - challenges and areas of interest",
+      "url": "https://openinnovation.corteva.com/",
+      "type": "html",
+      "why": "Time-limited challenges posted through the year; quarterly cutoffs for crop protection/biologicals."
+    },
+    {
+      "funder": "Bayer Crop Science",
+      "name": "Bayer Crop Science on Halo (Grants4Ag partnering requests)",
+      "url": "https://www.halo.science/company/bayer-crop-science",
+      "type": "html",
+      "why": "Grants4Ag rounds are posted here; all listed requests currently 'Complete' - watch for a new round (past topics: precision agriculture, digital agronomic data tools, climate solutions)."
+    },
+    {
+      "funder": "Syngenta Group",
+      "name": "Shoots by Syngenta - live challenges",
+      "url": "https://www.shootsbysyngenta.com/challenges",
+      "type": "html",
+      "why": "Open-innovation challenges for academics/research institutes; watch for 'Digital and Data' challenges."
+    },
+    {
+      "funder": "World Coffee Research",
+      "name": "WCR news",
+      "url": "https://worldcoffeeresearch.org/",
+      "type": "html",
+      "why": "Industry co-funded breeding/climate initiatives; existing Alliance partnership (CafeClima)."
+    },
+    {
+      "funder": "IDH",
+      "name": "IDH news (LATTE, coffee/cocoa landscapes)",
+      "url": "https://idh.org/",
+      "type": "html",
+      "why": "Coffee climate-resilience facility piloting in Colombia; possible TA procurement."
+    },
+    {
+      "funder": "AB InBev and partners",
+      "name": "100+ Accelerator FAQ / cohort calls",
+      "url": "https://www.100accelerator.com/faq",
+      "type": "html",
+      "why": "Annual cohort (applications ~June-July); startup-oriented, pilot funding up to USD 100k - only relevant if a partner startup leads."
+    },
+    {
+      "funder": "FFAR / AgMission (corporate co-funded RFAs)",
+      "name": "FFAR grants & funding opportunities",
+      "url": "https://foundationfar.org/grants-funding/opportunities/",
+      "type": "html",
+      "why": "Corporate co-funded RFAs (e.g., PepsiCo/AgMission 2023; WCR coffee breeding 2026) appear here."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "AB InBev 100+ Accelerator Cohort 7 (2026)",
+      "url": "https://www.100accelerator.com/faq",
+      "reason": "Closed (applications June 2 - July 10, 2026); targets startups (Seed to Series A) with a registered legal entity; not suited to CIAT as a research institute."
+    },
+    {
+      "title": "Bayer Grants4Ag",
+      "url": "https://www.bayer.com/en/agriculture/grants4ag",
+      "reason": "Official Bayer page returned 403; Halo sponsor page shows all Grants4Ag requests as 'Complete'; no current round found. Monitor."
+    },
+    {
+      "title": "Shoots by Syngenta live challenges",
+      "url": "https://www.shootsbysyngenta.com/challenges",
+      "reason": "Live challenges are lab biology/chemistry topics (by-product bioactives, drought biologicals, plant electrophysiology electrodes, soil restoration, proteomics, soil-pest biocontrol, bird repellents) - no digital/EO/crop-modelling challenge; low alignment."
+    },
+    {
+      "title": "Starbucks Foundation Origin Grants / Starbucks Global Farmer Fund",
+      "url": "https://about.starbucks.com/the-starbucks-foundation/",
+      "reason": "Origin Grants are invitation-based for nonprofits (women's empowerment, WASH); Global Farmer Fund is lending - no open research call."
+    },
+    {
+      "title": "Nestle Foundation research grants",
+      "url": "https://www.nestlefoundation.org/",
+      "reason": "Already rejected in foundations.json; site still 403 to bots (2026-10-22). Human-nutrition scope; Large Research Grant round reportedly closed 10 Jun 2026."
+    },
+    {
+      "title": "Mondelez CoLab Tech 2026 accelerator",
+      "url": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-internationals-global-rd-team-opens-applications-colab",
+      "reason": "Startup accelerator; applications closed 31 Mar 2026."
+    },
+    {
+      "title": "PepsiCo / AgMission regenerative agriculture RFA",
+      "url": "https://foundationfar.org/grants-funding/opportunities/agmission-request-for-applications-regenerative-agriculture-for-climate-resilient-farms-and-supply-chains/",
+      "reason": "2023 call (N. America, Europe, South Africa, Australia), closed; no 2026 round found."
+    },
+    {
+      "title": "Danone Institute North America Sustainable Food Systems 2025-2027 / Danone Ecosystem Fund / Livelihoods Fund",
+      "url": "https://danonenorthamerica.com/newsroom/details/danone-institute-north-america-now-accepting-grant-proposals-for-our-two-sustainable-food-systems-initiatives.html",
+      "reason": "DINA closed Feb 2025 and US/Canada only; Ecosystem/Livelihoods funds are partnership/carbon-investment vehicles without open calls."
+    },
+    {
+      "title": "Mars, Nestle (Institute of Agricultural Sciences, Nescafe Plan), Cargill, Louis Dreyfus Company Foundation",
+      "url": "https://www.nestle.com/",
+      "reason": "Searched for 2026 RFPs/calls - none found; programmes run through sourcing partnerships, not open calls."
+    },
+    {
+      "title": "Coffee & Climate (c&c) / International Coffee Partners; Coffee Circle Vision Fund II; ICO initiatives call",
+      "url": "https://www.ico.org/documents/cy2025-26/ed-2496e-call-for-proposals-initiatives.pdf",
+      "reason": "No 2026 c&c call found; Coffee Circle Vision Fund II closed; ICO call was for members with deadline 27 Feb 2026."
+    },
+    {
+      "title": "Coffee Science Foundation (SCA) research RFP",
+      "url": "https://sca.coffee/",
+      "reason": "No 2026 RFP found; agenda-driven commissioned research (cold brew, extraction) - low alignment."
+    },
+    {
+      "title": "Rabobank Acorn (agroforestry carbon removal units) / Rabo Foundation",
+      "url": "https://acorn.rabobank.com/en/our-approach/",
+      "reason": "Carbon-credit platform onboarding via local project partners, not research funding; Rabo Foundation supports cooperatives (site 403)."
+    },
+    {
+      "title": "OCP / UM6P / OCP Foundation",
+      "url": "https://www.um6p.ma/",
+      "reason": "Only bilateral MoUs found (Embrapa, Arvalis, Moroccan ministries); no open call for external institutions."
+    },
+    {
+      "title": "Federacion Nacional de Cafeteros / Cenicafe, Fedearroz, Cenicana",
+      "url": "https://www.cenicafe.org/",
+      "reason": "No external convocatorias found; research is in-house/partner-based (Cenicafe reachable via WCR network)."
+    },
+    {
+      "title": "International Potash Institute research collaborations",
+      "url": "https://www.ipipotash.org/",
+      "reason": "No 2026 call for proposals found."
+    },
+    {
+      "title": "Africa Food Prize 2027 (Yara-founded, AGRA-hosted)",
+      "url": "https://africafoodprize.org/",
+      "reason": "Only a third-party listing for 2027; Africa-based individuals/groups; not verified on official site."
+    },
+    {
+      "title": "AXA Research Fund / AXA Foundation for Human Progress",
+      "url": "https://axa-research.org/en/page/AXA-Chairs",
+      "reason": "2026 Chairs EoI closed 10 Oct 2025; no 2026 postdoc fellowship call (per UZH)."
+    },
+    {
+      "title": "Sumitomo Foundation Grant for Environmental Research Projects FY2026",
+      "url": "https://sumitomo.or.jp/e/program.htm",
+      "reason": "Closed 30 Jun 2026; reported to target Japan-affiliated researchers; not agri-food."
+    },
+    {
+      "title": "Esri Nonprofit Organization Program",
+      "url": "https://www.esri.com/en-us/industries/nonprofit/nonprofit-program/eligibility",
+      "reason": "Software programme, not funding; academic institutions excluded and eligibility tied to national nonprofit status; Alliance likely already licensed."
+    },
+    {
+      "title": "Microsoft Planetary Computer",
+      "url": "https://planetarycomputer.microsoft.com/docs/concepts/data-catalog",
+      "reason": "Free open data catalog with no application/grant; Planetary Computer Pro is a paid product."
+    },
+    {
+      "title": "Vantor (ex-Maxar) Open Data Program; Airbus/Satellogic research data",
+      "url": "https://vantor.com/company/open-data-program",
+      "reason": "Vantor open data is disaster-event imagery under CC-BY-NC with no application; no Airbus/Satellogic research-access programme found."
+    },
+    {
+      "title": "Common Fund for Commodities 29th Call",
+      "url": "https://www.common-fund.org/",
+      "reason": "Intergovernmental (not corporate); deadline 1 Oct 2026 passed; mainly loans."
+    }
+  ]
+}

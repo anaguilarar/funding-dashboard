@@ -1,0 +1,81 @@
+id: nasa-science-mission-directorate-earth-science-division-earth-action-n
+title: NASA ROSES-2025 A.13 Accelerating Earth Solutions (AES)
+funder: NASA Science Mission Directorate - Earth Science Division (Earth Action)
+funder_type: national_agency
+program: ROSES-2025 (NNH25ZDA001N), Amendment 62
+opportunity_type: grant
+themes:
+- remote_sensing
+- ai_ml
+- climate_adaptation
+- digital_agriculture
+- climate_data_infrastructure
+url: https://science.nasa.gov/?p=1257410
+source_urls:
+- https://science.nasa.gov/researchers/sara/faqs/
+- https://science.nasa.gov/researchers/sara/grant-solicitations/
+status: closed
+status_basis: official
+published_date: Not specified
+deadline: 2026-10-15T23:59
+deadline_timezone: Not specified
+deadline_text: Proposals due October 15, 2026.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Not specified
+duration: 'Market Discovery: 1 year; Solutions Accelerator: up to 3 years; Force Multiplier: up to 2 years.'
+eligible_applicants: U.S. organizations (per NASA policy, non-U.S. organizations participate on no-exchange-of-funds
+  basis).
+eligible_countries: USA lead.
+international_orgs_eligible: 'no'
+cgiar_eligible: 'no'
+cgiar_eligibility_notes: 'CIAT can only be an unfunded collaborator/Co-I on a U.S.-led proposal: ''NASA
+  funding may not support research efforts by non-U.S. organizations, collaborators or subcontracts at
+  any level''.'
+lead_applicant_requirements: U.S. institution PI.
+geographic_restrictions: Not specified
+consortium_required: optional
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Accelerate use of Earth observations in decision-making across agriculture, disasters,
+  water, etc.; priorities include U.S. resilience, AI/ML, NISAR/PACE/SWOT data.
+required_documents: Not specified
+application_procedure: Via NSPIRES/Grants.gov by U.S. organization.
+eligibility_assessment: confirmed_ineligible
+scientific_alignment: 4
+scientific_alignment_rationale: EO-to-decision and AI themes match; but U.S.-priority framing.
+strategic_relevance: 1
+strategic_relevance_rationale: No funds to CIAT; U.S. focus.
+technical_feasibility: 1
+technical_feasibility_rationale: Due tomorrow; only as unfunded collaborator.
+recommendation: Not worth pursuing now; listed as partner-only reference. Monitor ROSES-2026 (release
+  status unconfirmed) for SERVIR/food-security elements where CIAT could be an unfunded collaborator.
+potential_partners: U.S. universities with NASA Harvest / Acres ties (UMD, etc.).
+next_action: None for this cycle; subscribe to NSPIRES ROSES-2026 notices.
+evidence:
+  deadline_quote: 'Amendment 62: New Opportunity: A.13 Accelerating Earth Solutions ... due October 15,
+    2026'
+  eligibility_quote: NASA's policy welcomes the opportunity to conduct research with non-U.S. organizations
+    on a cooperative, no-exchange-of-funds basis.
+  status_quote: Amendment 62 posted on NASA Science.
+unverified_fields:
+- funding amounts
+- ROSES-2026 release status
+verification_notes: Loaded NASA Science amendment page and SARA FAQ (citing NASA Grant and Cooperative
+  Agreement Manual) 2026-10-14. NASA SARA page (updated 2026-06-10) anticipated ROSES-26 in July 2026;
+  could not confirm release.
+last_verified: '2026-10-14'
+verification_source: import:national_agencies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:49
+  event: added
+  detail: import:national_agencies.json
+- date: 2026-10-16 08:13
+  event: closed
+  detail: deadline 2026-10-15T23:59 passed
+flags:
+- call_page_changed
+- expired

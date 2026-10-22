@@ -1,0 +1,118 @@
+id: european-commission-horizon-europe-msca-postdoctoral-fellowships-2027
+title: MSCA Postdoctoral Fellowships 2027 - HORIZON-MSCA-2027-PF-01-01 (European Fellowship, e.g., hosted
+  by Bioversity International, Italy)
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe - Marie Sklodowska-Curie Actions, Postdoctoral Fellowships
+opportunity_type: fellowship
+themes:
+- remote_sensing
+- ai_ml
+- crop_modeling
+- climate_adaptation
+- digital_agriculture
+- climate_smart_ag
+- capacity_building
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2027-PF-01-01
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+- https://rea.ec.europa.eu/funding-and-grants/horizon-europe-marie-sklodowska-curie-actions/msca-postdoctoral-fellowships_en
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-09-08T17:00
+deadline_timezone: CET/CEST (Brussels local time, 17:00)
+deadline_text: 'MSCA WP 2026-2027 call table: ''HORIZON-MSCA-2027-PF-01 459.70 08 Sep 2027''; ''Opening:
+  07 Apr 2027 Deadline(s): 08 Sep 2027''. Portal status: Forthcoming.'
+funding_amount_min: null
+funding_amount_max: null
+currency: EUR
+funding_text: 'Call budget EUR 459.70 million. Unit contributions per person-month: living allowance EUR
+  6,350 x country correction coefficient (Italy 93.8% = approx. EUR 5,956), mobility allowance EUR 710,
+  family allowance EUR 660 (if applicable); institutional: research, training and networking EUR 1,000,
+  management and indirect EUR 650. Indicative total for 24 months in Italy without family allowance approx.
+  EUR 199,600 (own calculation from WP unit rates).'
+duration: 'European Postdoctoral Fellowships: 12-24 months (plus optional up to 6-month non-academic placement).'
+duration_months_max: 24
+covers_staff_costs: 'yes'
+support_type: fellowship_salary
+eligible_applicants: Single host organisation (mono-beneficiary) in an EU Member State/AC applying jointly
+  with a postdoctoral researcher of any nationality.
+eligible_countries: 'Host: EU Member States and Horizon Europe Associated Countries. Researcher: any nationality
+  for European Fellowships (Global Fellowships require EU/AC nationals or long-term residents).'
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'Bioversity International (IO HQ in Italy) is deemed established in Italy and
+  may be the host/beneficiary that employs the fellow. Researcher eligibility: PhD awarded March 2024
+  (CV) -> well within ''maximum of 8 years'' post-PhD. Colombian national -> eligible for a European (not
+  Global) Fellowship. RISK: for IO hosts the mobility rule is ''not more than 12 months in the 36 months
+  immediately before the call deadline, in the same appointing organisation''; the researcher has been
+  employed by CIAT since Oct 2024. CIAT and Bioversity are separate legal entities but form one Alliance,
+  so REA must be consulted on whether Bioversity counts as a different ''appointing organisation''. Fallback:
+  host at an EU university/research centre (mobility rule then applies to the host country, e.g., not
+  resident in Italy/Germany/NL >12 of last 36 months, which the researcher meets). CIAT (Colombia) cannot
+  be the beneficiary.'
+lead_applicant_requirements: '''Applications must be submitted by a single independent legal entity, established
+  in an EU Member State or Horizon Europe Associated Country.'' ''The beneficiary must employ and supervise
+  the researcher during the action.'''
+geographic_restrictions: Fellowship hosted in EU MS/AC; secondments allowed in any country worldwide.
+consortium_required: 'no'
+consortium_details: Mono-beneficiary action; associated partners only for secondments/placements.
+cofunding_required: 'no'
+cofunding_details: 100% unit contributions.
+eligible_activities: Individual research and training project in any field, with career development plan,
+  secondments and optional non-academic placement.
+required_documents: Part A administrative forms (in submission system) + Part B technical description
+  per template; detailed lump-sum budget table where lump sum applies; ethics self-assessment. See General
+  Annexes A and E.
+application_procedure: Electronic submission by the coordinator via the EU Funding & Tenders Portal; all
+  participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: 'Bottom-up individual fellowship: an EO + AI + crop modelling project
+  (e.g., foundation-model-based crop yield forecasting for climate adaptation) fits directly.'
+strategic_relevance: 4
+strategic_relevance_rationale: Funds the researcher's own salary for up to 2 years at an EU host, building
+  EU network/visibility; Bioversity hosting would keep the work within the Alliance.
+technical_feasibility: 4
+technical_feasibility_rationale: Researcher meets career-stage criteria; 10-page proposal; main uncertainty
+  is the IO mobility-rule interpretation for Bioversity.
+recommendation: 'Strong candidate for the researcher''s own salary. Decide host by early 2027: ask REA/Italian
+  NCP (APRE) whether a CIAT employee can be recruited by Bioversity International under the IO mobility
+  rule; if not, choose an EU university host with Bioversity/CIAT as secondment partner.'
+potential_partners: 'Bioversity International (Rome/Maccarese) as host; alternatives: Wageningen University,
+  Univ. of Twente ITC, Univ. of Bonn, JRC-linked groups; secondment at CIAT Cali.'
+next_action: Email REA MSCA helpdesk/APRE with the mobility-rule question (CIAT employee -> Bioversity
+  host); identify supervisor at Bioversity Italy; start proposal drafting in Q1 2027 ahead of 7 Apr 2027
+  opening.
+evidence:
+  deadline_quote: 'Opening: 07 Apr 2027 Deadline(s): 08 Sep 2027'
+  eligibility_quote: At the call deadline, supported researchers must have a maximum of 8 years full-time
+    equivalent experience in research, measured from the date of award of the doctoral degree. ... For
+    'International European Research Organisations' (IERO), 'international organisations', or entities
+    created under Union law, the researchers must not have spent more than 12 months in the 36 months
+    immediately before the call deadline, in the same appointing organisation. | International organisations
+    with headquarters in an EU Member State or Horizon Europe Associated Country will be deemed to be
+    established in this Member State or Associated Country.
+  status_quote: Portal status code 'Forthcoming' (31094501); planned opening 2027-04-07.
+  staff_costs_quote: The beneficiary must employ and supervise the researcher during the action. ... The
+    living allowance is a gross amount, including compulsory deductions under national law, such as employer
+    and employee social security contributions and direct taxes.
+unverified_fields:
+- published_date
+- IO mobility-rule interpretation for CIAT->Bioversity (needs REA confirmation)
+verification_notes: Topic metadata (dates, budget, status, description, conditions) retrieved 2026-10-22
+  from the official EU Funding & Tenders Portal search API (api.tech.ec.europa.eu/search-api, the data
+  source of the portal topic page). Eligibility, unit contributions, mobility rules from MSCA WP 2026-2027
+  PDF (downloaded 2026-10-22). PhD date (Apr 2021-Mar 2024, Univ. of Tokyo) from D:/scripts/Calls/cv/aaguilar_cv.pdf.
+last_verified: '2026-10-22'
+verification_source: import:europe_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:01
+  event: added
+  detail: import:europe_staff_2026-10-22.json
+- date: 2026-10-22 11:02
+  event: reverified
+  detail: no material change

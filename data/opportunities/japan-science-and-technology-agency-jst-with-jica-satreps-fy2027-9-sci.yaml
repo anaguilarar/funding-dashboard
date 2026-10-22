@@ -1,0 +1,106 @@
+id: japan-science-and-technology-agency-jst-with-jica-satreps-fy2027-9-sci
+title: SATREPS FY2027 (令和9年度) - Science and Technology Research Partnership for Sustainable Development
+funder: Japan Science and Technology Agency (JST) with JICA
+funder_type: national_agency
+program: SATREPS (Environment & Energy; Bioresources; Disaster Prevention). FY2027 includes 'Priority
+  SATREPS' (重点推進型) for Africa, Latin America and Pacific Islands.
+opportunity_type: research_partnership
+themes:
+- climate_adaptation
+- climate_smart_ag
+- remote_sensing
+- ai_ml
+- crop_modeling
+- food_security
+- biodiversity
+- capacity_building
+url: https://www.jst.go.jp/global/english/koubo/index.html
+source_urls:
+- https://www.jst.go.jp/global/koubo/index.html
+- https://www.jst.go.jp/global/pdf/koubo2027.pdf
+- https://www.jst.go.jp/global/english/
+status: monitoring
+status_basis: official
+published_date: '2026-08-18'
+deadline: null
+deadline_timezone: JST
+deadline_text: 'FY2027 call: proposals due 2026-10-19 12:00 JST, but the partner-country ODA request had
+  to reach MOFA Japan by 2026-10-13 (passed). FY2028 call not yet announced.'
+funding_amount_min: null
+funding_amount_max: 175000000
+currency: JPY
+funding_text: About ¥100 million per project per year total; JST ~¥35 million/yr (incl. indirect), max
+  ¥175 million over 5 years; JICA ODA technical cooperation up to ¥300 million over 5 years.
+duration: 3-5 years after provisional period.
+duration_months_max: 60
+covers_staff_costs: 'no'
+support_type: project_funding
+eligible_applicants: Japanese PI at a research institution in Japan (国内の研究機関) submits via e-Rad; partner-country
+  institution must have its government submit an ODA request via the Japanese embassy.
+eligible_countries: ODA-eligible countries listed in 別添1; Colombia (コロンビア共和国) is listed. Max 12 requests
+  per country this year.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'Q&A: regional international organizations in a developing country are not excluded,
+  but the partner government must approve their ODA implementation, submit the ODA request, a government-to-government
+  international agreement is required, and the organization must secure its own personnel and costs. Realistic
+  route: Japanese PI (e.g., Univ. of Tokyo contacts) + Colombian national counterpart (AGROSAVIA/university)
+  with CIAT as participating institution.'
+lead_applicant_requirements: Japanese PI at a Japanese institution; partner-country counterpart PI capable
+  of leading the partner implementation structure.
+geographic_restrictions: Partner countries per Annex 1 (Colombia included); priority regions Africa, Latin
+  America, Pacific Islands.
+consortium_required: 'yes'
+consortium_details: Japan-partner country joint research under JICA technical cooperation project; multi-country
+  proposals possible only if all governments submit ODA requests by deadline.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Joint research addressing global issues with ODA impact; capacity building; equipment;
+  researcher exchange (JICA experts/trainees).
+required_documents: Forms 1-9 (yoshiki2027.docx), outcome target sheet (PPTX), e-Rad submission; partner-country
+  ODA request.
+application_procedure: Japanese PI submits via e-Rad by Oct 19, 2026 noon JST; partner country submits
+  ODA request through MOFA/embassy by Oct 13, 2026.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: Bioresources / environment fields fit plant phenotyping, RS, crop modelling
+  and climate adaptation; researcher has Univ. of Tokyo PhD ties.
+strategic_relevance: 5
+strategic_relevance_rationale: Latin America is a FY2027 priority region; large 5-year budget; strong
+  Japan-Colombia partnership potential.
+technical_feasibility: 1
+technical_feasibility_rationale: ODA request deadline (Oct 13) already passed; unless a Japanese PI already
+  filed with a Colombian ODA request, FY2027 is not achievable. Feasible for FY2028 with ~12 months preparation.
+recommendation: 'For FY2027: only check whether any Japanese team already filed a Colombia ODA request
+  that could include CIAT. Main value: start FY2028 preparation now (Japanese PI, Colombian counterpart,
+  APC Colombia ODA request).'
+potential_partners: University of Tokyo (former lab), JIRCAS, AGROSAVIA, Universidad Nacional de Colombia,
+  APC-Colombia (ODA focal point), JICA Colombia office.
+next_action: Prepare a FY2028 SATREPS concept with University of Tokyo contacts; ask APC-Colombia about
+  the ODA request timeline; watch JST SATREPS page for the FY2028 call (typically published ~Sep).
+evidence:
+  deadline_quote: 'Application Period: Aug. 18 ,2026 - Oct. 19 ,2026 at 12:00 noon (Japan Time)'
+  eligibility_quote: 開発途上国にある地域国際機関や私立大学であれば、参画を排除はしませんが、相手国政府が当該国際機関もしくは私立大学による ODA 事業の実施を認め…
+  status_quote: 'JST English news, 2026-08-18: Open call for FY2027 proposals announced.'
+  staff_costs_quote: 「相手国側の人件費」、「相手国における事務所借上費」…等は、R/D での合意事項に基づき、原則として相手国側負担となります。
+unverified_fields:
+- FY2028 call timing (not officially announced)
+verification_notes: 'Loaded JST SATREPS English home, Japanese koubo page and downloaded koubo2027.pdf
+  (Japanese guidelines; English version ''in preparation'') on 2026-10-14. | 2026-10-22 staff-cost/duration
+  check: https://www.jst.go.jp/global/pdf/koubo2027.pdf (Partner-country side (e.g., CIAT) personnel costs
+  are borne by the partner side; JICA does not compensate personnel costs either. JST funds Japanese-side
+  人件費・謝金 for 研究参加者 only (excluding 研究担当者). Duration: ''研究期間（暫定期間後）3～5 年''.)'
+last_verified: '2026-10-14'
+verification_source: import:national_agencies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:national_agencies.json
+- date: 2026-10-14 11:50
+  event: review
+  detail: 'set to monitoring: FY2027 ODA request deadline (2026-10-13) passed; targeting FY2028'
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

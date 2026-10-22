@@ -1,0 +1,104 @@
+id: european-commission-horizon-europe-detection-monitoring-modelling-and
+title: Detection, monitoring, modelling, and attribution capabilities for Solar Radiation Modification
+  (SRM) - HORIZON-BRIDGING-2027-04-11
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe - Bridging actions 2027 (call HORIZON-BRIDGING-2027-04)
+opportunity_type: consortium_call
+themes:
+- remote_sensing
+- climate_data_infrastructure
+- biodiversity
+- food_security
+- ai_ml
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-BRIDGING-2027-04-11
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: open
+status_basis: official
+published_date: '2026-10-06'
+deadline: 2027-02-16T17:00
+deadline_timezone: CET/CEST (Brussels local time, 17:00)
+deadline_text: 'Portal: opening 2026-10-06, single-stage deadline 2027-02-16; ''The submission session
+  is now available for: HORIZON-BRIDGING-2027-04-03, HORIZON-BRIDGING-2027-04-11, HORIZON-BRIDGING-2027-04-08''.'
+funding_amount_min: 10000000
+funding_amount_max: 10000000
+currency: EUR
+funding_text: Research and Innovation Action; topic budget EUR 10 million, 1 grant expected (EU contribution
+  EUR 10 million).
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Standard Horizon Europe consortium (General Annex B). Entities with commercial interest
+  in SRM deployment should be avoided (conflict of interest).
+eligible_countries: EU MS/AC and LMICs in General Annex B list (incl. Colombia) eligible for funding;
+  others as associated partners.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: No topic-specific clause for international organisations. Under General Annex
+  B, IOs HQ'd in a Member State (Bioversity) are funded only for training-and-mobility actions 'or when
+  provided for in the specific call/topic conditions'; otherwise only 'if their participation is considered
+  essential'. So Bioversity/CIAT would most likely join as associated partners (unfunded) or through a
+  funded EU/Colombian university partner, unless the granting authority accepts them as essential.
+lead_applicant_requirements: Coordinator must be an eligible funded beneficiary; min. 3 independent entities
+  from 3 different MS/AC (one in a MS).
+geographic_restrictions: Global scope; must use Copernicus and/or Galileo/EGNOS where satellite EO is
+  used.
+consortium_required: 'yes'
+consortium_details: Transdisciplinary consortium; global steering/advisory board with civil-society engagement
+  required; EU representatives sit in evaluation committee.
+cofunding_required: 'no'
+cofunding_details: RIA funded at 100%.
+eligible_activities: EO-based detection/attribution of SRM activities, aerosol-cloud modelling (SAI, MCB,
+  CCT), knowledge on SRM-induced changes to ecosystems, precipitation, light quality and net primary production,
+  governance research. Field experiments and SRM technology development are out of scope.
+required_documents: Part A administrative forms (in submission system) + Part B technical description
+  per template; detailed lump-sum budget table where lump sum applies; ethics self-assessment. See General
+  Annexes A and E.
+application_procedure: Electronic submission by the coordinator via the EU Funding & Tenders Portal; all
+  participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Connects to the researcher's Degrees Initiative work on SAI impacts on
+  maize/rice and EO skills; topic is mostly atmospheric/governance with an ecosystem-impact component.
+strategic_relevance: 3
+strategic_relevance_rationale: Single EUR 10M grant; an agricultural-impact work package (crop/NPP response
+  to SAI scenarios in LAC) could be a niche contribution.
+technical_feasibility: 2
+technical_feasibility_rationale: Highly competitive single award; Alliance funding eligibility uncertain;
+  must join a European-led consortium quickly.
+recommendation: Worth a targeted outreach to European SRM/climate-modelling groups forming consortia,
+  offering a crop/terrestrial-impact WP; do not lead.
+potential_partners: European climate-modelling centres and universities active in SRM research; Degrees
+  Initiative network; a funded Colombian university partner if CIAT cannot be funded.
+next_action: Search the portal partner-search for this topic and contact likely coordinators by Dec 2026.
+evidence:
+  deadline_quote: 'deadlineDates: 2027-02-16 (single-stage); plannedOpeningDate 2026-10-06'
+  eligibility_quote: 'General Annex B: International organisations with headquarters in a Member State
+    or Associated Country are eligible to receive funding for ''Training and mobility'' actions or when
+    provided for in the specific call/topic conditions. Other international organisations are not eligible
+    to receive funding, unless provided for in the specific call/topic conditions, or if their participation
+    is considered essential for implementing the action by the granting authority.'
+  status_quote: 'The submission session is now available for: HORIZON-BRIDGING-2027-04-03, HORIZON-BRIDGING-2027-04-11,
+    HORIZON-BRIDGING-2027-04-08'
+  staff_costs_quote: 'General Annexes: budget categories include ''actual costs ... for: personnel costs'';
+    ''Research and innovation action: 100%''.'
+unverified_fields:
+- duration
+- whether Bioversity would be accepted as funded beneficiary
+verification_notes: 'Topic metadata (dates, budget, status, description, conditions) retrieved 2026-10-22
+  from the official EU Funding & Tenders Portal search API (api.tech.ec.europa.eu/search-api, the data
+  source of the portal topic page). Scope quote: ''Knowledge about SRM-induced changes to be expected
+  in ecosystems, like shifted precipitation patterns and altered light quality, associated marine and
+  terrestrial net primary production, and on sensitive habitats is enhanced.'''
+last_verified: '2026-10-22'
+verification_source: import:europe_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 11:01
+  event: added
+  detail: import:europe_staff_2026-10-22.json
+- date: 2026-10-22 11:02
+  event: reverified
+  detail: no material change

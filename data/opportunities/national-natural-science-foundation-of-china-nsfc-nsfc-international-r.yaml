@@ -1,0 +1,84 @@
+id: national-natural-science-foundation-of-china-nsfc-nsfc-international-r
+title: NSFC International (Regional) Cooperation and Exchange Projects - rolling-receipt exchange types
+  (via Chinese PI)
+funder: National Natural Science Foundation of China (NSFC)
+funder_type: national_agency
+program: 国际（地区）合作研究与交流项目 (2026 Guide to Programs)
+opportunity_type: grant
+themes:
+- capacity_building
+- climate_smart_ag
+- remote_sensing
+url: https://www.nsfc.gov.cn/p1/2931/3971/3998/gjdqhzyjyjlxm2026.html
+source_urls:
+- https://www.nsfc.gov.cn/p1/3381/2824/99667.html
+- https://www.nsfc.gov.cn/p1/2931/3971/3972/qy2026.html
+status: rolling
+status_basis: official
+published_date: '2026-01-14'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 对于随时接收申请的国际（地区）合作研究与交流项目等，申请人应尽量避开集中接收期提交申请。 (For international (regional) cooperation
+  and exchange projects that accept applications at any time, applicants should avoid the centralized
+  receipt period.)
+funding_amount_min: null
+funding_amount_max: null
+currency: CNY
+funding_text: Not specified
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Chinese researcher at an NSFC host institution (specific rules per exchange sub-type,
+  not readable as text on the official page).
+eligible_countries: Foreign collaborator from any country (Not specified per sub-type).
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Only via a Chinese PI. Alliance staff would be the invited foreign partner (e.g.,
+  for visits or a bilateral workshop in China). NSFC funds the Chinese side.
+lead_applicant_requirements: Chinese PI with NSFC host institution; details Not specified on loadable
+  text.
+geographic_restrictions: Chinese lead in mainland China.
+consortium_required: 'yes'
+consortium_details: Chinese applicant + foreign partner.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Exchange/visits, conferences (sub-types Not specified in loadable text).
+required_documents: Not specified
+application_procedure: Chinese PI submits via NSFC Grants System.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Small exchange/workshop funding, any topic; useful to seed partnerships
+  rather than research.
+strategic_relevance: 3
+strategic_relevance_rationale: Low-cost way to build Chinese partnerships ahead of NSFC-CGIAR/SDIC calls.
+technical_feasibility: 4
+technical_feasibility_rationale: Light administrative load for the Alliance side.
+recommendation: Use opportunistically with a Chinese partner to fund visits/workshops that prepare an
+  NSFC-CGIAR Key Project for 2027.
+potential_partners: Any Chinese PI with an active NSFC grant (CAAS, AIRCAS, CAU).
+next_action: Ask prospective Chinese partners which exchange sub-types they can submit now.
+evidence:
+  deadline_quote: 对于随时接收申请的国际（地区）合作研究与交流项目等，申请人应尽量避开集中接收期提交申请。
+  eligibility_quote: Not specified (guide section rendered as image on nsfc.gov.cn)
+  status_quote: 上述项目类型以外的其他项目，自然科学基金委将另行公布指南。对于随时接收申请的国际（地区）合作研究与交流项目等...
+unverified_fields:
+- which exchange sub-types are rolling
+- funding amounts
+- eligibility details
+- duration
+verification_notes: 'Loaded NSFC 2026 application notice (99667.html) on 2026-10-14; the 2026 Guide section
+  for international cooperation is image-based and could not be text-extracted. | 2026-10-22 staff-cost/duration
+  check: https://www.nsfc.gov.cn/p1/2931/3971/3998/gjdqhzyjyjlxm2026.html (Official page lists sub-types
+  only; no duration or budget categories. NSFC funds only the Chinese side.)'
+last_verified: '2026-10-14'
+verification_source: import:china.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 12:21
+  event: added
+  detail: import:china.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

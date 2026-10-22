@@ -1,0 +1,107 @@
+id: asia-pacific-network-for-global-change-research-apn-apn-call-for-propo
+title: APN Call for Proposals (CRRP and CAPaBLE) - next annual cycle (expected launch Nov 2026)
+funder: Asia-Pacific Network for Global Change Research (APN)
+funder_type: research_partnership
+program: Collaborative Regional Research Programme (CRRP) / Scientific Capacity Development Programme
+  (CAPaBLE)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- food_security
+- biodiversity
+- multifunctional_landscapes
+- capacity_building
+- climate_smart_ag
+url: https://www.apn-gcr.org/opportunities/calls-for-proposals/
+source_urls:
+- https://www.apn-gcr.org/opportunities/calls-for-proposals/frequently-asked-questions/
+- https://www.apn-gcr.org/news/2025-call-for-proposals-under-the-crrp-and-capable-programmes/
+status: upcoming
+status_basis: speculative
+published_date: Not specified
+deadline: null
+deadline_timezone: JST (previous cycle)
+deadline_text: 'Not yet published. Previous (2025) cycle: Stage 1 ''Sunday, 30 November 2025, 23:59 Japanese
+  Standard Time''; Stage 2 (invitation only) ''Monday, 30 March 2026, 23:59 Japan Standard Time''.'
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: 'FAQ: yearly average of USD 45,000 for CRRP projects and USD 40,000 for CAPaBLE projects;
+  ''A limited amount of funding is available.'''
+duration: '''typically 2 years for regional research projects and 1 year for capacity development projects'';
+  up to 3 years (CRRP) / 2 years (CAPaBLE).'
+duration_months_max: 36
+covers_staff_costs: partial
+support_type: project_funding
+eligible_applicants: '''Members of non-profit making institutions based in APN member and/or approved
+  countries can submit proposals to APN.'' Independent researchers, consultants and private-sector employees
+  cannot submit. Early-career-led proposals prioritized.'
+eligible_countries: 'Members: Australia, Bangladesh, Bhutan, Cambodia, China, Fiji, India, Indonesia,
+  Japan, Lao PDR, Malaysia, Mongolia, Nepal, New Zealand, Pakistan, Philippines, Republic of Korea, Russian
+  Federation, Sri Lanka, Thailand, USA, Viet Nam. Approved: Maldives, Myanmar, Pacific Island Countries,
+  Singapore. Colombia and Italy are not members.'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'Lead must be a non-profit institution based in a member/approved country. Alliance
+  Asia offices (e.g., Viet Nam) might qualify but the FAQ does not address international organizations.
+  Safer route: national partner leads, Alliance Asia staff as collaborators. Collaborators from non-member
+  countries ''strictly cannot seek funds from APN''.'
+lead_applicant_requirements: Non-profit institution in an APN member/approved country; CRRP must engage
+  at least 3 member/approved countries (developed-country leads must include >=2 developing-country institutions).
+geographic_restrictions: Asia-Pacific member/approved countries; priority topics set by subregional committees.
+consortium_required: 'yes'
+consortium_details: 'CRRP: >=3 member/approved countries; CAPaBLE: >=1.'
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Global change research and capacity development in APN thematic areas incl. 'Climate',
+  'Food, water and energy', 'Biodiversity and ecosystems', 'Risk and resilience'.
+required_documents: Stage 1 summary proposal via APNIS; full proposal by invitation (previous cycle).
+application_procedure: Two-stage via APNIS online system; applicants may submit to only one programme.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Climate/food-system topics fit; EO/crop-modelling methods acceptable but
+  subregional priority topics not yet known.
+strategic_relevance: 3
+strategic_relevance_rationale: Relevant to Alliance Asia hub (SE Asia rice systems, matching the researcher's
+  rice-phenology background); small grants.
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible only with Asia-based colleagues/partners as leads; researcher
+  is based in Colombia.
+recommendation: Monitor; pursue only via Alliance Asia colleagues or a national partner in Viet Nam/Lao
+  PDR/Cambodia (e.g., Sentinel-1 rice phenology/yield forecasting). Low funding size.
+potential_partners: Alliance Asia office (Hanoi), Vietnam Academy of Agricultural Sciences, Vietnam National
+  University of Agriculture, IRRI (CGIAR), regional universities.
+next_action: Check the APN calls page in early-mid November 2026 for the new call and subregional priority
+  topics; consult the Alliance Asia team about which entity would lead.
+evidence:
+  deadline_quote: (2025 cycle) 'Sunday, 30 November 2025, 23:59 Japanese Standard Time'
+  eligibility_quote: '''Members of non-profit making institutions based in APN member and/or approved
+    countries can submit proposals to APN.'''
+  status_quote: '''The Call for Proposals is typically launched in November and successful proponents
+    commence their project activities in October of the following year.'' Latest listed: ''[CLOSED] 2025
+    Call for Proposals under the CRRP and CAPaBLE Programmes'''
+  staff_costs_quote: APN may be able to provide some salary support for time spent on a project ... assuming
+    that a full-time salary is not already being paid
+unverified_fields:
+- deadline
+- launch date
+- priority topics
+- eligibility of international organizations' country offices
+verification_notes: 'Loaded APN calls page, FAQ and 2025 call news on 2026-10-14. No new call published
+  yet; ''upcoming'' inferred from the officially stated annual November launch pattern. | 2026-10-22 staff-cost/duration
+  check: https://www.apn-gcr.org/opportunities/calls-for-proposals/frequently-asked-questions/ (FAQ 11:
+  ''The maximum number of years for one project under regional research is 3 years'' / ''2 years for capacity
+  development projects''. FAQ 30: ''Consultancy fees and salary payments are not accepted by APN, at APN''s
+  expense.'')'
+last_verified: '2026-10-14'
+verification_source: import:partnerships_regional.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:49
+  event: added
+  detail: import:partnerships_regional.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

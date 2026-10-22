@@ -1,0 +1,107 @@
+id: green-climate-fund-gcf-gcf-readiness-and-preparatory-support-country-s
+title: GCF Readiness and Preparatory Support (Country Support Modality) - delivery via NDA-nominated or
+  accredited entity
+funder: Green Climate Fund (GCF)
+funder_type: multilateral
+program: Readiness Strategy 2024-2027 / Country Support Modality
+opportunity_type: grant
+themes:
+- climate_adaptation
+- capacity_building
+- climate_data_infrastructure
+- climate_smart_ag
+url: https://www.greenclimate.fund/about/news-and-updates/gcf-updates-readiness-programme-strengthen-country-ownership-and-delivery-flexibility
+source_urls:
+- https://www.greenclimate.fund/sites/default/files/documents/2026-06/guide-accessing-readiness-support-country-support-modality.pdf
+- https://www.greenclimate.fund/access-funding/readiness-preparatory-support
+status: open
+status_basis: official
+published_date: '2026-07-03'
+deadline: 2027-03-31T23:59
+deadline_timezone: Not specified
+deadline_text: Submissions may be made at any time during the current Readiness Strategy 2024-2027 period,
+  with a recommended proposal submission date of no later than 31 March 2027 to allow sufficient time
+  for approval of the proposal and signing of the Readiness Financing Agreement before the end of the
+  current Readiness Strategy 2024-2027 period on 31 December 2027.
+funding_amount_min: null
+funding_amount_max: 4000000
+currency: USD
+funding_text: Main country envelope of up to USD 4 million over four years; NAP formulation (NAP.1) up
+  to USD 3 million; additional up to USD 3 million for NAP implementation (NAP.2) under conditions; up
+  to USD 320,000 over four years for LDCs/SIDS liaison officers. Envelopes are per country, not per delivery
+  partner.
+duration: Within the Readiness Strategy period ending 31 December 2027
+duration_months_max: 48
+covers_staff_costs: partial
+support_type: project_funding
+eligible_applicants: 'Requests are submitted by NDAs/focal points. ''Option 1 Direct access by a country
+  through the NDA or other competent government ministry or agency; Option 2 Access by a country through
+  an entity nominated by the NDA, which can be: (i) a national entity; (ii) an entity that has entered
+  into a Readiness Framework Agreement with the GCF; or (iii) a GCF accredited entity; Option 3 Access
+  ... through a competitive tender process involving GCF pre-qualified delivery partner''.'
+eligible_countries: GCF-eligible developing countries (via their NDA).
+international_orgs_eligible: 'yes'
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'CIAT/Bioversity are not GCF accredited and were not confirmed as Readiness Framework
+  Agreement holders or pre-qualified delivery partners. Routes: (a) the NDA nominates the CGIAR System
+  Organization (a GCF AE) as delivery partner with the Alliance executing; (b) the Alliance as subcontracted
+  technical partner to the NDA or another delivery partner (e.g., FAO, UNDP) for climate information,
+  NAP agri-sector risk analysis or EO/data systems; (c) GCF pre-qualified delivery partner tenders.'
+lead_applicant_requirements: NDA must request; delivery partner must be a national entity, Readiness Framework
+  Agreement holder, GCF AE, or pre-qualified delivery partner.
+geographic_restrictions: Country-specific envelopes.
+consortium_required: 'yes'
+consortium_details: NDA + delivery partner.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Capacity building and technical assistance for country programming, direct access,
+  NAP formulation/implementation (relevant: agricultural climate risk assessment, climate information
+  systems, data for adaptation planning).'
+required_documents: Readiness proposal via the GCF Partner Portal (templates per the guide).
+application_procedure: The NDA submits the readiness request through the GCF Partner Portal, naming its
+  delivery partner.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Climate data, crop-climate risk analysis and EO for NAPs are relevant,
+  but readiness funds capacity building rather than research.
+strategic_relevance: 4
+strategic_relevance_rationale: Builds NDA relationships that feed GCF pipelines (incl. CGIAR-AE projects);
+  time-limited (Mar 2027).
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible as technical partner; depends on NDA demand and unused country
+  envelope.
+recommendation: Explore in 1-2 countries with strong Alliance government ties (e.g., Colombia, Honduras,
+  Kenya, Viet Nam) to propose NAP agri-sector climate risk / climate services readiness before 31 Mar
+  2027.
+potential_partners: NDAs, CGIAR System Organization, FAO, UNDP.
+next_action: Ask target NDAs about remaining readiness envelope and NAP.1/NAP.2 status; check whether
+  the CGIAR System Organization would act as nominated delivery partner.
+evidence:
+  deadline_quote: recommended proposal submission date of no later than 31 March 2027
+  eligibility_quote: 'Access by a country through an entity nominated by the NDA, which can be: (i) a
+    national entity; (ii) an entity that has entered into a Readiness Framework Agreement with the GCF;
+    or (iii) a GCF accredited entity'
+  status_quote: The previous annual application deadline for Readiness requests no longer applies. Submissions
+    may be made at any time
+  staff_costs_quote: PMC ... broken down by category, including personnel such as Project Manager, Assistants,
+    Procurement, Finance, and Support/Administrative staff ... capped at 7.5 per cent ... non-eligible
+    costs encompass salaries of staff ... incurred in the regular course of the NDA/focal point daily
+    operations
+unverified_fields:
+- whether CIAT/Bioversity hold a Readiness Framework Agreement or pre-qualified delivery partner status
+verification_notes: 'Loaded the GCF news item (03 Jul 2026) and extracted text from the official ''Guide
+  to accessing readiness support - Country Support Modality'' PDF (2026-06) on 2026-10-14. | 2026-10-22
+  staff-cost/duration check: https://www.greenclimate.fund/sites/default/files/documents/2026-06/guide-accessing-readiness-support-country-support-modality.pdf
+  (Main country envelope ''up to USD 4 million over four years''; ''One programme of activities for four-years''.)'
+last_verified: '2026-10-14'
+verification_source: import:multilateral.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:51
+  event: added
+  detail: import:multilateral.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

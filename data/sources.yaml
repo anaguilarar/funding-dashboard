@@ -1,0 +1,1049 @@
+sources:
+- id: european-commission-eu-funding-tenders-portal-hori
+  funder: European Commission
+  name: EU Funding & Tenders Portal - Horizon Europe Cluster 6/5 forthcoming topics
+  url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals
+  type: html
+  category: europe
+  why: Official topic status; API https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA
+    (POST) returns status/dates per topic ID.
+  enabled: true
+- id: european-commission-horizon-europe-work-programme
+  funder: European Commission
+  name: Horizon Europe Work Programme 2026-2027 (all parts, amendments)
+  url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/horizon-europe-work-programmes_en
+  type: html
+  category: europe
+  why: WP amendments may add/alter Africa/LAC topics or IO eligibility.
+  enabled: true
+- id: prima-foundation-prima-calls-awp-2027-expected-by
+  funder: PRIMA Foundation
+  name: PRIMA calls (AWP 2027 expected by 31 March 2027)
+  url: https://prima-med.org/
+  type: html
+  category: europe
+  why: Mediterranean agri-food-water calls; Italy is a participating state; 2027 is the last year of the
+    extended PRIMA programme. No 2027 AWP published as of 2026-10-14.
+  enabled: true
+- id: esa-eo4society-living-planet-fellowship-eo-africa
+  funder: ESA
+  name: EO4Society (Living Planet Fellowship, EO AFRICA, NoR sponsorship, ITTs)
+  url: https://eo4society.esa.int/
+  type: html
+  category: europe
+  why: LPF is annual (host must be in an ESA member state, e.g., Bioversity in Italy); 2026 LPF call not
+    yet posted; EO AFRICA fellowships recur; NoR cloud sponsorship is rolling.
+  enabled: true
+- id: danida-fellowship-centre-calls-for-research-applic
+  funder: Danida Fellowship Centre
+  name: Calls for research applications (FFU)
+  url: https://dfcentre.com/research/calls-for-applications/
+  type: html
+  category: europe
+  why: 2026 round delayed by the Danish election; DFC expects clarity on next call dates in early 2027.
+    Danish-led with partner-country institutions.
+  enabled: true
+- id: belmont-forum-collaborative-research-actions
+  funder: Belmont Forum
+  name: Collaborative Research Actions
+  url: https://belmontforum.org/cras
+  type: html
+  category: europe
+  why: No relevant open CRA (Ocean 2 and Resilience closed); watch for new CRA scoping (e.g., food/climate).
+  enabled: true
+- id: ukri-ukri-funding-finder-rss
+  funder: UKRI
+  name: UKRI funding finder RSS
+  url: https://www.ukri.org/opportunity/feed/
+  type: rss
+  category: europe
+  why: Watch for ISPF / NERC / BBSRC international calls; none relevant open on 2026-10-14.
+  enabled: true
+- id: snsf-sdc-sor4d-programme
+  funder: SNSF / SDC
+  name: SOR4D programme
+  url: https://www.snf.ch/en/A7KYBOFbiGirvsj1/news/new-solution-oriented-research-for-development-sor4d-call-launched
+  type: html
+  category: europe
+  why: Phase-2 call pre-proposals closed 18 May 2026; watch for Transformation Accelerating Grants or
+    further calls (Swiss-led consortia).
+  enabled: true
+- id: biodiversa-biodivfuture-2026-2027-joint-call-novel
+  funder: Biodiversa+
+  name: BiodivFuture 2026-2027 joint call (novel ecosystems)
+  url: https://www.biodiversa.eu/
+  type: html
+  category: europe
+  why: Open since Sept 2026 with pre-proposals early/late Nov 2026 (dates differ by national funder);
+    not verified on the official page in this pass and thematically marginal.
+  enabled: true
+- id: wellcome-climate-and-health-funding-climate-impact
+  funder: Wellcome
+  name: Climate and health funding (Climate Impacts Awards)
+  url: https://wellcome.org/research-funding/schemes
+  type: html
+  category: europe
+  why: 2026 rounds closed (Apr 2026); IOs/multilaterals were eligible in the Climate Impacts Awards; watch
+    for next round.
+  enabled: true
+- id: european-commission-intpa-desira-international-par
+  funder: European Commission (INTPA)
+  name: DeSIRA+ / international partnerships calls
+  url: https://international-partnerships.ec.europa.eu/funding-and-technical-assistance/funding-opportunities_en
+  type: html
+  category: europe
+  why: DeSIRA+ grants (often via EU Delegations) frequently include CGIAR centres; no open call verified.
+  enabled: false
+  note: HTTP 404 on 2026-10-14; find current INTPA funding page
+- id: degrees-initiative-degrees-modelling-fund-special
+  funder: Degrees Initiative
+  name: Degrees Modelling Fund / special calls
+  url: https://www.degrees.ngo/dmf/
+  type: html
+  category: europe
+  why: Researcher already holds a Degrees grant (2027-2028); no new 2026 call found.
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: global-methane-hub-gmh-news-rice-methane-innovatio
+  funder: Global Methane Hub
+  name: GMH news / Rice Methane Innovation Accelerator
+  url: https://www.globalmethanehub.org/
+  type: html
+  category: foundations
+  why: Watch for accelerator strategy and any funding window for rice methane emissions measurement (Alliance
+    named partner).
+  enabled: true
+- id: bezos-earth-fund-news-and-insights
+  funder: Bezos Earth Fund
+  name: News and insights
+  url: https://www.bezosearthfund.org/news-and-insights
+  type: html
+  category: foundations
+  why: Any new AI Grand Challenge round or AI/food-systems call.
+  enabled: true
+- id: gates-foundation-global-grand-challenges-listing
+  funder: Gates Foundation
+  name: Global Grand Challenges listing
+  url: https://gcgh.grandchallenges.org/challenges
+  type: html
+  category: foundations
+  why: 'Only open-call route for Gates; currently no agriculture/climate challenge (latest: cholera modelling,
+    Sep 2026).'
+  enabled: true
+- id: cambridge-africa-mastercard-foundation-cambridge-a
+  funder: Cambridge-Africa / Mastercard Foundation
+  name: Cambridge Africa Climate Collaborative Research Fund
+  url: https://www.cambridge-africa.cam.ac.uk/initiatives/mastercard-foundation-and-university-of-cambridge-climate-resilience-and-sustainability-research-fund/
+  type: html
+  category: foundations
+  why: Annual cycles to 2029; current round closes 15 Jan 2027.
+  enabled: true
+- id: climate-change-ai-innovation-grants
+  funder: Climate Change AI
+  name: Innovation Grants
+  url: https://www.climatechange.ai/innovation_grants
+  type: html
+  category: foundations
+  why: Currently 'does not currently have any future calls of this program planned' - watch for revival.
+  enabled: true
+- id: lacuna-fund-apply-open-upcoming-rfps
+  funder: Lacuna Fund
+  name: Apply - open/upcoming RFPs
+  url: https://lacunafund.org/apply/
+  type: html
+  category: foundations
+  why: Periodic agriculture/climate labeled-dataset RFPs; research institutions eligible; no open RFP
+    visible 2026-10-14.
+  enabled: true
+- id: global-innovation-fund-apply-for-funding
+  funder: Global Innovation Fund
+  name: Apply for funding
+  url: https://www.globalinnovation.fund/apply-for-funding
+  type: html
+  category: foundations
+  why: Last window closed 15 Jan 2025; 'we will share the details of future calls for proposals'.
+  enabled: true
+- id: fondation-botnar-funding-opportunities
+  funder: Fondation Botnar
+  name: Funding opportunities
+  url: https://www.fondationbotnar.org/funding-opportunities/
+  type: html
+  category: foundations
+  why: Colombia and Ecuador are focus countries; invitation only, occasional open calls.
+  enabled: true
+- id: mcknight-foundation-global-collaboration-for-resil
+  funder: McKnight Foundation
+  name: Global Collaboration for Resilient Food Systems (ex-CCRP) FAQ
+  url: https://www.ccrp.org/faq/
+  type: html
+  category: foundations
+  why: Andes Community of Practice; invite-only with occasional thematic open calls.
+  enabled: true
+- id: schmidt-sciences-opportunities
+  funder: Schmidt Sciences
+  name: Opportunities
+  url: https://www.schmidtsciences.org/opportunities
+  type: html
+  category: foundations
+  why: Occasional open RFPs (AI in Science, climate); currently only DEVI urban decarbonization call open.
+  enabled: true
+- id: bayer-foundation-fellowships-calls
+  funder: Bayer Foundation
+  name: Fellowships / calls
+  url: https://www.bayer-foundation.com/
+  type: html
+  category: foundations
+  why: 2027 programme 'will be announced soon' (student fellowships; low relevance).
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: ffar-grants-funding
+  funder: FFAR
+  name: Grants & funding
+  url: https://foundationfar.org/grants-funding/
+  type: html
+  category: foundations
+  why: Funding frozen pending Farm Bill; US-benefit requirement.
+  enabled: true
+- id: google-org-google-org-impact-challenges-listing
+  funder: Google.org
+  name: Google.org Impact Challenges listing
+  url: https://www.google.org/impact-challenges/
+  type: html
+  category: tech_companies
+  why: AI for Science (USD 36M, incl. climate resilience/food & agriculture) and AI for Government Innovation
+    2026 calls closed; 46 challenges run to date, next global calls typically Feb-May.
+  enabled: true
+- id: google-org-google-org-accelerator-generative-ai
+  funder: Google.org
+  name: 'Google.org Accelerator: Generative AI'
+  url: https://impactchallenge.withgoogle.com/genaiaccelerator/
+  type: html
+  category: tech_companies
+  why: 2024 and 2025 cohorts (open calls in January); watch for 2027 call.
+  enabled: true
+- id: google-research-google-academic-research-awards-ga
+  funder: Google Research
+  name: Google Academic Research Awards (GARA)
+  url: https://research.google/programs-and-events/google-academic-research-awards/
+  type: html
+  category: tech_companies
+  why: 2026 cycle (quantum only) closed 7 Aug 2026; topics change yearly (2024 included climate ML). Only
+    professors at degree-granting institutions - CIAT would need a university PI.
+  enabled: true
+- id: google-deepmind-google-deepmind-accelerator-ai-for
+  funder: Google DeepMind
+  name: 'Google DeepMind Accelerator: AI for the Planet'
+  url: https://deepmind.google/accelerators/ai-for-the-planet/
+  type: html
+  category: tech_companies
+  why: APAC 2026 round (deadline 26 Jul 2026) included agriculture and access to AlphaEarth, WeatherNext,
+    AnthroKrishi; watch for other regions or Alliance Asia offices.
+  enabled: true
+- id: google-research-agricultural-landscape-understandi
+  funder: Google Research
+  name: Agricultural Landscape Understanding (ALU/AnthroKrishi) API
+  url: https://developers.google.com/agricultural-understanding/api
+  type: html
+  category: tech_companies
+  why: Trusted-tester API currently India/APAC/Africa; watch for LAC expansion.
+  enabled: true
+- id: meta-meta-research-requests-for-proposals
+  funder: Meta
+  name: Meta Research Requests for Proposals
+  url: https://research.facebook.com/research-awards/
+  type: html
+  category: tech_companies
+  why: No open RFP found; page content not machine-readable - check manually.
+  enabled: true
+- id: meta-llama-ai-innovation-llama-impact-grants
+  funder: Meta
+  name: Llama AI innovation / Llama Impact Grants
+  url: https://dev.meta.ai/llama/llama-ai-innovation/
+  type: html
+  category: tech_companies
+  why: Past rounds (2024 grants up to USD 500k incl. agriculture; regional awards incl. LatAm). No current
+    round with deadline confirmed.
+  enabled: true
+- id: microsoft-ai-for-good-lab-open-call
+  funder: Microsoft
+  name: AI for Good Lab Open Call
+  url: https://www.microsoft.com/en-us/research/academic-program/ai-for-good-lab-open-call/
+  type: html
+  category: tech_companies
+  why: 2025 call closed and limited to Washington State; watch for global calls.
+  enabled: true
+- id: microsoft-azure-for-academic-research-credits-cont
+  funder: Microsoft
+  name: Azure for academic research (credits contact form)
+  url: https://www.microsoft.com/en-us/azure-academic-research/
+  type: html
+  category: tech_companies
+  why: Contact form exists but no current terms/amounts published.
+  enabled: true
+- id: nvidia-academic-grant-program
+  funder: NVIDIA
+  name: Academic Grant Program
+  url: https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/
+  type: html
+  category: tech_companies
+  why: Currently 'not accepting new applications'; faculty at PhD-granting institutions only (needs university
+    PI).
+  enabled: true
+- id: ibm-ibm-sustainability-accelerator
+  funder: IBM
+  name: IBM Sustainability Accelerator
+  url: https://www.ibm.com/campaign/2025/sustainability-accelerator-rfp
+  type: html
+  category: tech_companies
+  why: Open to nonprofits globally; 2025 RFP closed, no 2026/2027 call announced; annual cohort of ~5.
+  enabled: true
+- id: salesforce-salesforce-accelerator-agents-for-impac
+  funder: Salesforce
+  name: Salesforce Accelerator - Agents for Impact
+  url: https://salesforceagentsforimpact.splashthat.com/
+  type: html
+  category: tech_companies
+  why: Rolling expression of interest; mostly US 501(c)(3) or international equivalents.
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: anthropic-claude-for-nonprofits
+  funder: Anthropic
+  name: Claude for Nonprofits
+  url: https://claude.com/solutions/nonprofits
+  type: html
+  category: tech_companies
+  why: Discounted Team plan (USD 3/user/month for LMIC-based nonprofits) via Goodstack verification -
+    procurement discount, not a grant.
+  enabled: true
+- id: esri-esri-nonprofit-program
+  funder: Esri
+  name: Esri Nonprofit Program
+  url: https://www.esri.com/en-us/industries/nonprofit/nonprofit-program
+  type: html
+  category: tech_companies
+  why: 50-99% ArcGIS discounts; outside US eligibility set by local distributor (Esri Colombia); academic
+    institutions excluded.
+  enabled: true
+- id: planet-planet-science-nonprofit-programs
+  funder: Planet
+  name: Planet Science / nonprofit programs
+  url: https://www.planet.com/science/
+  type: html
+  category: tech_companies
+  why: Education & Research program excludes nonprofit employees; nonprofit/Tropical Forest Observatory
+    pathways need direct contact. NICFI tropical mosaics contract ended Jan 2025 (status unclear).
+  enabled: true
+- id: idrc-idrc-funding-calls
+  funder: IDRC
+  name: IDRC funding calls
+  url: https://idrc-crdi.ca/en/funding
+  type: html
+  category: national_agencies
+  why: No open calls as of 2026-10-14; watch for Climate-resilient food systems / AI4D calls.
+  enabled: true
+- id: jst-satreps-call-announcements
+  funder: JST
+  name: SATREPS call announcements
+  url: https://www.jst.go.jp/global/english/
+  type: html
+  category: national_agencies
+  why: FY2028 call expected ~mid-2027 (not yet announced); LAC was a FY2027 priority region.
+  enabled: true
+- id: jsps-invitational-fellowships-application
+  funder: JSPS
+  name: Invitational Fellowships application
+  url: https://www.jsps.go.jp/english/e-inv/application/index.html
+  type: html
+  category: national_agencies
+  why: 2nd recruitment Apr 23, 2027.
+  enabled: true
+- id: nasa-roses-solicitations-sara
+  funder: NASA
+  name: ROSES solicitations / SARA
+  url: https://science.nasa.gov/researchers/sara/grant-solicitations/
+  type: html
+  category: national_agencies
+  why: ROSES-2026 release status unconfirmed; Earth Action/SERVIR elements (no-exchange-of-funds for CIAT).
+  enabled: true
+- id: nasa-nspires
+  funder: NASA
+  name: NSPIRES
+  url: https://nspires.nasaprs.com/external/
+  type: html
+  category: national_agencies
+  why: Official ROSES element due dates.
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: minciencias-convocatorias-minciencias
+  funder: MinCiencias
+  name: Convocatorias MinCiencias
+  url: https://www.minciencias.gov.co/convocatorias/todas
+  type: html
+  category: national_agencies
+  why: SGR and national calls admitting international allies.
+  enabled: true
+- id: minciencias-plan-de-convocatorias-actei-2025-2026
+  funder: MinCiencias
+  name: Plan de convocatorias ACTeI 2025-2026
+  url: https://minciencias.gov.co/plan-convocatorias-actei-2025-2026-0
+  type: html
+  category: national_agencies
+  why: Upcoming SGR regional calls (Valle, Cauca, etc.).
+  enabled: true
+- id: fapesp-calls-for-proposals-2026
+  funder: FAPESP
+  name: Calls for proposals 2026
+  url: https://fapesp.br/en/17334/call-for-proposals-2026
+  type: html
+  category: national_agencies
+  why: International joint calls (NSFC, NERC, SPRINT).
+  enabled: true
+- id: grand-challenges-canada-apply-for-funding
+  funder: Grand Challenges Canada
+  name: Apply for funding
+  url: https://www.grandchallenges.ca/apply-for-funding/
+  type: html
+  category: national_agencies
+  why: Nexa Lighthouse (Asia-Pacific climate-health) first call stated to open Oct 2026; climate-health
+    only.
+  enabled: true
+- id: nsfc-nsfc-international-cooperation-guides
+  funder: NSFC
+  name: NSFC international cooperation guides
+  url: https://www.nsfc.gov.cn
+  type: html
+  category: national_agencies
+  why: NSFC-CGIAR guide (names CIAT and Bioversity).
+  enabled: true
+- id: usda-fas-borlaug-fellowship-program-grants-gov
+  funder: USDA FAS
+  name: Borlaug Fellowship Program (Grants.gov)
+  url: https://simpler.grants.gov/opportunity/bd5eb2ec-d0c0-4137-b0f2-185f37785dee
+  type: html
+  category: national_agencies
+  why: FY2027 NOFO not yet posted; U.S. institutions apply, CIAT could host/mentor.
+  enabled: true
+- id: aciar-aciar-research-projects
+  funder: ACIAR
+  name: ACIAR research projects
+  url: https://www.aciar.gov.au/aciar-research-projects
+  type: html
+  category: national_agencies
+  why: Site blocked automated fetch; check manually.
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: secihti-mexico-convocatorias-secihti
+  funder: SECIHTI (Mexico)
+  name: Convocatorias SECIHTI
+  url: https://secihti.mx
+  type: html
+  category: national_agencies
+  why: No 2026 international/climate call found.
+  enabled: true
+- id: green-climate-fund-cgiar-system-organization-accre
+  funder: Green Climate Fund
+  name: CGIAR System Organization accredited entity page (projects, re-accreditation)
+  url: https://www.greenclimate.fund/partners/accredited-entities/cgiar
+  type: html
+  category: multilateral
+  why: Only CGIAR access route to GCF; re-accreditation submission due 29 Mar 2027.
+  enabled: true
+- id: green-climate-fund-readiness-and-preparatory-suppo
+  funder: Green Climate Fund
+  name: Readiness and Preparatory Support
+  url: https://www.greenclimate.fund/access-funding/readiness-preparatory-support
+  type: html
+  category: multilateral
+  why: Readiness requests recommended by 31 Mar 2027; new Readiness Strategy after 2027.
+  enabled: true
+- id: adaptation-fund-apply-for-funding-innovation-lla-w
+  funder: Adaptation Fund
+  name: Apply for Funding / Innovation / LLA windows
+  url: https://www.adaptation-fund.org/apply-funding/
+  type: html
+  category: multilateral
+  why: Rolling submissions via IEs; watch innovation and LLA set-asides.
+  enabled: true
+- id: wfp-innovation-accelerator-adaptation-fund-adaptat
+  funder: WFP Innovation Accelerator / Adaptation Fund
+  name: Adaptation Fund Climate Innovation Accelerator (AFCIA) cohorts
+  url: https://innovation.wfp.org/adaptation-fund-innovation-accelerator
+  type: html
+  category: multilateral
+  why: 'Cohort 3 (LAC: Dominican Republic, El Salvador, Peru) closed 13 Sep 2026; four cohorts run 2024-2029,
+    so watch for the next call.'
+  enabled: true
+- id: un-ctcn-unep-adaptation-fund-afcia-technical-assis
+  funder: UN CTCN (UNEP) / Adaptation Fund
+  name: AFCIA technical assistance calls (CTCN)
+  url: https://www.ctc-n.org/whats-happening/events/climate-adaptation-innovation-latin-america-and-caribbean
+  type: html
+  category: multilateral
+  why: Up to USD 150,000 TA per innovation; 2026 LAC and Asia-Pacific windows closed; watch the next round.
+  enabled: true
+- id: wfp-wfp-innovation-apply
+  funder: WFP
+  name: WFP Innovation - Apply
+  url: https://innovation.wfp.org/apply
+  type: html
+  category: multilateral
+  why: Programme-based calls (e.g., HIPER) are announced through the year.
+  enabled: true
+- id: gef-gef-council-meetings-work-programs
+  funder: GEF
+  name: GEF Council meetings / work programs
+  url: https://www.thegef.org/council-meetings
+  type: html
+  category: multilateral
+  why: GEF-9 work programs and Integrated Program launches.
+  enabled: true
+- id: ifad-ifad-calls-for-proposals
+  funder: IFAD
+  name: IFAD calls for proposals
+  url: https://www.ifad.org/en/calls-for-proposals
+  type: html
+  category: multilateral
+  why: Periodic competitive grant calls (2026 RSPA call closed 4 Sep 2026); page blocks automated access
+    (403), so check manually.
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: inter-american-development-bank-idb-lab-idb-calls
+  funder: Inter-American Development Bank / IDB Lab
+  name: IDB Calls for Proposals
+  url: https://www.iadb.org/en/how-we-can-work-together/calls-proposals
+  type: html
+  category: multilateral
+  why: 'As of 2026-10-14: ''There are no open calls for proposals at this time.'''
+  enabled: true
+- id: fontagro-idb-iica-fontagro-annual-call
+  funder: FONTAGRO (IDB/IICA)
+  name: FONTAGRO annual call
+  url: https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2026
+  type: html
+  category: multilateral
+  why: Annual LAC agri-innovation consortium call (2026 call closed 30 Mar 2026); no 2027 call announced
+    yet.
+  enabled: true
+- id: itu-ai-for-good-geoai-challenge-ai-for-climate-inn
+  funder: ITU AI for Good
+  name: GeoAI Challenge / AI for Climate Innovation Factory
+  url: https://aiforgood.itu.int/about-us/geoai-challenge/
+  type: html
+  category: multilateral
+  why: 2026 editions closed/completed; watch the 2027 GeoAI edition (strong RS/AI fit; recognition rather
+    than grant funding).
+  enabled: true
+- id: world-bank-gfdrr-gfdrr-news-and-calls
+  funder: World Bank / GFDRR
+  name: GFDRR news and calls
+  url: https://www.gfdrr.org/en
+  type: html
+  category: multilateral
+  why: No current Challenge Fund call found; the GFDRR 2026-2030 strategy may open new windows.
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: world-bank-global-data-facility
+  funder: World Bank
+  name: Global Data Facility
+  url: https://www.worldbank.org/en/programs/global-data-facility/about
+  type: html
+  category: multilateral
+  why: Funding instrument for data systems; no open call found (allocated through World Bank/country engagements).
+  enabled: true
+- id: afdb-africa-climate-change-fund
+  funder: AfDB
+  name: Africa Climate Change Fund
+  url: https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships/africa-climate-change-fund
+  type: html
+  category: multilateral
+  why: Periodic calls and a demand-driven window; no 2026 call found.
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: climate-investment-funds-cif-news-calls-for-expres
+  funder: Climate Investment Funds
+  name: CIF news / calls for expressions of interest
+  url: https://www.cif.org/news
+  type: html
+  category: multilateral
+  why: Country-level EoIs via MDBs; research institutes only as partners.
+  enabled: true
+- id: soff-wmo-undp-unep-soff-access
+  funder: SOFF (WMO/UNDP/UNEP)
+  name: SOFF access
+  url: https://www.un-soff.org/
+  type: html
+  category: multilateral
+  why: Country observation financing; relevant only through partnerships with NMHSs.
+  enabled: true
+- id: fontagro-convocatorias-listing-incl-convocatoria-2
+  funder: FONTAGRO
+  name: Convocatorias listing (incl. Convocatoria 2027 placeholder)
+  url: https://fontagro.org/en/iniciativas/convocatorias/
+  type: html
+  category: partnerships_regional
+  why: Annual LAC consortium call; 2027 page exists but is empty; 2026 call opened 15 Dec 2025.
+  enabled: true
+- id: fontagro-news
+  funder: FONTAGRO
+  name: News
+  url: https://fontagro.org/es/noticias
+  type: html
+  category: partnerships_regional
+  why: Launch announcements, call webinars, FONTAGRO/IICA agro-bioentrepreneurship competitions.
+  enabled: true
+- id: apn-calls-for-proposals
+  funder: APN
+  name: Calls for proposals
+  url: https://www.apn-gcr.org/opportunities/calls-for-proposals/
+  type: html
+  category: partnerships_regional
+  why: Annual call typically launched in November.
+  enabled: true
+- id: inter-american-institute-for-global-change-researc
+  funder: Inter-American Institute for Global Change Research (IAI)
+  name: Calls for applicants
+  url: https://www.iai.int/en/post/detail/Call-for-applicants
+  type: html
+  category: partnerships_regional
+  why: No open call (only 'PAST CALLS'); IAI channels Belmont Forum calls for LAC. A Jan 2026 opinion
+    column reports US withdrawal from IAI, which may shrink programmes (not verified officially).
+  enabled: true
+- id: iai-seed-grant-programme
+  funder: IAI
+  name: Seed grant programme
+  url: https://www.iai.int/en/capacity-building/seed-grant
+  type: html
+  category: partnerships_regional
+  why: Historical seed grants USD ~10-27k; no current call stated.
+  enabled: true
+- id: geo-mountains-geo-work-programme-mri-cnr-isac-sdc
+  funder: GEO Mountains (GEO Work Programme; MRI/CNR-ISAC, SDC-funded)
+  name: GEO Mountains Small Grants
+  url: https://mountainresearchinitiative.org/?p=34947
+  type: html
+  category: partnerships_regional
+  why: 2026-2027 call (Andes priority, up to CHF 10,000, mountain data/EO) closed 20 Feb 2026; watch for
+    a next round.
+  enabled: true
+- id: group-on-earth-observations-geo-get-involved-event
+  funder: Group on Earth Observations
+  name: GEO Get involved / events
+  url: https://earthobservations.org/get-involved
+  type: html
+  category: partnerships_regional
+  why: No funding calls listed; GEO cloud-credit programmes ran historically (GEO-AWS 2018-19).
+  enabled: true
+- id: the-degrees-initiative-grants
+  funder: The Degrees Initiative
+  name: Grants
+  url: https://www.degrees.ngo/grants/
+  type: html
+  category: partnerships_regional
+  why: '''We don''t have any open calls right now.'' Researcher already holds a grant; watch for new DMF/Expansion
+    calls.'
+  enabled: true
+  manual: true
+  note: Site blocks automated requests (HTTP 403/connection reset, 2026-10-14). Check manually monthly.
+- id: cgiar-iaes-spia-iaes-news-and-calls
+  funder: CGIAR IAES / SPIA
+  name: IAES news and calls
+  url: https://iaes.cgiar.org/
+  type: html
+  category: partnerships_regional
+  why: Occasional small grants/EOIs (SPIA policy-influence small grants closed 7 Aug 2026).
+  enabled: true
+- id: cgiar-scaling-for-impact-program-page
+  funder: CGIAR
+  name: Scaling for Impact program page
+  url: https://www.cgiar.org/cgiar-research-portfolio-2025-2030/scaling-impact
+  type: html
+  category: partnerships_regional
+  why: No public competitive fund found; Science Program / Accelerator internal calls circulate internally
+    - check with Alliance leads for Climate Action, Multifunctional Landscapes and Digital Transformation
+    Accelerator.
+  enabled: true
+- id: global-research-alliance-on-agricultural-ghgs-clif
+  funder: Global Research Alliance on Agricultural GHGs
+  name: CLIFF-GRADS
+  url: https://globalresearchalliance.org/capability-building/cliff-grads/
+  type: html
+  category: partnerships_regional
+  why: Round 8 not announced; past rounds opened Nov-Dec.
+  enabled: true
+- id: climatelaunchpad-climate-kic-colombia-country-page
+  funder: ClimateLaunchpad (Climate KIC)
+  name: Colombia country page
+  url: https://climatelaunchpad.org/countries/colombia/
+  type: html
+  category: partnerships_regional
+  why: Annual green-business competition; 2026 Colombia deadline 30 May 2026 (closed); opens ~March.
+  enabled: true
+- id: ai4d-africa-idrc-fcdo-ai4d-calls
+  funder: AI4D Africa (IDRC/FCDO)
+  name: AI4D calls
+  url: https://africa.ai4d.ai/calls/
+  type: html
+  category: partnerships_regional
+  why: No 2026 call found; past agriculture and climate AI hubs.
+  enabled: false
+  note: domain does not resolve on 2026-10-14
+- id: nsfc-nsfc-project-guide-notices
+  funder: NSFC
+  name: NSFC project guide notices (项目指南)
+  url: https://www.nsfc.gov.cn/p1/3381/2824/zntg.html
+  type: html
+  category: china
+  why: SDIC / NSFC-CGIAR and bilateral international calls are published here (2026 CGIAR round opened
+    31 Mar 2026).
+  enabled: true
+- id: nsfc-nsfc-english-international-cooperation
+  funder: NSFC
+  name: NSFC English - international cooperation
+  url: https://www.nsfc.gov.cn/english/site_1/international/D6/2026/01-20/502.html
+  type: html
+  category: china
+  why: English call guidelines (RFIS and others) posted ~January each year.
+  enabled: true
+- id: kunming-biodiversity-fund-unep-kbf-page
+  funder: Kunming Biodiversity Fund / UNEP
+  name: KBF page
+  url: https://www.unep.org/topics/nature-action/kunming-biodiversity-fund-kbf
+  type: html
+  category: china
+  why: Annual China-funded biodiversity call via UN agencies; 2026 Stage 2 deadline 15 Nov 2026.
+  enabled: true
+- id: cas-pifi-portal
+  funder: CAS
+  name: PIFI portal
+  url: https://pifi.cas.cn/front/mobi/PIFI.html
+  type: html
+  category: china
+  why: PIFI applications suspended pending relaunch.
+  enabled: true
+- id: anso-anso-announcements-and-open-calls
+  funder: ANSO
+  name: ANSO Announcements and Open Calls
+  url: https://www.anso.org.cn/Announcements/
+  type: html
+  category: china
+  why: CAS-ANSO co-funding research calls (last 2025) and fellowships.
+  enabled: true
+- id: cbas-cbas-news
+  funder: CBAS
+  name: CBAS news
+  url: http://www.cbas.ac.cn/en/
+  type: html
+  category: china
+  why: SDGSAT data programs, DSP (UNESCO-endorsed Digital Sustainability Programme) network and capacity-building
+    calls.
+  enabled: true
+- id: most-cstec-tysp-site
+  funder: MOST / CSTEC
+  name: TYSP site
+  url: http://tysp.cstec.org.cn
+  type: html
+  category: china
+  why: Annual TYSP call (Jan-Mar).
+  enabled: true
+  manual: true
+  note: SSL certificate fails verification (2026-10-14). Check manually; TYSP calls usually appear Jan-Mar.
+- id: most-national-s-t-management-information-system
+  funder: MOST
+  name: National S&T management information system
+  url: https://service.most.gov.cn
+  type: html
+  category: china
+  why: Intergovernmental S&T cooperation key special project calls (Chinese-led).
+  enabled: true
+- id: fao-fao-china-south-south-cooperation-gateway
+  funder: FAO
+  name: FAO-China South-South Cooperation gateway
+  url: https://www.fao.org/sstc-gateway/topics/fao-china-ssc
+  type: html
+  category: china
+  why: Project pipeline under FAO-China SSC Trust Fund (no open competitive calls found).
+  enabled: true
+- id: corteva-agriscience-corteva-open-innovation-challe
+  funder: Corteva Agriscience
+  name: Corteva Open Innovation - challenges and areas of interest
+  url: https://openinnovation.corteva.com/
+  type: html
+  category: corporate_agrifood
+  why: Time-limited challenges posted through the year; quarterly cutoffs for crop protection/biologicals.
+  enabled: true
+- id: bayer-crop-science-bayer-crop-science-on-halo-gran
+  funder: Bayer Crop Science
+  name: Bayer Crop Science on Halo (Grants4Ag partnering requests)
+  url: https://www.halo.science/company/bayer-crop-science
+  type: html
+  category: corporate_agrifood
+  why: 'Grants4Ag rounds are posted here; all listed requests currently ''Complete'' - watch for a new
+    round (past topics: precision agriculture, digital agronomic data tools, climate solutions).'
+  enabled: true
+- id: syngenta-group-shoots-by-syngenta-live-challenges
+  funder: Syngenta Group
+  name: Shoots by Syngenta - live challenges
+  url: https://www.shootsbysyngenta.com/challenges
+  type: html
+  category: corporate_agrifood
+  why: Open-innovation challenges for academics/research institutes; watch for 'Digital and Data' challenges.
+  enabled: true
+- id: world-coffee-research-wcr-news
+  funder: World Coffee Research
+  name: WCR news
+  url: https://worldcoffeeresearch.org/
+  type: html
+  category: corporate_agrifood
+  why: Industry co-funded breeding/climate initiatives; existing Alliance partnership (CafeClima).
+  enabled: true
+- id: idh-idh-news-latte-coffee-cocoa-landscapes
+  funder: IDH
+  name: IDH news (LATTE, coffee/cocoa landscapes)
+  url: https://idh.org/
+  type: html
+  category: corporate_agrifood
+  why: Coffee climate-resilience facility piloting in Colombia; possible TA procurement.
+  enabled: true
+- id: ab-inbev-and-partners-100-accelerator-faq-cohort-c
+  funder: AB InBev and partners
+  name: 100+ Accelerator FAQ / cohort calls
+  url: https://www.100accelerator.com/faq
+  type: html
+  category: corporate_agrifood
+  why: Annual cohort (applications ~June-July); startup-oriented, pilot funding up to USD 100k - only
+    relevant if a partner startup leads.
+  enabled: true
+- id: ffar-agmission-corporate-co-funded-rfas-ffar-grant
+  funder: FFAR / AgMission (corporate co-funded RFAs)
+  name: FFAR grants & funding opportunities
+  url: https://foundationfar.org/grants-funding/opportunities/
+  type: html
+  category: corporate_agrifood
+  why: Corporate co-funded RFAs (e.g., PepsiCo/AgMission 2023; WCR coffee breeding 2026) appear here.
+  enabled: true
+- id: axa-foundation-for-human-progress-calls-for-projec
+  funder: AXA Foundation for Human Progress
+  name: Calls for projects (New Gen; 'Science for Resilient Societies' fellowships announced for 10 Nov
+    2026; AXA Chairs)
+  url: https://axafoundation.org/en/calls-for-projects
+  type: html
+  category: philanthropy_staff
+  why: New Gen launched 20 Oct 2026; a second transdisciplinary fellowship line 'Science for Resilient
+    Societies' is officially announced for 10 Nov 2026 (details not yet public); AXA Chairs (EUR 1.5M,
+    5 years) annual.
+  enabled: true
+- id: the-branco-weiss-fellowship-application-timelines
+  funder: The Branco Weiss Fellowship
+  name: Application / timelines
+  url: https://brancoweissfellowship.org/who-should-apply/timelines/
+  type: html
+  category: philanthropy_staff
+  why: Annual 15 January deadline; 5-year salary fellowship.
+  enabled: true
+- id: novo-nordisk-foundation-east-africa-mission-food-s
+  funder: Novo Nordisk Foundation
+  name: East Africa mission (food security & sustainable agriculture)
+  url: https://novonordiskfonden.dk/en/who-we-are/east-africa/
+  type: html
+  category: philanthropy_staff
+  why: Nairobi office; 'We provide support for projects in open competition and for stand-alone initiatives'
+    - watch for East Africa open calls relevant to Alliance Kenya.
+  enabled: true
+- id: noaa-grants-gov-search-api-noaa-baas-and-cpo-compe
+  funder: NOAA
+  name: Grants.gov search API - NOAA BAAs and CPO competitions
+  url: https://api.grants.gov/v1/api/search2
+  type: html
+  category: usa_staff
+  why: NOAA Line Office BAAs (NESDIS, OAR, NMFS) are explicitly open to foreign/international organizations;
+    CPO competitions (e.g., former IRAP international climate services) appear here.
+  enabled: true
+- id: noaa-climate-program-office-cpo-funding-opportunit
+  funder: NOAA Climate Program Office
+  name: CPO funding opportunities
+  url: https://cpo.noaa.gov/funding-opportunities/
+  type: html
+  category: usa_staff
+  why: Watch for any revived International Research and Applications Project (IRAP) competition with LAC
+    climate-services focus.
+  enabled: true
+- id: u-s-department-of-state-office-of-the-spokesman-re
+  funder: U.S. Department of State
+  name: Office of the Spokesman releases - Agriculture and Sustainable Food Production tag
+  url: https://www.state.gov/releases/office-of-the-spokesman/
+  type: html
+  category: usa_staff
+  why: Post-USAID announcements of agricultural research funding (FtF Innovation Labs Oct 2026; USD 40M
+    to CIMMYT Feb 2026) - possible direct CGIAR funding.
+  enabled: true
+- id: u-s-department-of-state-feed-the-future-innovation
+  funder: U.S. Department of State
+  name: Feed the Future Innovation Labs opportunity record (DFOP0017826)
+  url: https://simpler.grants.gov/opportunity/7b148400-3d26-4af7-ab04-cb82c2799a97
+  type: html
+  category: usa_staff
+  why: Amendments/new rounds for the Innovation Labs; lab-level sub-award calls.
+  enabled: true
+- id: nasa-roses-solicitations-page
+  funder: NASA
+  name: ROSES solicitations page
+  url: https://science.nasa.gov/researchers/solicitations/
+  type: html
+  category: usa_staff
+  why: ROSES-27 release planned no later than January 2027 (Earth science elements; no funds to non-U.S.
+    orgs).
+  enabled: true
+- id: nih-fogarty-international-center-geohealth-program
+  funder: NIH Fogarty International Center
+  name: GEOHealth programme page / RFA-TW-28-001 forecast
+  url: https://www.grants.gov/search-results-detail/363873
+  type: html
+  category: usa_staff
+  why: NOFO expected ~Apr 2027; check foreign/LMIC eligibility.
+  enabled: true
+- id: usda-foreign-agricultural-service-food-for-progres
+  funder: USDA Foreign Agricultural Service
+  name: Food for Progress / Borlaug / Cochran / SCRP NOFOs on Grants.gov
+  url: https://www.fas.usda.gov/programs
+  type: html
+  category: usa_staff
+  why: FY2027 Food for Progress NOFO (intergovernmental orgs historically eligible) and any SCRP revival
+    not yet posted.
+  enabled: true
+- id: usda-fas-food-for-progress-fy2026-nofo-reference-f
+  funder: USDA FAS
+  name: Food for Progress FY2026 NOFO (reference for FY2027 cycle)
+  url: https://simpler.grants.gov/opportunity/362536
+  type: html
+  category: usa_staff
+  why: Next cycle priority countries; Colombia not among FY2026 priority countries.
+  enabled: true
+- id: european-commission-funding-tenders-portal-msca-20
+  funder: European Commission
+  name: Funding & Tenders Portal - MSCA 2027 calls (DN 2027 opens 26 May 2027, deadline 23 Nov 2027)
+  url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2027-DN-01-01
+  type: html
+  category: europe_staff
+  why: Next Doctoral Networks round with Bioversity as recruiting beneficiary; better-timed than DN 2026.
+  enabled: true
+- id: european-commission-horizon-europe-search-api-fort
+  funder: European Commission
+  name: Horizon Europe search API (forthcoming/open topics)
+  url: https://api.tech.ec.europa.eu/search-api/prod/rest/search
+  type: html
+  category: europe_staff
+  why: Programmatic tracking of CL4/CL5/CL6/MSCA/Bridging topics; Horizon Europe ends 2027, FP10 work
+    programmes expected for 2028.
+  enabled: true
+- id: european-space-agency-living-planet-fellowship-eo
+  funder: European Space Agency
+  name: Living Planet Fellowship (EO postdoc fellowship)
+  url: https://eo4society.esa.int/communities/scientists/living-planet-fellowship/
+  type: html
+  category: europe_staff
+  why: Search-result snippet of the official page states 'there is currently no active Call. Stay tuned
+    for a new Call in early 2027.' Page could not be loaded (connection refused) - re-check; host must
+    be in an ESA Member State (Italy eligible).
+  enabled: true
+- id: bmz-giz-fonds-foerderung-internationale-agrarforsc
+  funder: BMZ / GIZ
+  name: Fonds Foerderung Internationale Agrarforschung (FIA)
+  url: https://www.giz.de/de/projekte/fonds-foerderung-internationale-agrarforschung-fia
+  type: html
+  category: europe_staff
+  why: BMZ fund for CGIAR/CGIAR++ (term 01.01.2019-31.12.2029, EUR 163.79 M); no open call - funding is
+    negotiated, contact Dr. Joachim Langbein via GIZ form.
+  enabled: true
+- id: bmukn-germany-zug-iki-large-grants-2026-in-prepara
+  funder: BMUKN (Germany) / ZUG
+  name: IKI Large Grants 2026 (in preparation)
+  url: https://www.international-climate-initiative.com/en/project-funding/
+  type: html
+  category: europe_staff
+  why: '''Large Grants 2026 in preparation'' (EUR 5-20 M, up to 8 years); international organisations
+    have been eligible implementers in past Large Grants calls.'
+  enabled: true
+- id: biodiversa-biodiversa-open-call-page
+  funder: Biodiversa+
+  name: Biodiversa+ open call page
+  url: https://www.biodiversa.eu/2026/06/09/2026-2027-joint-call/
+  type: html
+  category: europe_staff
+  why: Annual joint calls; check for an Italian (national) funder joining future calls.
+  enabled: true
+- id: alexander-von-humboldt-foundation-georg-forster-re
+  funder: Alexander von Humboldt Foundation
+  name: Georg Forster Research Fellowship
+  url: https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-fellowship
+  type: html
+  category: europe_staff
+  why: Development-research fellowship for researchers from developing countries (Colombia), currently
+    not accepting applications due to budget cuts - watch for reopening.
+  enabled: true
+- id: w-k-kellogg-foundation-wkkf-mexico-page-grantee-sp
+  funder: W.K. Kellogg Foundation
+  name: WKKF Mexico page & grantee spotlights
+  url: https://www.wkkf.org/where-we-work/mexico/
+  type: html
+  category: corporate_agrifood_2
+  why: Rolling LOI; watch Mexico food-systems/adaptation priorities and grantee types.
+  enabled: true
+- id: world-cocoa-foundation-wcf-news-resources-cfi-carb
+  funder: World Cocoa Foundation
+  name: WCF News & Resources (CFI, carbon strategy, deforestation-risk methodology)
+  url: https://worldcocoafoundation.org/news-and-resources
+  type: html
+  category: corporate_agrifood_2
+  why: No calls now; any RFP/consultancy on EO deforestation risk or carbon accounting would appear here.
+  enabled: true
+- id: fondo-accion-colombia-fondo-accion-convocatorias
+  funder: Fondo Accion (Colombia)
+  name: Fondo Accion convocatorias
+  url: https://fondoaccion.org/convocatorias/
+  type: html
+  category: corporate_agrifood_2
+  why: Frequent Colombian procurement/consultancy notices (Fondo Colombia Sostenible, tech-platform EoIs);
+    occasional technical-services opportunities for EO/climate data.
+  enabled: true
+- id: global-coffee-platform-gcp-latest
+  funder: Global Coffee Platform
+  name: GCP Latest
+  url: https://www.globalcoffeeplatform.org/
+  type: html
+  category: corporate_agrifood_2
+  why: Occasional RFPs (e.g., 2025 baseline-study RFP for collective action programmes).
+  enabled: true
+- id: forest-future-alliance-ex-1t-org-wef-forest-future
+  funder: Forest Future Alliance (ex-1t.org, WEF)
+  name: Forest Future Alliance
+  url: https://www.forestfuturealliance.org/
+  type: html
+  category: corporate_agrifood_2
+  why: Successor to 1t.org; corporate forest pledges and Global Wildfire Leadership Network solution labs
+    - partnership only.
+  enabled: true
+api_queries:
+  grants_gov:
+  - agriculture climate international
+  - remote sensing agriculture
+  - food security climate adaptation
+  - earth observation applications
+  - artificial intelligence agriculture
+  - crop model
+  eu_funding_tenders:
+  - earth observation agriculture
+  - digital agriculture Africa
+  - climate adaptation food systems
+  - artificial intelligence agriculture
+  - agroecology landscapes biodiversity
+  - Latin America agriculture climate
+  - crop yield forecasting
+  - climate services

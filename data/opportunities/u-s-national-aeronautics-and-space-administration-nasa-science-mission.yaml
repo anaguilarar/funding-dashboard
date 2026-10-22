@@ -1,0 +1,102 @@
+id: u-s-national-aeronautics-and-space-administration-nasa-science-mission
+title: NASA ROSES-27 Earth Science program elements (announced for release no later than January 2027)
+  - CIAT only on no-exchange-of-funds basis
+funder: U.S. National Aeronautics and Space Administration (NASA), Science Mission Directorate, Earth
+  Science Division
+funder_type: national_agency
+program: Research Opportunities in Space and Earth Sciences 2027 (ROSES-27), Appendix A Earth Science
+  (e.g., biosphere / land-cover land-use change, applied sciences) - elements not yet published
+opportunity_type: grant
+themes:
+- remote_sensing
+- multifunctional_landscapes
+- food_security
+- ai_ml
+- climate_adaptation
+url: https://science.nasa.gov/researchers/solicitations/roses-2025/
+source_urls:
+- https://nspires.nasaprs.com/external/solicitations/summary.do?solNum=NNH25ZDA001N-BIOS
+- https://www.grants.gov/search-results-detail/363241
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: NASA SMD "plans to release Research Opportunities in Space and Earth Sciences 2027 (ROSES-27)
+  no later than January 2027" (ROSES-2025 page). Element due dates Not specified.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: 'Not specified for ROSES-27. Note: NASA does not fund non-U.S. organizations.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'no'
+support_type: project_funding
+eligible_applicants: '"in general, NASA provides funding only to U.S. institutions. Organizations outside
+  the U.S. that propose on the basis of a policy of no-exchange-of-funds" (Grants.gov eligibility text
+  for ROSES-25 Earth science elements).'
+eligible_countries: 'Funding: U.S. institutions only. Non-U.S. participation on no-exchange-of-funds basis.'
+international_orgs_eligible: 'no'
+cgiar_eligible: 'no'
+cgiar_eligibility_notes: 'FUNDED LEAD: no. FUNDED SUBAWARDEE: no (NASA funds only U.S. institutions; non-U.S.
+  organizations participate on a no-exchange-of-funds basis per the NASA GCAM/Foreign PI instructions).
+  UNFUNDED: CIAT could be a non-U.S. PI/Co-I on a no-exchange-of-funds basis, contributing in-kind (field
+  data, crop models, LAC/Asia networks) to a U.S.-led proposal whose U.S. team is funded. Does NOT fund
+  CIAT staff. Included only for strategic value (land-cover/land-use and agriculture EO science networks).'
+lead_applicant_requirements: U.S. institution for funded proposals; registration in NSPIRES.
+geographic_restrictions: Not specified for ROSES-27.
+consortium_required: optional
+consortium_details: Not specified.
+cofunding_required: Not specified
+cofunding_details: Non-U.S. participants must self-fund their contribution.
+eligible_activities: Not specified until ROSES-27 is released (ROSES-25 Earth science elements included
+  A.4 Rapid Response, A.14 Atmosphere, A.15 Biosphere, A.16 Cryosphere, A.17 Hydrosphere, A.18 Geosphere).
+required_documents: Not specified
+application_procedure: Via NSPIRES once ROSES-27 elements are released; many Earth science elements use
+  mandatory Step-1 proposals or NOIs.
+eligibility_assessment: confirmed_ineligible
+scientific_alignment: 4
+scientific_alignment_rationale: NASA biosphere/LCLUC and applied-science agriculture elements match RS/ML
+  crop and land-use work directly, but exact ROSES-27 element content is unverified.
+strategic_relevance: 3
+strategic_relevance_rationale: Access to NASA science teams and data products; no funding for CIAT staff.
+technical_feasibility: 4
+technical_feasibility_rationale: Team can contribute in-kind EO/crop-model expertise and ground data.
+recommendation: Do not count as staff funding. Monitor ROSES-27 release (by Jan 2027) and offer CIAT as
+  an unfunded collaborator to U.S. PIs (e.g., NASA Harvest-linked universities) where it adds data access
+  or co-authorship value.
+potential_partners: U.S. universities active in NASA LCLUC/Harvest (e.g., University of Maryland), U.S.
+  SERVIR science team members.
+next_action: Watch the NASA ROSES page and NSPIRES in Dec 2026-Jan 2027; identify U.S. PIs planning biosphere/land-use
+  proposals.
+evidence:
+  deadline_quote: plans to release Research Opportunities in Space and Earth Sciences 2027 (ROSES-27)
+    no later than January 2027
+  eligibility_quote: in general, NASA provides funding only to U.S. institutions. Organizations outside
+    the U.S. that propose on the basis of a policy of no-exchange-of-funds; consult the NASA Grant and
+    Cooperative Agreement Manual (GCAM)
+  status_quote: 'ROSES-25 A.15 Biosphere: Step-1 proposals due Sep 04, 2026 (mandatory); Step-2 due Nov
+    06, 2026 - closed to new proposers.'
+  staff_costs_quote: 'Not applicable to CIAT: no exchange of funds for non-U.S. organizations.'
+unverified_fields:
+- ROSES-27 Earth science element list (incl. whether LCLUC/SARI, Earth Action agriculture, NISAR or CSDA
+  elements are solicited)
+- due dates
+- budgets
+verification_notes: Loaded science.nasa.gov ROSES-2025 page, NSPIRES A.15 Biosphere summary and Grants.gov
+  API record 363241 on 2026-10-22. ROSES-27 release statement summarized from the official ROSES-2025
+  page; the page 'last updated' stamp (April 2026) conflicts with October 2026 entries, so the release
+  timing should be re-checked.
+last_verified: '2026-10-22'
+verification_source: import:usa_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:54
+  event: added
+  detail: import:usa_staff_2026-10-22.json
+- date: 2026-10-22 10:54
+  event: reverified
+  detail: no material change
+- date: 2026-10-22 10:55
+  event: reverified
+  detail: no material change

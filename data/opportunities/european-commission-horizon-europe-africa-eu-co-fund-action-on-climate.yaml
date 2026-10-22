@@ -1,0 +1,100 @@
+id: european-commission-horizon-europe-africa-eu-co-fund-action-on-climate
+title: Africa-EU CO-FUND action on climate - HORIZON-CL5-2027-01-D1-11
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 5, Destination 1 (Climate sciences and responses), Call HORIZON-CL5-2027-01
+  (CLIMATE); Climate pillar of the EU-AU CCSE Partnership
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_data_infrastructure
+- capacity_building
+- food_security
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-01-D1-11
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-03-04T17:00
+deadline_timezone: CET (Brussels local time, 17:00)
+deadline_text: 'Opening: 17 Nov 2026; Deadline(s): 04 Mar 2027 (Brussels time 17:00).'
+funding_amount_min: null
+funding_amount_max: 15000000
+currency: EUR
+funding_text: Expected EU contribution around EUR 15.00 million (1 action); Programme Co-fund Action,
+  funding rate up to 50% of eligible costs; FSTP is a primary activity, max EUR 500 000 per third party
+  for cascading R&I projects.
+duration: Estimated 5-6 years
+duration_months_max: 72
+covers_staff_costs: 'yes'
+support_type: core_or_program_funding
+eligible_applicants: Programme owners/managers (research funders, ministries, agencies) from EU MS/AC
+  and AU member states; at least 30% of beneficiaries established in AU member states.
+eligible_countries: EU MS, Associated Countries, all AU member states (exceptionally eligible for funding).
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Co-fund actions are for programme owners/funders, not research performers. The
+  Alliance would benefit as applicant to the joint transnational calls (cascading grants up to EUR 500
+  000) that the co-fund will run from ~2028; eligibility in those calls will depend on the participating
+  national funders' rules.
+lead_applicant_requirements: Not specified beyond General Annexes (co-fund programme owners).
+geographic_restrictions: Africa focus (climate preparedness in AU).
+consortium_required: 'yes'
+consortium_details: At least 30% of beneficiaries must be legal entities established in AU member states.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs (lump sum); not-for-profit legal entities
+  get 100% in IAs too. See General Annex G.
+eligible_activities: Joint calls on climate risk reduction and resilience, climate data/data sharing,
+  climate services, capacity building of African scientists; coordination with PRIMA, FNSSA, ClimSA, Africa-EU
+  Space Programme.
+required_documents: Proposal Part A (admin forms via Funding & Tenders Portal) and Part B (technical description
+  per template); ethics self-assessment; lump-sum budget table where lump sum applies. See General Annexes
+  A and E.
+application_procedure: Electronic submission through the EU Funding & Tenders Portal by the coordinator;
+  all participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Future joint calls on climate data, climate services and resilience fit
+  EO/climate data infrastructure and crop-climate risk work.
+strategic_relevance: 4
+strategic_relevance_rationale: Long-term AU-EU climate R&I instrument; good fit with Alliance Africa climate
+  work.
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance cannot lead the co-fund itself; feasibility depends on later
+  calls.
+recommendation: Do not apply directly; monitor and engage with likely co-fund programme owners so Alliance
+  priorities (climate services for agriculture, EO data) shape the joint calls.
+potential_partners: African funders (NRF South Africa, KENIA/NACOSTI, AUC), European funders (BMFTR/DLR-PT,
+  ANR, NWO), ICPAC, AGRHYMET/ClimSA.
+next_action: Add to monitor list; check after Mar 2027 which consortium is selected and when its first
+  joint call opens.
+evidence:
+  deadline_quote: 'Opening: 17 Nov 2026 / Deadline(s): 04 Mar 2027'
+  eligibility_quote: Due to the scope of this topic, legal entities established in all African Union member
+    states are exceptionally eligible for Union funding. At least 30% of the beneficiaries must be legal
+    entities established in the African Union member states.
+  status_quote: 'F&T Portal search API (2026-10-14): status 31094501 (Forthcoming), startDate 2026-11-17,
+    deadlineDate 2027-03-04.'
+  staff_costs_quote: 'A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they
+    fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all
+    estimated costs incl. personnel)'
+unverified_fields:
+- eligibility rules of future cascading calls
+verification_notes: 'Read WP Part 8 (Cluster 5) pages 74-77 from official PDF on 2026-10-14; status confirmed
+  via F&T Portal API. | 2026-10-22 staff-cost/duration check: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
+  (WP8 topic text: ''The estimated duration of the action ... is 5-6 years.'' Programme Co-fund, ''funding
+  rate is up to 50% of the eligible costs''; CIAT would normally receive funds as a third party through
+  the co-fund''s joint calls.)'
+last_verified: '2026-10-14'
+verification_source: import:europe.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:europe.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

@@ -1,0 +1,100 @@
+id: european-commission-horizon-europe-better-understanding-and-attributio
+title: Better understanding and attribution of land and ocean carbon sources and sinks - HORIZON-CL5-2027-01-D1-12
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 5, Destination 1, Call HORIZON-CL5-2027-01 (CLIMATE)
+opportunity_type: consortium_call
+themes:
+- climate_mitigation
+- remote_sensing
+- multifunctional_landscapes
+- climate_data_infrastructure
+- open_source_software
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-01-D1-12
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-03-04T17:00
+deadline_timezone: CET (Brussels local time, 17:00)
+deadline_text: 'Opening: 17 Nov 2026; Deadline(s): 04 Mar 2027 (17:00 Brussels time).'
+funding_amount_min: null
+funding_amount_max: 5000000
+currency: EUR
+funding_text: Expected EU contribution around EUR 5.00 million per project; total indicative budget EUR
+  25.00 million (around 5 projects across areas A, B and C). RIA, lump sum; open access to models, code
+  and input data required.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortia per General Annex B.
+eligible_countries: EU MS, AC, LMICs per General Annex B; no IO exception.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'Horizon Europe General Annex B (WP 2026-2027): Colombia, Kenya and most African/LAC
+  countries are on the list of low- and middle-income countries automatically eligible for funding, but
+  the Alliance entities are international organisations, to which the IO rule applies: IOs are funded
+  only when the topic says so or when deemed essential. Where the topic does not open funding to IOs,
+  Bioversity International/CIAT can join as an associated partner (unfunded) or argue ''essential participation''
+  (risky). Bioversity International is headquartered in Italy (an EU Member State), so it fits the ''IO
+  with headquarters in a Member State'' clause; CIAT (HQ Colombia) does not. Confirm the Alliance''s PIC/legal
+  status validation (IO vs. national entity) with the Alliance grants office.'
+lead_applicant_requirements: Standard HE rules.
+geographic_restrictions: Not specified (global carbon cycle topic); Copernicus/Galileo must be used if
+  satellite EO is used.
+consortium_required: 'yes'
+consortium_details: Standard RIA consortium; JRC may participate.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs (lump sum); not-for-profit legal entities
+  get 100% in IAs too. See General Annex G.
+eligible_activities: 'Not fully reviewed: improved understanding/attribution of land and ocean carbon
+  sources and sinks; modelling and observation; open models/code/data.'
+required_documents: Proposal Part A (admin forms via Funding & Tenders Portal) and Part B (technical description
+  per template); ethics self-assessment; lump-sum budget table where lump sum applies. See General Annexes
+  A and E.
+application_procedure: Electronic submission through the EU Funding & Tenders Portal by the coordinator;
+  all participants need a validated PIC.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: EO-based land carbon (agricultural/landscape carbon, tropical land use)
+  is relevant, but the topic is carbon-cycle science rather than agriculture.
+strategic_relevance: 3
+strategic_relevance_rationale: Tropical land carbon (LAC/Africa) is a gap the Alliance could fill; links
+  to Multifunctional Landscapes.
+technical_feasibility: 3
+technical_feasibility_rationale: Requires carbon-cycle modelling partners (land surface models, atmospheric
+  inversions).
+recommendation: 'Opportunistic: join as partner providing tropical agricultural landscape data/EO if approached;
+  deadline is close (4 Mar 2027).'
+potential_partners: ICOS, LSCE, MPI-BGC, Wageningen, University of Exeter.
+next_action: Read full topic scope (WP Part 8 p.77-80) and decide by Dec 2026.
+evidence:
+  deadline_quote: 'Opening: 17 Nov 2026 / Deadline(s): 04 Mar 2027'
+  eligibility_quote: The conditions are described in General Annex B. ... If projects use satellite-based
+    earth observation ... beneficiaries must make use of Copernicus and/or Galileo/EGNOS
+  status_quote: 'Call HORIZON-CL5-2027-01 overview in WP Part 8: ''Opening: 17 Nov 2026 Deadline(s): 04
+    Mar 2027''.'
+  staff_costs_quote: 'A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they
+    fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all
+    estimated costs incl. personnel)'
+unverified_fields:
+- duration
+- detailed scope (only eligibility/financial conditions read)
+- portal status not queried for this topic (other CL5-2027-01 topics returned Forthcoming)
+verification_notes: 'Read WP Part 8 call overview and topic conditions (official PDF, 2026-10-14). | 2026-10-22
+  staff-cost/duration check: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
+  (RIA, lump sum. WP8 topic text states no duration.)'
+last_verified: '2026-10-14'
+verification_source: import:europe.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:europe.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

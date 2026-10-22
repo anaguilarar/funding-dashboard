@@ -1,0 +1,79 @@
+id: international-research-center-of-big-data-for-sustainable-development
+title: SDGSAT-1 Open Science Program (free satellite data; quota increase by research proposal)
+funder: International Research Center of Big Data for Sustainable Development Goals (CBAS), Chinese Academy
+  of Sciences
+funder_type: research_partnership
+program: SDGSAT-1 Open Science Program
+opportunity_type: cloud_credits
+themes:
+- remote_sensing
+- climate_data_infrastructure
+- food_security
+- ai_ml
+url: http://www.cbas.ac.cn/en/resources/sdgsat/
+source_urls:
+- https://www.sdgsat.ac.cn/
+- https://sdgs.un.org/sites/default/files/2025-08/CBAS%20SDGSAT-1%20User%20Manual.pdf
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline; continuous registration and proposal submission on https://www.sdgsat.ac.cn/.
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: Data access in kind (no cash). Default quota of 20 images after registration; larger quotas
+  via proposal.
+duration: Not specified
+eligible_applicants: Registered researchers worldwide.
+eligible_countries: Global
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Individual Alliance researchers register directly and submit a proposal to raise
+  the quota.
+lead_applicant_requirements: Registration on sdgsat.ac.cn; proposal with research information for higher
+  quota.
+geographic_restrictions: None stated
+consortium_required: 'no'
+consortium_details: Not applicable
+cofunding_required: 'no'
+cofunding_details: Not applicable
+eligible_activities: Research use of SDGSAT-1 10 m multispectral (incl. two red-edge-adjacent bands),
+  10 m glimmer (night light) and 30 m thermal infrared data.
+required_documents: User registration; proposal form (research information).
+application_procedure: Register at https://www.sdgsat.ac.cn/register; click 'proposal submission'; contact
+  sdgsat1@cbas.ac.cn if quota is not updated.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: 30 m TIR is useful for crop water stress/ET and 10 m MS for crop mapping;
+  complements Sentinel/Landsat in yield and phenology work.
+strategic_relevance: 3
+strategic_relevance_rationale: Opens a door to CBAS/CAS collaboration (DBAR/DSP networks) and SDG2/13
+  reporting; data, not money.
+technical_feasibility: 5
+technical_feasibility_rationale: Trivial to apply; data handling within team skills.
+recommendation: Register and submit a quota proposal for a Colombia/Honduras crop thermal-stress pilot;
+  use it as a basis for a joint CBAS paper or NSFC/ANSO proposal.
+potential_partners: CBAS / AIRCAS (Guo Huadong team), DBAR / Digital Sustainability Programme (DSP) network.
+next_action: Register on sdgsat.ac.cn and submit a proposal; email sdgsat1@cbas.ac.cn.
+evidence:
+  deadline_quote: Not applicable (continuous access)
+  eligibility_quote: After the registration, data quota (20 images) may not be readily available... To
+    increase the quota volume, data user need to submit a proposal (click proposal submission...) with
+    research information
+  status_quote: account registration for the SDGSAT-1 Open Science Program (https://www.sdgsat.ac.cn/)
+unverified_fields:
+- current quota rules on sdgsat.ac.cn (JavaScript site could not be rendered)
+- data licence terms
+verification_notes: Loaded CBAS official SDGSAT page and CBAS SDGSAT-1 User Manual (hosted on sdgs.un.org,
+  Aug 2025) on 2026-10-14; sdgsat.ac.cn responds but requires JavaScript. Not a funding call; included
+  as data-access resource.
+last_verified: '2026-10-14'
+verification_source: import:china.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 12:21
+  event: added
+  detail: import:china.json
+flags: []

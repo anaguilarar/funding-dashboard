@@ -1,0 +1,454 @@
+{
+  "group": "partnerships_regional",
+  "searched_on": "2026-10-14",
+  "opportunities": [
+    {
+      "title": "FONTAGRO Convocatoria 2027 (annual call for Regional R&D&I Consortia) - expected next cycle",
+      "funder": "FONTAGRO (Regional Fund for Agricultural Technology; sponsored by IDB and IICA)",
+      "funder_type": "regional_fund",
+      "program": "FONTAGRO annual competitive call, Medium-Term Plan (PMP) 2025-2030 Flagship Programs",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_smart_ag",
+        "climate_adaptation",
+        "climate_mitigation",
+        "digital_agriculture",
+        "ai_ml",
+        "food_security",
+        "smallholders",
+        "biodiversity"
+      ],
+      "url": "https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2027",
+      "source_urls": [
+        "https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2026",
+        "https://strapi-fontagro.nyc3.digitaloceanspaces.com/Terminos_de_Referencia_Convocatoria_2026_2226ecca93.pdf",
+        "https://strapi-fontagro.nyc3.digitaloceanspaces.com/5_Preguntas_Frecuentes_Convocatoria_2026_5af7de1421.pdf",
+        "https://fontagro.org/es/noticias/fontagro-anuncia-los-proyectos-ganadores-de-la-convocatoria-2026",
+        "https://fontagro.org/en/iniciativas/convocatorias/"
+      ],
+      "status": "upcoming",
+      "status_basis": "speculative",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "Not published. For reference, the 2026 call: 'La convocatoria estará abierta desde el 15 de diciembre de 2025 hasta el 20 de abril de 2026 a las 3:00 PM (Hora del Este de EE.UU. Washington D.C.)'",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "2027 terms not published. 2026 reference (ToR s.4.1): 'El monto total de la convocatoria es de US$1.250.000 ... Se cofinanciarán hasta cinco proyectos, uno por Programa Insignia, con un aporte máximo individual de hasta US$250.000.' Funds delivered in kind via IICA country offices (no cash disbursements); IICA admin charge up to 8.1%.",
+      "duration": "2026 reference (FAQ): 'plazo máximo de 36 a 42 meses de ejecución técnica y 48 meses de ejecución financiera'",
+      "eligible_applicants": "2026 reference: regional R&D&I consortia of up to three co-executing organizations from at least two FONTAGRO member countries; one is technical leader; at least one must be a public research entity; must include producer organizations as direct beneficiaries. IICA is the executing agency of all projects.",
+      "eligible_countries": "FONTAGRO member countries (2026 ToR): Argentina, Bolivia, Chile, Colombia, Costa Rica, Ecuador, España, Honduras, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay, Venezuela. Associates may come from any IDB member country with own funds.",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "Under 2026 rules, international/regional organizations may join only as 'organizaciones asociadas' with a facilitating/complementary role and their own resources (no FONTAGRO funds). CIAT/Alliance would participate as an associate (contributing staff time as counterpart) alongside national co-executors (e.g., a public research institute as technical lead). Confirm whether 2027 terms change; ToR notes FONTAGRO is 'en un proceso de transición de su modelo operativo'.",
+      "lead_applicant_requirements": "2026 reference: technical leader must be a co-executor legally constituted in a FONTAGRO member country; at least one public research entity; proposal in Spanish; Word + Excel submitted via online platform.",
+      "geographic_restrictions": "Activities must be implemented in at least two FONTAGRO member countries (Colombia and Honduras are members).",
+      "consortium_required": "yes",
+      "consortium_details": "2026 ToR: up to three co-executors from >=2 member countries; 2026 FAQ: 2-4 member countries and 'cada consorcio debe incluir al menos cuatro organizaciones'; associates allowed with own funds.",
+      "cofunding_required": "yes",
+      "cofunding_details": "2026 ToR s.4.2: counterpart (cash and/or in kind) of 'al menos dos veces el solicitado a FONTAGRO'; counterpart is audited.",
+      "eligible_activities": "2026 Flagship Programs considered: 1 resilient and carbon-neutral cropping systems; 2 livestock systems; 3 scaling/extension; 4 'Revolución digital en la agricultura: robótica e inteligencia artificial'; 5 future food basket/biodiversity.",
+      "required_documents": "2026 reference: project Word document + Excel (budget, results matrix, POA), signed counterpart/commitment letters from each participant, registration of organizations on plataforma.fontagro.org.",
+      "application_procedure": "2026 reference: single-phase online submission via https://plataforma.fontagro.org; external panel scoring; >=75/100 recommended to the Board.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Flagship 1 (resilient, carbon-neutral crops) and Flagship 4 (digital agriculture/AI) match EO + crop modelling + advisory tools; 2026 winners included AI-based digital platforms for field decision-making.",
+      "strategic_relevance": 5,
+      "strategic_relevance_rationale": "Core LAC regional fund; Colombia and Honduras are members; long CIAT history with FONTAGRO consortia.",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Team can deliver RS/crop-modelling components; constraint is associate-only role (own resources) and 2x counterpart.",
+      "recommendation": "Pursue. Start building a consortium now (if the pattern holds, call opens ~mid-December 2026 with a ~4-month window). Position CIAT as associate providing EO/AI/crop-model science, with national public research institutes as co-executors.",
+      "potential_partners": "AGROSAVIA (Colombia), Honduran public research institutes (e.g., DICTA), INIA Uruguay/Chile, INTA Argentina, INIAP Ecuador, producer organizations (e.g., FEDEARROZ), universities in member countries.",
+      "next_action": "Check the Convocatoria 2027 page weekly from November 2026; email fontagro@iica.int to ask the expected launch date and whether international organizations can be co-executors in 2027; pre-identify a Flagship 1 or 4 concept and partners.",
+      "evidence": {
+        "deadline_quote": "(2026 call) 'Fecha límite para la remisión de proyectos (Fase única) 20 de abril, 3:00 PM (Hora del Este de Estados Unidos, Washington D.C.)'",
+        "eligibility_quote": "FAQ 2026: 'otras instituciones de países no miembros de FONTAGRO, pero siempre miembros del BID, y las organizaciones regionales e internacionales; podrán participar en calidad de organizaciones asociadas con un rol facilitador o complementario y con sus propios recursos.'",
+        "status_quote": "Official listing shows a 'Call 2027' entry, but its page (title 'Convocatoria 2027') has no content yet; listing states 'Each year, FONTAGRO launches open and competitive calls to co-finance innovation networks.'"
+      },
+      "unverified_fields": [
+        "deadline",
+        "funding_amount_max",
+        "2027 eligibility rules",
+        "launch date",
+        "2027 flagship programs"
+      ],
+      "verification_notes": "Loaded 2026-10-14: FONTAGRO convocatorias listing (shows Call 2027 entry), Convocatoria 2027 page (empty placeholder, title only), Convocatoria 2026 page (marked '*Closed Call'), 2026 ToR and FAQ PDFs (text extracted), winners news (3 Aug 2026; Board approved 5 projects on 10 Jul 2026, ~USD 5M). An aggregator claimed a 30 March 2026 deadline and USD 200k cap; official ToR says 20 April 2026 and USD 250k - official values used. All 2027 terms inferred from the 2026 cycle."
+    },
+    {
+      "title": "APN Call for Proposals (CRRP and CAPaBLE) - next annual cycle (expected launch Nov 2026)",
+      "funder": "Asia-Pacific Network for Global Change Research (APN)",
+      "funder_type": "research_partnership",
+      "program": "Collaborative Regional Research Programme (CRRP) / Scientific Capacity Development Programme (CAPaBLE)",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "food_security",
+        "biodiversity",
+        "multifunctional_landscapes",
+        "capacity_building",
+        "climate_smart_ag"
+      ],
+      "url": "https://www.apn-gcr.org/opportunities/calls-for-proposals/",
+      "source_urls": [
+        "https://www.apn-gcr.org/opportunities/calls-for-proposals/frequently-asked-questions/",
+        "https://www.apn-gcr.org/news/2025-call-for-proposals-under-the-crrp-and-capable-programmes/"
+      ],
+      "status": "upcoming",
+      "status_basis": "speculative",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "JST (previous cycle)",
+      "deadline_text": "Not yet published. Previous (2025) cycle: Stage 1 'Sunday, 30 November 2025, 23:59 Japanese Standard Time'; Stage 2 (invitation only) 'Monday, 30 March 2026, 23:59 Japan Standard Time'.",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "FAQ: yearly average of USD 45,000 for CRRP projects and USD 40,000 for CAPaBLE projects; 'A limited amount of funding is available.'",
+      "duration": "'typically 2 years for regional research projects and 1 year for capacity development projects'; up to 3 years (CRRP) / 2 years (CAPaBLE).",
+      "eligible_applicants": "'Members of non-profit making institutions based in APN member and/or approved countries can submit proposals to APN.' Independent researchers, consultants and private-sector employees cannot submit. Early-career-led proposals prioritized.",
+      "eligible_countries": "Members: Australia, Bangladesh, Bhutan, Cambodia, China, Fiji, India, Indonesia, Japan, Lao PDR, Malaysia, Mongolia, Nepal, New Zealand, Pakistan, Philippines, Republic of Korea, Russian Federation, Sri Lanka, Thailand, USA, Viet Nam. Approved: Maldives, Myanmar, Pacific Island Countries, Singapore. Colombia and Italy are not members.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "Lead must be a non-profit institution based in a member/approved country. Alliance Asia offices (e.g., Viet Nam) might qualify but the FAQ does not address international organizations. Safer route: national partner leads, Alliance Asia staff as collaborators. Collaborators from non-member countries 'strictly cannot seek funds from APN'.",
+      "lead_applicant_requirements": "Non-profit institution in an APN member/approved country; CRRP must engage at least 3 member/approved countries (developed-country leads must include >=2 developing-country institutions).",
+      "geographic_restrictions": "Asia-Pacific member/approved countries; priority topics set by subregional committees.",
+      "consortium_required": "yes",
+      "consortium_details": "CRRP: >=3 member/approved countries; CAPaBLE: >=1.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Global change research and capacity development in APN thematic areas incl. 'Climate', 'Food, water and energy', 'Biodiversity and ecosystems', 'Risk and resilience'.",
+      "required_documents": "Stage 1 summary proposal via APNIS; full proposal by invitation (previous cycle).",
+      "application_procedure": "Two-stage via APNIS online system; applicants may submit to only one programme.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Climate/food-system topics fit; EO/crop-modelling methods acceptable but subregional priority topics not yet known.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Relevant to Alliance Asia hub (SE Asia rice systems, matching the researcher's rice-phenology background); small grants.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Feasible only with Asia-based colleagues/partners as leads; researcher is based in Colombia.",
+      "recommendation": "Monitor; pursue only via Alliance Asia colleagues or a national partner in Viet Nam/Lao PDR/Cambodia (e.g., Sentinel-1 rice phenology/yield forecasting). Low funding size.",
+      "potential_partners": "Alliance Asia office (Hanoi), Vietnam Academy of Agricultural Sciences, Vietnam National University of Agriculture, IRRI (CGIAR), regional universities.",
+      "next_action": "Check the APN calls page in early-mid November 2026 for the new call and subregional priority topics; consult the Alliance Asia team about which entity would lead.",
+      "evidence": {
+        "deadline_quote": "(2025 cycle) 'Sunday, 30 November 2025, 23:59 Japanese Standard Time'",
+        "eligibility_quote": "'Members of non-profit making institutions based in APN member and/or approved countries can submit proposals to APN.'",
+        "status_quote": "'The Call for Proposals is typically launched in November and successful proponents commence their project activities in October of the following year.' Latest listed: '[CLOSED] 2025 Call for Proposals under the CRRP and CAPaBLE Programmes'"
+      },
+      "unverified_fields": [
+        "deadline",
+        "launch date",
+        "priority topics",
+        "eligibility of international organizations' country offices"
+      ],
+      "verification_notes": "Loaded APN calls page, FAQ and 2025 call news on 2026-10-14. No new call published yet; 'upcoming' inferred from the officially stated annual November launch pattern."
+    },
+    {
+      "title": "CLIFF-GRADS (GRA / Global Methane Hub / CGIAR Climate Action) - next round, as host institution only",
+      "funder": "Global Research Alliance on Agricultural Greenhouse Gases (GRA), Global Methane Hub, CGIAR Climate Action Science Program",
+      "funder_type": "research_partnership",
+      "program": "CLIFF-GRADS",
+      "opportunity_type": "fellowship",
+      "themes": [
+        "climate_mitigation",
+        "climate_smart_ag",
+        "capacity_building"
+      ],
+      "url": "https://globalresearchalliance.org/capability-building/cliff-grads/",
+      "source_urls": [
+        "https://www.cgiar.org/news-events/news/now-open-applications-to-cliff-grads-round-6",
+        "https://www.surveymonkey.com/r/L53RXR3"
+      ],
+      "status": "monitoring",
+      "status_basis": "speculative",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "No next round announced. Round 7 form title: 'CLIFF-GRADS Round 7: Call for Student Applications. Deadline: Sun, 11 Jan 2026, 11:59 p.m. GMT.'",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Round 6 (CGIAR news): grant of USD 14,000 per student for a research stay; round 7 amount seen only on aggregators.",
+      "duration": "4-6 month research stay (previous rounds)",
+      "eligible_applicants": "PhD students from developing countries enrolled at a developing-country university. Host institutions are research institutions linked to GRA (CGIAR centers have hosted).",
+      "eligible_countries": "Developing countries",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "The researcher cannot apply (not a PhD student). The Alliance could host/supervise a student on GHG measurement/modelling; CGIAR Climate Action co-sponsors.",
+      "lead_applicant_requirements": "Individual PhD student with supervisor letter.",
+      "geographic_restrictions": "Applicant from a developing country",
+      "consortium_required": "no",
+      "consortium_details": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Research stays on agricultural GHG measurement, modelling, mitigation, soil carbon.",
+      "required_documents": "Not specified",
+      "application_procedure": "Student application form (SurveyMonkey in round 7).",
+      "eligibility_assessment": "confirmed_ineligible",
+      "scientific_alignment": 2,
+      "scientific_alignment_rationale": "GHG mitigation focus; tangential unless the topic is EO-based emissions/carbon estimation.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "CGIAR Climate Action co-sponsorship; partner/host channel rather than funding for the researcher.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Hosting a student is easy if aligned with an ongoing project.",
+      "recommendation": "Not funding for the researcher; useful only as host/partner channel. Watch for round 8 (previous rounds opened ~Nov-Dec).",
+      "potential_partners": "GRA Croplands Research Group, CGIAR Climate Action program, Latin American universities with PhD programmes",
+      "next_action": "Monitor GRA/CGIAR news in Nov-Dec 2026 for round 8; if a suitable PhD candidate exists, offer to host.",
+      "evidence": {
+        "deadline_quote": "'Deadline: Sun, 11 Jan 2026, 11:59 p.m. GMT.' (round 7 form title)",
+        "eligibility_quote": "Not verified on an official page for round 7; aggregators state applicants must be PhD students enrolled at a developing-country university.",
+        "status_quote": "Official GRA CLIFF-GRADS page shows only 2020 content; no next round announced."
+      },
+      "unverified_fields": [
+        "round 8 existence and dates",
+        "grant amount for next round",
+        "host eligibility rules",
+        "eligible_applicants (round 7)"
+      ],
+      "verification_notes": "GRA page loaded 2026-10-14 (outdated content). Round 7 details mostly from aggregators; only the organisers' form title seen. Kept as a monitoring/partner record per brief."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "FONTAGRO",
+      "name": "Convocatorias listing (incl. Convocatoria 2027 placeholder)",
+      "url": "https://fontagro.org/en/iniciativas/convocatorias/",
+      "type": "html",
+      "why": "Annual LAC consortium call; 2027 page exists but is empty; 2026 call opened 15 Dec 2025."
+    },
+    {
+      "funder": "FONTAGRO",
+      "name": "News",
+      "url": "https://fontagro.org/es/noticias",
+      "type": "html",
+      "why": "Launch announcements, call webinars, FONTAGRO/IICA agro-bioentrepreneurship competitions."
+    },
+    {
+      "funder": "APN",
+      "name": "Calls for proposals",
+      "url": "https://www.apn-gcr.org/opportunities/calls-for-proposals/",
+      "type": "html",
+      "why": "Annual call typically launched in November."
+    },
+    {
+      "funder": "Inter-American Institute for Global Change Research (IAI)",
+      "name": "Calls for applicants",
+      "url": "https://www.iai.int/en/post/detail/Call-for-applicants",
+      "type": "html",
+      "why": "No open call (only 'PAST CALLS'); IAI channels Belmont Forum calls for LAC. A Jan 2026 opinion column reports US withdrawal from IAI, which may shrink programmes (not verified officially)."
+    },
+    {
+      "funder": "IAI",
+      "name": "Seed grant programme",
+      "url": "https://www.iai.int/en/capacity-building/seed-grant",
+      "type": "html",
+      "why": "Historical seed grants USD ~10-27k; no current call stated."
+    },
+    {
+      "funder": "Belmont Forum",
+      "name": "Collaborative Research Actions",
+      "url": "https://www.belmontforum.org/cras",
+      "type": "html",
+      "why": "No open/upcoming CRA listed; watch for new food/climate CRAs with LAC funders."
+    },
+    {
+      "funder": "GEO Mountains (GEO Work Programme; MRI/CNR-ISAC, SDC-funded)",
+      "name": "GEO Mountains Small Grants",
+      "url": "https://mountainresearchinitiative.org/?p=34947",
+      "type": "html",
+      "why": "2026-2027 call (Andes priority, up to CHF 10,000, mountain data/EO) closed 20 Feb 2026; watch for a next round."
+    },
+    {
+      "funder": "Group on Earth Observations",
+      "name": "GEO Get involved / events",
+      "url": "https://earthobservations.org/get-involved",
+      "type": "html",
+      "why": "No funding calls listed; GEO cloud-credit programmes ran historically (GEO-AWS 2018-19)."
+    },
+    {
+      "funder": "Climate Change AI",
+      "name": "Innovation Grants",
+      "url": "https://www.climatechange.ai/innovation_grants",
+      "type": "html",
+      "why": "Page states no future calls currently planned; up to USD 150k seed grants if relaunched."
+    },
+    {
+      "funder": "The Degrees Initiative",
+      "name": "Grants",
+      "url": "https://www.degrees.ngo/grants/",
+      "type": "html",
+      "why": "'We don't have any open calls right now.' Researcher already holds a grant; watch for new DMF/Expansion calls."
+    },
+    {
+      "funder": "CGIAR IAES / SPIA",
+      "name": "IAES news and calls",
+      "url": "https://iaes.cgiar.org/",
+      "type": "html",
+      "why": "Occasional small grants/EOIs (SPIA policy-influence small grants closed 7 Aug 2026)."
+    },
+    {
+      "funder": "CGIAR",
+      "name": "Scaling for Impact program page",
+      "url": "https://www.cgiar.org/cgiar-research-portfolio-2025-2030/scaling-impact",
+      "type": "html",
+      "why": "No public competitive fund found; Science Program / Accelerator internal calls circulate internally - check with Alliance leads for Climate Action, Multifunctional Landscapes and Digital Transformation Accelerator."
+    },
+    {
+      "funder": "Global Research Alliance on Agricultural GHGs",
+      "name": "CLIFF-GRADS",
+      "url": "https://globalresearchalliance.org/capability-building/cliff-grads/",
+      "type": "html",
+      "why": "Round 8 not announced; past rounds opened Nov-Dec."
+    },
+    {
+      "funder": "ClimateLaunchpad (Climate KIC)",
+      "name": "Colombia country page",
+      "url": "https://climatelaunchpad.org/countries/colombia/",
+      "type": "html",
+      "why": "Annual green-business competition; 2026 Colombia deadline 30 May 2026 (closed); opens ~March."
+    },
+    {
+      "funder": "AI4D Africa (IDRC/FCDO)",
+      "name": "AI4D calls",
+      "url": "https://africa.ai4d.ai/calls/",
+      "type": "html",
+      "why": "No 2026 call found; past agriculture and climate AI hubs."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "FONTAGRO Convocatoria 2026",
+      "url": "https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2026",
+      "reason": "Closed ('*Closed Call'); deadline 20 Apr 2026; winners approved 10 Jul 2026."
+    },
+    {
+      "title": "CLIFF-GRADS Round 7 (2026)",
+      "url": "https://www.surveymonkey.com/r/L53RXR3",
+      "reason": "Closed 11 Jan 2026; PhD students only."
+    },
+    {
+      "title": "Climate Change AI Innovation Grants 2026",
+      "url": "https://www.climatechange.ai/innovation_grants",
+      "reason": "Official page: 'Climate Change AI does not currently have any future calls of this program planned.' Aggregator claim of a Sep 2026 deadline not confirmed."
+    },
+    {
+      "title": "Degrees Modelling Fund calls",
+      "url": "https://www.degrees.ngo/dmf/",
+      "reason": "No open calls; last DMF special call closed 1 Mar 2025."
+    },
+    {
+      "title": "TWAS Research Grants",
+      "url": "https://twas.org/opportunities/research-grants",
+      "reason": "All calls closed or 'no call will open in 2026'; basic sciences for STLCs; not relevant/ineligible."
+    },
+    {
+      "title": "IAI calls (SGP/CRN)",
+      "url": "https://www.iai.int/en/post/detail/Call-for-applicants",
+      "reason": "No open or announced call."
+    },
+    {
+      "title": "Belmont Forum Ocean 2 CRA",
+      "url": "https://anr.fr/fr/detail/call/1867?no_cache=1",
+      "reason": "Closed (full proposals 27 Aug 2026 per ANR); not thematically relevant."
+    },
+    {
+      "title": "GEO Mountains Small Grants 2026-2027",
+      "url": "https://mountainresearchinitiative.org/?p=34947",
+      "reason": "Closed 20 Feb 2026."
+    },
+    {
+      "title": "APN 2025 Call (CRRP/CAPaBLE)",
+      "url": "https://www.apn-gcr.org/news/2025-call-for-proposals-under-the-crrp-and-capable-programmes/",
+      "reason": "Closed; next cycle tracked as upcoming."
+    },
+    {
+      "title": "SPIA Small Grants: Measuring CGIAR's Policy Influence",
+      "url": "https://iaes.cgiar.org/node/12916",
+      "reason": "Deadline 7 Aug 2026 passed; political-science topic."
+    },
+    {
+      "title": "ILRI Capacity Sharing Accelerator pilot call",
+      "url": "https://www.ilri.org/sites/default/files/2026-07/ILRI_CapSha_AoW1_Pilot_Call.pdf",
+      "reason": "Closed 21 Jul 2026 (search snippet; not further verified)."
+    },
+    {
+      "title": "NASA ROSES A.13 Accelerating Earth Solutions (agriculture)",
+      "url": "https://app.govly.com/public/opportunities/16878552",
+      "reason": "US institutions only per listing; due 15 Oct 2026; not verified on NSPIRES; Alliance ineligible as lead."
+    },
+    {
+      "title": "NASA Harvest consortium call",
+      "url": "https://www.nasaharvest.org/about-us",
+      "reason": "No open solicitation found."
+    },
+    {
+      "title": "SERVIR small grants / Applied Sciences Team",
+      "url": "https://rcmrd.org/servir-grants",
+      "reason": "Only 2022/2024 calls found; SERVIR was USAID-co-funded; no current call."
+    },
+    {
+      "title": "START International",
+      "url": "https://start.org/",
+      "reason": "Search results indicate START closed in 2026; no calls (not verified on an official current page)."
+    },
+    {
+      "title": "Euroclima calls",
+      "url": "https://international-partnerships.ec.europa.eu/policies/global-gateway/euroclima_en",
+      "reason": "euroclima.org redirects to EC Global Gateway page; no open competitive research call found."
+    },
+    {
+      "title": "IICA/Endeavor AgTech Accelerator 2026",
+      "url": "https://iica.int/en/press/news/endeavor-and-iica-launch-the-call-for-applications-for-agtech-accelerator-2026-an-intensive-training-program-for-the-consolidation-of-agtech-startups-in-the-americas/",
+      "reason": "Closed (8 March 2026); startups only."
+    },
+    {
+      "title": "ClimateLaunchpad 2026",
+      "url": "https://climatelaunchpad.org/countries/colombia/",
+      "reason": "Closed (Colombia deadline 30 May 2026); startup competition."
+    },
+    {
+      "title": "Digital Public Goods Alliance funding",
+      "url": "https://www.digitalpublicgoods.net/calls-for-collaborative-action",
+      "reason": "No applicant-facing grant; DPG registry nomination is rolling but not funding (could register open tools for visibility)."
+    },
+    {
+      "title": "AI4D Africa calls",
+      "url": "https://africa.ai4d.ai/calls/climate-action-hub/",
+      "reason": "Archived; latest IDRC/FCDO AI call (2025) closed and off-topic."
+    },
+    {
+      "title": "Africa Climate Collaborative Fellowship 2026",
+      "url": "https://afri-carrieres.com/2026/03/africa-climate-collaborative-fellowship.html",
+      "reason": "Closed (30 May 2026); African citizens 18-35; aggregator only."
+    },
+    {
+      "title": "Climate Collective Foundation accelerators",
+      "url": "https://www.prodevs.io/accelerators/climate-collective",
+      "reason": "No current call found; India startup focus."
+    },
+    {
+      "title": "CGIAR Science Program / Digital Transformation Accelerator competitive calls",
+      "url": "https://www.cgiar.org/cgiar-research-portfolio-2025-2030/scaling-impact",
+      "reason": "No public open call found; internal 2027 planning handled internally."
+    },
+    {
+      "title": "GEO-AWS / GEO cloud credits",
+      "url": "https://www.data4sdgs.org/blog/geo-aws-earth-observation-cloud-credits-programme-harnesses-big-data-decision-makers",
+      "reason": "Only the 2018-19 round found."
+    },
+    {
+      "title": "Future Earth / International Science Council funding calls",
+      "url": "https://futureearth.org/",
+      "reason": "No open funding call found."
+    },
+    {
+      "title": "GODAN, Agrilinks, AgriLAC Resiliente, Digital Earth Africa, AfriGEO, GEOGLAM",
+      "url": "https://www.cgiar.org/",
+      "reason": "No funding calls found; Agrilinks was a USAID platform; AgriLAC Resiliente belonged to the previous (2022-24) CGIAR portfolio."
+    },
+    {
+      "title": "UK ISPF (GCRF successor)",
+      "url": "https://www.britishcouncil.org.br/en/programmes/education/Ispf",
+      "reason": "No open call relevant to Colombia found."
+    }
+  ]
+}

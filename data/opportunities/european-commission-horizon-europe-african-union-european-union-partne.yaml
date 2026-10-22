@@ -1,0 +1,101 @@
+id: european-commission-horizon-europe-african-union-european-union-partne
+title: African Union - European Union Partnership on Food and Nutrition Security and Sustainable Agriculture
+  (FNSSA) - HORIZON-CL6-2027-02-FARM2FORK-09
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 6, Call HORIZON-CL6-2027-02 (single stage); successor platform to LEAP4FNSSA
+  / FNSSA International Research Consortium
+opportunity_type: consortium_call
+themes:
+- food_security
+- smallholders
+- climate_smart_ag
+- capacity_building
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-09
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf
+- https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-09-23T17:00
+deadline_timezone: CET (Brussels local time, 17:00)
+deadline_text: 'Opening: 20 Apr 2027; Deadline(s): 23 Sep 2027. All deadlines are at 17.00.00 Brussels
+  local time.'
+funding_amount_min: null
+funding_amount_max: 6750000
+currency: EUR
+funding_text: Expected EU contribution around EUR 6.75 million; total indicative budget EUR 6.75 million
+  (1 project). Coordination and Support Action, lump sum; FSTP allowed (max EUR 60 000 per third party),
+  including seed funding to scale innovations from previous FNSSA projects.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortium per General Annex B; AU-established entities exceptionally eligible as
+  beneficiaries in this CSA; JRC may join.
+eligible_countries: EU MS, Associated Countries, all AU member states.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: '''International organisations with headquarters in a Member State or Associated
+  Country are exceptionally eligible for funding.'' Bioversity International (Italy) qualifies as funded
+  beneficiary. CGIAR centres were active in LEAP4FNSSA/IRC, so the Alliance is a natural partner.'
+lead_applicant_requirements: Standard HE CSA rules; consortium must include at least three independent
+  legal entities established in AU member states.
+geographic_restrictions: Africa-EU.
+consortium_required: 'yes'
+consortium_details: Single consortium expected (1 project) — typically led by research funders/ministries
+  of the FNSSA Working Group; at least three AU-established entities.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs (lump sum); not-for-profit legal entities
+  get 100% in IAs too. See General Annex G.
+eligible_activities: Strengthen FNSSA Working Group and International Research Consortium; coordinate
+  AU-EU FNSSA project portfolio (Horizon, DeSIRA, ERA-Nets); seed funding to scale innovations from previous
+  HLPD-FNSSA projects; start-up/SME mentoring with cascading funding.
+required_documents: Proposal Part A (admin forms via Funding & Tenders Portal) and Part B (technical description
+  per template); ethics self-assessment; lump-sum budget table where lump sum applies. See General Annexes
+  A and E.
+application_procedure: Electronic submission through the EU Funding & Tenders Portal by the coordinator;
+  all participants need a validated PIC.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Coordination/policy action; research methods (EO/AI/modelling) secondary
+  — relevant mainly via cascading seed funding to scale previous FNSSA project outputs.
+strategic_relevance: 5
+strategic_relevance_rationale: Flagship AU-EU FNSSA governance instrument; CGIAR visibility in the AU-EU
+  R&I partnership.
+technical_feasibility: 3
+technical_feasibility_rationale: Requires coordination/policy capacity; Alliance is more likely a work-package
+  partner than lead.
+recommendation: Pursue as partner in the funder-led consortium (likely LEAP4FNSSA successors) and watch
+  for the cascading seed-funding calls the winning project will run (2028+).
+potential_partners: LEAP4FNSSA consortium members (e.g., CIRAD, FARA, AUDA-NEPAD, national funders), FARA,
+  CORAF, ASARECA/CCARDESA.
+next_action: Ask Alliance/CGIAR Africa partnership leads whether a consortium is forming; signal interest
+  to FARA/CIRAD.
+evidence:
+  deadline_quote: 'Opening: 20 Apr 2027 / Deadline(s): 23 Sep 2027'
+  eligibility_quote: International organisations with headquarters in a Member State or Associated Country
+    are exceptionally eligible for funding. ... consortia must include at least three independent legal
+    entities established in an African Union member state*.
+  status_quote: 'F&T Portal search API (2026-10-14): status 31094501 (Forthcoming), startDate 2027-04-20,
+    deadlineDate 2027-09-23.'
+  staff_costs_quote: 'A.1 Costs for employees (or equivalent) are eligible as personnel costs, if they
+    fulfil the general eligibility conditions (AGA Art. 6.2.A; lump-sum actions: the lump sum covers all
+    estimated costs incl. personnel)'
+unverified_fields:
+- duration
+verification_notes: 'Read WP Part 9 pages 156-159 (official PDF, 2026-10-14). Status confirmed via F&T
+  Portal API. | 2026-10-22 staff-cost/duration check: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf
+  (CSA, lump sum. WP9 topic text states no duration.)'
+last_verified: '2026-10-14'
+verification_source: import:europe.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:europe.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

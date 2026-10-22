@@ -1,0 +1,561 @@
+{
+  "group": "multilateral",
+  "searched_on": "2026-10-14",
+  "opportunities": [
+    {
+      "title": "Green Climate Fund funding proposals through the CGIAR System Organization (GCF-accredited entity)",
+      "funder": "Green Climate Fund (GCF)",
+      "funder_type": "multilateral",
+      "program": "GCF funded activities (funding proposals; Simplified Approval Process / Project Preparation Facility as applicable) via accredited entity 'CGIAR System Organization'",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "climate_mitigation",
+        "climate_smart_ag",
+        "multifunctional_landscapes",
+        "food_security",
+        "smallholders",
+        "climate_data_infrastructure"
+      ],
+      "url": "https://www.greenclimate.fund/partners/accredited-entities/cgiar",
+      "source_urls": [
+        "https://www.greenclimate.fund/partners/accredited-entities/all",
+        "https://www.greenclimate.fund/document/accreditation-master-agreement-between-gcf-and-cgiar-system-organization"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "No call deadline; GCF funding proposals are submitted by accredited entities on a continuous basis. Accreditation term on the AE page: 'Renewal date | 29 Sep 2027'; 'Re-accreditation submission deadline (29 Mar 2027)'.",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Accreditation scope listed by GCF: 'Size | Small'; 'ESS Category | Category C, Intermediation 3'; 'Fiduciary standards | Basic, Project management, Grant award'. No per-project amount stated on the page (check GCF 'Small' size thresholds in the accreditation framework).",
+      "duration": "Not specified",
+      "eligible_applicants": "Only GCF accredited entities submit funding proposals. CGIAR System Organization is accredited ('Status | Accredited'); CGIAR centers would develop/execute projects under it.",
+      "eligible_countries": "GCF-eligible developing countries; NDA no-objection letter required (standard GCF rule, not restated on the AE page).",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "VERIFIED: 'CGIAR System Organization (CGIAR)' is on the official GCF Accredited Entities directory: accredited 19/20 Oct 2018, AMA executed 21 Sep 2022, effective 30 Sep 2022, renewal 29 Sep 2027. It already has one approved project, FP304 'Enhancing Sustainable Land Management and Climate-Resilient Agri-food Systems in Cote d'Ivoire (LARACI)' (approved funding proposal document dated 23 Jul 2026, status 'Under implementation'). No individual CGIAR center (CIAT, Bioversity, CIFOR-ICRAF, IWMI, IFPRI, etc.) appears separately on the GCF list, and none is an Adaptation Fund implementing entity or GEF Agency. Realistic route for the Alliance: co-develop a concept with an NDA and submit through the CGIAR System Organization, or act as executing/technical partner of another AE (FAO, IFAD, UNDP, WFP, CAF, CABEI, IDB, national DAEs). Constraint: CGIAR accreditation covers only Small-size, minimal-risk (Category C) grant projects.",
+      "lead_applicant_requirements": "Accredited entity (CGIAR System Organization) as lead; NDA no-objection; project must fit the AE's accreditation scope (Small, Category C, grant award).",
+      "geographic_restrictions": "GCF-eligible developing countries.",
+      "consortium_required": "yes",
+      "consortium_details": "Accredited entity + NDA (country ownership) + executing entities (CGIAR centers, national institutions).",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Climate adaptation and mitigation projects in GCF result areas (e.g., health, food and water security; livelihoods; ecosystems; forests and land use).",
+      "required_documents": "Standard GCF concept note / funding proposal package (not restated on the AE page).",
+      "application_procedure": "Engage the CGIAR System Organization's GCF focal point and the target country's NDA; submit concept note via the GCF Partner Portal through the AE; optionally request Project Preparation Facility support.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Climate-resilient agri-food systems and land management (cf. FP304) use climate risk analytics, EO monitoring and crop modelling directly; methods are components rather than the main output.",
+      "strategic_relevance": 5,
+      "strategic_relevance_rationale": "Only verified direct route from CGIAR to GCF; large-scale, country-owned adaptation programmes in LAC/Africa/Asia fit the Alliance mission.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Alliance can deliver climate-information/EO/advisory components, but GCF project development takes 1-3 years, needs NDA buy-in and CGIAR System-level coordination; accreditation renewal due Sep 2027.",
+      "recommendation": "Pursue as a medium-term pipeline: pick an NDA (e.g., Colombia, Honduras, Central America Dry Corridor) and co-develop a Small, low-risk climate-services/agri-adaptation concept with the CGIAR System Organization. Confirm its re-accreditation plans (submission deadline 29 Mar 2027).",
+      "potential_partners": "CGIAR System Organization (AE); NDAs; national meteorological services; FAO/IFAD/WFP as alternative AEs; CIFOR-ICRAF (FP304 experience).",
+      "next_action": "Contact the CGIAR System Organization GCF focal point about the internal pipeline process and FP304 lessons; shortlist 1-2 countries with NDAs open to a CGIAR-led concept.",
+      "evidence": {
+        "deadline_quote": "Renewal date | 29 Sep 2027 ... Re-accreditation submission deadline (29 Mar 2027)",
+        "eligibility_quote": "CGIAR System Organization (CGIAR) ... Status | Accredited ... Size | Small | ESS Category | Category C, Intermediation 3 | Fiduciary standards | Basic, Project management, Grant award",
+        "status_quote": "FP304 ... Enhancing Sustainable Land Management and Climate-Resilient Agri-food Systems in Cote d'Ivoire (LARACI) ... Under implementation ... Approved funding proposal ... 23 Jul 2026"
+      },
+      "unverified_fields": [
+        "per-project USD range for GCF 'Small' category",
+        "internal CGIAR process for centers to channel proposals through the System Organization",
+        "NDA no-objection requirement (standard GCF rule, not restated on AE page)"
+      ],
+      "verification_notes": "On 2026-10-14 downloaded all pages (0-8) of the official GCF AE directory (/partners/accredited-entities/all) and searched for CGIAR center names: only 'CGIAR System Organization' matched; no CIAT, Bioversity, CIFOR/ICRAF, IWMI, IFPRI etc. Loaded the CGIAR AE page directly. Caveat: the AE page overview describes 'promotion of agroforestry systems', suggesting the record originates from the 2018 ICRAF accreditation later held by the System Organization; confirm with CGIAR."
+    },
+    {
+      "title": "GCF Readiness and Preparatory Support (Country Support Modality) - delivery via NDA-nominated or accredited entity",
+      "funder": "Green Climate Fund (GCF)",
+      "funder_type": "multilateral",
+      "program": "Readiness Strategy 2024-2027 / Country Support Modality",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "capacity_building",
+        "climate_data_infrastructure",
+        "climate_smart_ag"
+      ],
+      "url": "https://www.greenclimate.fund/about/news-and-updates/gcf-updates-readiness-programme-strengthen-country-ownership-and-delivery-flexibility",
+      "source_urls": [
+        "https://www.greenclimate.fund/sites/default/files/documents/2026-06/guide-accessing-readiness-support-country-support-modality.pdf",
+        "https://www.greenclimate.fund/access-funding/readiness-preparatory-support"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-07-03",
+      "deadline": "2027-03-31",
+      "deadline_timezone": "Not specified",
+      "deadline_text": "Submissions may be made at any time during the current Readiness Strategy 2024-2027 period, with a recommended proposal submission date of no later than 31 March 2027 to allow sufficient time for approval of the proposal and signing of the Readiness Financing Agreement before the end of the current Readiness Strategy 2024-2027 period on 31 December 2027.",
+      "funding_amount_min": null,
+      "funding_amount_max": 4000000,
+      "currency": "USD",
+      "funding_text": "Main country envelope of up to USD 4 million over four years; NAP formulation (NAP.1) up to USD 3 million; additional up to USD 3 million for NAP implementation (NAP.2) under conditions; up to USD 320,000 over four years for LDCs/SIDS liaison officers. Envelopes are per country, not per delivery partner.",
+      "duration": "Within the Readiness Strategy period ending 31 December 2027",
+      "eligible_applicants": "Requests are submitted by NDAs/focal points. 'Option 1 Direct access by a country through the NDA or other competent government ministry or agency; Option 2 Access by a country through an entity nominated by the NDA, which can be: (i) a national entity; (ii) an entity that has entered into a Readiness Framework Agreement with the GCF; or (iii) a GCF accredited entity; Option 3 Access ... through a competitive tender process involving GCF pre-qualified delivery partner'.",
+      "eligible_countries": "GCF-eligible developing countries (via their NDA).",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "CIAT/Bioversity are not GCF accredited and were not confirmed as Readiness Framework Agreement holders or pre-qualified delivery partners. Routes: (a) the NDA nominates the CGIAR System Organization (a GCF AE) as delivery partner with the Alliance executing; (b) the Alliance as subcontracted technical partner to the NDA or another delivery partner (e.g., FAO, UNDP) for climate information, NAP agri-sector risk analysis or EO/data systems; (c) GCF pre-qualified delivery partner tenders.",
+      "lead_applicant_requirements": "NDA must request; delivery partner must be a national entity, Readiness Framework Agreement holder, GCF AE, or pre-qualified delivery partner.",
+      "geographic_restrictions": "Country-specific envelopes.",
+      "consortium_required": "yes",
+      "consortium_details": "NDA + delivery partner.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Capacity building and technical assistance for country programming, direct access, NAP formulation/implementation (relevant: agricultural climate risk assessment, climate information systems, data for adaptation planning).",
+      "required_documents": "Readiness proposal via the GCF Partner Portal (templates per the guide).",
+      "application_procedure": "The NDA submits the readiness request through the GCF Partner Portal, naming its delivery partner.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Climate data, crop-climate risk analysis and EO for NAPs are relevant, but readiness funds capacity building rather than research.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Builds NDA relationships that feed GCF pipelines (incl. CGIAR-AE projects); time-limited (Mar 2027).",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Feasible as technical partner; depends on NDA demand and unused country envelope.",
+      "recommendation": "Explore in 1-2 countries with strong Alliance government ties (e.g., Colombia, Honduras, Kenya, Viet Nam) to propose NAP agri-sector climate risk / climate services readiness before 31 Mar 2027.",
+      "potential_partners": "NDAs, CGIAR System Organization, FAO, UNDP.",
+      "next_action": "Ask target NDAs about remaining readiness envelope and NAP.1/NAP.2 status; check whether the CGIAR System Organization would act as nominated delivery partner.",
+      "evidence": {
+        "deadline_quote": "recommended proposal submission date of no later than 31 March 2027",
+        "eligibility_quote": "Access by a country through an entity nominated by the NDA, which can be: (i) a national entity; (ii) an entity that has entered into a Readiness Framework Agreement with the GCF; or (iii) a GCF accredited entity",
+        "status_quote": "The previous annual application deadline for Readiness requests no longer applies. Submissions may be made at any time"
+      },
+      "unverified_fields": [
+        "whether CIAT/Bioversity hold a Readiness Framework Agreement or pre-qualified delivery partner status"
+      ],
+      "verification_notes": "Loaded the GCF news item (03 Jul 2026) and extracted text from the official 'Guide to accessing readiness support - Country Support Modality' PDF (2026-06) on 2026-10-14."
+    },
+    {
+      "title": "Adaptation Fund project/programme proposals (regular, Large Innovation, Locally Led Adaptation windows) via accredited implementing entities - rolling submission",
+      "funder": "Adaptation Fund (AF)",
+      "funder_type": "multilateral",
+      "program": "Adaptation Fund funding windows (regular projects, innovation grants, LLA) - rolling basis",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "food_security",
+        "smallholders",
+        "climate_data_infrastructure"
+      ],
+      "url": "https://www.adaptation-fund.org/apply-funding/project-funding/",
+      "source_urls": [
+        "https://www.adaptation-fund.org/apply-funding/",
+        "https://www.adaptation-fund.org/apply-funding/implementing-entities/multilateral-implementing-entities/",
+        "https://www.adaptation-fund.org/apply-funding/implementing-entities/regional-implementing-entities/",
+        "https://adaptation-fund.org/?p=38731"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "'Submissions for all funding windows are now accepted on a rolling basis (Decision B.40/59).' / 'The Adaptation Fund Board accepts and considers regular project and programme proposals on a rolling basis.'",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Large innovation grants: 'grants of up to US$ 5 million to NIEs, RIEs and MIEs' (AF large innovation material from the 2021 round). Country caps and FY2027 set-asides not verified.",
+      "duration": "Not specified",
+      "eligible_applicants": "'Eligible parties seeking financial resources from the Adaptation Fund must submit their project and programme proposals directly through accredited National, Regional, or Multilateral Implementing Entities.'",
+      "eligible_countries": "AF-eligible developing countries (endorsement by the country's AF Designated Authority).",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "no",
+      "cgiar_eligibility_notes": "VERIFIED: no CGIAR center is an AF implementing entity. The 14 MIEs are ADB, World Bank, IDB, IFAD, UNDP, UNEP, WFP, UNESCO, EBRD, UN-Habitat, WMO, UNIDO, FAO, WHO; the 9 RIEs are BOAD, OSS, SPREP, CAF, CABEI, CDB, SPC, ICIMOD, CCCCC. The Alliance can take part only as executing entity/technical partner under an IE (e.g., FAO, IFAD, WFP, CAF, CABEI, or an accredited NIE).",
+      "lead_applicant_requirements": "Accredited NIE/RIE/MIE; endorsement letter from the country's AF Designated Authority.",
+      "geographic_restrictions": "AF-eligible developing countries.",
+      "consortium_required": "yes",
+      "consortium_details": "Implementing entity + Designated Authority endorsement + executing entities.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Concrete adaptation projects; innovation (accelerators, scaling adaptation innovations); locally led adaptation.",
+      "required_documents": "AF project/programme proposal templates (Project Proposal Materials page).",
+      "application_procedure": "The IE e-mails the proposal to submissions@adaptation-fund.org (rolling); reviewed by the AFB secretariat and PPRC.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Agricultural adaptation, early warning/climate services and innovation windows can embed EO, crop modelling and advisory tools, but AF funds implementation, not research.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Strong LAC IE options (CAF, CABEI, IDB, FAO, WFP, IFAD) match the Alliance's LAC presence.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Feasible as executing partner; depends on IE pipeline and DA endorsement.",
+      "recommendation": "Approach FAO, WFP, IFAD or CABEI/CAF country teams with a climate-services/digital advisory component for upcoming AF proposals (including Large Innovation grants up to US$5m). Do not plan as lead.",
+      "potential_partners": "FAO, WFP, IFAD, CAF, CABEI, WMO, national NIEs.",
+      "next_action": "Review the AF 'Proposals Under Review' / 'Active Pipeline' pages for LAC countries and contact IEs with agri-climate projects in preparation.",
+      "evidence": {
+        "deadline_quote": "Submissions for all funding windows are now accepted on a rolling basis (Decision B.40/59).",
+        "eligibility_quote": "must submit their project and programme proposals directly through accredited National, Regional, or Multilateral Implementing Entities",
+        "status_quote": "The Adaptation Fund Board accepts and considers regular project and programme proposals on a rolling basis."
+      },
+      "unverified_fields": [
+        "current per-country funding caps and FY2027 set-asides for innovation/LLA windows",
+        "current status of the large innovation set-aside (page text dates from the 2021 round)"
+      ],
+      "verification_notes": "Loaded AF Apply for Funding, Project Funding, MIE and RIE pages on 2026-10-14 (implementing entities page: '14 MIEs' as of 5 October 2026)."
+    },
+    {
+      "title": "WFP Innovation Accelerator - rolling open applications (up to US$100,000 equity-free)",
+      "funder": "World Food Programme (WFP) Innovation Accelerator",
+      "funder_type": "multilateral",
+      "program": "WFP Innovation Challenge / rolling applications",
+      "opportunity_type": "accelerator",
+      "themes": [
+        "digital_agriculture",
+        "food_security",
+        "smallholders",
+        "climate_adaptation",
+        "ai_ml"
+      ],
+      "url": "https://innovation.wfp.org/wfp-innovation-challenge",
+      "source_urls": [
+        "https://innovation.wfp.org/apply"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "'we accept rolling applications for innovations that are working to end hunger, improve humanitarian response and build resilient food systems. We process and review applications periodically throughout the year.'",
+      "funding_amount_min": null,
+      "funding_amount_max": 100000,
+      "currency": "USD",
+      "funding_text": "'Access to up to US$100,000 equity-free funding to test the venture's scalability potential.'",
+      "duration": "Not specified",
+      "eligible_applicants": "'Your organization must be an established legal entity. It can be for profit or not-for-profit.' 'Your innovation must at least be at the Minimum Viable Product (MVP) stage. Proof-of-concept and initial traction is preferred.'",
+      "eligible_countries": "Not specified",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "The legal-entity, for-profit or not-for-profit wording does not exclude international research organizations, but the programme targets ventures; an Alliance digital tool at MVP stage (e.g., climate-informed agro-advisory or yield/drought forecasting for anticipatory action) could apply directly or via a national/startup partner. Confirm with WFP first.",
+      "lead_applicant_requirements": "Established legal entity; MVP-stage innovation.",
+      "geographic_restrictions": "Not specified",
+      "consortium_required": "optional",
+      "consortium_details": "Not specified",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Testing/scaling innovations for hunger, humanitarian response and resilient food systems (sprint programme).",
+      "required_documents": "Online application form (details not shown on page).",
+      "application_procedure": "Apply via the innovation.wfp.org Apply page; applications are also considered for future topic-specific cohorts.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Digital/AI advisory and forecasting tools fit, but the programme favours operational products over research.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "WFP is a key operational partner for scaling climate services and anticipatory action; small amount.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Requires an MVP with traction and a product/venture framing.",
+      "recommendation": "Apply only if the team has an MVP-stage digital tool and a WFP country-office champion; otherwise monitor topic-specific cohorts (e.g., next AFCIA cohort).",
+      "potential_partners": "WFP country offices (Colombia, Honduras, Guatemala), national startups.",
+      "next_action": "Email the WFP Innovation Accelerator to confirm whether international research organizations are eligible before applying.",
+      "evidence": {
+        "deadline_quote": "we accept rolling applications ... We process and review applications periodically throughout the year.",
+        "eligibility_quote": "Your organization must be an established legal entity. It can be for profit or not-for-profit.",
+        "status_quote": "You could either apply for topic-specific cohorts or submit your project to be reviewed on a rolling basis."
+      },
+      "unverified_fields": [
+        "eligibility of intergovernmental/international research organizations",
+        "geographic scope",
+        "required documents"
+      ],
+      "verification_notes": "Loaded innovation.wfp.org/apply and /wfp-innovation-challenge on 2026-10-14. The challenge page cites 2024 food-insecurity figures, so it may be older text; the rolling-application statement is current on /apply."
+    },
+    {
+      "title": "GEF-9 (2026-2030) projects and Integrated Programs via GEF Agencies (CGIAR as executing/knowledge partner)",
+      "funder": "Global Environment Facility (GEF)",
+      "funder_type": "multilateral",
+      "program": "GEF-9 Trust Fund programming (Food Systems, Forest Biomes and other Integrated Programs; focal area projects)",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "multifunctional_landscapes",
+        "biodiversity",
+        "climate_smart_ag",
+        "food_security",
+        "remote_sensing",
+        "climate_mitigation"
+      ],
+      "url": "https://www.thegef.org/partners/gef-agencies",
+      "source_urls": [
+        "https://www.thegef.org/sites/default/files/documents/2025-12/GEF_R.9.12_%20Programming%20Directions.pdf"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "No open call; projects are developed by GEF Agencies with countries during the cycle ('the Global Environment Facility's ninth replenishment cycle (2026-2030)').",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Not specified",
+      "duration": "GEF-9 cycle 2026-2030",
+      "eligible_applicants": "Only the 18 GEF Agencies (ADB, AfDB, EBRD, FAO, IDB, IFAD, UNDP, UNEP, UNIDO, World Bank Group, CI, CAF, DBSA, FECO, FUNBIO, IUCN, BOAD, WWF-US) submit projects, with country Operational Focal Point endorsement.",
+      "eligible_countries": "GEF-eligible recipient countries; Integrated Programs select countries by criteria.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "no",
+      "cgiar_eligibility_notes": "VERIFIED: no CGIAR center is a GEF Agency. The GEF-9 Programming Directions list 'Research Centers: Consultative Group on International Agricultural Research (CGIAR), Center for International Forestry Research and World Agroforestry (CIFOR-ICRAF)' among partners (Forest Biomes IP section). Route: executing partner or knowledge-platform/EO monitoring partner in an agency-led child project or IP global platform (FAO, IFAD, UNDP, CI, WWF, IUCN, CAF, IDB).",
+      "lead_applicant_requirements": "GEF Agency as lead; OFP endorsement.",
+      "geographic_restrictions": "Not specified",
+      "consortium_required": "yes",
+      "consortium_details": "Agency + government + executing partners.",
+      "cofunding_required": "yes",
+      "cofunding_details": "GEF projects require co-financing (GEF-9 ratio not verified).",
+      "eligible_activities": "Integrated Programs incl. Food Systems and Forest Biomes; the programming document cites monitoring systems ('digital platforms, remote sensing, blockchain traceability').",
+      "required_documents": "Not specified",
+      "application_procedure": "Engage GEF Agencies' regional teams during GEF-9 PIF development and IP child-project design.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Landscape/food-system monitoring with EO and geospatial analytics is a natural knowledge-platform role.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Multifunctional landscapes and food systems are core Alliance themes; GEF-9 is in its first programming year.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Depends on agency partnership; strong fit for MRV/EO components.",
+      "recommendation": "Position the Alliance early with FAO (Food Systems IP) and CI/WWF/IUCN for GEF-9 child projects in LAC, offering EO-based landscape monitoring and crop-climate analytics.",
+      "potential_partners": "FAO, IFAD, UNDP, CI, WWF-US, IUCN, CAF, IDB; CIFOR-ICRAF.",
+      "next_action": "Identify GEF-9 Food Systems/Forest Biomes IP lead agencies and LAC countries; request meetings with agency GEF coordinators.",
+      "evidence": {
+        "deadline_quote": "Global Environment Facility's ninth replenishment cycle (2026-2030) for the GEF Trust Fund",
+        "eligibility_quote": "Research Centers: Consultative Group on International Agricultural Research (CGIAR), Center for International Forestry Research and World Agroforestry (CIFOR-ICRAF).",
+        "status_quote": "GEF-9 PROGRAMMING DIRECTIONS (GEF/R.9/12, December 5, 2025)"
+      },
+      "unverified_fields": [
+        "final Council-endorsed GEF-9 programming (June 2026; seen only in secondary sources)",
+        "co-financing ratio",
+        "GEF-9 IP lead agencies"
+      ],
+      "verification_notes": "Loaded the GEF Agencies page and the official GEF/R.9/12 Programming Directions PDF (Dec 2025 replenishment document) on 2026-10-14. Endorsement of the US$3.9bn GEF-9 package at the 71st Council (Samarkand, June 2026) seen only in secondary sources."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "Green Climate Fund",
+      "name": "CGIAR System Organization accredited entity page (projects, re-accreditation)",
+      "url": "https://www.greenclimate.fund/partners/accredited-entities/cgiar",
+      "type": "html",
+      "why": "Only CGIAR access route to GCF; re-accreditation submission due 29 Mar 2027."
+    },
+    {
+      "funder": "Green Climate Fund",
+      "name": "Readiness and Preparatory Support",
+      "url": "https://www.greenclimate.fund/access-funding/readiness-preparatory-support",
+      "type": "html",
+      "why": "Readiness requests recommended by 31 Mar 2027; new Readiness Strategy after 2027."
+    },
+    {
+      "funder": "Adaptation Fund",
+      "name": "Apply for Funding / Innovation / LLA windows",
+      "url": "https://www.adaptation-fund.org/apply-funding/",
+      "type": "html",
+      "why": "Rolling submissions via IEs; watch innovation and LLA set-asides."
+    },
+    {
+      "funder": "WFP Innovation Accelerator / Adaptation Fund",
+      "name": "Adaptation Fund Climate Innovation Accelerator (AFCIA) cohorts",
+      "url": "https://innovation.wfp.org/adaptation-fund-innovation-accelerator",
+      "type": "html",
+      "why": "Cohort 3 (LAC: Dominican Republic, El Salvador, Peru) closed 13 Sep 2026; four cohorts run 2024-2029, so watch for the next call."
+    },
+    {
+      "funder": "UN CTCN (UNEP) / Adaptation Fund",
+      "name": "AFCIA technical assistance calls (CTCN)",
+      "url": "https://www.ctc-n.org/whats-happening/events/climate-adaptation-innovation-latin-america-and-caribbean",
+      "type": "html",
+      "why": "Up to USD 150,000 TA per innovation; 2026 LAC and Asia-Pacific windows closed; watch the next round."
+    },
+    {
+      "funder": "WFP",
+      "name": "WFP Innovation - Apply",
+      "url": "https://innovation.wfp.org/apply",
+      "type": "html",
+      "why": "Programme-based calls (e.g., HIPER) are announced through the year."
+    },
+    {
+      "funder": "GEF",
+      "name": "GEF Council meetings / work programs",
+      "url": "https://www.thegef.org/council-meetings",
+      "type": "html",
+      "why": "GEF-9 work programs and Integrated Program launches."
+    },
+    {
+      "funder": "IFAD",
+      "name": "IFAD calls for proposals",
+      "url": "https://www.ifad.org/en/calls-for-proposals",
+      "type": "html",
+      "why": "Periodic competitive grant calls (2026 RSPA call closed 4 Sep 2026); page blocks automated access (403), so check manually."
+    },
+    {
+      "funder": "Inter-American Development Bank / IDB Lab",
+      "name": "IDB Calls for Proposals",
+      "url": "https://www.iadb.org/en/how-we-can-work-together/calls-proposals",
+      "type": "html",
+      "why": "As of 2026-10-14: 'There are no open calls for proposals at this time.'"
+    },
+    {
+      "funder": "FONTAGRO (IDB/IICA)",
+      "name": "FONTAGRO annual call",
+      "url": "https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2026",
+      "type": "html",
+      "why": "Annual LAC agri-innovation consortium call (2026 call closed 30 Mar 2026); no 2027 call announced yet."
+    },
+    {
+      "funder": "ITU AI for Good",
+      "name": "GeoAI Challenge / AI for Climate Innovation Factory",
+      "url": "https://aiforgood.itu.int/about-us/geoai-challenge/",
+      "type": "html",
+      "why": "2026 editions closed/completed; watch the 2027 GeoAI edition (strong RS/AI fit; recognition rather than grant funding)."
+    },
+    {
+      "funder": "World Bank / GFDRR",
+      "name": "GFDRR news and calls",
+      "url": "https://www.gfdrr.org/en",
+      "type": "html",
+      "why": "No current Challenge Fund call found; the GFDRR 2026-2030 strategy may open new windows."
+    },
+    {
+      "funder": "World Bank",
+      "name": "Global Data Facility",
+      "url": "https://www.worldbank.org/en/programs/global-data-facility/about",
+      "type": "html",
+      "why": "Funding instrument for data systems; no open call found (allocated through World Bank/country engagements)."
+    },
+    {
+      "funder": "AfDB",
+      "name": "Africa Climate Change Fund",
+      "url": "https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships/africa-climate-change-fund",
+      "type": "html",
+      "why": "Periodic calls and a demand-driven window; no 2026 call found."
+    },
+    {
+      "funder": "Climate Investment Funds",
+      "name": "CIF news / calls for expressions of interest",
+      "url": "https://www.cif.org/news",
+      "type": "html",
+      "why": "Country-level EoIs via MDBs; research institutes only as partners."
+    },
+    {
+      "funder": "SOFF (WMO/UNDP/UNEP)",
+      "name": "SOFF access",
+      "url": "https://www.un-soff.org/",
+      "type": "html",
+      "why": "Country observation financing; relevant only through partnerships with NMHSs."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "AFCIA - WFP Innovation Accelerator challenge, LAC cohort 3 (Dominican Republic, El Salvador, Peru)",
+      "url": "https://innovation.wfp.org/adaptation-fund-innovation-accelerator",
+      "reason": "Closed: 'by 13 September 2026, 11:59 pm (UTC)'; page says 'This year's call for applications is now closed.'"
+    },
+    {
+      "title": "AFCIA - CTCN Climate Adaptation Innovation in Latin America and the Caribbean",
+      "url": "https://www.ctc-n.org/sites/default/files/2026-05/Instructions_LAC%20Call%20for%20Proposals_1.pdf",
+      "reason": "Closed (window 18 May-18 Aug 2026); requires NDE/AF DA endorsement and prioritises LDCs/SIDS."
+    },
+    {
+      "title": "AFCIA - CTCN Climate Adaptation Innovation in Asia Pacific",
+      "url": "https://www.ctc-n.org/whats-happening/events/climate-adaptation-innovation-asia-pacific",
+      "reason": "Closed (window 7 Jul-7 Oct 2026 per CTCN instructions found in search; not fully verified)."
+    },
+    {
+      "title": "IFAD - Leveraging IFAD's Rural Sector Performance Assessment for Policy and Investment (US$1.2m)",
+      "url": "https://www.ifad.org/en/calls-for-proposals",
+      "reason": "Closed (deadline 4 Sep 2026 per secondary sources; IFAD page returned 403, so not verified officially)."
+    },
+    {
+      "title": "ITU AI for Climate Innovation Factory 2026",
+      "url": "https://aiforgood.itu.int/about-us/ai-for-climate-action-innovation-factory/",
+      "reason": "Closed (applications until 14 Aug 2026 per search results); startup-focused, non-cash prizes."
+    },
+    {
+      "title": "ITU GeoAI Challenge 2026 (GeoFM surface heights, with ESA Phi-lab)",
+      "url": "https://aiforgood.itu.int/about-us/geoai-challenge/",
+      "reason": "Completed (closed Aug 2026); monitor the next edition."
+    },
+    {
+      "title": "FONTAGRO Convocatoria 2026",
+      "url": "https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2026",
+      "reason": "Closed 30 Mar 2026."
+    },
+    {
+      "title": "IDB / IDB Lab calls for proposals",
+      "url": "https://www.iadb.org/en/how-we-can-work-together/calls-proposals",
+      "reason": "Official page: 'There are no open calls for proposals at this time.'"
+    },
+    {
+      "title": "UNDP/GEF Rio Convention synergies through food systems - country expressions of interest",
+      "url": "https://www.undp.org/foodsystems/news/strengthening-rio-convention-synergies-aligning-climate-biodiversity-and-land-policy-finance-through-food-systems",
+      "reason": "Governments only; September 2026 deadline has passed."
+    },
+    {
+      "title": "GEF Small Grants Programme",
+      "url": "https://sgp.undp.org/",
+      "reason": "Ineligible: grants go only to local CSOs/CBOs in participating countries."
+    },
+    {
+      "title": "World Bank Development Marketplace",
+      "url": "https://www.worldbank.org/",
+      "reason": "No current call found; could not verify on an official page."
+    },
+    {
+      "title": "GFDRR Challenge Fund",
+      "url": "https://www.gfdrr.org/en",
+      "reason": "No current call found; last rounds date from the 2015 era."
+    },
+    {
+      "title": "World Bank PROGREEN / Food Systems 2030 trust funds",
+      "url": "https://www.worldbank.org/",
+      "reason": "Bank-executed or country-allocated trust funds with no open calls; no official current application process found (not verified)."
+    },
+    {
+      "title": "World Bank Development Data Partnership",
+      "url": "https://datapartnership.org/",
+      "reason": "Data-access partnership, not a funding opportunity (not verified in this run)."
+    },
+    {
+      "title": "IFAD ASAP+ / Enhancing Smallholder Resilience",
+      "url": "https://www.ifad.org/",
+      "reason": "Channelled through IFAD country investments; no open call found (IFAD site blocked automated access)."
+    },
+    {
+      "title": "FAO Hand-in-Hand / International Platform for Digital Food and Agriculture / Digital FAO",
+      "url": "https://www.fao.org/e-agriculture/",
+      "reason": "No funding call found; the latest e-Agriculture call (2019-2020) is closed."
+    },
+    {
+      "title": "UNDP Accelerator Labs / UN Food Systems Coordination Hub",
+      "url": "https://www.undp.org/acceleratorlabs",
+      "reason": "No funding call for external research organizations found (not verified)."
+    },
+    {
+      "title": "Systematic Observations Financing Facility (SOFF)",
+      "url": "https://www.un-soff.org/",
+      "reason": "Beneficiaries are countries (LDC/SIDS priority) with MDB/UN implementing entities and NMHS peer advisors; no open call for organizations."
+    },
+    {
+      "title": "CREWS Initiative",
+      "url": "https://www.crews-initiative.org/en",
+      "reason": "Projects led by national NMHSs/NDMOs with WMO/UNDRR/World Bank; no open call."
+    },
+    {
+      "title": "AfDB Africa Climate Change Fund / Feed Africa",
+      "url": "https://www.afdb.org/",
+      "reason": "No current call found (ACCF calls were periodic; demand-driven window unverified)."
+    },
+    {
+      "title": "Climate Investment Funds",
+      "url": "https://www.cif.org/",
+      "reason": "Country EoIs via MDBs; no open call for research institutions found."
+    },
+    {
+      "title": "CAF research/climate calls",
+      "url": "https://www.caf.com/",
+      "reason": "No current call found; CAF remains relevant as AF RIE and GEF Agency (see AF/GEF records)."
+    },
+    {
+      "title": "Asian Development Bank / IICA calls",
+      "url": "https://www.adb.org/",
+      "reason": "No current open grant call relevant to the Alliance found."
+    }
+  ]
+}

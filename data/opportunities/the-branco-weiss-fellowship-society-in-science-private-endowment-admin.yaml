@@ -1,0 +1,103 @@
+id: the-branco-weiss-fellowship-society-in-science-private-endowment-admin
+title: Branco Weiss Fellowship - Society in Science 2027 (5-year postdoctoral fellowship, up to CHF 600,000)
+funder: The Branco Weiss Fellowship - Society in Science (private endowment, administered by ETH Zurich)
+funder_type: foundation
+program: Branco Weiss Fellowship 2027 intake
+opportunity_type: fellowship
+themes:
+- remote_sensing
+- ai_ml
+- climate_adaptation
+- food_security
+- crop_modeling
+url: https://brancoweissfellowship.org/application
+source_urls:
+- https://brancoweissfellowship.org/who-should-apply/eligibility-duration-and-funding/
+- https://brancoweissfellowship.org/who-should-apply/timelines/
+- https://brancoweissfellowship.org/wp-content/uploads/2026/07/Guidelines_BWF_260717.pdf
+status: open
+status_basis: official
+published_date: Not specified
+deadline: 2027-01-15T17:00
+deadline_timezone: CET
+deadline_text: 'January 15, 2027, 5 p.m. CET: final deadline for applications via the online form.'
+funding_amount_min: null
+funding_amount_max: 600000
+currency: CHF
+funding_text: Fellows are awarded a fellowship amounting to a maximum of CHF 600,000 for a maximum of
+  five years to carry out their research project. ... The host institution is allowed to retain a management
+  fee not exceeding 10% of the fellowship.
+duration: Up to 5 years (2.5-year pioneer phase + 2.5-year exploitation phase after review/site visit);
+  start between 1 Oct and 1 Jan following selection (Oct-Dec 2027).
+duration_months_max: 60
+covers_staff_costs: 'yes'
+support_type: fellowship_salary
+eligible_applicants: Individual postdocs of any nationality and discipline who obtained their PhD a maximum
+  of five years before the submission deadline (i.e., on/after ~15 Jan 2022); professors/lecturers (incl.
+  tenure-track) and scientists with permanent employment are not eligible. Requires invitation letter
+  from a mentor at the host institution.
+eligible_countries: Any nationality; any academic host institution worldwide.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'Applicant is an individual; the Alliance would act as host institution. Guidelines
+  say ''any academic host institution worldwide'' - whether a CGIAR center counts as ''academic'' is not
+  stated (to confirm with brancoweissfellowship@ethz.ch). Two personal blockers to check: PhD date must
+  be within 5 years of 15 Jan 2027, and ''Scientists with a permanent employment are not eligible''. Alternative:
+  a university host with Alliance as field partner.'
+lead_applicant_requirements: PhD within 5 years before deadline; not a professor/lecturer; no permanent
+  employment; mentor invitation letter guaranteeing independence and infrastructure; project must depart
+  from mainstream research and engage with societal issues.
+geographic_restrictions: None ('in the best possible locations, anywhere in the world'); annual symposium
+  in Zurich mandatory.
+consortium_required: 'no'
+consortium_details: Individual fellowship; one or more host institutions possible (one main host).
+cofunding_required: 'no'
+cofunding_details: Host may partially fund the fellow's employment; not required.
+eligible_activities: Any scientific field; unconventional, beyond-mainstream research with a society dimension.
+  Funds may cover fellow's salary, doctoral students' salaries, equipment, consumables, travel, technical
+  services.
+required_documents: Project description (max 5 pages), lay abstract, CV with publications (max 4 pages),
+  motivation letter on why the research differs from the mainstream (1 page), three publications, 5 reviewer
+  suggestions, PhD certificate, invitation letter from mentor.
+application_procedure: Online form at brancoweissfellowship.org by 15 Jan 2027 17:00 CET; shortlisting
+  and external peer review (May 2027 notifications); video interviews June 2027; start Oct-Dec 2027.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Open to all fields, so RS/AI/crop-modelling projects qualify, but the
+  scheme explicitly rewards research 'beyond the mainstream' - a standard digital-agriculture project
+  would be screened out.
+strategic_relevance: 4
+strategic_relevance_rationale: Rare 5-year, salary-covering, globally portable fellowship (CHF 600k) -
+  excellent for building an independent research line hosted at/with the Alliance.
+technical_feasibility: 3
+technical_feasibility_rationale: Requires an unusual, high-risk idea and strong individual track record;
+  personal eligibility (PhD date, permanent contract) unknown.
+recommendation: Strongly consider if the researcher's PhD was awarded on/after ~15 Jan 2022 and their
+  CIAT contract is not permanent; frame a non-mainstream idea (e.g., foundation models + process-based
+  crop models for climate-intervention scenarios). Confirm host eligibility of the Alliance.
+potential_partners: University of Tokyo or ETH Zurich groups as co-host/mentor; Alliance as main or field
+  host.
+next_action: Check PhD date and contract type; email brancoweissfellowship@ethz.ch whether a CGIAR center
+  is an acceptable 'academic host institution'; secure a mentor invitation letter by December 2026.
+evidence:
+  deadline_quote: 'January 15, 2027, 5 p.m. CET: final deadline for applications via the online form.'
+  eligibility_quote: The Fellowship is open to researchers from all disciplines and to citizens of all
+    nationalities. ... Applicants must have obtained their doctorate (PhD) a maximum of five years before
+    the submission deadline. ... Scientists with a permanent employment are not eligible to apply for
+    a fellowship. ... The Fellowship project can be carried out at any academic host institution worldwide.
+  status_quote: Applications for the 2027 fellowship are now open.
+  staff_costs_quote: It is permitted to partially (in case that employment is funded through the host
+    institution) or fully cover the Fellow's salary by the fellowship ... The fellowship may also be used
+    to cover the salaries of doctoral students, as well as all other justified expenses such as equipment,
+    consumables, travel, technical or secretarial services within the scope of the research project.
+unverified_fields:
+- Whether a CGIAR center qualifies as an 'academic host institution'
+verification_notes: 'Loaded 2026-10-22: application page (status), timelines page (deadline), eligibility/duration/funding
+  page, and full Guidelines PDF dated 15 July 2026 (Articles 2, 5, 6 quoted).'
+last_verified: '2026-10-22'
+verification_source: import:philanthropy_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:55
+  event: added
+  detail: import:philanthropy_staff_2026-10-22.json

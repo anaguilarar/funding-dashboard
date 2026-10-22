@@ -1,0 +1,84 @@
+id: chinese-academy-of-sciences-cas-cas-president-s-international-fellowsh
+title: CAS President's International Fellowship Initiative (PIFI) - Visiting Scientists
+funder: Chinese Academy of Sciences (CAS)
+funder_type: national_agency
+program: PIFI
+opportunity_type: fellowship
+themes:
+- remote_sensing
+- ai_ml
+- capacity_building
+url: https://pifi.cas.cn/front/mobi/PIFI.html
+source_urls:
+- https://pifi.cas.cn/front/mobi/PIFIInfo.html?index=0
+status: monitoring
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: '"PIFI is open to applications all year round" but currently: "PIFI is currently undergoing
+  optimization work, and applications for related projects are temporarily suspended. Please stay tuned
+  for the new version of PIFI."'
+funding_amount_min: null
+funding_amount_max: null
+currency: CNY
+funding_text: Not specified (stipend levels not stated on current official page)
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: fellowship_salary
+eligible_applicants: Foreign researchers of seven types incl. Distinguished Scientists, Visiting Scientists,
+  Postdoctoral Researchers; must be recommended by a CAS host.
+eligible_countries: Global
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Individual fellowship for an Alliance researcher to visit a CAS institute (e.g.,
+  AIRCAS); host researcher must nominate.
+lead_applicant_requirements: '"PIFI does not accept direct applications from foreign scientific research
+  staff. Foreign applicants must find a CAS scientist as his or her host researcher, who would recommend
+  him or her for PIFI application."'
+geographic_restrictions: Stay at a CAS institute in China.
+consortium_required: 'no'
+consortium_details: CAS host required.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Scientific exchange and research cooperation at CAS.
+required_documents: PIFI application form (Categories A-C) via international-talent.cas.cn
+application_procedure: CAS host nominates; online application; results released in June, September and
+  December (when active).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Topic-open; good fit with AIRCAS/IGSNRR remote sensing groups.
+strategic_relevance: 3
+strategic_relevance_rationale: Builds CAS partnerships for NSFC/ANSO proposals.
+technical_feasibility: 4
+technical_feasibility_rationale: Requires time away (visit to China) and a host.
+recommendation: Monitor until PIFI reopens; meanwhile line up a CAS host.
+potential_partners: AIRCAS, Institute of Geographic Sciences and Natural Resources Research (IGSNRR),
+  CBAS.
+next_action: Check pifi.cas.cn monthly for the relaunch.
+evidence:
+  deadline_quote: PIFI is open to applications all year round.
+  eligibility_quote: Foreign applicants must find a CAS scientist as his or her host researcher, who would
+    recommend him or her for PIFI application.
+  status_quote: PIFI is currently undergoing optimization work, and applications for related projects
+    are temporarily suspended. Please stay tuned for the new version of PIFI.
+unverified_fields:
+- stipend amounts
+- visit duration
+- relaunch date
+verification_notes: 'Loaded official pifi.cas.cn page via HTTP on 2026-10-14; suspension notice is in
+  the page''s info dialog. | 2026-10-22 staff-cost/duration check: https://pifi.cas.cn/front/mobi/PIFIInfo.html?index=0
+  (Official PIFI page gives no duration or stipend details; refers to international-talent.cas.cn (did
+  not resolve on 2026-10-22). Programme currently suspended.)'
+last_verified: '2026-10-14'
+verification_source: import:china.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 12:21
+  event: added
+  detail: import:china.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

@@ -1,0 +1,118 @@
+id: u-s-department-of-commerce-national-oceanic-and-atmospheric-a-c233d1d7
+title: NOAA Oceanic and Atmospheric Research (OAR) Broad Agency Announcement FY2027-2029 (rolling; foreign/international
+  organizations eligible)
+funder: U.S. Department of Commerce - National Oceanic and Atmospheric Administration (NOAA), Office of
+  Oceanic and Atmospheric Research (OAR)
+funder_type: national_agency
+program: NOAA-OAR-BAA-2027-33939 (Assistance Listing 11.015)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- climate_data_infrastructure
+- crop_modeling
+- climate_smart_ag
+- remote_sensing
+url: https://www.grants.gov/search-results-detail/364130
+source_urls:
+- https://apply07.grants.gov/grantsws/rest/opportunity/att/download/355324
+- https://api.grants.gov/v1/api/fetchOpportunity (opportunityId 364130)
+status: rolling
+status_basis: official
+published_date: '2026-10-20'
+deadline: 2028-09-30T23:59
+deadline_timezone: ET
+deadline_text: Applications must be submitted to Grants.gov up to 11:59:59 p.m. Eastern Daylight Time
+  September 30, 2028. Applications received after this time will not be reviewed or considered for funding.
+  Applications will be considered on a continuing/rolling basis as they are received.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: '"There are no funds specifically appropriated by Congress for this BAA. Funding for potential
+  projects in this notice is contingent upon the availability of appropriations in the fiscal years applicable
+  to the application." No award floor/ceiling stated (Grants.gov lists ceiling/floor 0).'
+duration: '"Applications should generally be submitted for a one-year award period, but this may be negotiated
+  if the application is recommended for funding." Anticipated start generally six months after receipt.'
+duration_months_max: 12
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Eligible applicants may be institutions of higher education, nonprofits, commercial
+  organizations, international or foreign organizations or governments, state, local, and Indian Tribal
+  governments. Eligibility also depends on the statutory authority that permits NOAA to fund the proposed
+  activity. CESU projects restricted to non-federal CESU partner institutions.
+eligible_countries: Not specified (no country restriction stated; foreign organizations explicitly eligible).
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'LEAD: yes - ''international or foreign organizations or governments'' are eligible
+  applicants, so CIAT/Bioversity can be the funded lead (salaries allowable), subject to NOAA statutory
+  authority for the activity and SAM.gov/Grants.gov/eRA Commons registration. SUBAWARDEE under a U.S.
+  university lead also possible. Caveats: no dedicated appropriation; generally 1-year awards (negotiable);
+  OAR mission is oceanic/atmospheric/climate research, so agriculture must be framed as climate/weather
+  impacts and services.'
+lead_applicant_requirements: Single organization applicant with SAM.gov UEI, Grants.gov and eRA Commons
+  registration.
+geographic_restrictions: None stated; project must address NOAA mission areas.
+consortium_required: 'no'
+consortium_details: Not required.
+cofunding_required: 'no'
+cofunding_details: '"Cost sharing is not required unless it is determined that a project can only be funded
+  under an authority that requires matching/cost sharing funds."'
+eligible_activities: '"NOAA issues this BAA for extramural research, innovative projects, and sponsorship
+  (e.g., conferences, newsletters, etc.) that address one or more of NOAA''s mission areas." For work
+  "not addressed through NOAA''s competitive discretionary programs".'
+required_documents: SF-424 (with eRA Commons PI ID), SF-424A, SF-424B, CD-511, SF-LLL if applicable; 1-page
+  title page; 1-page project synopsis tied to NOAA mission; project description max 15 pages addressing
+  evaluation criteria; literature cited; CVs of key personnel; NOAA NEPA questionnaire (Q1-19 and 51-57);
+  Data Management Plan (up to 2 pages); budget + detailed budget justification; indirect cost rate agreement
+  if charging above de minimis.
+application_procedure: 'Submit via Grants.gov (validated through eRA Commons); rolling review as received.
+  Requires SAM.gov UEI, Grants.gov and eRA Commons (organization profile + Signing Official + PD/PI accounts);
+  registration can take 6+ weeks. Title page must name the NOAA Line Office and target program. Contact
+  the Line Office before submitting. OAR contact: Elizabeth Whittington, oar.hq.grants@noaa.gov, 301-541-3426.'
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: OAR covers climate/atmospheric research (incl. the Climate Program Office).
+  Crop-climate impact modelling, sub-seasonal forecasts for agriculture and climate-intervention (e.g.,
+  stratospheric aerosol) impact assessment are thematically relevant, but OAR does not prioritise agriculture
+  per se.
+strategic_relevance: 3
+strategic_relevance_rationale: Rare U.S. federal vehicle open to foreign leads with salaries allowable;
+  could complement the Degrees Initiative SAI-impacts work or LAC climate services, but funding is discretionary
+  and unpredictable.
+technical_feasibility: 4
+technical_feasibility_rationale: Crop modelling + climate data + EO skills available in team; administrative
+  registration is the main hurdle.
+recommendation: Pursue only after informal agreement from an OAR program manager (e.g., CPO). A plausible
+  angle is quantifying crop impacts of climate scenarios/climate intervention in South America using process-based
+  crop models (link to the 2027-2028 Degrees Initiative grant), but confirm programme interest first -
+  this angle is our suggestion, not a stated OAR priority.
+potential_partners: NOAA CPO / Chemical Sciences Laboratory scientists; U.S. universities in NOAA cooperative
+  institutes; IRI (Columbia) for LAC climate services.
+next_action: Email oar.hq.grants@noaa.gov to be routed to a relevant OAR program manager with a 1-page
+  concept; check CIAT SAM.gov UEI and eRA Commons status.
+evidence:
+  deadline_quote: Applications must be submitted to Grants.gov up to 11:59:59 p.m. Eastern Daylight Time
+    September 30, 2028. ... Applications will be considered on a continuing/rolling basis as they are
+    received.
+  eligibility_quote: Eligible applicants may be institutions of higher education, nonprofits, commercial
+    organizations, international or foreign organizations or governments, state, local, and Indian Tribal
+    governments. Eligibility also depends on the statutory authority that permits NOAA to fund the proposed
+    activity.
+  status_quote: 'Grants.gov status: posted (posting date Oct 20, 2026; Grants.gov close date listed as
+    Sep 30, 2029).'
+  staff_costs_quote: Generally, costs that are allowable include salaries, equipment and supplies, as
+    long as these are "necessary and reasonable" specifically for the purpose of the award.
+unverified_fields:
+- deadline (NOFO PDF says September 30, 2028, while the Grants.gov record lists a close date of 09/30/2029
+  - the earlier date is used here)
+- funding_amount_min
+- funding_amount_max
+verification_notes: Loaded Grants.gov record via official API (fetchOpportunity id 364130) and the NOFO
+  PDF (attachment 355324) on 2026-10-22. Deadline discrepancy between NOFO (2028-09-30) and Grants.gov
+  listing (2029-09-30) noted.
+last_verified: '2026-10-22'
+verification_source: import:usa_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:55
+  event: added
+  detail: import:usa_staff_2026-10-22.json

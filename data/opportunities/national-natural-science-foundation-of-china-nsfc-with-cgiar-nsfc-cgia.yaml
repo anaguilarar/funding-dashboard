@@ -1,0 +1,123 @@
+id: national-natural-science-foundation-of-china-nsfc-with-cgiar-nsfc-cgia
+title: NSFC-CGIAR Cooperation Program (within NSFC Sustainable Development International Cooperation Science
+  Program, SDIC)
+funder: National Natural Science Foundation of China (NSFC), with CGIAR
+funder_type: national_agency
+program: 'SDIC 2026 Calls for Proposals: Guideline One - vi) NSFC-CGIAR Cooperation Program'
+opportunity_type: consortium_call
+themes:
+- climate_smart_ag
+- climate_adaptation
+- digital_agriculture
+- biodiversity
+- multifunctional_landscapes
+- food_security
+- crop_modeling
+url: https://www.nsfc.gov.cn/u/cms/www/202604/01164828l4ao.pdf
+source_urls:
+- https://www.nsfc.gov.cn/p1/2931/3971/3972/qy2026.html
+- https://www.nsfc.gov.cn
+- https://research.ustb.edu.cn/docs/2025-08/8562eb011bdb4daa97713dd9f66aae32.pdf
+status: monitoring
+status_basis: speculative
+published_date: '2026-03-31'
+deadline: null
+deadline_timezone: Beijing time (UTC+8)
+deadline_text: '2026 round (closed): "The online application submission period is from March 31, 2026,
+  to May 15, 2026, at 16:00 Beijing time." No 2027 round announced yet.'
+funding_amount_min: null
+funding_amount_max: 1800000
+currency: CNY
+funding_text: Up to 11 Key Projects and up to 10 Cooperative Exchange Projects ... For Key Projects, NSFC
+  budget is up to 1.8 million RMB per project (direct costs) ... For Cooperative Exchange Projects, NSFC
+  budget is up to 150,000 RMB per project. (NSFC funds the Chinese side.)
+duration: Key Projects 3 years (2027-2029); Cooperative Exchange Projects 2 years (2027-2028)
+duration_months_max: 36
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Chinese PI at an NSFC-registered host institution (senior title; current/previous
+  PI of an NSFC project of 3+ years). Overseas PI must be a researcher from a CGIAR center.
+eligible_countries: Chinese applicant in mainland China; overseas partner from any of the CGIAR research
+  centers.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'CIAT/Bioversity researcher can be the ''Oversea PI'' (the 2026 text: ''The oversea
+  principal investigator should be a researcher from one of the 13 CGIAR research centers''). The Chinese
+  partner submits; NSFC funds only the Chinese side, CGIAR side contribution Not specified.'
+lead_applicant_requirements: '"The Chinese applicants should hold a senior professional technical position
+  (or equivalent title) and, as principal investigator, be currently undertaking or have previously undertaken
+  a NSFC research project with a duration of three years or longer." Max 2 Chinese cooperating institutions;
+  one international cooperative research project per applicant per year.'
+geographic_restrictions: Chinese lead in mainland China; research of relevance to China and other developing
+  countries.
+consortium_required: 'yes'
+consortium_details: Chinese PI + CGIAR overseas PI; joint English application signed by the overseas PI;
+  collaborative agreement after approval; title format 'CGIAR+specific project title'; Bilateral Strategic
+  Alignment Statement (Appendix 5).
+cofunding_required: Not specified
+cofunding_details: NSFC budget covers the Chinese side only; CGIAR-side funding not described.
+eligible_activities: 2026 directions included (B) Biodiversity and Climate Change (climate-resilient cropping
+  systems; monitoring and decision assessment of agricultural biodiversity and resilience; restoration
+  and carbon sequestration) and (C) Digital Agriculture and Precision Management (decision support systems
+  for agrifood systems and dryland agriculture), plus germplasm, water/drylands, AI nutrition, livestock,
+  fisheries.
+required_documents: Chinese application in NSFC system; joint English application (Appendix 1) signed
+  by overseas PI; Bilateral Strategic Alignment Statement (Appendix 5); collaborative agreement (Appendix
+  2) after approval.
+application_procedure: Chinese PI applies via https://grants.nsfc.gov.cn (Joint Research under Organizational
+  Agreements > SDIC - Key Project). Application code 1 must be under C or G.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: 2026 directions explicitly cover climate-resilient cropping, agrobiodiversity
+  monitoring/assessment and digital decision support systems; direct fit for RS/AI/crop modelling.
+strategic_relevance: 5
+strategic_relevance_rationale: Dedicated CGIAR channel with China; Alliance named in earlier rounds; builds
+  China-CGIAR partnerships.
+technical_feasibility: 4
+technical_feasibility_rationale: Feasible if a Chinese PI with an NSFC 3-year grant is identified early;
+  proposal mostly written in English by both teams.
+recommendation: Top-priority China channel but currently closed. The round timing moved from Aug-Sep (2025)
+  to Mar-May (2026), so identify a Chinese co-PI (e.g., CAAS, China Agricultural University, AIRCAS) now
+  and draft a concept to be ready for a likely early-2027 call.
+potential_partners: CAAS Institute of Agricultural Resources and Regional Planning; Aerospace Information
+  Research Institute (AIRCAS); China Agricultural University; Nanjing Agricultural University; CGIAR China
+  Office.
+next_action: Contact CGIAR China Office (ZHANG Xinxuan) and NSFC contact (WANG Lei, wanglei1@nsfc.gov.cn)
+  to ask about the 2027 timeline; line up a Chinese PI by Jan 2027.
+evidence:
+  deadline_quote: The online application submission period is from March 31, 2026, to May 15, 2026, at
+    16:00 Beijing time.
+  eligibility_quote: The oversea principal investigator should be a researcher from one of the 13 CGIAR
+    research centers.
+  status_quote: 'In 2026, SDIC will release two batches of calls for proposals ... The first call involves
+    the following international funding partners: ... the Consultative Group on International Agricultural
+    Research (CGIAR)'
+unverified_fields:
+- 2027 call timing
+- CGIAR-side funding
+- whether CIAT/Bioversity are named in the 2026 text (only '13 CGIAR research centers' stated)
+verification_notes: 'Downloaded the official NSFC English guideline PDF (nsfc.gov.cn, created 2026-04-01)
+  and extracted text on 2026-10-14. The 2026 window closed on 15 May 2026. The second 2026 SDIC batch
+  (June 2026) did not include CGIAR. Status is monitoring because NSFC has not announced a 2027 round.
+  | Merged 2026-10-14 with earlier record (2025 cycle: online submission 28 Aug-28 Sep 2025). | 2026-10-22
+  staff-cost/duration check: https://www.nsfc.gov.cn/u/cms/www/202604/01164828l4ao.pdf (''For Capacity-building
+  Projects and Key Projects, the project duration is 3 years''; Cooperative Exchange 2 years, budget ''limited
+  to International Cooperation and Exchange Expenses''. NSFC funds the Chinese side; the CGIAR PI is not
+  funded by NSFC.)'
+last_verified: '2026-10-14'
+verification_source: import:china.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:49
+  event: added
+  detail: import:national_agencies.json
+- date: 2026-10-14 12:21
+  event: added
+  detail: import:china.json
+- date: 2026-10-14 12:21
+  event: merged
+  detail: duplicate record from national-agencies batch merged (2025 cycle info)
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

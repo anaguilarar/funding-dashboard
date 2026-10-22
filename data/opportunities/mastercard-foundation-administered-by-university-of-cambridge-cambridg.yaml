@@ -1,0 +1,118 @@
+id: mastercard-foundation-administered-by-university-of-cambridge-cambridg
+title: Cambridge Africa Climate Collaborative Research Fund 2026/27 (Mastercard Foundation - University
+  of Cambridge Climate Resilience and Sustainability Research Fund, round 3)
+funder: Mastercard Foundation (administered by University of Cambridge / Cambridge-Africa)
+funder_type: foundation
+program: Africa Climate Collaborative - Cambridge Africa Climate Collaborative Research Fund
+opportunity_type: grant
+themes:
+- climate_adaptation
+- climate_smart_ag
+- remote_sensing
+- ai_ml
+- food_security
+- capacity_building
+url: https://www.cambridge-africa.cam.ac.uk/initiatives/mastercard-foundation-and-university-of-cambridge-climate-resilience-and-sustainability-research-fund/
+source_urls:
+- https://www.cambridge-africa.cam.ac.uk/assets/MCF-Call/MCF-2026/Cambridge-Africa-Climate-Collaborative-Research-Fund-Guidance-for-Applicants-2026-27.pdf
+status: open
+status_basis: official
+published_date: Not specified
+deadline: 2027-01-15T23:59
+deadline_timezone: Not specified
+deadline_text: 'The deadline for submission is 15th January 2027 and applications can be submitted at
+  any time before this. Timeline: 15th October 2026 Applications open; 15th January 2027 Applications
+  close.'
+funding_amount_min: null
+funding_amount_max: 80000
+currency: GBP
+funding_text: Research Catalyst Grant for up to GBP 25,000, a Research Project Grant for up to GBP 80,000
+  or a Workshop Grant for up to GBP 50,000. We do not cover salaries of either investigator, institutional
+  overheads, indirect costs or grant administration costs.
+duration: Approx. 12 months (Catalyst and Workshop grants) or up to 18 months (Research Project Grant);
+  recommended start not earlier than 1 June 2027
+duration_months_max: 18
+covers_staff_costs: 'no'
+support_type: project_funding
+eligible_applicants: 'Pairs of researchers (post-doctoral level or above): one from the University of
+  Cambridge (lead applicant, administers the award) and one from a university or research institution
+  of comparable standing on the African continent. Both must be formally employed at their institutions.'
+eligible_countries: 'African partner: any country on the African continent; lead must be University of
+  Cambridge'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Cannot lead (Cambridge applicant is always lead). The Alliance could act as the
+  Africa-based partner only through an Alliance researcher formally employed and based at an Alliance
+  office in Africa (e.g., Nairobi), and only if the panel accepts the Alliance as a 'research institution
+  of comparable standing to a university' on the African continent - not stated explicitly; confirm with
+  africaclimatecollaborative@cambridge-africa.cam.ac.uk. A Cali-based researcher cannot be the African
+  applicant but could contribute as an unfunded collaborator. Salaries and overheads not covered.
+lead_applicant_requirements: Cambridge-based applicant acts as lead for administrative purposes; must
+  register first and invite the Africa-based applicant. Both applicants post-doctoral level or above (equivalent
+  experience considered).
+geographic_restrictions: Research must be relevant to climate resilience and sustainability on the African
+  continent; equipment must remain with the African institution.
+consortium_required: 'yes'
+consortium_details: Mandatory Cambridge + African institution pair; true collaboration must be demonstrated
+  (not service provision). Research Project Grants require evidence of a prior successful collaboration
+  and an internship for a graduating scholar.
+cofunding_required: 'No'
+cofunding_details: Not specified
+eligible_activities: Seed/catalyst research, larger collaborative research projects, skills workshops
+  in Africa; equipment for use in Africa; priority to research engaging or benefiting young Africans (<35).
+required_documents: Case for support; itemised budget (template); lay summary; letters of support from
+  both departments/institutions; 2-page CVs for both applicants; two suggested referees.
+application_procedure: Online savable joint application form on the Cambridge-Africa website, started
+  by the Cambridge applicant who invites the African applicant.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Climate resilience 'interpreted broadly' accommodates EO/AI-based crop
+  monitoring, yield forecasting and climate-smart agriculture in Africa; small grant sizes favour seed
+  work.
+strategic_relevance: 3
+strategic_relevance_rationale: Builds a Cambridge partnership and Africa capacity-building; small amounts
+  and no salary/overhead coverage limit value to the Alliance.
+technical_feasibility: 4
+technical_feasibility_rationale: Seed/workshop formats (e.g., GEE/remote-sensing training workshop for
+  young African researchers) are easily deliverable with existing skills.
+recommendation: Pursue only if an Africa-based Alliance colleague and a Cambridge counterpart (e.g., Geography,
+  Plant Sciences, Cambridge Zero) can be lined up quickly; first confirm Alliance eligibility as the African
+  institution. A Workshop Grant on EO/AI for crop monitoring for young African researchers is a natural
+  fit.
+potential_partners: University of Cambridge (Dept. of Geography, Plant Sciences, Computer Science / AI
+  for Environmental Risks), Alliance Africa hub (Nairobi), Makerere University, University of Ghana, University
+  of Cape Town
+next_action: Email africaclimatecollaborative@cambridge-africa.cam.ac.uk to confirm whether an Alliance
+  (CGIAR) Africa office qualifies as the African institution; identify a Cambridge lead before December
+  2026.
+evidence:
+  deadline_quote: The deadline for submission is 15th January 2027and applications can be submitted at
+    any time before this.
+  eligibility_quote: applicants from the University of Cambridge co-create a joint project with applicants
+    from universities (or research institutions of comparable standing to a university) on the African
+    continent.
+  status_quote: We are now pleased to announce that the third round of applications is open.
+  staff_costs_quote: We do not cover salaries of either investigator, institutional overheads, indirect
+    costs or grant administration costs.
+unverified_fields:
+- cgiar_eligible
+- international_orgs_eligible
+- deadline_timezone
+verification_notes: 'Loaded official Cambridge-Africa page and Guidance for Applicants 2026-27 PDF on
+  2026-10-14. Guidance says applications open 15 Oct 2026; the web page already states round 3 is open.
+  CGIAR/international-organisation eligibility as African partner not addressed. | 2026-10-22 staff-cost/duration
+  check: https://www.cambridge-africa.cam.ac.uk/assets/MCF-Call/MCF-2026/Cambridge-Africa-Climate-Collaborative-Research-Fund-Guidance-for-Applicants-2026-27.pdf
+  (''Research Project Grants may extend to a duration of up to 18 months'' (Catalyst/Workshop ~12 months).
+  Guidance silent on non-investigator staff.)'
+last_verified: '2026-10-14'
+verification_source: import:foundations.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:47
+  event: added
+  detail: import:foundations.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

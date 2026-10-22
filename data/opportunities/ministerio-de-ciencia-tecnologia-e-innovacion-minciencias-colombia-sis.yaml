@@ -1,0 +1,127 @@
+id: ministerio-de-ciencia-tecnologia-e-innovacion-minciencias-colombia-sis
+title: Convocatoria 56 - Convocatoria de emergencia para la recuperación y generación de capacidades transformadoras
+  (Decreto 1414 de 2026)
+funder: Ministerio de Ciencia, Tecnología e Innovación (MinCiencias), Colombia - Sistema General de Regalías
+  (SGR) Asignación CTeI
+funder_type: national_agency
+program: Plan de convocatorias ASCTeI SGR 2025-2026
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_smart_ag
+- digital_agriculture
+- remote_sensing
+- ai_ml
+- food_security
+- smallholders
+- multifunctional_landscapes
+url: https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras
+source_urls:
+- https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_conv_56_v_1.6docx.pdf
+- https://www.minciencias.gov.co/convocatorias/todas
+status: open
+status_basis: official
+published_date: '2026-10-08'
+deadline: 2026-11-03T16:00
+deadline_timezone: COT (UTC-5)
+deadline_text: 'Cierre: martes 3 de noviembre de 2026, 4:00 pm (cronograma oficial). Resultados preliminares
+  1 dic 2026; definitivos 7 dic 2026.'
+funding_amount_min: null
+funding_amount_max: 14000000000
+currency: COP
+funding_text: '''se asigna un monto de $700.000.000.000 provenientes de los recursos del Sistema General
+  de Regalías'' ... ''Cada proyecto podrá solicitar hasta $14.000.000.000.'' Se espera financiar 10 proyectos
+  por línea temática.'
+duration: Hasta 24 meses ('El término de la ejecución de los proyectos será de hasta veinticuatro (24)
+  meses').
+duration_months_max: 24
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: 'Entidad proponente/ejecutora: IES, actores del SNCTI (con reconocimiento vigente),
+  entidades territoriales o actores del sector productivo. Alianza mínima: al menos una IES + al menos
+  una entidad territorial de un departamento afectado + al menos uno de: actor SNCTI reconocido, actor
+  del sector productivo o organización de sociedad civil domiciliada en departamento afectado. Entidades
+  internacionales pueden ser aliados.'
+eligible_countries: 'Colombia (ejecución en 16 departamentos afectados: Antioquia, Bolívar, Caldas, Caquetá,
+  Cauca, Chocó, Cundinamarca, Huila, Nariño, Norte de Santander, Quindío, Risaralda, Santander, Sucre,
+  Tolima y Valle del Cauca).'
+international_orgs_eligible: 'yes'
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'CIAT/Alliance can join as an international ally (''entidades u organizaciones
+  de carácter internacional, en calidad de aliados'') with a ''Carta entidad internacional'' specifying
+  its in-kind/cash contribution in COP; international allies are not part of the governance model. CIAT
+  could only be proponent/ejecutora if it holds valid MinCiencias recognition as an SNCTI actor (not verified).
+  Most realistic: a Valle del Cauca/Cauca IES (e.g., Univalle, Univ. del Cauca, UNAL Palmira) leads; CIAT
+  contributes EO/AI/crop-modelling and risk analytics.'
+lead_applicant_requirements: Proponente/ejecutora must be an IES, recognized SNCTI actor, territorial
+  entity, or productive-sector actor; must demonstrate direct link between emergency impacts and the CTeI
+  gap.
+geographic_restrictions: Execution only in the 16 departments covered by Decreto 1261/2026 (mod. 1348/2026);
+  must show direct link to the emergency.
+consortium_required: 'yes'
+consortium_details: 'Alianza estratégica mínima: IES + entidad territorial afectada + (actor SNCTI reconocido
+  | sector productivo | sociedad civil domiciliada en departamento afectado). International entities may
+  be added as allies.'
+cofunding_required: Not specified
+cofunding_details: International ally letter must state contribution 'ya sea en especie o en efectivo
+  expresado en pesos colombianos'. General counterpart rules in TdR not fully reviewed.
+eligible_activities: 'Adapt, validate, transfer, appropriate or scale technologies/innovations for recovery.
+  Lines: 5.1 risk management and regional security (early warning, monitoring, digital twins, predictive
+  analytics, damage assessment); 5.2 sustainable reconstruction incl. environmental and agro-productive
+  recovery; 5.3 social recovery incl. rural productive recovery and food security; 5.4 science-based companies;
+  5.5 knowledge ecosystems.'
+required_documents: 'Per TdR (36 pp): project in SIGP, alliance letters, Carta entidad internacional (si
+  aplica, in Spanish or English, signed by director of institute/centre/group), Anexo 12 talent hiring
+  guidelines, among others.'
+application_procedure: Online submission via SIGP (MinCiencias) per the TdR; projects become a bank of
+  eligible projects for SGR CTeI financing.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Early warning, monitoring, digital twins, predictive analytics, damage
+  assessment and agro-productive recovery map directly to EO/AI/crop-modelling capacities.
+strategic_relevance: 5
+strategic_relevance_rationale: Large Colombian public funding (COP 14 bn/project) in Valle del Cauca and
+  Cauca, CIAT's home region; strengthens national partnerships.
+technical_feasibility: 3
+technical_feasibility_rationale: Science fits well, but only ~3 weeks to deadline and requires a national
+  IES lead plus territorial entity buy-in; CIAT only as ally.
+recommendation: Pursue immediately as international ally to a Valle del Cauca/Cauca university consortium
+  on EO-based damage assessment, early warning and agro-productive recovery. Verify if CIAT has SNCTI
+  recognition that would allow a stronger role.
+potential_partners: Universidad del Valle, Universidad del Cauca, Universidad Nacional (Palmira), AGROSAVIA,
+  Gobernación del Valle del Cauca / municipal governments, CVC, gremios (e.g., Asocaña, Fedearroz).
+next_action: Contact Valle/Cauca IES research offices this week; prepare Carta entidad internacional with
+  in-kind contribution in COP; confirm CIAT SNCTI recognition status with MinCiencias.
+evidence:
+  deadline_quote: 'Cierre: martes 3 noviembre 2026 4:00 pm (cronograma, página oficial)'
+  eligibility_quote: Las alianzas podrán adicionalmente incluir dentro de su conformación entidades u
+    organizaciones de carácter internacional, en calidad de aliados.
+  status_quote: Page showed '20 día(s)' remaining (open) as of 2026-10-13 update.
+  staff_costs_quote: ● Vinculación de talento humano. ... La entidad ejecutora garantizará los pagos al
+    equipo de talento humano durante el tiempo de su vinculación al proyecto
+unverified_fields:
+- CIAT SNCTI recognition status
+- cofunding/contrapartida requirements
+verification_notes: 'Loaded official call page and TdR PDF v1.6 on 2026-10-14 (text extracted locally).
+  Title cites Decreto 1414 while scope cites Decreto 1261/1348 - both appear in TdR. | Review 2026-10-14:
+  downgraded to potentially_eligible — the terms of reference allow international organisations only as
+  "aliados" contributing in-kind/cash; whether an international ally can receive project funds, and whether
+  CIAT holds MinCiencias SNCTI recognition (needed to lead), are not verified. | 2026-10-22 staff-cost/duration
+  check: https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_conv_56_v_1.6docx.pdf
+  (''14.1 Plazo de ejecución: El término de la ejecución de los proyectos será de hasta veinticuatro (24)
+  meses.'')'
+last_verified: '2026-10-14'
+verification_source: import:national_agencies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:national_agencies.json
+- date: 2026-10-14 11:50
+  event: review
+  detail: 'eligibility downgraded: ally role, funding flow to international allies unverified'
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags:
+- call_page_changed

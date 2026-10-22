@@ -1,0 +1,86 @@
+id: japan-society-for-the-promotion-of-science-jsps-jsps-invitational-fell
+title: JSPS Invitational Fellowships for Research in Japan FY2027 - Short-term, 2nd recruitment
+funder: Japan Society for the Promotion of Science (JSPS)
+funder_type: national_agency
+program: Invitational Fellowships for Research in Japan
+opportunity_type: fellowship
+themes:
+- remote_sensing
+- ai_ml
+- crop_modeling
+- capacity_building
+url: https://www.jsps.go.jp/english/e-inv/application/index.html
+source_urls:
+- https://www.jsps.go.jp/english/e-inv/how.html
+- https://www.jsps.go.jp/english/e-inv/application/guideline.html
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-04-23T17:00
+deadline_timezone: JST
+deadline_text: '2nd recruitment (Short-term only): application deadline (host institution to JSPS) April
+  23, 2027, 5 p.m. JST; arrival Oct 1, 2027 - Mar 31, 2028. (1st recruitment closed Aug 28, 2026.)'
+funding_amount_min: null
+funding_amount_max: null
+currency: JPY
+funding_text: Round-trip economy airfare; maintenance allowance JPY18,000/day (short-term); overseas travel
+  insurance; research support up to JPY150,000 via host.
+duration: 'Short-term: 14 to 60 days.'
+duration_months_max: 2
+covers_staff_costs: 'no'
+support_type: fellowship_salary
+eligible_applicants: Host researcher in Japan applies via the head of their institution; fellow is a full-time
+  researcher at a foreign university or research institution.
+eligible_countries: Citizens/permanent residents of countries with which Japan has diplomatic relations.
+international_orgs_eligible: unclear
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'The CIAT researcher would be the invited fellow (candidate), hosted by e.g.
+  a Univ. of Tokyo professor. Status requirement: equivalent to professor/associate/assistant professor,
+  or >=6 years post-PhD with continuous research abroad - host must judge equivalence of ''Research Specialist''
+  at an international research centre.'
+lead_applicant_requirements: Host researcher at Japanese institution submits; institutional internal deadlines
+  are often 1+ month earlier.
+geographic_restrictions: Research stay in Japan.
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: 'no'
+cofunding_details: Not specified
+eligible_activities: Joint research, discussions, lectures in Japan.
+required_documents: Host application forms; Fellow's Curriculum Vitae.
+application_procedure: Host submits via JSPS Electronic Application System (opens ~2 months before deadline)
+  through their institution.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Enables phenotyping/RS/AI collaboration with former Japanese lab.
+strategic_relevance: 3
+strategic_relevance_rationale: Small mobility award, but seeds a SATREPS FY2028 partnership.
+technical_feasibility: 5
+technical_feasibility_rationale: Low effort; depends on host.
+recommendation: Use as a low-cost vehicle to co-design a SATREPS FY2028 proposal with Univ. of Tokyo hosts.
+potential_partners: University of Tokyo (Graduate School of Agricultural and Life Sciences), JIRCAS.
+next_action: Ask Univ. of Tokyo host to confirm internal deadline (likely ~March 2027) and eligibility
+  of CIAT Research Specialist position.
+evidence:
+  deadline_quote: '2nd: Short-term, April 23, 2027, 5 p.m. JST'
+  eligibility_quote: Candidates must be ... full-time researcher ... at a foreign university or research
+    institution (equivalent to professor/associate/assistant professor), or 6+ years since doctorate.
+  status_quote: Electronic Application System will be available approximately two months before the application
+    deadlines.
+  staff_costs_quote: 'Support: round-trip air ticket (economy-class); maintenance allowance ''JPY18,000
+    per day''; overseas travel insurance; research support allowance ''Up to JPY150,000'''
+unverified_fields:
+- whether CIAT Research Specialist is accepted as equivalent position
+verification_notes: 'Loaded JSPS application schedule and program pages 2026-10-14. | 2026-10-22 staff-cost/duration
+  check: https://www.jsps.go.jp/english/e-inv/how.html (Personal maintenance allowance to the fellow,
+  not salary/personnel costs. Short-term: ''14 to 60 days'' (~2 months); Long-term track: ''2 to 10 months''.)'
+last_verified: '2026-10-14'
+verification_source: import:national_agencies.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:48
+  event: added
+  detail: import:national_agencies.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

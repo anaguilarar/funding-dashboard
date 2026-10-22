@@ -1,0 +1,132 @@
+id: fontagro-regional-fund-for-agricultural-technology-sponsored-by-idb-an
+title: FONTAGRO Convocatoria 2027 (annual call for Regional R&D&I Consortia) - expected next cycle
+funder: FONTAGRO (Regional Fund for Agricultural Technology; sponsored by IDB and IICA)
+funder_type: regional_fund
+program: FONTAGRO annual competitive call, Medium-Term Plan (PMP) 2025-2030 Flagship Programs
+opportunity_type: consortium_call
+themes:
+- climate_smart_ag
+- climate_adaptation
+- climate_mitigation
+- digital_agriculture
+- ai_ml
+- food_security
+- smallholders
+- biodiversity
+url: https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2027
+source_urls:
+- https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2026
+- https://strapi-fontagro.nyc3.digitaloceanspaces.com/Terminos_de_Referencia_Convocatoria_2026_2226ecca93.pdf
+- https://strapi-fontagro.nyc3.digitaloceanspaces.com/5_Preguntas_Frecuentes_Convocatoria_2026_5af7de1421.pdf
+- https://fontagro.org/es/noticias/fontagro-anuncia-los-proyectos-ganadores-de-la-convocatoria-2026
+- https://fontagro.org/en/iniciativas/convocatorias/
+status: upcoming
+status_basis: speculative
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'Not published. For reference, the 2026 call: ''La convocatoria estará abierta desde el
+  15 de diciembre de 2025 hasta el 20 de abril de 2026 a las 3:00 PM (Hora del Este de EE.UU. Washington
+  D.C.)'''
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: '2027 terms not published. 2026 reference (ToR s.4.1): ''El monto total de la convocatoria
+  es de US$1.250.000 ... Se cofinanciarán hasta cinco proyectos, uno por Programa Insignia, con un aporte
+  máximo individual de hasta US$250.000.'' Funds delivered in kind via IICA country offices (no cash disbursements);
+  IICA admin charge up to 8.1%.'
+duration: '2026 reference (FAQ): ''plazo máximo de 36 a 42 meses de ejecución técnica y 48 meses de ejecución
+  financiera'''
+duration_months_max: 42
+covers_staff_costs: 'no'
+support_type: project_funding
+eligible_applicants: '2026 reference: regional R&D&I consortia of up to three co-executing organizations
+  from at least two FONTAGRO member countries; one is technical leader; at least one must be a public
+  research entity; must include producer organizations as direct beneficiaries. IICA is the executing
+  agency of all projects.'
+eligible_countries: 'FONTAGRO member countries (2026 ToR): Argentina, Bolivia, Chile, Colombia, Costa
+  Rica, Ecuador, España, Honduras, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay, Venezuela.
+  Associates may come from any IDB member country with own funds.'
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Under 2026 rules, international/regional organizations may join only as 'organizaciones
+  asociadas' with a facilitating/complementary role and their own resources (no FONTAGRO funds). CIAT/Alliance
+  would participate as an associate (contributing staff time as counterpart) alongside national co-executors
+  (e.g., a public research institute as technical lead). Confirm whether 2027 terms change; ToR notes
+  FONTAGRO is 'en un proceso de transición de su modelo operativo'.
+lead_applicant_requirements: '2026 reference: technical leader must be a co-executor legally constituted
+  in a FONTAGRO member country; at least one public research entity; proposal in Spanish; Word + Excel
+  submitted via online platform.'
+geographic_restrictions: Activities must be implemented in at least two FONTAGRO member countries (Colombia
+  and Honduras are members).
+consortium_required: 'yes'
+consortium_details: '2026 ToR: up to three co-executors from >=2 member countries; 2026 FAQ: 2-4 member
+  countries and ''cada consorcio debe incluir al menos cuatro organizaciones''; associates allowed with
+  own funds.'
+cofunding_required: 'yes'
+cofunding_details: '2026 ToR s.4.2: counterpart (cash and/or in kind) of ''al menos dos veces el solicitado
+  a FONTAGRO''; counterpart is audited.'
+eligible_activities: '2026 Flagship Programs considered: 1 resilient and carbon-neutral cropping systems;
+  2 livestock systems; 3 scaling/extension; 4 ''Revolución digital en la agricultura: robótica e inteligencia
+  artificial''; 5 future food basket/biodiversity.'
+required_documents: '2026 reference: project Word document + Excel (budget, results matrix, POA), signed
+  counterpart/commitment letters from each participant, registration of organizations on plataforma.fontagro.org.'
+application_procedure: '2026 reference: single-phase online submission via https://plataforma.fontagro.org;
+  external panel scoring; >=75/100 recommended to the Board.'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Flagship 1 (resilient, carbon-neutral crops) and Flagship 4 (digital agriculture/AI)
+  match EO + crop modelling + advisory tools; 2026 winners included AI-based digital platforms for field
+  decision-making.
+strategic_relevance: 5
+strategic_relevance_rationale: Core LAC regional fund; Colombia and Honduras are members; long CIAT history
+  with FONTAGRO consortia.
+technical_feasibility: 4
+technical_feasibility_rationale: Team can deliver RS/crop-modelling components; constraint is associate-only
+  role (own resources) and 2x counterpart.
+recommendation: Pursue. Start building a consortium now (if the pattern holds, call opens ~mid-December
+  2026 with a ~4-month window). Position CIAT as associate providing EO/AI/crop-model science, with national
+  public research institutes as co-executors.
+potential_partners: AGROSAVIA (Colombia), Honduran public research institutes (e.g., DICTA), INIA Uruguay/Chile,
+  INTA Argentina, INIAP Ecuador, producer organizations (e.g., FEDEARROZ), universities in member countries.
+next_action: Check the Convocatoria 2027 page weekly from November 2026; email fontagro@iica.int to ask
+  the expected launch date and whether international organizations can be co-executors in 2027; pre-identify
+  a Flagship 1 or 4 concept and partners.
+evidence:
+  deadline_quote: (2026 call) 'Fecha límite para la remisión de proyectos (Fase única) 20 de abril, 3:00
+    PM (Hora del Este de Estados Unidos, Washington D.C.)'
+  eligibility_quote: 'FAQ 2026: ''otras instituciones de países no miembros de FONTAGRO, pero siempre
+    miembros del BID, y las organizaciones regionales e internacionales; podrán participar en calidad
+    de organizaciones asociadas con un rol facilitador o complementario y con sus propios recursos.'''
+  status_quote: Official listing shows a 'Call 2027' entry, but its page (title 'Convocatoria 2027') has
+    no content yet; listing states 'Each year, FONTAGRO launches open and competitive calls to co-finance
+    innovation networks.'
+  staff_costs_quote: El financiamiento ... será entregado a las organizaciones coejecutoras exclusivamente
+    mediante la provisión de bienes, insumos, servicios y consultorías ... No se realizarán desembolsos
+    en efectivo.
+unverified_fields:
+- deadline
+- funding_amount_max
+- 2027 eligibility rules
+- launch date
+- 2027 flagship programs
+verification_notes: 'Loaded 2026-10-14: FONTAGRO convocatorias listing (shows Call 2027 entry), Convocatoria
+  2027 page (empty placeholder, title only), Convocatoria 2026 page (marked ''*Closed Call''), 2026 ToR
+  and FAQ PDFs (text extracted), winners news (3 Aug 2026; Board approved 5 projects on 10 Jul 2026, ~USD
+  5M). An aggregator claimed a 30 March 2026 deadline and USD 200k cap; official ToR says 20 April 2026
+  and USD 250k - official values used. All 2027 terms inferred from the 2026 cycle. | 2026-10-22 staff-cost/duration
+  check: https://strapi-fontagro.nyc3.digitaloceanspaces.com/5_Preguntas_Frecuentes_Convocatoria_2026_5af7de1421.pdf
+  (2026 FAQ (2027 terms not yet published): ''plazo máximo de 36 a 42 meses de ejecución técnica y 48
+  meses de ejecución financiera''. FAQ recommends staff salaries as counterpart: ''se recomienda que se
+  utilice el rubro de sueldos del personal staff de la organización''.)'
+last_verified: '2026-10-14'
+verification_source: import:partnerships_regional.json
+first_seen: '2026-10-14'
+history:
+- date: 2026-10-14 11:49
+  event: added
+  detail: import:partnerships_regional.json
+- date: 2026-10-22 10:55
+  event: enriched
+  detail: staff-cost/duration fields from official sources
+flags: []

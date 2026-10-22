@@ -1,0 +1,104 @@
+id: wellcome-wellcome-discovery-awards-team-awards-up-to-8-years-rolling-l
+title: Wellcome Discovery Awards (team awards up to 8 years; rolling) - location rules change 29 Oct 2026
+funder: Wellcome
+funder_type: foundation
+program: Discovery Research - Wellcome Discovery Awards
+opportunity_type: grant
+themes:
+- climate_adaptation
+- food_security
+- ai_ml
+- remote_sensing
+- capacity_building
+url: https://wellcome.org/research-funding/schemes/wellcome-discovery-awards
+source_urls:
+- https://wellcome.org/research-funding/guidance/prepare-to-apply/eligibility-information-grant-applicants
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'There are no deadlines for applications to this scheme. Applications can be submitted
+  at any time. (Shortlisting twice a year; interviews twice a year.) Location rule change: ''From 29 October
+  2026, we will only accept applications from lead applicants based at eligible administering organisations
+  in the UK and low- and middle-income countries in Africa, South Asia and South-East Asia. Any applications
+  submitted to Wellcome on or before 28 October 2026 will be assessed under the current location eligibility
+  requirements.'''
+funding_amount_min: null
+funding_amount_max: null
+currency: GBP
+funding_text: The average size of a Discovery Award is GBP 3.5 million. Applications above GBP 5 million
+  will be subject to additional scrutiny.
+duration: Awards can be up to 8 years, but may be less for some disciplines (average 7 years; supported
+  awards from 3 to 8 years).
+duration_months_max: 96
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Established researchers with international standing leading teams (usually 2-8 applicants),
+  at eligible not-for-profit administering organisations (higher education institutions, research institutes,
+  healthcare organisations). Coapplicants may be based anywhere except mainland China.
+eligible_countries: 'Until 28 Oct 2026: UK, Republic of Ireland, LMICs (excl. India and mainland China).
+  From 29 Oct 2026: lead applicant in UK or LMICs in Africa, South Asia and South-East Asia only (Latin
+  America excluded for lead).'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'From 29 Oct 2026 a Colombia-based (CIAT HQ) lead is NOT eligible. A lead based
+  at an Alliance office in an eligible African or Asian LMIC (e.g., Kenya, Viet Nam) could apply if that
+  office qualifies as a not-for-profit research institute administering organisation - to confirm with
+  Wellcome. LAC-based Alliance staff can join as coapplicants (anywhere except mainland China). Remit
+  is a hard constraint: research must have ''the potential to improve human life, health, and wellbeing''
+  (e.g., climate-nutrition-health pathways), not agriculture per se.'
+lead_applicant_requirements: Established researcher with international standing; lead applicant salary
+  only if based in an LMIC with a permanent/long-term contract and reliant on external grant funding.
+geographic_restrictions: Primary location of the research, including leadership, must be in the UK, Ireland
+  and/or an LMIC (rules tightening on 29 Oct 2026 as above).
+consortium_required: optional
+consortium_details: Teams usually 2-8 applicants including the lead; collaborators allowed without eligibility
+  restriction.
+cofunding_required: 'no'
+cofunding_details: Not specified
+eligible_activities: Bold, creative discovery research in any discipline relevant to human life, health
+  and wellbeing (incl. climate-health links).
+required_documents: Not specified on scheme summary; application via Wellcome Funding Platform.
+application_procedure: Submit via Wellcome Funding Platform at any time; shortlisting committee, interview,
+  decision.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Methods (EO, AI, crop modelling) are relevant only if the question is
+  a human-health one (e.g., climate shocks -> crop nutrition/food security -> health outcomes).
+strategic_relevance: 4
+strategic_relevance_rationale: One of very few philanthropic schemes paying full research-staff salaries
+  for up to 8 years; Alliance Africa/Asia hubs are in eligible regions.
+technical_feasibility: 2
+technical_feasibility_rationale: Needs an established health-research co-lead and an Africa/Asia-based
+  lead; large, competitive scheme.
+recommendation: Worth pursuing only as a team with a health/nutrition co-lead and an Alliance Africa/Asia-based
+  lead (e.g., climate-driven crop yield and nutrient shocks and child nutrition). Not suitable for a Colombia-based
+  lead after 28 Oct 2026.
+potential_partners: KEMRI-Wellcome Trust (Kenya), MLW (Malawi), OUCRU (Viet Nam), LSHTM Centre on Climate
+  Change and Planetary Health, IFPRI (nutrition).
+next_action: Discuss with Alliance Africa/Asia colleagues whether the Nairobi or Hanoi office can be a
+  Wellcome administering organisation; identify a health co-lead.
+evidence:
+  deadline_quote: There are no deadlines for applications to this scheme. Applications can be submitted
+    at any time.
+  eligibility_quote: From 29 October 2026, we will only accept applications from lead applicants based
+    at eligible administering organisations in the UK and low- and middle-income countries in Africa,
+    South Asia and South-East Asia.
+  status_quote: No deadline - apply anytime
+  staff_costs_quote: 'We will cover the salary costs of all staff, full or part-time, who will work on
+    your grant. Staff members may include: research assistants or technicians employed on your grant specialist
+    service staff and technical experts, for example environmental sustainability, data analysis, fieldwork'
+unverified_fields:
+- Whether an Alliance country office in Kenya/Viet Nam qualifies as an administering organisation
+- exact required documents
+verification_notes: Loaded official scheme page and eligibility guidance on 2026-10-22 (verbatim text
+  extracted from HTML). Scheme page also lists a 'September 2026 round' (deadline 22 Sep 2026) alongside
+  the 'apply anytime' statement; the rolling model is the current official one.
+last_verified: '2026-10-22'
+verification_source: import:philanthropy_staff_2026-10-22.json
+first_seen: '2026-10-22'
+history:
+- date: 2026-10-22 10:55
+  event: added
+  detail: import:philanthropy_staff_2026-10-22.json
