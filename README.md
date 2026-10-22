@@ -55,7 +55,7 @@ unverified call as an opportunity:
 ## 2. Installation
 
 ```powershell
-cd D:\scripts\Calls
+
 python -m pip install -r requirements.txt
 python -m pytest -q                 # 12 tests, offline
 python -m fundintel run             # verify -> monitor -> build -> notify
