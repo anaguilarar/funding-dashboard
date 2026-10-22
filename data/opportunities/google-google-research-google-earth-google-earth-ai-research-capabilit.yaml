@@ -27,6 +27,9 @@ currency: Not specified
 funding_text: In-kind early access to Earth AI models (Imagery/Remote Sensing Foundations, Population,
   Environment) on Google Cloud; no monetary award or credits stated.
 duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'no'
+support_type: in_kind_resources
 eligible_applicants: 'Not specified; form open to all industries incl. Academia and Other. Blog: ''Social
   impact organizations can learn about future support for nonprofits through Google.org.'''
 eligible_countries: Not specified (form has country dropdown)

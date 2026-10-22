@@ -33,6 +33,9 @@ funding_text: 'In-kind compute quota: Community 150 EECU-hours/month (default); 
   (by application). Quotas enforced for noncommercial projects since 2026-04-27; exceeding quota puts
   the project in restricted (slower) mode.'
 duration: Annual (Partner Tier must reapply yearly)
+duration_months_max: null
+covers_staff_costs: 'no'
+support_type: in_kind_resources
 eligible_applicants: Registered noncommercial Earth Engine projects. Partner Tier aimed at nonprofits/NGOs,
   university and government research groups and similar organizations with heavy compute needs and clear
   evidence of high-impact sustainability work; priority to groups under a single PI.

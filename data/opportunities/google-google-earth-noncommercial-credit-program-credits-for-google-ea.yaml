@@ -25,6 +25,9 @@ currency: Not specified
 funding_text: Credits to cover monthly subscription costs of Google Earth Professional and Professional
   Advanced plans (amount not stated).
 duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'no'
+support_type: in_kind_resources
 eligible_applicants: '''Only nonprofits, crisis response organizations, news media organizations'' and
   faculty at educational organizations.'
 eligible_countries: Not specified
@@ -75,5 +78,4 @@ history:
 - date: 2026-10-14 11:47
   event: added
   detail: import:tech_companies.json
-flags:
-- call_page_changed
+flags: []

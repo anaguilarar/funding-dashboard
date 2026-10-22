@@ -26,6 +26,9 @@ funding_text: Google Cloud credits; amount not stated on the official page (form
   from the GCP pricing calculator). Third-party mirrors cite up to USD 5,000 for faculty/postdocs (not
   confirmed officially).
 duration: Up to 12 months (credit expires 365 days after redemption or when used up)
+duration_months_max: null
+covers_staff_costs: 'no'
+support_type: in_kind_resources
 eligible_applicants: Faculty, PhD students and postdoctoral researchers at accredited higher education
   institutions and eligible nonprofit research institutions in approved countries.
 eligible_countries: Approved country list on the page; Colombia is listed.
