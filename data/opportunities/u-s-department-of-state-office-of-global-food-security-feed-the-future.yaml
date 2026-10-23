@@ -18,7 +18,7 @@ source_urls:
 - https://simpler.grants.gov/opportunity/7b148400-3d26-4af7-ab04-cb82c2799a97
 - https://files.simpler.grants.gov/opportunities/7b148400-3d26-4af7-ab04-cb82c2799a97/attachments/45fef206-8e8f-4b8a-80d6-df0dcc7e1e68/Statement_of_Interest_-FtF_IL_Amendment_1.pdf
 - https://files.simpler.grants.gov/opportunities/7b148400-3d26-4af7-ab04-cb82c2799a97/attachments/07cab512-cb38-401d-9b06-b03612921f2c/Feed_the_Future_Innovation_Labs_Statement_of_Interest_-_QA.pdf
-status: monitoring
+status: needs_reverification
 status_basis: official
 published_date: '2026-03-10'
 deadline: null
@@ -128,4 +128,9 @@ history:
 - date: 2026-10-22 10:55
   event: reverified
   detail: no material change
-flags: []
+- date: 2026-10-23 16:09
+  event: flagged
+  detail: needs re-verification (url_unreachable); previous status monitoring
+flags:
+- url_unreachable
+status_before_flag: monitoring

@@ -14,7 +14,7 @@ url: https://globalresearchalliance.org/capability-building/cliff-grads/
 source_urls:
 - https://www.cgiar.org/news-events/news/now-open-applications-to-cliff-grads-round-6
 - https://www.surveymonkey.com/r/L53RXR3
-status: monitoring
+status: needs_reverification
 status_basis: speculative
 published_date: Not specified
 deadline: null
@@ -86,4 +86,9 @@ history:
 - date: 2026-10-22 10:55
   event: enriched
   detail: staff-cost/duration fields from official sources
-flags: []
+- date: 2026-10-23 16:09
+  event: flagged
+  detail: needs re-verification (url_unreachable); previous status monitoring
+flags:
+- url_unreachable
+status_before_flag: monitoring

@@ -16,7 +16,7 @@ url: https://www.apn-gcr.org/opportunities/calls-for-proposals/
 source_urls:
 - https://www.apn-gcr.org/opportunities/calls-for-proposals/frequently-asked-questions/
 - https://www.apn-gcr.org/news/2025-call-for-proposals-under-the-crrp-and-capable-programmes/
-status: upcoming
+status: needs_reverification
 status_basis: speculative
 published_date: Not specified
 deadline: null
@@ -103,4 +103,9 @@ history:
 - date: 2026-10-22 10:55
   event: enriched
   detail: staff-cost/duration fields from official sources
-flags: []
+- date: 2026-10-23 16:08
+  event: flagged
+  detail: needs re-verification (url_unreachable); previous status upcoming
+flags:
+- url_unreachable
+status_before_flag: upcoming
