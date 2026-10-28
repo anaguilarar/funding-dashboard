@@ -81,4 +81,5 @@ history:
 - date: 2026-10-22 10:55
   event: enriched
   detail: staff-cost/duration fields from official sources
-flags: []
+flags:
+- stale_verification

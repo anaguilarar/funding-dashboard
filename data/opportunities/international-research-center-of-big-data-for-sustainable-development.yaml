@@ -79,4 +79,5 @@ history:
 - date: 2026-10-14 12:21
   event: added
   detail: import:china.json
-flags: []
+flags:
+- stale_verification

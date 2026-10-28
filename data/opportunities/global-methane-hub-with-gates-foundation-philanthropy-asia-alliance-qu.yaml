@@ -14,7 +14,7 @@ themes:
 url: https://www.globalmethanehub.org/?p=2614
 source_urls:
 - https://www.globalmethanehub.org/
-status: monitoring
+status: needs_reverification
 status_basis: official
 published_date: '2025-11-06'
 deadline: null
@@ -91,4 +91,10 @@ history:
 - date: 2026-10-22 10:55
   event: enriched
   detail: staff-cost/duration fields from official sources
-flags: []
+- date: 2026-10-28 17:40
+  event: flagged
+  detail: needs re-verification (url_unreachable, stale_verification); previous status monitoring
+flags:
+- url_unreachable
+- stale_verification
+status_before_flag: monitoring

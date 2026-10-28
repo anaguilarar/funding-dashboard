@@ -77,4 +77,5 @@ history:
   detail: staff-cost/duration fields from official sources
 flags:
 - url_unreachable
+- stale_verification
 status_before_flag: monitoring

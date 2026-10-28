@@ -108,4 +108,5 @@ history:
   detail: needs re-verification (url_unreachable); previous status upcoming
 flags:
 - url_unreachable
+- stale_verification
 status_before_flag: upcoming

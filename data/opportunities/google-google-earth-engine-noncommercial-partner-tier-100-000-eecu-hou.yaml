@@ -99,4 +99,5 @@ history:
 - date: 2026-10-14 11:47
   event: added
   detail: import:tech_companies.json
-flags: []
+flags:
+- stale_verification
