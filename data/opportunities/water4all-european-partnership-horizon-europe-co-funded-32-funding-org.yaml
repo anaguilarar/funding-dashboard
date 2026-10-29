@@ -92,6 +92,4 @@ history:
   event: enriched
   detail: staff-cost/duration fields from official sources
 flags:
-- call_page_changed
-- possible_deadline_change:2027-04-06
 - stale_verification

@@ -13,7 +13,7 @@ url: https://www.nsfc.gov.cn/p1/2931/3971/3998/gjdqhzyjyjlxm2026.html
 source_urls:
 - https://www.nsfc.gov.cn/p1/3381/2824/99667.html
 - https://www.nsfc.gov.cn/p1/2931/3971/3972/qy2026.html
-status: rolling
+status: needs_reverification
 status_basis: official
 published_date: '2026-01-14'
 deadline: null
@@ -81,5 +81,10 @@ history:
 - date: 2026-10-22 10:55
   event: enriched
   detail: staff-cost/duration fields from official sources
+- date: 2026-10-29 17:49
+  event: flagged
+  detail: needs re-verification (url_unreachable, stale_verification); previous status rolling
 flags:
+- url_unreachable
 - stale_verification
+status_before_flag: rolling

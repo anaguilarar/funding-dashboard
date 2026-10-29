@@ -18,7 +18,7 @@ source_urls:
 - https://www.nsfc.gov.cn/p1/2931/3971/3972/qy2026.html
 - https://www.nsfc.gov.cn
 - https://research.ustb.edu.cn/docs/2025-08/8562eb011bdb4daa97713dd9f66aae32.pdf
-status: monitoring
+status: needs_reverification
 status_basis: speculative
 published_date: '2026-03-31'
 deadline: null
@@ -120,5 +120,10 @@ history:
 - date: 2026-10-22 10:55
   event: enriched
   detail: staff-cost/duration fields from official sources
+- date: 2026-10-29 17:49
+  event: flagged
+  detail: needs re-verification (url_unreachable, stale_verification); previous status monitoring
 flags:
+- url_unreachable
 - stale_verification
+status_before_flag: monitoring
