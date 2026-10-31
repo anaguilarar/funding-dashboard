@@ -124,6 +124,5 @@ history:
   event: flagged
   detail: needs re-verification (url_unreachable, stale_verification); previous status monitoring
 flags:
-- url_unreachable
 - stale_verification
 status_before_flag: monitoring
