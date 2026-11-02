@@ -1,0 +1,93 @@
+id: european-commission-next-generation-scenarios-for-informing-climate-an
+title: Next generation scenarios for informing climate and sustainability transitions - HORIZON-CL5-2027-01-D1-13
+funder: European Commission
+funder_type: multilateral
+program: Horizon Europe Work Programme 2026-2027
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_mitigation
+- crop_modeling
+- multifunctional_landscapes
+- food_security
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-01-D1-13
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl5-2027-01-d1-13.json
+status: upcoming
+status_basis: official
+published_date: '2026-11-17'
+deadline: 2027-03-04T23:59
+deadline_timezone: Brussels time (CET); exact hour not in portal data (Horizon Europe standard is 17:00)
+deadline_text: Planned opening 2026-11-17; deadline 2027-03-04 (portal data)
+funding_amount_min: 4000000
+funding_amount_max: 4000000
+currency: EUR
+funding_text: RIA; topic budget EUR 24M; EU contribution per project around EUR 4 million; 6 grants expected
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Legal entities (universities, research organisations, international organisations,
+  SMEs, public bodies) per Horizon Europe rules; action type HORIZON-RIA
+eligible_countries: EU Member States and Horizon Europe Associated Countries; listed low- and middle-income
+  countries automatically eligible for funding (General Annex B)
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'Horizon Europe standard rules (General Annex B): legal entities in EU Member
+  States/Associated Countries and in listed low- and middle-income countries are automatically eligible
+  for funding; other third-country entities may join as associated partners or self-funded. Bioversity
+  International (legal entity registered in Italy) can participate as a funded beneficiary or coordinator;
+  CIAT (international organisation HQ Colombia) funding depends on Colombia''s status in the 2026-2027
+  Annex B list (not verified here).'
+lead_applicant_requirements: 'Standard consortium: at least three independent legal entities from three
+  different EU/Associated Countries, at least one in an EU Member State'
+geographic_restrictions: Consortium must include, as beneficiary or associated partner, at least three
+  independent legal entities in three different low or lower/upper-middle-income countries (only some
+  automatically eligible for funding). International cooperation specifically required with LMICs.
+consortium_required: 'yes'
+consortium_details: Consortium must include, as beneficiary or associated partner, at least three independent
+  legal entities in three different low or lower/upper-middle-income countries (only some automatically
+  eligible for funding). International cooperation specifically required with LMICs.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs
+eligible_activities: Improve integrated assessment models / scenario frameworks; Area A integrates physical
+  climate impacts and adaptation (incl. biophysical feedbacks) into mitigation pathways
+required_documents: Part A administrative forms + Part B technical proposal via Funding & Tenders Portal
+  submission system
+application_procedure: Electronic submission via EU Funding & Tenders Portal (single stage)
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Scenario/IAM work; crop-impact modelling could feed Area A (impacts and
+  adaptation)
+strategic_relevance: 4
+strategic_relevance_rationale: Mandatory LMIC partners make CGIAR/Alliance (Colombia, Kenya, Viet Nam
+  offices) a natural partner
+technical_feasibility: 3
+technical_feasibility_rationale: Crop modelling relevant; IAM core expertise would come from partners
+recommendation: 'Good partner opportunity: offer LMIC entity + agriculture impact modelling to IAM consortia;
+  opens in two weeks.'
+potential_partners: IIASA, PIK, PBL, CMCC; IFPRI (IMPACT model)
+next_action: Contact IAM groups (IIASA/PIK/CMCC) and IFPRI in November 2026 to join as LMIC/agriculture
+  partner
+evidence:
+  deadline_quote: Planned opening 2026-11-17; deadline 2027-03-04 (portal data)
+  eligibility_quote: The consortium must include as beneficiary or associated partner at least three independent
+    legal entities established in three different low or lower/upper-middle-income countries ... only
+    participants from some of these countries are automatically eligible for funding
+  status_quote: 'Portal status: Forthcoming; planned opening 2026-11-17'
+  staff_costs_quote: Horizon Europe grants reimburse personnel costs as eligible direct costs (standard
+    Model Grant Agreement); lump-sum grants pay per work package and can cover staff.
+unverified_fields:
+- exact deadline hour
+- Colombia/CIAT automatic funding eligibility under 2026-2027 General Annex B
+- project duration (not stated in topic text)
+verification_notes: Loaded official topic data JSON from the EU Funding & Tenders Portal (https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl5-2027-01-d1-13.json)
+  and the SEDIA search API on 2026-11-02. Status, opening date, deadline(s), budget per project and topic
+  conditions taken from that data. Not in existing records list.
+last_verified: '2026-11-02'
+verification_source: import:europe_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:europe_2026-11-02.json

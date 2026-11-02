@@ -1,0 +1,83 @@
+id: syngenta-group-shoots-by-syngenta-live-open-innovation-challenges-soil
+title: Shoots by Syngenta - live open-innovation challenges (Soil restoration solutions; Biological solutions
+  for crop performance under drought stress)
+funder: Syngenta Group
+funder_type: tech_company
+program: Shoots by Syngenta
+opportunity_type: challenge
+themes:
+- climate_adaptation
+- multifunctional_landscapes
+- climate_smart_ag
+url: https://www.shootsbysyngenta.com/soil-restoration-solutions
+source_urls:
+- https://www.shootsbysyngenta.com/challenges
+- https://www.shootsbysyngenta.com/enhance-crop-performance-drought-stress
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No closing date stated; listed as live challenges.
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: '''We are able to fund selected projects to drive toward commercialization.'' Terms case
+  by case; no amounts stated.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Syngenta wants to 'collaborate with academia, start-ups, and industry'; no formal
+  eligibility rules published.
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: No restriction stated; CIAT/Bioversity could submit an idea as a research institute.
+  Commercialization/IP terms would need review against CGIAR IP principles.
+lead_applicant_requirements: Submit an idea via the challenge 'Submit an idea' form.
+geographic_restrictions: Not specified
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Soil restoration: soil-applied chemical/physical/biological technologies improving
+  soil function with measurable improvement within a few seasons. Drought: biological technologies (microbials,
+  natural products, peptides, RNA, extracts) with proof of concept under water deficit; GE/GM out of scope.'
+required_documents: Not specified
+application_procedure: Online idea submission per challenge; Syngenta follows up on selected ideas.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 1
+scientific_alignment_rationale: Challenges seek product technologies acting on soil/plants; RS/AI monitoring
+  or modelling appears out of scope (inference). Relevant only if Alliance soil teams have a soil-applied
+  technology, with RS/phenotyping for efficacy evaluation.
+strategic_relevance: 2
+strategic_relevance_rationale: Corporate agri partner that can fund research, but commercialization focus
+  fits CGIAR poorly.
+technical_feasibility: 2
+technical_feasibility_rationale: Requires a candidate product; our team would contribute monitoring/phenotyping
+  only.
+recommendation: Low priority for this researcher; forward to Alliance soils/biochar colleagues.
+potential_partners: Alliance soil health team
+next_action: Forward challenge links to Alliance soils team; no action for RS/AI group unless a product
+  partner emerges.
+evidence:
+  deadline_quote: (none stated) - listed under live challenges
+  eligibility_quote: collaborate with academia, start-ups, and industry
+  status_quote: Live challenges listed on shootsbysyngenta.com/challenges
+  staff_costs_quote: Not specified
+unverified_fields:
+- funding_amount
+- covers_staff_costs
+- eligible_countries
+- duration
+- deadline
+verification_notes: Official shootsbysyngenta.com challenge list and two challenge pages loaded 2026-11-02.
+  The separate Syngenta Foundation for Sustainable Agriculture (Basel) is in liquidation - no calls.
+last_verified: '2026-11-02'
+verification_source: import:corporate_tech_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:corporate_tech_2026-11-02.json

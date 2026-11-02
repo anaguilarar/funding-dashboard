@@ -1,0 +1,90 @@
+id: european-commission-international-dimension-of-the-circular-bio-based
+title: 'International dimension of the circular bio-based economy: seeking win-win opportunities - HORIZON-CL6-2027-03-GOVERNANCE-03'
+funder: European Commission
+funder_type: multilateral
+program: Horizon Europe Work Programme 2026-2027
+opportunity_type: consortium_call
+themes:
+- multifunctional_landscapes
+- biodiversity
+- capacity_building
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-03-GOVERNANCE-03
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl6-2027-03-governance-03.json
+status: upcoming
+status_basis: official
+published_date: '2027-02-04'
+deadline: 2027-05-11T23:59
+deadline_timezone: Brussels time (CET); exact hour not in portal data (Horizon Europe standard is 17:00)
+deadline_text: Planned opening 2027-02-04; deadline 2027-05-11 (portal data)
+funding_amount_min: 3000000
+funding_amount_max: 3000000
+currency: EUR
+funding_text: Coordination and Support Action; topic budget EUR 3M; one grant of around EUR 3 million
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Legal entities (universities, research organisations, international organisations,
+  SMEs, public bodies) per Horizon Europe rules; action type HORIZON-CSA
+eligible_countries: EU Member States and Horizon Europe Associated Countries; listed low- and middle-income
+  countries automatically eligible for funding (General Annex B)
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'Horizon Europe standard rules (General Annex B): legal entities in EU Member
+  States/Associated Countries and in listed low- and middle-income countries are automatically eligible
+  for funding; other third-country entities may join as associated partners or self-funded. Bioversity
+  International (legal entity registered in Italy) can participate as a funded beneficiary or coordinator;
+  CIAT (international organisation HQ Colombia) funding depends on Colombia''s status in the 2026-2027
+  Annex B list (not verified here).'
+lead_applicant_requirements: Coordination and Support Action; consortium or single entity per General
+  Annex B
+geographic_restrictions: International cooperation strongly encouraged, in particular with South Africa,
+  Latin America and the Caribbean; legal entities in non-associated third countries may exceptionally
+  participate as beneficiary or affiliated entity (if eligible for funding).
+consortium_required: optional
+consortium_details: International cooperation strongly encouraged, in particular with South Africa, Latin
+  America and the Caribbean; legal entities in non-associated third countries may exceptionally participate
+  as beneficiary or affiliated entity (if eligible for funding).
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs
+eligible_activities: Analysis and stakeholder engagement on international cooperation in sustainable,
+  fair bio-based circular innovation; SSH contribution required
+required_documents: Part A administrative forms + Part B technical proposal via Funding & Tenders Portal
+  submission system
+application_procedure: Electronic submission via EU Funding & Tenders Portal (single stage)
+eligibility_assessment: potentially_eligible
+scientific_alignment: 1
+scientific_alignment_rationale: Policy/governance CSA; little use of RS/AI/crop modelling
+strategic_relevance: 3
+strategic_relevance_rationale: Explicit LAC focus; international organisations (FAO, OECD) named as key
+  players
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance bioeconomy/policy teams could contribute; outside researcher's
+  core skills
+recommendation: Low priority for this researcher; flag to Alliance bioeconomy/food-systems policy colleagues.
+potential_partners: FAO, Global Bioeconomy Summit/IACGB, Embrapa
+next_action: Forward to Alliance bioeconomy team
+evidence:
+  deadline_quote: Planned opening 2027-02-04; deadline 2027-05-11 (portal data)
+  eligibility_quote: If eligible for funding, legal entities established in non-associated third countries
+    may exceptionally participate in this Coordination and support action as a beneficiary or affiliated
+    entity. ... International cooperation is strongly encouraged, in particular with South Africa, Latin
+    America and the Caribbean.
+  status_quote: 'Portal status: Forthcoming; planned opening 2027-02-04'
+  staff_costs_quote: Horizon Europe grants reimburse personnel costs as eligible direct costs (standard
+    Model Grant Agreement); lump-sum grants pay per work package and can cover staff.
+unverified_fields:
+- exact deadline hour
+- Colombia/CIAT automatic funding eligibility under 2026-2027 General Annex B
+- project duration (not stated in topic text)
+verification_notes: Loaded official topic data JSON from the EU Funding & Tenders Portal (https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl6-2027-03-governance-03.json)
+  and the SEDIA search API on 2026-11-02. Status, opening date, deadline(s), budget per project and topic
+  conditions taken from that data. Not in existing records list.
+last_verified: '2026-11-02'
+verification_source: import:europe_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:europe_2026-11-02.json

@@ -1030,6 +1030,235 @@ sources:
   why: Successor to 1t.org; corporate forest pledges and Global Wildfire Leadership Network solution labs
     - partnership only.
   enabled: true
+- id: bayer-crop-science-grants4ag
+  funder: Bayer Crop Science
+  name: Grants4Ag
+  url: https://www.bayer.com/en/agriculture/innovations/grants4ag
+  type: html
+  category: corporate
+  why: Annual academic research grants for crop-science ideas; 2026 status could not be verified (HTTP
+    403).
+  enabled: true
+- id: nestle-foundation-lausanne-research-grants-for-lmi
+  funder: Nestle Foundation (Lausanne)
+  name: Research grants for LMIC nutrition
+  url: https://www.nestlefoundation.org/
+  type: html
+  category: corporate
+  why: 'Large Research Grants (secondary sources: up to USD 300k over 3 years, twice-yearly deadlines;
+    last 10 June 2026) - salary-bearing; nutrition-sensitive agriculture angle. Official site returned
+    403; verify next deadline.'
+  enabled: true
+- id: microsoft-ai-for-good-lab
+  funder: Microsoft
+  name: AI for Good Lab
+  url: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/
+  type: html
+  category: corporate
+  why: Past Open Call (2025) was Washington State only; watch for global calls.
+  enabled: true
+- id: amazon-amazon-research-awards
+  funder: Amazon
+  name: Amazon Research Awards
+  url: https://www.amazon.science/research-awards
+  type: html
+  category: corporate
+  why: 'Periodic sustainability calls (Fall 2025: up to USD 100k + AWS credits); Fall 2026 call has no
+    sustainability track.'
+  enabled: true
+- id: openai-foundation-news
+  funder: OpenAI Foundation
+  name: News
+  url: https://openaifoundation.org/en-US/news
+  type: html
+  category: corporate
+  why: New agri/climate AI philanthropy; watch for open calls.
+  enabled: true
+- id: louis-dreyfus-foundation-foundation-site
+  funder: Louis Dreyfus Foundation
+  name: Foundation site
+  url: https://louisdreyfusfoundation.org/
+  type: html
+  category: corporate
+  why: Corporate agri-food foundation funding smallholder projects in Africa/Asia/LatAm; no open call
+    found.
+  enabled: true
+- id: rabo-foundation-rabo-foundation
+  funder: Rabo Foundation
+  name: Rabo Foundation
+  url: https://www.rabobank.com/about-us/rabo-foundation
+  type: html
+  category: corporate
+  why: Past climate-smart agriculture loan calls (closed 28 Feb 2026); mostly loans to farmer organizations.
+  enabled: true
+- id: european-commission-funding-tenders-portal-search
+  funder: European Commission
+  name: Funding & Tenders Portal search API (Horizon Europe open/forthcoming topics)
+  url: https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=***
+  type: api
+  category: europe
+  why: Machine-readable list of all forthcoming/open HE topics, incl. 2027 CL5/CL6/Missions
+  enabled: true
+- id: danida-fellowship-centre-dfc-research-calls-ffu
+  funder: Danida Fellowship Centre
+  name: DFC research calls (FFU)
+  url: https://dfcentre.com/research/calls/
+  type: html
+  category: europe
+  why: 2026 FFU round delayed by Danish election; MFA to clarify next call dates in early 2027
+  enabled: true
+- id: snsf-sdc-sor4d-programme-x
+  funder: SNSF / SDC
+  name: SOR4D programme
+  url: https://www.snf.ch/en/
+  type: html
+  category: europe
+  why: SOR4D phase 2 (2026-2031) call closed May 2026; watch for further calls
+  enabled: true
+- id: bmukn-iki-iki-find-funding
+  funder: BMUKN (IKI)
+  name: IKI Find Funding
+  url: https://www.international-climate-initiative.com/en/find-funding/
+  type: html
+  category: europe
+  why: Large Grants annual call reportedly planned around COP31; check eligibility of international organisations
+  enabled: true
+- id: prima-foundation-prima-calls
+  funder: PRIMA Foundation
+  name: PRIMA calls
+  url: https://prima-med.org/calls-for-proposals/
+  type: html
+  category: europe
+  why: 2027 Section 1/2 topics not yet published
+  enabled: true
+- id: research-council-of-norway-calls-for-proposals
+  funder: Research Council of Norway
+  name: Calls for proposals
+  url: https://www.forskningsradet.no/en/call-for-proposals/
+  type: html
+  category: europe
+  why: No NORGLOBAL call found; watch global development research calls
+  enabled: true
+- id: erc-erc-calls-stg-cog-adg
+  funder: ERC
+  name: ERC calls (StG/CoG/AdG)
+  url: https://erc.europa.eu/apply-grant
+  type: html
+  category: europe
+  why: New WP2027 eligibility windows; timing of next StG
+  enabled: true
+- id: nasa-roses-25-table-2-earth-science-due-dates
+  funder: NASA
+  name: ROSES-25 Table 2 (Earth Science due dates)
+  url: https://solicitation.nasaprs.com/ROSES2025table2
+  type: html
+  category: monitoring
+  why: 'Remaining ROSES-25 Earth Science dates: A.15 Biosphere Step-2 6 Nov 2026, A.14 Atmosphere 2 Dec
+    2026, A.16 Cryosphere 4 Dec 2026, A.17 Hydrosphere Step-2 28 Jan 2027, A.18 Geosphere NOI 16 Nov 2026/proposal
+    15 Jan 2027, A.4 Rapid Response through 31 Dec 2026. No SERVIR/Earth Action/agriculture elements open;
+    ROSES-27 to be released no later than Jan 2027.'
+  enabled: true
+- id: gates-foundation-grand-challenges-grand-challenges
+  funder: Gates Foundation / Grand Challenges
+  name: Grand Challenges grant opportunities
+  url: https://gcgh.grandchallenges.org/grant-opportunities
+  type: html
+  category: foundations
+  why: Currently 'There are no open Grant Opportunities at this time'; watch for AI-for-agriculture or
+    climate-adaptation RFPs linked to the US$1.4B smallholder adaptation commitment.
+  enabled: true
+- id: mcknight-foundation-global-collaboration-for-resil-x
+  funder: McKnight Foundation
+  name: Global Collaboration for Resilient Food Systems - How to Apply
+  url: https://www.mcknight.org/programs/global-foods/how-to-apply/
+  type: html
+  category: foundations
+  why: Invite-only with occasional thematic open calls; currently none open (last 2024). Informal queries
+    welcome.
+  enabled: true
+- id: climate-change-ai-ccai-calls
+  funder: Climate Change AI
+  name: CCAI calls
+  url: https://www.climatechange.ai/calls
+  type: html
+  category: foundations
+  why: No 2026 Innovation Grants call; 2025 track invitation-only. Watch for 2027 round.
+  enabled: true
+- id: rockefeller-foundation-rockefeller-foundation-home
+  funder: Rockefeller Foundation
+  name: Rockefeller Foundation homepage / open calls
+  url: https://www.rockefellerfoundation.org/
+  type: html
+  category: foundations
+  why: 'Occasional global open calls (current: Cities Deliver).'
+  enabled: true
+- id: usda-fas-borlaug-fellowship-program
+  funder: USDA FAS
+  name: Borlaug Fellowship Program
+  url: https://www.fas.usda.gov/programs/borlaug-fellowship-program
+  type: html
+  category: foundations
+  why: FY2026 NOFO closed 14 Aug 2026; FY2027 not yet posted (US-institution applicants host foreign fellows).
+  enabled: true
+- id: ausgleichsstiftung-landwirtschaft-und-umwelt-foerd
+  funder: Ausgleichsstiftung Landwirtschaft und Umwelt
+  name: Foerderung (research projects at CGIAR institutes)
+  url: http://www.ausgleichsstiftung.org/foerderung.html
+  type: html
+  category: foundations
+  why: Small German foundation explicitly funding research projects at CGIAR institutes and German theses;
+    1-page project ideas accepted any time by email (dialog@ausgleichsstiftung.org). Past grants were
+    short student placements (incl. Bioversity Cali); site outdated.
+  enabled: true
+- id: ecmwf-ecmwf-grants-arcx-sewa-listing
+  funder: ECMWF
+  name: ECMWF grants (ArcX, SEWA) listing
+  url: https://www.ecmwf.int/en/about/grants
+  type: html
+  category: regional
+  why: Follow-on ArcX Climate Change Resilience grants and SEWA calls expected 2027-2029 (EU Global Gateway,
+    Africa climate services).
+  enabled: true
+- id: minciencias-colombia-convocatorias-minciencias-tod
+  funder: Minciencias Colombia
+  name: Convocatorias Minciencias (todas)
+  url: https://minciencias.gov.co/convocatorias/todas
+  type: html
+  category: regional
+  why: 'Frequent new SGR CTeI convocatorias (Oct 2026 batch: 53-56); new bienio 2027-2028 calls expected.'
+  enabled: true
+- id: belmont-forum-belmont-forum-home-open-calls
+  funder: Belmont Forum
+  name: Belmont Forum home / open calls
+  url: https://belmontforum.org/
+  type: html
+  category: regional
+  why: No new CRA with 2027 deadline found; new CRAs (with IAI as LAC funder) announced periodically.
+  enabled: true
+- id: fontagro-fontagro-convocatoria-2027
+  funder: FONTAGRO
+  name: FONTAGRO Convocatoria 2027
+  url: https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2027
+  type: html
+  category: regional
+  why: Page exists but no dates yet; already in existing records as upcoming.
+  enabled: true
+- id: caf-caf-calls
+  funder: CAF
+  name: CAF calls
+  url: https://www.caf.com/en/work-with-us/calls
+  type: html
+  category: regional
+  why: Occasional research calls (e.g., AI and digitalisation); could not load (TLS certificate error).
+  enabled: true
+- id: idb-idb-calls-for-proposals
+  funder: IDB
+  name: IDB calls for proposals
+  url: https://www.iadb.org/en/calls-for-proposals
+  type: html
+  category: regional
+  why: IDB/IDB Lab research and innovation calls; blocked automated fetch (403).
+  enabled: true
 api_queries:
   grants_gov:
   - agriculture climate international

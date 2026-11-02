@@ -1,0 +1,119 @@
+id: european-centre-for-medium-range-weather-forecasts-ecmwf-on-behalf-of
+title: ArcX Climate Change Resilience - Formation of a Network of Regional Centres of Excellence on Climate
+  Change Resilience in Sub-Saharan Africa (Call 2026_ArcX_G261)
+funder: European Centre for Medium-Range Weather Forecasts (ECMWF), on behalf of the European Union (DG
+  INTPA, NDICI-Global Europe), with EC JRC
+funder_type: multilateral
+program: EU Africa Regional Centres of Excellence (ArcX) Programme - Climate Change Resilience component
+  (Global Gateway)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- climate_data_infrastructure
+- ai_ml
+- remote_sensing
+- food_security
+- capacity_building
+url: https://www.ecmwf.int/en/about/grants/arcx-grants
+source_urls:
+- https://www.ecmwf.int/sites/default/files/2026-10/ArcX_Call%20for%20Proposals_RCoE.pdf?50349
+- https://www.ecmwf.int/sites/default/files/2026-10/ArcX_Guidelines%20for%20Applicants_Final.pdf?50349
+- https://www.ecmwf.int/sites/default/files/2026-10/2026_ArcX_G261_Online%20Questionnaire_Final.pdf?50349
+- https://procontract.due-north.com/Advert?advertId=68178893-7fd3-f111-8142-6045bdf14b1f&p=7344c2cd-e625-e711-80df-005056b64545
+status: open
+status_basis: official
+published_date: '2026-10-29'
+deadline: 2026-12-09T14:00
+deadline_timezone: CET
+deadline_text: The deadline for the ArcX Programme Call for Proposals 09 December2026, at 14:00 CET (last
+  date for clarification requests 25 November 2026)
+funding_amount_min: 50000
+funding_amount_max: 350000
+currency: EUR
+funding_text: 'A total budget of EUR 1,500,000 is available for this Call with the aim to award six Grants.
+  Tier 1-2: EUR 250,000-350,000; Tier 3: EUR 150,000-200,000; Tier 4: EUR 50,000. Lump sum grant; budget
+  categories incl. personnel costs; 25% flat-rate indirect costs.'
+duration: Start 1 March-1 May 2027, end 31 December 2029 (32-34 months)
+duration_months_max: 34
+covers_staff_costs: 'yes'
+support_type: core_or_program_funding
+eligible_applicants: 'Entities eligible under ECMWF grant rules (ECMWF Member/Cooperating States) and
+  under Art. 28 NDICI: international organisations and legal entities established in EU, EEA, IPA III,
+  non-G20 ODA-recipient countries, etc. Coordinator must be the prospective Regional Centre of Excellence
+  on Climate Change Resilience (RCoE-C2R) with a formal mandate from governments of at least 2 African
+  countries and/or an intergovernmental organisation.'
+eligible_countries: 'Place of performance: Sub-Saharan Africa. Participants per Schedule 1 (EU/EEA/ECMWF
+  states, non-G20 developing countries; OECD states only when implemented exclusively in LDC/HIPC; international
+  organisations).'
+international_orgs_eligible: 'yes'
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'International organisations are explicitly eligible as participants (Schedule
+  1 B), so the Alliance (Bioversity International, Italy = EU Member State; Nairobi office) could join
+  a multi-beneficiary grant as a Beneficiary (with budget) or Associated Partner (no budget). The Alliance
+  cannot realistically be Coordinator, because the Coordinator must be the prospective RCoE-C2R with a
+  formal regional mandate recognised by at least 2 African governments or an IGO (e.g., ICPAC, AGRHYMET,
+  SADC CSC). Best route: co-beneficiary with a regional climate centre, bringing agricultural climate-services,
+  EO/AI and crop-impact expertise.'
+lead_applicant_requirements: Coordinator = prospective RCoE-C2R; 'formal mandate' = authorisation/designation/endorsement
+  by governmental authorities of at least two African countries or territories and/or by one or more intergovernmental
+  organisations, evidenced by official documentation; WMO/AUC recognition an asset. Formal commitment
+  to host the RCoE-C2R function required.
+geographic_restrictions: Project must be carried out in Sub-Saharan Africa (Eastern, Western, Central,
+  Southern Africa, Indian Ocean Islands, or SSA-wide).
+consortium_required: optional
+consortium_details: Mono-beneficiary or multi-beneficiary grants allowed; Associated Partners (unfunded)
+  and Subcontractors (max 20% of costs) permitted. Consortium agreement may be required at grant preparation.
+cofunding_required: Not specified
+cofunding_details: Lump-sum grant covering expected eligible direct and indirect costs; no co-financing
+  requirement found in the Call text read.
+eligible_activities: Operating the RCoE-C2R and network-of-networks; stakeholder needs assessment for
+  climate services, EO products, AI/ML applications and Copernicus/DestinE data; priority sectors incl.
+  agriculture, water, health, energy; making data AI-ready, data rescue, Forecast-in-a-Box pilots, Code
+  for Earth / AI Weather Quest activities, training, science-policy engagement.
+required_documents: Online questionnaire on ProContract portal; Application Form incl. Annex I Technical
+  Description (max 25 pages, English, with Appendix 1 operational capacity and Appendix 2 tier checklist),
+  Annex II Estimated Budget per beneficiary and work package, supporting documents incl. formal mandate
+  evidence and commitment to host RCoE-C2R.
+application_procedure: Coordinator registers interest on ECMWF submission portal (ProContract / Due North,
+  https://procurement.ecmwf.int) to access the Call package, then submits electronically before 9 Dec
+  2026 14:00 CET. Only the coordinating organisation should register.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: AI-enabled climate services, EO/Copernicus data use and agriculture-sector
+  climate information are central; strong match to EO/AI/climate-data profile, though the grant mainly
+  funds centre operations and networking rather than research.
+strategic_relevance: 4
+strategic_relevance_rationale: EU Global Gateway flagship with ECMWF/JRC/WMO/AUC; CIFOR-ICRAF already
+  coordinates the ArcX Biodiversity component; positions the Alliance in Africa's regional climate-services
+  architecture (links to AICCRA legacy).
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance has climate-services and EO/crop-modelling capacity in Africa,
+  but success depends on a mandated regional centre leading; short timeline (5 weeks).
+recommendation: 'Pursue as co-beneficiary: contact a mandated regional climate centre (e.g., ICPAC for
+  Eastern Africa, AGRHYMET for West Africa, SADC Climate Services Centre) this week and offer an agriculture/EO-AI
+  work package. Small budgets per grant, but multi-year (to end-2029) and opens follow-on ArcX grants.'
+potential_partners: ICPAC (IGAD), AGRHYMET/CILSS, SADC Climate Services Centre, ACMAD, RCMRD, national
+  meteorological services; CIFOR-ICRAF (ArcX Biodiversity coordinator); AICCRA partners.
+next_action: 'By 15 Nov 2026: identify a mandated RCoE-C2R candidate (ICPAC is the natural fit for the
+  Nairobi office), agree role as Beneficiary and budget share; submit clarification questions before 25
+  Nov 2026.'
+evidence:
+  deadline_quote: The deadline for the ArcX Programme Call for Proposals 09 December2026, at 14:00 CET
+  eligibility_quote: namely international organisations and all other legal entities, as defined in Article
+    2(6) of the NDICI Regulation
+  status_quote: The ArcX Programme Call for Proposals opens 29 October 2026
+  staff_costs_quote: 'The budget categories are: A. Personnel costs; B. Travel, accommodation and subsistence;
+    C. Computing; D. Other direct costs; E. Subcontracting; F. Indirect costs.'
+unverified_fields:
+- cofunding_required
+- Grant Agreement Template eligible-cost details (not read)
+verification_notes: Loaded ECMWF ArcX grants page and extracted text of the official Call for Proposals
+  PDF (2026_ArcX_G261, version 01, dated 29 Oct 2026) on 2026-11-02. Guidelines PDF downloaded but not
+  reviewed in detail.
+last_verified: '2026-11-02'
+verification_source: import:regional_multilateral_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:regional_multilateral_2026-11-02.json

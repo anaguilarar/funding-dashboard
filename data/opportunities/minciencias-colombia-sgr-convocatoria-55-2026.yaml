@@ -1,0 +1,96 @@
+id: minciencias-colombia-sgr-convocatoria-55-2026
+title: Minciencias Convocatoria 55 - Convocatoria especial para la financiación de macroproyectos nacionales
+  para el fortalecimiento de las capacidades científico-tecnológicas del país (SGR CTeI)
+funder: Ministerio de Ciencia, Tecnología e Innovación de Colombia (Minciencias) - Sistema General de
+  Regalías (SGR)
+funder_type: national_agency
+program: SGR Asignación CTeI - macroproyectos nacionales multirregionales (bienio 2025-2026)
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- digital_agriculture
+- ai_ml
+- climate_data_infrastructure
+- food_security
+- capacity_building
+url: https://minciencias.gov.co/node/9581
+source_urls:
+- https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria_55_macroproyectos_version_publicada.pdf
+status: open
+status_basis: official
+published_date: '2026-10-23'
+deadline: 2026-11-13T16:00
+deadline_timezone: COT (UTC-5)
+deadline_text: 'Cierre: viernes 13 noviembre 2026 04:00 pm'
+funding_amount_min: null
+funding_amount_max: 50000000000
+currency: COP
+funding_text: Indicative COP $500.000.000.000 from SGR CTeI 2025-2026 to fund ten (10) macroprojects;
+  up to COP $50.000.000.000 per macroproject from the SGR.
+duration: '36 to 48 months (TdR: execution period must be within ''treinta y seis (36) a cuarenta y ocho
+  (48) meses'')'
+duration_months_max: 48
+covers_staff_costs: partial
+support_type: project_funding
+eligible_applicants: Alliances of at least three distinct Colombian legal entities (proponent + at least
+  2 members); proponent must be a Minciencias-recognised SNCTI actor or have CTeI track record; at least
+  one member must be a territorial entity, company, or social/ethnic-territorial organisation.
+eligible_countries: Colombia (direct intervention in at least 2 SGR regions)
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'TdR 10.11: international entities may form part of the project via a free-format
+  letter of intent signed by the institute/centre director, specifying a cash or in-kind contribution
+  in COP; not part of the governance model. Same caveat as Conv. 54: international allies appear unfunded;
+  CIAT national-entity status unverified.'
+lead_applicant_requirements: Proponent with current Minciencias SNCTI recognition or verified CTeI activities
+  and track record per TdR.
+geographic_restrictions: Must intervene directly in at least two SGR regions, at least one department
+  in each.
+consortium_required: 'yes'
+consortium_details: 'Minimum 3 national legal entities; lines: (1) shared S&T capacities and services,
+  (2) multiregional development/validation of CTeI solutions, (3) multiregional demonstration/transfer/adoption
+  (solutions must already show verifiable validation).'
+cofunding_required: Not specified
+cofunding_details: Not confirmed from the TdR excerpts read; check Anexo 3 Presupuesto.
+eligible_activities: Multiregional CTeI macroprojects addressing territorial demands (Anexo 4); shared
+  scientific-technological services; validation and adoption of CTeI solutions; human-talent formation.
+required_documents: TdR annexes incl. Anexo 3 Presupuesto, Anexo 4 Demandas territoriales, Anexo 12 Requisitos;
+  letters of intent for international entities; SIGP submission.
+application_procedure: Submission via SIGP before 13 Nov 2026 16:00; preliminary results 3 Dec 2026; final
+  10 Dec 2026.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Thematic scope set by territorial demands (Anexo 4, not reviewed); a multiregional
+  agro-climatic services / digital agriculture platform could fit lines 1-3.
+strategic_relevance: 4
+strategic_relevance_rationale: Very large multi-year national projects in Colombia; a shared agro-climatic
+  data/AI service platform would be high-visibility for the Alliance.
+technical_feasibility: 2
+technical_feasibility_rationale: Only 10 macroprojects nationally; requires mature, already-validated
+  solutions and a strong national alliance within 11 days.
+recommendation: Low probability unless a national alliance is already preparing a climate/agri macroproject;
+  offer letter of intent as international ally where relevant.
+potential_partners: Universidad Nacional de Colombia, AGROSAVIA, IDEAM, universities in Pacífico and Caribe
+  regions, departmental governments.
+next_action: Check Anexo 4 territorial demands for agri-climate topics; contact Colombian university partners
+  to ask if any macroproject consortium needs an international ally before 13 Nov 2026.
+evidence:
+  deadline_quote: 'Cierre: viernes 13 noviembre 2026 04:00 pm'
+  eligibility_quote: Para el caso de las entidades internacionales que formen parte del proyecto, se deberá
+    anexar carta de intención de participación en el proyecto (formato libre)
+  status_quote: 'Apertura: viernes 23 octubre 2026'
+  staff_costs_quote: Not specified for international allies; TdR section '9. Orientaciones para la vinculación
+    de talento humano' covers project human-talent hiring by the executing entity.
+unverified_fields:
+- thematic territorial demands (Anexo 4)
+- cofunding_required
+- whether international allies can receive SGR funds
+verification_notes: Loaded official Minciencias page (node/9581) and extracted TdR PDF (72 pages) on 2026-11-02;
+  only eligibility/duration sections reviewed.
+last_verified: '2026-11-02'
+verification_source: import:regional_multilateral_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:regional_multilateral_2026-11-02.json

@@ -1,0 +1,95 @@
+id: european-commission-pioneering-destination-earth-for-a-sustainable-fut
+title: 'Pioneering Destination Earth for a Sustainable Future: Large-Scale Pilots and Demonstrators -
+  HORIZON-INFRA-2027-TECH-01-02'
+funder: European Commission
+funder_type: multilateral
+program: Horizon Europe Work Programme 2026-2027
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_data_infrastructure
+- ai_ml
+- remote_sensing
+- digital_agriculture
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-TECH-01-02
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-infra-2027-tech-01-02.json
+status: upcoming
+status_basis: official
+published_date: '2027-03-09'
+deadline: 2027-06-15T23:59
+deadline_timezone: Brussels time (CET); exact hour not in portal data (Horizon Europe standard is 17:00)
+deadline_text: Planned opening 2027-03-09; deadline 2027-06-15 (portal data)
+funding_amount_min: 7000000
+funding_amount_max: 12000000
+currency: EUR
+funding_text: RIA; topic budget EUR 30M (2027); EU contribution per project EUR 7-12 million; ~3 grants
+  expected
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Legal entities (universities, research organisations, international organisations,
+  SMEs, public bodies) per Horizon Europe rules; action type HORIZON-RIA
+eligible_countries: EU Member States and Horizon Europe Associated Countries; listed low- and middle-income
+  countries automatically eligible for funding (General Annex B)
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'Horizon Europe standard rules (General Annex B): legal entities in EU Member
+  States/Associated Countries and in listed low- and middle-income countries are automatically eligible
+  for funding; other third-country entities may join as associated partners or self-funded. Bioversity
+  International (legal entity registered in Italy) can participate as a funded beneficiary or coordinator;
+  CIAT (international organisation HQ Colombia) funding depends on Colombia''s status in the 2026-2027
+  Annex B list (not verified here).'
+lead_applicant_requirements: 'Standard consortium: at least three independent legal entities from three
+  different EU/Associated Countries, at least one in an EU Member State'
+geographic_restrictions: Pilots must be co-designed and experimented in at least three Member States and/or
+  Associated Countries; beneficiaries must use the Destination Earth system and Copernicus/Galileo; subject
+  to restrictions for the protection of European communication networks.
+consortium_required: 'yes'
+consortium_details: Pilots must be co-designed and experimented in at least three Member States and/or
+  Associated Countries; beneficiaries must use the Destination Earth system and Copernicus/Galileo; subject
+  to restrictions for the protection of European communication networks.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs
+eligible_activities: Large-scale pilots using Destination Earth digital twins + AI Factories data labs
+  for climate adaptation/risk in sectors such as agri-food, health, energy
+required_documents: Part A administrative forms + Part B technical proposal via Funding & Tenders Portal
+  submission system
+application_procedure: Electronic submission via EU Funding & Tenders Portal (single stage)
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Climate digital twins, AI and EO for adaptation, with agri-food named
+  as a sector - direct fit to geospatial AI and crop modelling
+strategic_relevance: 3
+strategic_relevance_rationale: Europe-focused pilots (3 MS/AC); Alliance role would be agri-food modelling
+  partner via Bioversity Italy
+technical_feasibility: 3
+technical_feasibility_rationale: Team has EO/ML/crop modelling capacity but no DestinE track record; needs
+  a European digital-twin consortium
+recommendation: Join a consortium as agri-food/crop-model pilot partner via Bioversity International (Italy);
+  not a lead role.
+potential_partners: ECMWF/ESA/EUMETSAT ecosystem partners, European AI Factories, CMCC (Italy)
+next_action: Approach DestinE-active consortia (e.g., CMCC) before the March 2027 opening
+evidence:
+  deadline_quote: Planned opening 2027-03-09; deadline 2027-06-15 (portal data)
+  eligibility_quote: The pilots and demonstrators should be co-designed and experimented in at least three
+    Member States and/or Associated Countries ... Subject to restrictions for the protection of European
+    communication networks.
+  status_quote: 'Portal status: Forthcoming; planned opening 2027-03-09'
+  staff_costs_quote: Horizon Europe grants reimburse personnel costs as eligible direct costs (standard
+    Model Grant Agreement); lump-sum grants pay per work package and can cover staff.
+unverified_fields:
+- exact deadline hour
+- Colombia/CIAT automatic funding eligibility under 2026-2027 General Annex B
+- project duration (not stated in topic text)
+verification_notes: Loaded official topic data JSON from the EU Funding & Tenders Portal (https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-infra-2027-tech-01-02.json)
+  and the SEDIA search API on 2026-11-02. Status, opening date, deadline(s), budget per project and topic
+  conditions taken from that data. Not in existing records list.
+last_verified: '2026-11-02'
+verification_source: import:europe_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:europe_2026-11-02.json

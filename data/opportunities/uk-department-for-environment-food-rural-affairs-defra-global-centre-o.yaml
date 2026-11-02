@@ -1,0 +1,112 @@
+id: uk-department-for-environment-food-rural-affairs-defra-global-centre-o
+title: Global Centre on Biodiversity for Climate (GCBC) Research Grant Competition 4 (RGC4) - Concept
+  Note window (Amazon, Congo Basin, Coral Triangle)
+funder: UK Department for Environment, Food & Rural Affairs (Defra) - Global Centre on Biodiversity for
+  Climate (UK ICF/ODA)
+funder_type: bilateral
+program: 'GCBC Research Grant Competition 4 (RGC4): Enabling transformative change - addressing drivers
+  of biodiversity loss in three critical regions'
+opportunity_type: grant
+themes:
+- biodiversity
+- multifunctional_landscapes
+- climate_adaptation
+- climate_mitigation
+- remote_sensing
+- smallholders
+- food_security
+url: https://www.gcbc.org.uk/grants/
+source_urls:
+- https://www.gcbc.org.uk/
+- https://www.gcbc.org.uk/wp-content/uploads/2026/10/RGC4-Invitation-to-Apply-Overview-1.pdf
+- https://www.gcbc.org.uk/wp-content/uploads/2026/10/GCBC-RGC4-Frequently-Asked-Questions-FAQS-201026-1.pdf
+- https://www.gcbc.org.uk/wp-content/uploads/2026/08/GCBC-RGC4-Theme-Paper-FINAL.pdf
+status: open
+status_basis: official
+published_date: Not specified
+deadline: 2026-11-30T12:00
+deadline_timezone: GMT
+deadline_text: The closing date for Concept Notes is 12:00 noon GMT on 30 November 2026.
+funding_amount_min: 200000
+funding_amount_max: 1500000
+currency: GBP
+funding_text: Projects with a budget of between £200,000 and £1,500,000; aim to fund a mixed portfolio
+  of up to 12 grants.
+duration: 2 to 4 years
+duration_months_max: 48
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Led by a Research Organisation. UK-registered leads must be on the UKRI eligible
+  list; non-UK leads must demonstrate they are legally constituted, have a research remit and relevant
+  research experience. Lead organisations from ODA-eligible countries especially welcome. Private sector
+  can be consortium partners but not lead or receive funds for profit.
+eligible_countries: Research must focus on OECD DAC (ODA)-eligible countries within the Amazon Basin,
+  Congo Basin and Coral Triangle; at least one implementing partner legally registered in an ODA-eligible
+  country in a focal geography.
+international_orgs_eligible: unclear
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'FAQ: lead organisations can be based outside the UK, and ''A lead organisation
+  may be based outside the ODA country ... in such a case at least one partner organisation must be based
+  in the ODA-country.'' CIAT (legally constituted research organization headquartered in Colombia, an
+  ODA country with Amazon territory) or Bioversity (Italy) could lead; CIAT Colombia/Peru offices could
+  also serve as in-region partner. International-organization status not explicitly addressed; confirm
+  with infogcbc@gcbc.org.uk.'
+lead_applicant_requirements: Research Organisation, legally constituted, research remit; capable of managing
+  the grant budget.
+geographic_restrictions: Amazon Basin (east of the Pacific/Atlantic watershed; eastern Andean slopes included;
+  Galapagos excluded), Congo Basin, Coral Triangle; DAC-eligible countries only (French Guiana excluded;
+  Guyana expected to graduate 2027).
+consortium_required: optional
+consortium_details: Partnerships expected; at least one implementing partner registered in an ODA-eligible
+  country in a focal geography. Organisations may join more than one concept note if projects are distinct.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Research on drivers of biodiversity loss (incl. land-use change/agricultural expansion)
+  and transformative change linked to climate and poverty in the three regions. Budget lines include staff,
+  travel, equipment, sub-contractors, overheads (15% cap, excluding MEL).
+required_documents: 'Stage 1: Concept Note with indicative budget (only 10% variance allowed vs full proposal).
+  Stage 2 (invited): full proposal.'
+application_procedure: 'Two-stage: Concept Note via GCBC application portal (linked from Invitation to
+  Apply Overview) by 30 Nov 2026 12:00 GMT; shortlisted applicants invited to full proposal. Clarifying-questions
+  deadline (30 Oct) has passed.'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Land-use drivers of deforestation/biodiversity loss in the Amazon map
+  directly onto EO/remote sensing, landscape modelling and agricultural-frontier work (e.g., cattle/cacao/coffee
+  landscapes in Colombian/Peruvian Amazon).
+strategic_relevance: 5
+strategic_relevance_rationale: Multi-year (up to 4 yrs), staff-eligible (PI up to 100% time), up to £1.5M,
+  Amazon focus aligned with Alliance Multifunctional Landscapes and LAC presence; CIAT HQ in an eligible
+  ODA country.
+technical_feasibility: 4
+technical_feasibility_rationale: Alliance has Amazon landscape, deforestation-free value chain and EO
+  teams and established Colombian/Peruvian partners; concept note feasible in four weeks.
+recommendation: 'Strong candidate: pursue an Amazon-focused concept note (agricultural drivers of biodiversity
+  loss, EO monitoring + transformative change pathways) with CIAT as lead or with a national partner lead.'
+potential_partners: Instituto SINCHI, Universidad Nacional de Colombia (Amazonía), IIAP Peru, Fundación
+  Gaia Amazonas, UK university partners (e.g., Lancaster, Oxford ECI), CIFOR-ICRAF.
+next_action: Download Invitation to Apply Overview and Theme Paper; email infogcbc@gcbc.org.uk to confirm
+  CIAT eligibility as lead; draft concept note and indicative budget by 30 Nov 2026 12:00 GMT.
+evidence:
+  deadline_quote: The closing date for Concept Notes is 12:00 noon GMT on 30 November 2026.
+  eligibility_quote: A lead organisation may be based outside the ODA country (or countries) in which
+    research will be conducted. However, in such a case at least one partner organisation must be based
+    in the ODA-country.
+  status_quote: We are now accepting Concept Notes for Research Grant Competition 4 (RGC4)
+  staff_costs_quote: Yes- the PI's salary is an acceptable cost. ... The PI (or any other individual within
+    the partnership) can have up to 100% of their time covered- providing this is justified
+unverified_fields:
+- published_date
+- international_orgs_eligible (not explicitly addressed)
+- cofunding_required
+verification_notes: 'Loaded gcbc.org.uk homepage and /grants/ page and extracted text from RGC4 FAQ PDF
+  (dated 20 Oct 2026) on 2026-11-02. Note: funder is UK government (Defra), outside the US/philanthropy
+  group; included because discovered in this sweep and not in existing records - check for duplication
+  with UK/EU groups.'
+last_verified: '2026-11-02'
+verification_source: import:philanthropy_us_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:philanthropy_us_2026-11-02.json

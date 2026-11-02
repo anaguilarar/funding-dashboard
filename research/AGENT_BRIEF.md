@@ -1,6 +1,6 @@
 # Research brief for funding-verification agents
 
-Today is **2026-10-14**. You are verifying funding opportunities for a researcher at the
+Today is **2026-11-02**. You are verifying funding opportunities for a researcher at the
 **Alliance of Bioversity International and CIAT** (a CGIAR center; legal entities: Bioversity
 International, registered in Italy, and CIAT, an international organization headquartered in
 Cali, Colombia; the Alliance has offices in Latin America, Africa and Asia). Research areas:
@@ -21,7 +21,7 @@ food security/smallholders, open-source research software.
    find, WebFetch to read). Secondary sources (news, aggregators like fundsforngos) may only be
    used to discover leads; every reported fact must be confirmed on an official page.
 2. Only report opportunities that are **open, rolling/continuous, or officially announced as
-   upcoming** as of 2026-10-14. Closed calls: only include if the funder officially states a next
+   upcoming** as of 2026-11-02. Closed calls: only include if the funder officially states a next
    cycle (then status=upcoming or monitoring, and say so). Never label something "open" without an
    official application process being available.
 3. **Never invent** amounts, deadlines, eligibility, documents. If not stated, use the literal
@@ -45,7 +45,7 @@ Write a single JSON file (UTF-8) at the path given in your task with this shape:
 ```json
 {
   "group": "<group name>",
-  "searched_on": "2026-10-14",
+  "searched_on": "2026-11-02",
   "opportunities": [
     {
       "title": "...",

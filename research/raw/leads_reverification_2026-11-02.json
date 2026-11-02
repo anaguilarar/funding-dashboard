@@ -1,0 +1,279 @@
+{
+  "group": "leads_reverification",
+  "searched_on": "2026-11-02",
+  "opportunities": [
+    {
+      "title": "Green Climate Fund funding proposals through the CGIAR System Organization (GCF-accredited entity)",
+      "funder": "Green Climate Fund (GCF)",
+      "funder_type": "multilateral",
+      "program": "GCF funded activities (funding proposals; Simplified Approval Process / Project Preparation Facility as applicable) via accredited entity 'CGIAR System Organization'",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "climate_mitigation",
+        "climate_smart_ag",
+        "multifunctional_landscapes",
+        "food_security",
+        "smallholders",
+        "climate_data_infrastructure"
+      ],
+      "url": "https://www.greenclimate.fund/partners/accredited-entities/cgiar",
+      "source_urls": [
+        "https://www.greenclimate.fund/partners/accredited-entities/all",
+        "https://www.greenclimate.fund/document/accreditation-master-agreement-between-gcf-and-cgiar-system-organization"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "No call deadline; funding proposals are submitted by accredited entities on a continuous basis. AE page: 'Re-accreditation submission deadline: 29 Mar 2027'; 'Renewal date: 29 Sep 2027'; 'Term end date: 29 Sep 2027'.",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Accreditation scope listed by GCF: 'Size: Small'; 'ESS Category: Category C, Intermediation 3'; 'Fiduciary Standards: Basic, Project management, Grant award'. No per-project amount on the AE page; FP304 amount not listed there.",
+      "duration": "Not specified",
+      "duration_months_max": null,
+      "covers_staff_costs": "Not specified",
+      "support_type": "project_funding",
+      "eligible_applicants": "Only GCF accredited entities submit funding proposals. CGIAR System Organization is accredited (Status: Accredited; Type: International; Country: France (Montpellier)); CGIAR centers would develop/execute projects under it.",
+      "eligible_countries": "GCF-eligible developing countries (NDA no-objection is a standard GCF rule, not restated on the AE page).",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "Re-verified 2026-11-02: 'CGIAR System Organization (CGIAR)' remains Accredited (approved 19 Oct 2018; AMA executed 21 Sep 2022, effective 30 Sep 2022; term end/renewal 29 Sep 2027; re-accreditation submission deadline 29 Mar 2027). One project listed: FP304 LARACI (Cote d'Ivoire), 'Under implementation'. No individual CGIAR center is separately accredited. Route for the Alliance: co-develop with an NDA and submit through the CGIAR System Organization (Small, Category C, grant-award scope only), or serve as executing/technical partner of another AE (FAO, IFAD, UNDP, WFP, CAF, CABEI, IDB, national DAEs). Key risk: accreditation term ends 29 Sep 2027 unless re-accreditation is submitted by 29 Mar 2027.",
+      "lead_applicant_requirements": "Accredited entity (CGIAR System Organization) as lead; NDA no-objection; project must fit the AE's accreditation scope (Small, Category C, grant award).",
+      "geographic_restrictions": "GCF-eligible developing countries.",
+      "consortium_required": "yes",
+      "consortium_details": "Accredited entity + NDA (country ownership) + executing entities (CGIAR centers, national institutions).",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Climate adaptation and mitigation projects in GCF result areas (e.g., food and water security, livelihoods, ecosystems, forests and land use).",
+      "required_documents": "Standard GCF concept note / funding proposal package (FP304 documents on the AE page: concept note, funding proposal, gender assessment, gender action plan).",
+      "application_procedure": "Engage the CGIAR System Organization GCF focal point and the target country's NDA; submit concept note via the GCF Partner Portal through the AE; optionally request Project Preparation Facility support.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Climate-resilient agri-food systems and land management (cf. FP304) use climate risk analytics, EO monitoring and crop modelling directly; methods are components rather than the main output.",
+      "strategic_relevance": 5,
+      "strategic_relevance_rationale": "Only verified direct route from CGIAR to GCF; large-scale, country-owned adaptation programmes in LAC/Africa/Asia fit the Alliance mission.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Alliance can deliver climate-information/EO/advisory components, but GCF project development takes 1-3 years, needs NDA buy-in and System-level coordination; accreditation renewal due Sep 2027.",
+      "recommendation": "Pursue as a medium-term pipeline; first confirm with the CGIAR System Organization that re-accreditation will be submitted by 29 Mar 2027, otherwise plan via another AE (FAO/IFAD/WFP/CAF).",
+      "potential_partners": "CGIAR System Organization (AE); NDAs; national meteorological services; FAO/IFAD/WFP as alternative AEs; CIFOR-ICRAF (FP304 experience).",
+      "next_action": "Contact the CGIAR System Organization GCF focal point about re-accreditation plans and the internal pipeline; shortlist 1-2 countries with NDAs open to a CGIAR-led concept.",
+      "evidence": {
+        "deadline_quote": "Re-accreditation submission deadline: 29 Mar 2027 ... Renewal date: 29 Sep 2027 ... Term end date: 29 Sep 2027",
+        "eligibility_quote": "Status: Accredited | Type: International | Size: Small | ESS Category: Category C, Intermediation 3 | Fiduciary Standards: Basic, Project management, Grant award",
+        "status_quote": "FP304: Enhancing Sustainable Land Management and Climate-Resilient Agri-food Systems in Cote d'Ivoire (LARACI) ... Under implementation",
+        "staff_costs_quote": "Not specified (AE page has no cost rules)"
+      },
+      "unverified_fields": [
+        "per-project USD range for GCF 'Small' category",
+        "internal CGIAR process for centers to channel proposals through the System Organization",
+        "NDA no-objection requirement (standard GCF rule, not restated on AE page)",
+        "covers_staff_costs",
+        "duration_months_max"
+      ],
+      "verification_notes": "Re-loaded the official GCF AE page on 2026-11-02 (flagged call_page_changed). Content consistent with 2026-10-14 verification; page now also shows 'Type: International', 'Country: France (Montpellier)' and 'Term end date: 29 Sep 2027'. Accreditation date shown inconsistently (19 vs 20 Oct 2018). Recent documents: FP304 approved funding proposal (23 Jul 2026), gender action plan and assessment (12 Jun 2026). No substantive change affecting the Alliance."
+    },
+    {
+      "title": "Cambridge Africa Climate Collaborative Research Fund 2026/27 (Mastercard Foundation - University of Cambridge Climate Resilience and Sustainability Research Fund, round 3)",
+      "funder": "Mastercard Foundation (administered by University of Cambridge / Cambridge-Africa)",
+      "funder_type": "foundation",
+      "program": "Africa Climate Collaborative - Cambridge Africa Climate Collaborative Research Fund (formerly CReSus)",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "remote_sensing",
+        "ai_ml",
+        "food_security",
+        "capacity_building"
+      ],
+      "url": "https://www.cambridge-africa.cam.ac.uk/initiatives/mastercard-foundation-and-university-of-cambridge-climate-resilience-and-sustainability-research-fund/",
+      "source_urls": [
+        "https://www.cambridge-africa.cam.ac.uk/assets/MCF-Call/MCF-2026/Cambridge-Africa-Climate-Collaborative-Research-Fund-Guidance-for-Applicants-2026-27.pdf"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-10-15",
+      "deadline": "2027-01-15T23:59",
+      "deadline_timezone": "Not specified",
+      "deadline_text": "The deadline for submission is 15th January 2027 and applications can be submitted at any time before this. Timeline: 15th October 2026 Applications open; 15th January 2027 Applications close; March 2027 Application outcomes confirmed.",
+      "funding_amount_min": null,
+      "funding_amount_max": 80000,
+      "currency": "GBP",
+      "funding_text": "Research Catalyst Grant for up to GBP 25,000, a Research Project Grant for up to GBP 80,000 or a Workshop Grant for up to GBP 50,000. We do not cover salaries of either investigator, institutional overheads, indirect costs or grant administration costs. Overall fund: GBP 7.7 million from the Mastercard Foundation, 2025-2030.",
+      "duration": "Approx. 12 months (Catalyst and Workshop grants) or up to 18 months (Research Project Grant); no-cost extensions up to 6 months considered",
+      "duration_months_max": 18,
+      "covers_staff_costs": "no",
+      "support_type": "project_funding",
+      "eligible_applicants": "Pairs of researchers (post-doctoral level or above; equivalent experience considered): one from the University of Cambridge (lead, administers the award) and one from a university or research institution of comparable standing on the African continent. Both must be employed at their institutions.",
+      "eligible_countries": "African partner: any country on the African continent; lead must be University of Cambridge",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "Cannot lead (Cambridge applicant is always lead). The Alliance could be the Africa-based partner only via a researcher employed at an Alliance office in Africa (e.g., Nairobi) and only if accepted as a 'research institution of comparable standing to a university' - not stated explicitly; confirm with africaclimatecollaborative@cambridge-africa.cam.ac.uk. A Cali-based researcher cannot be the African applicant. Salaries and overheads not covered.",
+      "lead_applicant_requirements": "Cambridge-based applicant leads for administrative purposes, registers and invites the Africa-based applicant.",
+      "geographic_restrictions": "Research relevant to climate resilience and sustainability on the African continent; equipment must remain with the African institution.",
+      "consortium_required": "yes",
+      "consortium_details": "Mandatory Cambridge + African institution pair; true collaboration required. Research Project Grants require evidence of prior successful collaboration.",
+      "cofunding_required": "no",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Seed/catalyst research, larger collaborative research projects, skills workshops in Africa; equipment for use in Africa.",
+      "required_documents": "Case for support; itemised budget; lay summary; letters of support from both departments/institutions; CVs; suggested referees.",
+      "application_procedure": "Online joint application form on the Cambridge-Africa website, started by the Cambridge applicant who invites the African applicant.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Climate resilience interpreted broadly; accommodates EO/AI crop monitoring, yield forecasting, climate-smart agriculture in Africa.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Builds a Cambridge partnership and Africa capacity; small amounts, no salary/overhead coverage.",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Seed/workshop formats (e.g., GEE/EO training workshop) easily deliverable.",
+      "recommendation": "Pursue only if an Africa-based Alliance colleague and a Cambridge counterpart can be lined up before mid-December 2026; confirm Alliance eligibility as African institution first.",
+      "potential_partners": "University of Cambridge (Geography, Plant Sciences, Computer Science/AI for Environmental Risks), Alliance Africa hub (Nairobi), Makerere, University of Ghana, UCT",
+      "next_action": "Email africaclimatecollaborative@cambridge-africa.cam.ac.uk to confirm whether an Alliance Africa office qualifies; identify a Cambridge lead in November 2026.",
+      "evidence": {
+        "deadline_quote": "The deadline for submission is 15th January 2027and applications can be submitted at any time before this.",
+        "eligibility_quote": "research institutions of comparable standing to a university) on the African continent",
+        "status_quote": "the third round of applications is open",
+        "staff_costs_quote": "We do not cover salaries of either investigator, institutional overheads, indirect costs or grant administration costs."
+      },
+      "unverified_fields": [
+        "cgiar_eligible",
+        "international_orgs_eligible",
+        "deadline_timezone"
+      ],
+      "verification_notes": "Re-loaded the official page and the Guidance for Applicants 2026-27 PDF on 2026-11-02 (PDF metadata shows it was regenerated 29 Oct 2026; text extracted with pypdf). Page change appears to be the rebranding to 'Cambridge Africa Climate Collaborative' (formerly CReSus), fund size GBP 7.7M (2025-2030) and '52 awards across 19 African countries' from two earlier rounds. Deadline, amounts, durations, eligibility and cost rules unchanged."
+    },
+    {
+      "title": "Horizon Europe Adaptation Mission: Researching and applying the potential of AI to foster climate resilience at regional and local levels (HORIZON-MISS-2027-01-CLIMA-02)",
+      "funder": "European Commission",
+      "funder_type": "multilateral",
+      "program": "Horizon Europe - EU Mission on Adaptation to Climate Change (Work Programme 2026-2027, call HORIZON-MISS-2027-01)",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_adaptation",
+        "ai_ml",
+        "climate_data_infrastructure",
+        "digital_agriculture",
+        "capacity_building"
+      ],
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-01-CLIMA-02",
+      "source_urls": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-01-clima-02.json"
+      ],
+      "status": "upcoming",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": "2027-09-21",
+      "deadline_timezone": "Not specified",
+      "deadline_text": "Forthcoming; planned opening 9 Feb 2027; single-stage deadline 21 Sep 2027 (official portal topic data, status 'Forthcoming').",
+      "funding_amount_min": 3000000,
+      "funding_amount_max": 3000000,
+      "currency": "EUR",
+      "funding_text": "Indicative budget EUR 12,000,000 (2027); expected 4 grants; EU contribution EUR 3,000,000 per project. HORIZON-RIA, Lump Sum Grant.",
+      "duration": "Not specified",
+      "duration_months_max": null,
+      "covers_staff_costs": "yes",
+      "support_type": "project_funding",
+      "eligible_applicants": "Standard Horizon Europe consortium rules (Annex B of General Annexes); no topic-specific restriction on participation.",
+      "eligible_countries": "EU Member States and Associated Countries; low/middle-income countries per Annex B; tools must be tested with European regional/local authorities.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "No topic-specific IO exception. Under Annex B, international organisations are funded only in specific cases; Bioversity International (HQ Rome, Italy) is the more plausible Alliance entity to participate; CIAT (Colombia) would at best be an associated partner. Topic targets European regions/local authorities (Objective 1: test with >=3; Objective 2: >=5 regional/local authorities, engaging private sector, e.g. smart agriculture), so the Alliance would be a technical partner (AI/EO for agricultural adaptation) rather than coordinator. Confirm Alliance legal status/PIC with grants office.",
+      "lead_applicant_requirements": "Standard HE RIA (min. 3 independent entities from 3 different MS/AC, at least one from a MS).",
+      "geographic_restrictions": "Use cases in European regions/local authorities.",
+      "consortium_required": "yes",
+      "consortium_details": "Consortium must engage regional/local authorities (>=3 for Obj. 1, >=5 for Obj. 2) and private-sector actors (Obj. 2); link with Mission Implementation Platform, UNDERPIN, CLIMAAX.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified",
+      "eligible_activities": "Objective 1 'AI for more accessible data' (deep learning to make climate data accessible for regional decision-making, possibly using Destination Earth); Objective 2 'AI for sectoral adaptation' (ML tools for resource management in sectors such as smart agriculture, water management); training and dissemination.",
+      "required_documents": "Standard HE application form (Part A/B) and detailed lump-sum budget table via the Funding & Tenders Portal.",
+      "application_procedure": "Submit via the EU Funding & Tenders Portal once open (planned 9 Feb 2027).",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "AI/ML for climate adaptation, climate data accessibility and smart agriculture directly matches RS/AI/climate-ag skills.",
+      "strategic_relevance": 2,
+      "strategic_relevance_rationale": "Europe-focused use cases; limited fit with Alliance LAC/Africa/Asia mission; partner role only.",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Team has AI/EO and crop/climate modelling capability; needs a European consortium.",
+      "recommendation": "Consider only as a technical partner (via Bioversity International, Italy) in a European consortium targeting Objective 2 (smart agriculture); low priority otherwise.",
+      "potential_partners": "European universities/regional agencies in Italy/Spain; CMCC; Wageningen; regional authorities; agri-tech SMEs",
+      "next_action": "Check with Alliance grants office whether Bioversity International can be a funded beneficiary; scout European consortia before opening (Feb 2027).",
+      "evidence": {
+        "deadline_quote": "status 'Forthcoming'; plannedOpeningDate 2027-02-09; deadlineDates 2027-09-21 (portal topic data)",
+        "eligibility_quote": "Eligible countries: described in Annex B of the Work Programme General Annexes ... Other Eligibility Conditions described in Annex B",
+        "status_quote": "Forthcoming",
+        "staff_costs_quote": "Eligible costs will take the form of a lump sum (HE lump sums cover personnel costs as budgeted)"
+      },
+      "unverified_fields": [
+        "deadline time and timezone",
+        "duration_months_max",
+        "cgiar_eligible",
+        "international_orgs_eligible"
+      ],
+      "verification_notes": "Loaded official F&T portal topic JSON on 2026-11-02 (topic page is JS-rendered). Dates converted from epoch ms (UTC). Topic is 'Forthcoming'; details may change at opening."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "European Space Agency",
+      "name": "ESA Living Planet Fellowship",
+      "url": "https://eo4society.esa.int/communities/scientists/living-planet-fellowship/",
+      "type": "html",
+      "why": "Page states 'There is currently no active Call. Stay tuned for a new Call in early 2027.' Postdoc fellowship; eligibility (ESA Member State nationality/host) must be checked when call opens."
+    },
+    {
+      "funder": "Google.org",
+      "name": "Google.org Accelerator: Generative AI",
+      "url": "https://impactchallenge.withgoogle.com/genaiaccelerator/",
+      "type": "html",
+      "why": "No open call: page says 'Organizations have now been selected' (2025 cohort of 20). Watch for a next open call."
+    },
+    {
+      "funder": "NASA",
+      "name": "ROSES-25 Table 2 (Earth Science due dates)",
+      "url": "https://solicitation.nasaprs.com/ROSES2025table2",
+      "type": "html",
+      "why": "Remaining ROSES-25 Earth Science dates: A.15 Biosphere Step-2 6 Nov 2026, A.14 Atmosphere 2 Dec 2026, A.16 Cryosphere 4 Dec 2026, A.17 Hydrosphere Step-2 28 Jan 2027, A.18 Geosphere NOI 16 Nov 2026/proposal 15 Jan 2027, A.4 Rapid Response through 31 Dec 2026. No SERVIR/Earth Action/agriculture elements open; ROSES-27 to be released no later than Jan 2027."
+    },
+    {
+      "funder": "NOAA Climate Program Office",
+      "name": "CPO funding opportunities",
+      "url": "https://cpo.noaa.gov/funding-opportunities/",
+      "type": "html",
+      "why": "CPO NOFOs (e.g., SI/ML FY2027) are topically relevant but exclude foreign institutions; watch for US-partner roles."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "NOAA-OAR-CPO-2027-33392 Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard Resilience",
+      "url": "https://www.grants.gov/search-results-detail/364160",
+      "reason": "Ineligible: Grants.gov synopsis (posted 27 Oct 2026, closes 9 Feb 2027, ceiling USD 750,000) states 'Foreign or international institutions are not eligible to apply.' Could only contribute as unfunded collaborator of a US applicant."
+    },
+    {
+      "title": "HORIZON-CL4-2027-SPACE-03-33 Digital enablers and building blocks for collaborative Earth Observation and Satellite telecommunications (Space Partnership)",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-33",
+      "reason": "Ineligible and off-topic: space hardware/SatCom TRL 4-5 RIA (forthcoming, opens 9 Mar 2027, deadline 2 Sep 2027, EUR 1.5-3M); 'participation is limited to legal entities established in Member States, Iceland and Norway and the following additional associated countries: Canada, New-Zealand, United Kingdom and Switzerland.'"
+    },
+    {
+      "title": "HORIZON-CL4-2027-SPACE-03-34 Preparing demonstration missions for collaborative Earth Observation and Satellite telecommunication (Space Partnership)",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-34",
+      "reason": "Ineligible and off-topic: TRL 7-8 space IA (forthcoming, opens 9 Mar 2027, deadline 2 Sep 2027, EUR 5-10M); 'participation is limited to legal entities established in Member States, Norway and Iceland.'"
+    },
+    {
+      "title": "UKRI Small-satellite missions sandpit",
+      "url": "https://www.ukri.org/opportunity/small-satellite-missions-sandpit/",
+      "reason": "Ineligible: UK research organisations only; international organisations explicitly not eligible (EoI closes 25 Nov 2026 16:00 UK). Only possible role is project partner contributing cash/in-kind."
+    },
+    {
+      "title": "Google.org Accelerator: Generative AI",
+      "url": "https://impactchallenge.withgoogle.com/genaiaccelerator/",
+      "reason": "Closed: 'Organizations have now been selected' (2025 cohort); no new open call on official page."
+    },
+    {
+      "title": "ESA Living Planet Fellowship",
+      "url": "https://eo4society.esa.int/communities/scientists/living-planet-fellowship/",
+      "reason": "No active call ('Stay tuned for a new Call in early 2027'); moved to monitor_sources."
+    }
+  ]
+}

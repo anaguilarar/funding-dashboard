@@ -1,0 +1,98 @@
+id: european-commission-horizon-europe-adaptation-mission-researching-and
+title: 'Horizon Europe Adaptation Mission: Researching and applying the potential of AI to foster climate
+  resilience at regional and local levels (HORIZON-MISS-2027-01-CLIMA-02)'
+funder: European Commission
+funder_type: multilateral
+program: Horizon Europe - EU Mission on Adaptation to Climate Change (Work Programme 2026-2027, call HORIZON-MISS-2027-01)
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- ai_ml
+- climate_data_infrastructure
+- digital_agriculture
+- capacity_building
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-01-CLIMA-02
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-miss-2027-01-clima-02.json
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-09-21T23:59
+deadline_timezone: Not specified
+deadline_text: Forthcoming; planned opening 9 Feb 2027; single-stage deadline 21 Sep 2027 (official portal
+  topic data, status 'Forthcoming').
+funding_amount_min: 3000000
+funding_amount_max: 3000000
+currency: EUR
+funding_text: Indicative budget EUR 12,000,000 (2027); expected 4 grants; EU contribution EUR 3,000,000
+  per project. HORIZON-RIA, Lump Sum Grant.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Standard Horizon Europe consortium rules (Annex B of General Annexes); no topic-specific
+  restriction on participation.
+eligible_countries: EU Member States and Associated Countries; low/middle-income countries per Annex B;
+  tools must be tested with European regional/local authorities.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'No topic-specific IO exception. Under Annex B, international organisations are
+  funded only in specific cases; Bioversity International (HQ Rome, Italy) is the more plausible Alliance
+  entity to participate; CIAT (Colombia) would at best be an associated partner. Topic targets European
+  regions/local authorities (Objective 1: test with >=3; Objective 2: >=5 regional/local authorities,
+  engaging private sector, e.g. smart agriculture), so the Alliance would be a technical partner (AI/EO
+  for agricultural adaptation) rather than coordinator. Confirm Alliance legal status/PIC with grants
+  office.'
+lead_applicant_requirements: Standard HE RIA (min. 3 independent entities from 3 different MS/AC, at least
+  one from a MS).
+geographic_restrictions: Use cases in European regions/local authorities.
+consortium_required: 'yes'
+consortium_details: Consortium must engage regional/local authorities (>=3 for Obj. 1, >=5 for Obj. 2)
+  and private-sector actors (Obj. 2); link with Mission Implementation Platform, UNDERPIN, CLIMAAX.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Objective 1 'AI for more accessible data' (deep learning to make climate data accessible
+  for regional decision-making, possibly using Destination Earth); Objective 2 'AI for sectoral adaptation'
+  (ML tools for resource management in sectors such as smart agriculture, water management); training
+  and dissemination.
+required_documents: Standard HE application form (Part A/B) and detailed lump-sum budget table via the
+  Funding & Tenders Portal.
+application_procedure: Submit via the EU Funding & Tenders Portal once open (planned 9 Feb 2027).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: AI/ML for climate adaptation, climate data accessibility and smart agriculture
+  directly matches RS/AI/climate-ag skills.
+strategic_relevance: 2
+strategic_relevance_rationale: Europe-focused use cases; limited fit with Alliance LAC/Africa/Asia mission;
+  partner role only.
+technical_feasibility: 4
+technical_feasibility_rationale: Team has AI/EO and crop/climate modelling capability; needs a European
+  consortium.
+recommendation: Consider only as a technical partner (via Bioversity International, Italy) in a European
+  consortium targeting Objective 2 (smart agriculture); low priority otherwise.
+potential_partners: European universities/regional agencies in Italy/Spain; CMCC; Wageningen; regional
+  authorities; agri-tech SMEs
+next_action: Check with Alliance grants office whether Bioversity International can be a funded beneficiary;
+  scout European consortia before opening (Feb 2027).
+evidence:
+  deadline_quote: status 'Forthcoming'; plannedOpeningDate 2027-02-09; deadlineDates 2027-09-21 (portal
+    topic data)
+  eligibility_quote: 'Eligible countries: described in Annex B of the Work Programme General Annexes ...
+    Other Eligibility Conditions described in Annex B'
+  status_quote: Forthcoming
+  staff_costs_quote: Eligible costs will take the form of a lump sum (HE lump sums cover personnel costs
+    as budgeted)
+unverified_fields:
+- deadline time and timezone
+- duration_months_max
+- cgiar_eligible
+- international_orgs_eligible
+verification_notes: Loaded official F&T portal topic JSON on 2026-11-02 (topic page is JS-rendered). Dates
+  converted from epoch ms (UTC). Topic is 'Forthcoming'; details may change at opening.
+last_verified: '2026-11-02'
+verification_source: import:leads_reverification_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:leads_reverification_2026-11-02.json

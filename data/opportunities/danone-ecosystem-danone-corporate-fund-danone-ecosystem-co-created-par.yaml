@@ -1,0 +1,76 @@
+id: danone-ecosystem-danone-corporate-fund-danone-ecosystem-co-created-par
+title: Danone Ecosystem - co-created partnerships for regenerative agriculture / inclusive food systems
+  (no open call; contact-based)
+funder: Danone Ecosystem (Danone corporate fund)
+funder_type: foundation
+program: Danone Ecosystem partnerships
+opportunity_type: grant
+themes:
+- climate_smart_ag
+- smallholders
+- multifunctional_landscapes
+- food_security
+url: https://ecosystem.danone.com/partner-with-us/
+source_urls: []
+status: monitoring
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No open call; 'Reach out to co-create' (ecosystem@danone.com).
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: Funding can come through 'grants, blended finance, or parallel funding'. No amounts stated.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Co-funders (foundations, development banks, public donors, impact investors); NGOs/local
+  organizations; 'field-based experts and organizations that bring practical, proven know-how' (technical/knowledge
+  partners).
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: CIAT/Bioversity would enter as technical/knowledge partner on a Danone-sourcing-linked
+  project (e.g., regenerative dairy/agriculture landscapes), not via an open call.
+lead_applicant_requirements: Co-design with Danone Ecosystem team.
+geographic_restrictions: Not specified
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Regenerative agriculture (nature mission), watershed protection, inclusive plastic
+  collection; agriculture, waste/water, health.
+required_documents: Not specified
+application_procedure: Contact ecosystem@danone.com to co-create.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Regenerative-agriculture MRV and landscape monitoring with EO plus crop/soil
+  modelling are directly useful to supply-chain programs.
+strategic_relevance: 3
+strategic_relevance_rationale: Corporate agri-food funder able to co-finance multi-year field programs;
+  LAC and Africa presence.
+technical_feasibility: 4
+technical_feasibility_rationale: EO-based regenerative-agriculture monitoring is within team capabilities.
+recommendation: Partnership lead rather than a call. Propose an EO/AI regenerative-agriculture MRV component
+  for a Danone Ecosystem project in LAC.
+potential_partners: Danone Mexico/Brazil sourcing teams; local dairy cooperatives
+next_action: Send a short concept note to ecosystem@danone.com via the Alliance partnerships office.
+evidence:
+  deadline_quote: (no deadline) 'Reach out to co-create'
+  eligibility_quote: field-based experts and organizations that bring practical, proven know-how
+  status_quote: No open calls listed; contact ecosystem@danone.com
+  staff_costs_quote: Not specified
+unverified_fields:
+- amounts
+- eligible_countries
+- covers_staff_costs
+verification_notes: Official ecosystem.danone.com partner page loaded 2026-11-02.
+last_verified: '2026-11-02'
+verification_source: import:corporate_tech_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:corporate_tech_2026-11-02.json

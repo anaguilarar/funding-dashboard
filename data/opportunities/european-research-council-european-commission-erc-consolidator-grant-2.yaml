@@ -1,0 +1,89 @@
+id: european-research-council-european-commission-erc-consolidator-grant-2
+title: ERC Consolidator Grant 2027 - ERC-2027-COG
+funder: European Research Council (European Commission)
+funder_type: multilateral
+program: Horizon Europe - ERC Work Programme 2027
+opportunity_type: research_award
+themes:
+- remote_sensing
+- ai_ml
+- crop_modeling
+- climate_adaptation
+- food_security
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERC-2027-COG
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/erc-2027-cog.json
+- https://erc.europa.eu/apply-grant/consolidator-grant
+status: open
+status_basis: official
+published_date: '2026-09-24'
+deadline: 2027-01-12T23:59
+deadline_timezone: Brussels time (CET); exact hour not in portal data (ERC standard 17:00)
+deadline_text: 'Deadline date: 12 January 2027 (portal topic data, status Open)'
+funding_amount_min: null
+funding_amount_max: 2000000
+currency: EUR
+funding_text: Consolidator Grants may be awarded up to a maximum of EUR 2 000 000 for a period of 60 months.
+  Additional funding up to EUR 1 000 000 can be requested (up to EUR 2 000 000 for PIs relocating to the
+  EU/AC from elsewhere). Call budget EUR 618.5M, ~296 grants.
+duration: Up to 60 months
+duration_months_max: 60
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Individual Principal Investigator (any nationality) with PhD defended 1 Jan 2012
+  - 31 Dec 2021, hosted by a legal entity in an EU Member State or Associated Country
+eligible_countries: Host institution in EU Member State or Horizon Europe Associated Country; PI of any
+  nationality
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Bioversity International (legal entity in Italy, an EU Member State) could act
+  as Host Institution and sign the Host Institution Support Letter; CIAT Colombia cannot host. PI would
+  need to be based at the host (ERC requires substantial time in EU/AC).
+lead_applicant_requirements: PhD defended in the 5-15 year window before 1 Jan 2027 (1 Jan 2012 - 31 Dec
+  2021); evidence of research independence; no previous CoG; binding Host Institution support letter
+geographic_restrictions: Host must be in EU/Associated Country; fieldwork worldwide allowed
+consortium_required: 'no'
+consortium_details: Single PI + host institution
+cofunding_required: 'no'
+cofunding_details: 100% of eligible direct costs + 25% flat-rate indirect
+eligible_activities: Frontier research in any field, bottom-up (e.g., EO/AI crop phenotyping, climate-crop
+  modelling)
+required_documents: Proposal Part B1 (extended synopsis, CV, track record) and B2 (scientific proposal),
+  Host Institution Support Letter, PhD certificate
+application_procedure: Single-stage submission via Funding & Tenders Portal; two-step evaluation with
+  interview
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: 'Bottom-up: researcher''s core expertise (RS + ML phenotyping, crop modelling
+  under climate/SAI scenarios) fits ERC panels'
+strategic_relevance: 4
+strategic_relevance_rationale: 5-year EUR 2M grant would build an independent EO/AI-for-agriculture team
+  hosted at Bioversity (Rome); high prestige
+technical_feasibility: 2
+technical_feasibility_rationale: Highly competitive; needs strong independent track record; ~10 weeks
+  to deadline; PhD date must fall in window (not confirmed here)
+recommendation: Pursue only if the PI's PhD defence falls between 2012 and 2021 and the publication record
+  shows independence; otherwise target later ERC calls. Confirm Bioversity is willing to host.
+potential_partners: Bioversity International (host, Rome)
+next_action: Check PhD defence date against the 2012-2021 window; request host letter from Alliance grants
+  office by mid-December 2026
+evidence:
+  deadline_quote: deadlineDates 2027-01-12 (portal topic data); status 'Open'
+  eligibility_quote: 'The Principal Investigators will be eligible for a Consolidator Grant if they have
+    defended their PhD in the five to fifteen-year period preceding the 1st of January 2027. Cut-off dates:
+    Successful defence of PhD between 1 January 2012 and 31 December 2021 (inclusive)'
+  status_quote: 'Portal status: Open (opened 2026-09-24)'
+  staff_costs_quote: Additional funding up to EUR 1 000 000 can be requested to cover further eligible
+    costs for any cost category
+unverified_fields:
+- exact deadline hour
+- researcher's PhD defence date (eligibility window)
+verification_notes: Loaded official ERC-2027-COG topic data JSON (F&T Portal) on 2026-11-02. Note the
+  ERC WP2027 eligibility window (5-15 years post-PhD).
+last_verified: '2026-11-02'
+verification_source: import:europe_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:europe_2026-11-02.json

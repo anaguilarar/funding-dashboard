@@ -1,0 +1,98 @@
+id: conservation-food-health-foundation-administered-by-gma-foundations-bo
+title: Conservation, Food & Health Foundation Grant Program - Cycle 1 2027 concept applications (window
+  15 Oct - 22 Dec 2026)
+funder: Conservation, Food & Health Foundation (administered by GMA Foundations, Boston)
+funder_type: foundation
+program: Conservation, Food & Health Foundation Grants (applied research in conservation, agriculture/food,
+  health in developing regions)
+opportunity_type: grant
+themes:
+- food_security
+- smallholders
+- climate_smart_ag
+- biodiversity
+- climate_adaptation
+- capacity_building
+url: https://cfhfoundation.grantsmanagement08.com/?page_id=6
+source_urls:
+- https://cfhfoundation.grantsmanagement08.com/
+- https://cfhfoundation.grantsmanagement08.com/?page_id=7
+status: open
+status_basis: official
+published_date: Not specified
+deadline: 2026-12-22T23:59
+deadline_timezone: Not specified
+deadline_text: 'Proposal Cycle 1: Concept application deadline December 22nd; proposal invitation January
+  15th; proposal deadline February 15th; grant awards July 1st. Concept window October 15 - December 22.'
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: No minimum or maximum; most grants expected to fall between $25,000 and $50,000 per year.
+  One-year grants usual; two-year grants possible but rare.
+duration: 1 year (occasionally 2 years)
+duration_months_max: 24
+covers_staff_costs: partial
+support_type: project_funding
+eligible_applicants: Local, regional, national, and international NGOs, nonprofits, CBOs and academic
+  institutions; government agencies and religious organizations may be partners only. One application
+  per organization per review cycle/calendar year.
+eligible_countries: Projects in Africa, Asia, the Caribbean, Latin America and the Middle East (preference
+  for low- and middle-income countries); organizations in upper-income countries may apply with local
+  partners; no post-Soviet or Balkan states.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: FAQ lists 'Local, regional, national, and international NGOs' as eligible; non-US
+  organizations register with placeholder Tax ID. CIAT (Colombia) can apply directly for a project in
+  LAC/Africa/Asia; local leadership is prioritized.
+lead_applicant_requirements: Organization (not individual); local leadership prioritized; one concept
+  per cycle.
+geographic_restrictions: Developing regions listed above; no post-Soviet/Balkan states.
+consortium_required: 'no'
+consortium_details: Not required; local partners expected for organizations from upper-income countries.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Applied research in natural and health sciences, pilot projects, new initiatives,
+  training and technical assistance. Overhead/indirect costs not funded ('Applicants are more competitive
+  when they request only direct costs'); does not typically fund salaries of Executive Directors of US/European
+  organizations.
+required_documents: Online concept application (portal access code 'CFHgrants'); invited full proposal
+  by 15 Feb.
+application_procedure: Register on cfhfoundation.grantsmanagement08.com portal (non-US orgs use Tax ID
+  12-1234567), click APPLY, enter access code CFHgrants, submit concept between 15 Oct and 22 Dec 2026;
+  invitations by 15 Jan 2027.
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Applied agricultural/conservation science for smallholders fits; small
+  scale suits a pilot (e.g., site-specific crop-model advisory or EO-based monitoring pilot) rather than
+  full research programme.
+strategic_relevance: 2
+strategic_relevance_rationale: Small grants (US$25-50k/yr), no overhead, mostly 1 year - limited for sustaining
+  staff, but low effort and directly accessible to CIAT.
+technical_feasibility: 5
+technical_feasibility_rationale: Well within team capabilities; short concept note.
+recommendation: Low-effort complementary option for a field pilot or local-partner capacity component
+  (e.g., Honduras crop-modelling advisory pilot); not a primary vehicle for multi-year staff funding.
+potential_partners: National partners (e.g., DICTA/Zamorano Honduras, Colombian farmer organizations)
+  as co-leads to reflect local leadership preference.
+next_action: Decide on a pilot idea and submit concept on the portal before 22 Dec 2026.
+evidence:
+  deadline_quote: 'Concept application deadline: December 22nd ... windows are October 15 - December 22'
+  eligibility_quote: Local, regional, national, and international NGOs
+  status_quote: Concept application window October 15 - December 22
+  staff_costs_quote: Does not typically fund salaries for Executive Directors of U.S. or European-based
+    organizations (other staff not addressed); 'No. Applicants are more competitive when they request
+    only direct costs.' (on overhead)
+unverified_fields:
+- published_date
+- covers_staff_costs (project staff salaries not explicitly addressed)
+- deadline_timezone
+verification_notes: Loaded official guidelines, How to Apply and FAQ pages on 2026-11-02 (page timestamp
+  Jan 2026; recurring annual timeline). The 22 Dec date is the recurring Cycle 1 deadline stated on the
+  How to Apply page (moves to next business day if weekend/US holiday).
+last_verified: '2026-11-02'
+verification_source: import:philanthropy_us_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:philanthropy_us_2026-11-02.json

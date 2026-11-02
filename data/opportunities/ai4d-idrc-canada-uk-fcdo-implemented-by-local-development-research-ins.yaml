@@ -1,0 +1,91 @@
+id: ai4d-idrc-canada-uk-fcdo-implemented-by-local-development-research-ins
+title: AI4D Research & Innovation for Climate (RICH) Hub - Climate AI Innovation Expressions of Interest
+  (scaling grants up to US$200,000, Africa)
+funder: AI4D (IDRC Canada / UK FCDO), implemented by Local Development Research Institute (LDRI) with
+  AfriClimate AI
+funder_type: bilateral
+program: AI for Development (AI4D) - Research and Innovation for Climate Hub (RICH)
+opportunity_type: accelerator
+themes:
+- ai_ml
+- climate_adaptation
+- climate_smart_ag
+- climate_data_infrastructure
+- digital_agriculture
+url: https://climatehub.developlocal.org/2026/10/the-research-innovation-for-climate-hub-invites-african-climate-ai-innovators-to-explore-partnership-opportunities/
+source_urls:
+- https://climatehub.developlocal.org/
+- https://www.ai4d.ai/blog/scaling-what-works-the-rich-s-search-for-africa-s-viable-climate-ai-solutions
+- https://forms.gle/FiQxisqtCuAcmu9B8
+status: rolling
+status_basis: official
+published_date: '2026-10-13'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: accepts Expressions of Interest on a rolling basis
+funding_amount_min: null
+funding_amount_max: 200000
+currency: USD
+funding_text: Selected innovations may receive potential scaling grants of up to USD 200,000, plus technical
+  and innovation support, coaching, research and piloting opportunities. 'Submitting an EOI does not guarantee
+  selection, support, or funding.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: African climate AI innovators, researchers, startups, organizations and solution
+  developers with African-led or Africa-based innovations at pilot stage or beyond.
+eligible_countries: Africa
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Requires 'African-led or Africa-based innovations'. An Alliance tool developed
+  and led from the Nairobi office (or co-led with an African partner, e.g., a national met agency) may
+  qualify; international research centres not explicitly mentioned.
+lead_applicant_requirements: African-led or Africa-based innovation at pilot stage or beyond.
+geographic_restrictions: Africa
+consortium_required: 'no'
+consortium_details: Hub favours public-interest pathways such as national meteorological agencies.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Scaling climate AI solutions (climate-smart agriculture, seasonal/extreme weather
+  forecasting, flood forecasting, carbon-sink and deforestation monitoring, etc.).
+required_documents: Online EOI form.
+application_procedure: Complete the RICH Hub Climate AI Innovation Expression of Interest Form (Google
+  Form); selected innovators contacted for support/scaling grants.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: Climate AI for agriculture/forecasting in Africa matches digital advisory,
+  EO and crop-yield forecasting work.
+strategic_relevance: 3
+strategic_relevance_rationale: Useful for scaling an existing African climate-ag AI tool and linking to
+  the AI4D network; amounts modest and staffing/duration not specified.
+technical_feasibility: 4
+technical_feasibility_rationale: Requires an existing pilot-stage tool; Alliance Africa has several (e.g.,
+  climate advisory/forecast tools).
+recommendation: Submit a short EOI for an Africa-led Alliance climate-AI tool with an African co-lead
+  (e.g., national met service) - low cost, rolling.
+potential_partners: KMD (Kenya Meteorological Department), ICPAC, AfriClimate AI, national agricultural
+  research institutes.
+next_action: Identify an Africa-led pilot-stage tool and submit the EOI form; ask LDRI whether international
+  research centres with African offices qualify.
+evidence:
+  deadline_quote: accepts Expressions of Interest on a rolling basis
+  eligibility_quote: African-led or Africa-based innovations ... reached the pilot stage or beyond
+  status_quote: The Research & Innovation for Climate Hub invites African climate AI innovators to explore
+    partnership opportunities (posted 13 October 2026)
+  staff_costs_quote: Not specified
+unverified_fields:
+- covers_staff_costs
+- duration
+- cgiar_eligible
+- international_orgs_eligible
+verification_notes: Loaded RICH Hub site and EOI post (13 Oct 2026) and AI4D blog (30 Jun 2026) on 2026-11-02.
+  Aggregators citing a 30 Oct 2026 deadline conflict with the official 'rolling basis' text; official
+  text used.
+last_verified: '2026-11-02'
+verification_source: import:philanthropy_us_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:philanthropy_us_2026-11-02.json

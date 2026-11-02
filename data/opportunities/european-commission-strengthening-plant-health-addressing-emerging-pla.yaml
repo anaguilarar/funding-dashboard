@@ -1,0 +1,91 @@
+id: european-commission-strengthening-plant-health-addressing-emerging-pla
+title: 'Strengthening plant health: addressing emerging plant pest risks - HORIZON-CL6-2027-02-FARM2FORK-01-two-stage'
+funder: European Commission
+funder_type: multilateral
+program: Horizon Europe Work Programme 2026-2027
+opportunity_type: consortium_call
+themes:
+- food_security
+- climate_adaptation
+- remote_sensing
+- ai_ml
+- crop_modeling
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-01-two-stage
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl6-2027-02-farm2fork-01-two-stage.json
+status: upcoming
+status_basis: official
+published_date: '2027-02-04'
+deadline: 2027-04-08T23:59
+deadline_timezone: Brussels time (CET); exact hour not in portal data (Horizon Europe standard is 17:00)
+deadline_text: Planned opening 2027-02-04; first-stage deadline 2027-04-08; second-stage deadline 2027-09-14
+  (portal data)
+funding_amount_min: 6000000
+funding_amount_max: 6000000
+currency: EUR
+funding_text: RIA; topic budget EUR 12M; EU contribution per project around EUR 6 million; 2 grants expected
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Legal entities (universities, research organisations, international organisations,
+  SMEs, public bodies) per Horizon Europe rules; action type HORIZON-RIA
+eligible_countries: EU Member States and Horizon Europe Associated Countries; listed low- and middle-income
+  countries automatically eligible for funding (General Annex B)
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'Horizon Europe standard rules (General Annex B): legal entities in EU Member
+  States/Associated Countries and in listed low- and middle-income countries are automatically eligible
+  for funding; other third-country entities may join as associated partners or self-funded. Bioversity
+  International (legal entity registered in Italy) can participate as a funded beneficiary or coordinator;
+  CIAT (international organisation HQ Colombia) funding depends on Colombia''s status in the 2026-2027
+  Annex B list (not verified here).'
+lead_applicant_requirements: 'Standard consortium: at least three independent legal entities from three
+  different EU/Associated Countries, at least one in an EU Member State'
+geographic_restrictions: International cooperation with countries affected or threatened by the same pest(s)
+  is strongly encouraged; JRC may participate. Standard third-country rules.
+consortium_required: 'yes'
+consortium_details: International cooperation with countries affected or threatened by the same pest(s)
+  is strongly encouraged; JRC may participate. Standard third-country rules.
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs
+eligible_activities: Drivers of emerging plant pests incl. climate change; preventive/curative measures;
+  scientific support to plant-health decision-making
+required_documents: Part A administrative forms + Part B technical proposal via Funding & Tenders Portal
+  submission system
+application_procedure: 'Electronic submission via EU Funding & Tenders Portal (two-stage: short first-stage
+  proposal, invited full second-stage proposal)'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Pest-risk modelling/early detection can use RS + ML and climate-crop models
+strategic_relevance: 4
+strategic_relevance_rationale: Alliance works on pests/diseases of banana (Fusarium TR4), cassava, beans
+  in LAC/Africa; international cooperation encouraged
+technical_feasibility: 3
+technical_feasibility_rationale: Requires plant-pathology partners; RS/ML component feasible
+recommendation: 'Moderate: join as international partner bringing tropical pest knowledge and EO/ML risk
+  mapping.'
+potential_partners: EPPO, INRAE, JKI, CABI, IITA, Alliance plant-health teams
+next_action: Discuss with Alliance plant-health colleagues; identify EU lead before Feb 2027
+evidence:
+  deadline_quote: Planned opening 2027-02-04; first-stage deadline 2027-04-08; second-stage deadline 2027-09-14
+    (portal data)
+  eligibility_quote: International cooperation with countries affected or threatened by the same pest(s)
+    is strongly encouraged.
+  status_quote: 'Portal status: Forthcoming; planned opening 2027-02-04'
+  staff_costs_quote: Horizon Europe grants reimburse personnel costs as eligible direct costs (standard
+    Model Grant Agreement); lump-sum grants pay per work package and can cover staff.
+unverified_fields:
+- exact deadline hour
+- Colombia/CIAT automatic funding eligibility under 2026-2027 General Annex B
+- project duration (not stated in topic text)
+verification_notes: Loaded official topic data JSON from the EU Funding & Tenders Portal (https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl6-2027-02-farm2fork-01-two-stage.json)
+  and the SEDIA search API on 2026-11-02. Status, opening date, deadline(s), budget per project and topic
+  conditions taken from that data. Not in existing records list.
+last_verified: '2026-11-02'
+verification_source: import:europe_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:europe_2026-11-02.json

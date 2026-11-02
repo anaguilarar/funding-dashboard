@@ -105,3 +105,4 @@ history:
   detail: staff-cost/duration fields from official sources
 flags:
 - call_page_changed
+- stale_verification

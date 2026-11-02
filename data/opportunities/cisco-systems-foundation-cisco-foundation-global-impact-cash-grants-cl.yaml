@@ -1,0 +1,90 @@
+id: cisco-systems-foundation-cisco-foundation-global-impact-cash-grants-cl
+title: Cisco Foundation Global Impact Cash Grants - Climate Resilience priority sector (incl. regenerative
+  agriculture); year-round LOI
+funder: Cisco Systems Foundation
+funder_type: tech_company
+program: Cisco Global Impact Cash Grants (Climate Resilience)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- climate_smart_ag
+- smallholders
+- multifunctional_landscapes
+- capacity_building
+url: https://www.cisco.com/c/en/us/about/purpose/social-impact/investments/global-impact-cash-grants.html
+source_urls: []
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: We accept applications year-round from eligible organizations.
+funding_amount_min: null
+funding_amount_max: 100000
+currency: USD
+funding_text: The maximum request amount for first-time grant recipients is US$100,000.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: US 501(c)(3) public charities; non-US organizations that are 'the equivalent of a
+  U.S. public charity' (determined from submitted documents). Program audience must be >65% economically
+  underserved. Overhead not to exceed 25% (case-by-case exceptions). Excludes hospitals, healthcare, schools,
+  scholarships, events, grant-making foundations.
+eligible_countries: Global (non-US organizations eligible if equivalent to a US public charity)
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: 'CIAT is an international organization and Bioversity International an Italian-registered
+  international non-profit; whether either passes Cisco''s ''equivalent of a U.S. public charity'' determination
+  is unconfirmed. Alternatives: apply via a US-registered 501(c)(3) partner or support a national NGO
+  partner as lead.'
+lead_applicant_requirements: Pass online eligibility quiz in Cisco Grants portal; LOI; full proposal by
+  invitation only.
+geographic_restrictions: None stated; audience must be >65% economically underserved.
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Climate Resilience: ''education, regenerative agriculture, conservation, protection,
+  and clean energy solutions''.'
+required_documents: Not specified
+application_procedure: 1) Eligibility quiz on Cisco Grants and Cash Donations portal; 2) LOI via portal
+  (review may take up to one business quarter); 3) Full proposal by invitation; decision within one business
+  quarter.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Regenerative/resilient agriculture for underserved communities fits climate-smart
+  ag and digital advisory delivery, but Cisco funds implementation/scale more than research; RS/AI would
+  be enabling tools.
+strategic_relevance: 3
+strategic_relevance_rationale: Global tech-corporate funder with year-round intake; could fund a smallholder
+  digital climate-advisory pilot in LAC/Africa.
+technical_feasibility: 4
+technical_feasibility_rationale: Team can deliver digital advisory/climate-smart ag pilots; main hurdle
+  is entity eligibility; 65% underserved-audience requirement easily met in smallholder settings.
+recommendation: Worth a quick eligibility-quiz test with the Bioversity/CIAT entity; if it fails, pair
+  with a national NGO or US 501(c)(3) partner. Modest size (<= USD 100k first grant) - suitable for a
+  pilot or to co-fund staff time on a digital advisory deployment (staff eligibility not stated).
+potential_partners: National farmer organizations / NGOs in Colombia, Honduras, Kenya; US-registered charities
+next_action: Run the Cisco Grants portal eligibility quiz using Bioversity International details; if eligible,
+  draft LOI on AI-enabled climate advisory for smallholders.
+evidence:
+  deadline_quote: We accept applications year-round from eligible organizations.
+  eligibility_quote: 'Non-U.S. organizations: eligible if it ''is the equivalent of a U.S. public charity''
+    ... must serve an audience that is ''greater than 65 percent economically underserved.'''
+  status_quote: We accept applications year-round from eligible organizations.
+  staff_costs_quote: 'Not specified (only: ''An organization''s overhead is not to exceed 25 percent'')'
+unverified_fields:
+- covers_staff_costs
+- duration
+- cgiar_eligible
+- international_orgs_eligible
+verification_notes: Official Cisco page loaded 2026-11-02 via WebFetch. Lead surfaced via Kindora. Duration
+  and budget rules beyond the 25% overhead cap not stated.
+last_verified: '2026-11-02'
+verification_source: import:corporate_tech_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:corporate_tech_2026-11-02.json

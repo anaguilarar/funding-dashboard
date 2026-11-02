@@ -1,0 +1,348 @@
+{
+  "group": "regional_multilateral_2026-11",
+  "searched_on": "2026-11-02",
+  "opportunities": [
+    {
+      "title": "ArcX Climate Change Resilience - Formation of a Network of Regional Centres of Excellence on Climate Change Resilience in Sub-Saharan Africa (Call 2026_ArcX_G261)",
+      "funder": "European Centre for Medium-Range Weather Forecasts (ECMWF), on behalf of the European Union (DG INTPA, NDICI-Global Europe), with EC JRC",
+      "funder_type": "multilateral",
+      "program": "EU Africa Regional Centres of Excellence (ArcX) Programme - Climate Change Resilience component (Global Gateway)",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "climate_data_infrastructure",
+        "ai_ml",
+        "remote_sensing",
+        "food_security",
+        "capacity_building"
+      ],
+      "url": "https://www.ecmwf.int/en/about/grants/arcx-grants",
+      "source_urls": [
+        "https://www.ecmwf.int/sites/default/files/2026-10/ArcX_Call%20for%20Proposals_RCoE.pdf?50349",
+        "https://www.ecmwf.int/sites/default/files/2026-10/ArcX_Guidelines%20for%20Applicants_Final.pdf?50349",
+        "https://www.ecmwf.int/sites/default/files/2026-10/2026_ArcX_G261_Online%20Questionnaire_Final.pdf?50349",
+        "https://procontract.due-north.com/Advert?advertId=68178893-7fd3-f111-8142-6045bdf14b1f&p=7344c2cd-e625-e711-80df-005056b64545"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-10-29",
+      "deadline": "2026-12-09T14:00",
+      "deadline_timezone": "CET",
+      "deadline_text": "The deadline for the ArcX Programme Call for Proposals 09 December2026, at 14:00 CET (last date for clarification requests 25 November 2026)",
+      "funding_amount_min": 50000,
+      "funding_amount_max": 350000,
+      "currency": "EUR",
+      "funding_text": "A total budget of EUR 1,500,000 is available for this Call with the aim to award six Grants. Tier 1-2: EUR 250,000-350,000; Tier 3: EUR 150,000-200,000; Tier 4: EUR 50,000. Lump sum grant; budget categories incl. personnel costs; 25% flat-rate indirect costs.",
+      "duration": "Start 1 March-1 May 2027, end 31 December 2029 (32-34 months)",
+      "duration_months_max": 34,
+      "covers_staff_costs": "yes",
+      "support_type": "core_or_program_funding",
+      "eligible_applicants": "Entities eligible under ECMWF grant rules (ECMWF Member/Cooperating States) and under Art. 28 NDICI: international organisations and legal entities established in EU, EEA, IPA III, non-G20 ODA-recipient countries, etc. Coordinator must be the prospective Regional Centre of Excellence on Climate Change Resilience (RCoE-C2R) with a formal mandate from governments of at least 2 African countries and/or an intergovernmental organisation.",
+      "eligible_countries": "Place of performance: Sub-Saharan Africa. Participants per Schedule 1 (EU/EEA/ECMWF states, non-G20 developing countries; OECD states only when implemented exclusively in LDC/HIPC; international organisations).",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "International organisations are explicitly eligible as participants (Schedule 1 B), so the Alliance (Bioversity International, Italy = EU Member State; Nairobi office) could join a multi-beneficiary grant as a Beneficiary (with budget) or Associated Partner (no budget). The Alliance cannot realistically be Coordinator, because the Coordinator must be the prospective RCoE-C2R with a formal regional mandate recognised by at least 2 African governments or an IGO (e.g., ICPAC, AGRHYMET, SADC CSC). Best route: co-beneficiary with a regional climate centre, bringing agricultural climate-services, EO/AI and crop-impact expertise.",
+      "lead_applicant_requirements": "Coordinator = prospective RCoE-C2R; 'formal mandate' = authorisation/designation/endorsement by governmental authorities of at least two African countries or territories and/or by one or more intergovernmental organisations, evidenced by official documentation; WMO/AUC recognition an asset. Formal commitment to host the RCoE-C2R function required.",
+      "geographic_restrictions": "Project must be carried out in Sub-Saharan Africa (Eastern, Western, Central, Southern Africa, Indian Ocean Islands, or SSA-wide).",
+      "consortium_required": "optional",
+      "consortium_details": "Mono-beneficiary or multi-beneficiary grants allowed; Associated Partners (unfunded) and Subcontractors (max 20% of costs) permitted. Consortium agreement may be required at grant preparation.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Lump-sum grant covering expected eligible direct and indirect costs; no co-financing requirement found in the Call text read.",
+      "eligible_activities": "Operating the RCoE-C2R and network-of-networks; stakeholder needs assessment for climate services, EO products, AI/ML applications and Copernicus/DestinE data; priority sectors incl. agriculture, water, health, energy; making data AI-ready, data rescue, Forecast-in-a-Box pilots, Code for Earth / AI Weather Quest activities, training, science-policy engagement.",
+      "required_documents": "Online questionnaire on ProContract portal; Application Form incl. Annex I Technical Description (max 25 pages, English, with Appendix 1 operational capacity and Appendix 2 tier checklist), Annex II Estimated Budget per beneficiary and work package, supporting documents incl. formal mandate evidence and commitment to host RCoE-C2R.",
+      "application_procedure": "Coordinator registers interest on ECMWF submission portal (ProContract / Due North, https://procurement.ecmwf.int) to access the Call package, then submits electronically before 9 Dec 2026 14:00 CET. Only the coordinating organisation should register.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "AI-enabled climate services, EO/Copernicus data use and agriculture-sector climate information are central; strong match to EO/AI/climate-data profile, though the grant mainly funds centre operations and networking rather than research.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "EU Global Gateway flagship with ECMWF/JRC/WMO/AUC; CIFOR-ICRAF already coordinates the ArcX Biodiversity component; positions the Alliance in Africa's regional climate-services architecture (links to AICCRA legacy).",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Alliance has climate-services and EO/crop-modelling capacity in Africa, but success depends on a mandated regional centre leading; short timeline (5 weeks).",
+      "recommendation": "Pursue as co-beneficiary: contact a mandated regional climate centre (e.g., ICPAC for Eastern Africa, AGRHYMET for West Africa, SADC Climate Services Centre) this week and offer an agriculture/EO-AI work package. Small budgets per grant, but multi-year (to end-2029) and opens follow-on ArcX grants.",
+      "potential_partners": "ICPAC (IGAD), AGRHYMET/CILSS, SADC Climate Services Centre, ACMAD, RCMRD, national meteorological services; CIFOR-ICRAF (ArcX Biodiversity coordinator); AICCRA partners.",
+      "next_action": "By 15 Nov 2026: identify a mandated RCoE-C2R candidate (ICPAC is the natural fit for the Nairobi office), agree role as Beneficiary and budget share; submit clarification questions before 25 Nov 2026.",
+      "evidence": {
+        "deadline_quote": "The deadline for the ArcX Programme Call for Proposals 09 December2026, at 14:00 CET",
+        "eligibility_quote": "namely international organisations and all other legal entities, as defined in Article 2(6) of the NDICI Regulation",
+        "status_quote": "The ArcX Programme Call for Proposals opens 29 October 2026",
+        "staff_costs_quote": "The budget categories are: A. Personnel costs; B. Travel, accommodation and subsistence; C. Computing; D. Other direct costs; E. Subcontracting; F. Indirect costs."
+      },
+      "unverified_fields": [
+        "cofunding_required",
+        "Grant Agreement Template eligible-cost details (not read)"
+      ],
+      "verification_notes": "Loaded ECMWF ArcX grants page and extracted text of the official Call for Proposals PDF (2026_ArcX_G261, version 01, dated 29 Oct 2026) on 2026-11-02. Guidelines PDF downloaded but not reviewed in detail."
+    },
+    {
+      "title": "Minciencias Convocatoria 54 - Convocatoria especial para la financiación de proyectos para el fortalecimiento de las capacidades científico-tecnológicas (SGR CTeI, bienio 2025-2026)",
+      "funder": "Ministerio de Ciencia, Tecnología e Innovación de Colombia (Minciencias) - Sistema General de Regalías (SGR), Asignación para la CTeI",
+      "funder_type": "national_agency",
+      "program": "SGR Asignación CTeI - convocatoria especial regional (bienio 2025-2026)",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_adaptation",
+        "climate_smart_ag",
+        "digital_agriculture",
+        "ai_ml",
+        "food_security",
+        "biodiversity",
+        "capacity_building"
+      ],
+      "url": "https://minciencias.gov.co/node/9582",
+      "source_urls": [
+        "https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria54_publicada.pdf",
+        "https://minciencias.gov.co/convocatorias/todas"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-10-23",
+      "deadline": "2026-11-13T16:00",
+      "deadline_timezone": "COT (UTC-5)",
+      "deadline_text": "Cierre: viernes 13 noviembre 2026 04:00 pm",
+      "funding_amount_min": null,
+      "funding_amount_max": 17177626246,
+      "currency": "COP",
+      "funding_text": "COP $927.591.817.322 total, distributed equally among the six SGR regions (COP $154.598.636.220 per region); 'El valor máximo por proyecto con cargo al SGR es de ... ($17.177.626.246)'; approx. 54 projects.",
+      "duration": "Hasta cuarenta y ocho (48) meses, incluidos el alistamiento y el cierre",
+      "duration_months_max": 48,
+      "covers_staff_costs": "partial",
+      "support_type": "project_funding",
+      "eligible_applicants": "Alliances of at least four distinct national legal entities (by NIT): an IES (Ley 30/1992), another SNCTI entity (IES or Minciencias-recognised actor), a territorial entity of the region, and a user/adopter (producer org, company, civil society, ethnic organisation, etc.). Proponent must hold Minciencias SNCTI-actor recognition or meet CTeI track-record criteria (Decreto 1821/2020 art. 1.2.3.2.2).",
+      "eligible_countries": "Colombia (project executed in at least 2 departments of the same SGR region)",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "International entities may join as allies through a 'Carta de intención de participación' (no NIT, do not sign the aval letter, not part of governance model) and must quantify an in-kind or cash contribution in COP; an international ally with quantified contribution earns +1 evaluation point. This route does not appear to give the international ally SGR funds. Whether CIAT (HQ in Palmira/Cali with Colombian registration) could participate as a national alliance member/proponent with NIT and SNCTI recognition was not verified.",
+      "lead_applicant_requirements": "Proponent: SNCTI actor with current Minciencias recognition at closing date, or entity with CTeI activities meeting suitability/track-record criteria; an alliance member must have a research group category A1/A/B/C; at least 2 additional CTeI projects in last 10 years.",
+      "geographic_restrictions": "Projects executed in at least two departments of the same SGR region (Caribe, Pacífico, Centro Sur-Amazonía, Llanos, Centro Oriente, Eje Cafetero-Antioquia).",
+      "consortium_required": "yes",
+      "consortium_details": "Minimum 4 national legal entities (IES + SNCTI entity + territorial entity + user/adopter); international allies optional via letter of intent.",
+      "cofunding_required": "yes",
+      "cofunding_details": "Cada integrante de la alianza deberá aportar una contrapartida en efectivo o en especie, cuantificada en términos monetarios, independientemente del rol que desempeñe.",
+      "eligible_activities": "Experimental/theoretical R&D, proofs of concept, equipment, platforms/software/ICT infrastructure, specialised R&D training, social appropriation, hiring of human talent (young researchers, master's students, postdocs 24-36 months), national/international mobility, IP management, project administration. Thematic lines incl. Line 2 'sistemas agroalimentarios inteligentes y regenerativos', Line 9 'agua, clima, riesgos y sostenibilidad territorial', Line 5 'territorios inteligentes: IA, conectividad, datos'.",
+      "required_documents": "Anexo 1 carta unificada de aval/compromiso/gobernanza; Anexo 2 documento técnico; Anexo 3 presupuesto; Anexo 5 proyectos CTeI; Anexo 12 vinculación de talento humano; letters of intent for international entities (Spanish or English); SIGP registration.",
+      "application_procedure": "Submit through Minciencias SIGP platform before 13 Nov 2026 16:00; preliminary results 3 Dec 2026, final 10 Dec 2026; eligible projects enter bank for SGR approval.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Agrifood systems, water/climate risk and AI/data lines directly accommodate digital agriculture, crop modelling, EO-based climate risk work.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Large SGR resources in CIAT's host country; 4-year projects; strengthens partnerships with Colombian universities, governorships and producer organisations.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Technically deliverable, but very short window (11 days) and requires an already-formed national alliance; Alliance funding route uncertain.",
+      "recommendation": "Only realistic as international ally (letter of intent + in-kind contribution) in a Colombian university-led alliance already preparing a proposal, or as national member if CIAT's NIT/SNCTI status allows. Worth quick outreach to university partners for Pacífico-region agrifood/climate projects.",
+      "potential_partners": "Universidad Nacional de Colombia (Palmira), Universidad del Valle, Universidad del Cauca, AGROSAVIA, Gobernación del Valle/Cauca, producer associations (FEDEARROZ, Cenicaña).",
+      "next_action": "Within days: confirm with Alliance legal/partnerships whether CIAT can participate as a national entity (NIT, SNCTI recognition); otherwise offer letters of intent with quantified in-kind contribution to partner alliances before 13 Nov 2026.",
+      "evidence": {
+        "deadline_quote": "Cierre: viernes 13 noviembre 2026 04:00 pm",
+        "eligibility_quote": "Las entidades internacionales podrán participar como aliadas mediante la «Carta de intención de participación en el proyecto» (numeral 11.11). No requieren NIT ni suscriben la carta de aval",
+        "status_quote": "Apertura: viernes 23 octubre 2026 (page showed 'Cierra en: 11 día(s)')",
+        "staff_costs_quote": "Vinculación de talento humano, incluidos jóvenes investigadores e innovadores, estudiantes de maestría y doctores en estancia posdoctoral."
+      },
+      "unverified_fields": [
+        "whether international allies can receive SGR funds",
+        "CIAT status as national SNCTI actor"
+      ],
+      "verification_notes": "Loaded official Minciencias call page (node/9582) and extracted the TdR PDF (76 pages) on 2026-11-02. Staff costs are eligible for the project (executing entity), but the international-ally route appears unfunded, hence covers_staff_costs=partial."
+    },
+    {
+      "title": "Minciencias Convocatoria 55 - Convocatoria especial para la financiación de macroproyectos nacionales para el fortalecimiento de las capacidades científico-tecnológicas del país (SGR CTeI)",
+      "funder": "Ministerio de Ciencia, Tecnología e Innovación de Colombia (Minciencias) - Sistema General de Regalías (SGR)",
+      "funder_type": "national_agency",
+      "program": "SGR Asignación CTeI - macroproyectos nacionales multirregionales (bienio 2025-2026)",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "climate_adaptation",
+        "digital_agriculture",
+        "ai_ml",
+        "climate_data_infrastructure",
+        "food_security",
+        "capacity_building"
+      ],
+      "url": "https://minciencias.gov.co/node/9581",
+      "source_urls": [
+        "https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria_55_macroproyectos_version_publicada.pdf"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-10-23",
+      "deadline": "2026-11-13T16:00",
+      "deadline_timezone": "COT (UTC-5)",
+      "deadline_text": "Cierre: viernes 13 noviembre 2026 04:00 pm",
+      "funding_amount_min": null,
+      "funding_amount_max": 50000000000,
+      "currency": "COP",
+      "funding_text": "Indicative COP $500.000.000.000 from SGR CTeI 2025-2026 to fund ten (10) macroprojects; up to COP $50.000.000.000 per macroproject from the SGR.",
+      "duration": "36 to 48 months (TdR: execution period must be within 'treinta y seis (36) a cuarenta y ocho (48) meses')",
+      "duration_months_max": 48,
+      "covers_staff_costs": "partial",
+      "support_type": "project_funding",
+      "eligible_applicants": "Alliances of at least three distinct Colombian legal entities (proponent + at least 2 members); proponent must be a Minciencias-recognised SNCTI actor or have CTeI track record; at least one member must be a territorial entity, company, or social/ethnic-territorial organisation.",
+      "eligible_countries": "Colombia (direct intervention in at least 2 SGR regions)",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "TdR 10.11: international entities may form part of the project via a free-format letter of intent signed by the institute/centre director, specifying a cash or in-kind contribution in COP; not part of the governance model. Same caveat as Conv. 54: international allies appear unfunded; CIAT national-entity status unverified.",
+      "lead_applicant_requirements": "Proponent with current Minciencias SNCTI recognition or verified CTeI activities and track record per TdR.",
+      "geographic_restrictions": "Must intervene directly in at least two SGR regions, at least one department in each.",
+      "consortium_required": "yes",
+      "consortium_details": "Minimum 3 national legal entities; lines: (1) shared S&T capacities and services, (2) multiregional development/validation of CTeI solutions, (3) multiregional demonstration/transfer/adoption (solutions must already show verifiable validation).",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not confirmed from the TdR excerpts read; check Anexo 3 Presupuesto.",
+      "eligible_activities": "Multiregional CTeI macroprojects addressing territorial demands (Anexo 4); shared scientific-technological services; validation and adoption of CTeI solutions; human-talent formation.",
+      "required_documents": "TdR annexes incl. Anexo 3 Presupuesto, Anexo 4 Demandas territoriales, Anexo 12 Requisitos; letters of intent for international entities; SIGP submission.",
+      "application_procedure": "Submission via SIGP before 13 Nov 2026 16:00; preliminary results 3 Dec 2026; final 10 Dec 2026.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Thematic scope set by territorial demands (Anexo 4, not reviewed); a multiregional agro-climatic services / digital agriculture platform could fit lines 1-3.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Very large multi-year national projects in Colombia; a shared agro-climatic data/AI service platform would be high-visibility for the Alliance.",
+      "technical_feasibility": 2,
+      "technical_feasibility_rationale": "Only 10 macroprojects nationally; requires mature, already-validated solutions and a strong national alliance within 11 days.",
+      "recommendation": "Low probability unless a national alliance is already preparing a climate/agri macroproject; offer letter of intent as international ally where relevant.",
+      "potential_partners": "Universidad Nacional de Colombia, AGROSAVIA, IDEAM, universities in Pacífico and Caribe regions, departmental governments.",
+      "next_action": "Check Anexo 4 territorial demands for agri-climate topics; contact Colombian university partners to ask if any macroproject consortium needs an international ally before 13 Nov 2026.",
+      "evidence": {
+        "deadline_quote": "Cierre: viernes 13 noviembre 2026 04:00 pm",
+        "eligibility_quote": "Para el caso de las entidades internacionales que formen parte del proyecto, se deberá anexar carta de intención de participación en el proyecto (formato libre)",
+        "status_quote": "Apertura: viernes 23 octubre 2026",
+        "staff_costs_quote": "Not specified for international allies; TdR section '9. Orientaciones para la vinculación de talento humano' covers project human-talent hiring by the executing entity."
+      },
+      "unverified_fields": [
+        "thematic territorial demands (Anexo 4)",
+        "cofunding_required",
+        "whether international allies can receive SGR funds"
+      ],
+      "verification_notes": "Loaded official Minciencias page (node/9581) and extracted TdR PDF (72 pages) on 2026-11-02; only eligibility/duration sections reviewed."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "ECMWF",
+      "name": "ECMWF grants (ArcX, SEWA) listing",
+      "url": "https://www.ecmwf.int/en/about/grants",
+      "type": "html",
+      "why": "Follow-on ArcX Climate Change Resilience grants and SEWA calls expected 2027-2029 (EU Global Gateway, Africa climate services)."
+    },
+    {
+      "funder": "Minciencias Colombia",
+      "name": "Convocatorias Minciencias (todas)",
+      "url": "https://minciencias.gov.co/convocatorias/todas",
+      "type": "html",
+      "why": "Frequent new SGR CTeI convocatorias (Oct 2026 batch: 53-56); new bienio 2027-2028 calls expected."
+    },
+    {
+      "funder": "APN",
+      "name": "APN Calls for Proposals",
+      "url": "https://www.apn-gcr.org/opportunities/calls-for-proposals/",
+      "type": "html",
+      "why": "2026 call launched 2 Nov 2026 (existing record needs status update; see rejected_leads)."
+    },
+    {
+      "funder": "IAI",
+      "name": "IAI calls for applicants",
+      "url": "https://www.iai.int/en/post/detail/Call-for-applicants",
+      "type": "html",
+      "why": "No open call found; IAI periodically co-funds Belmont Forum CRAs and seed grants for the Americas."
+    },
+    {
+      "funder": "Belmont Forum",
+      "name": "Belmont Forum home / open calls",
+      "url": "https://belmontforum.org/",
+      "type": "html",
+      "why": "No new CRA with 2027 deadline found; new CRAs (with IAI as LAC funder) announced periodically."
+    },
+    {
+      "funder": "IFAD",
+      "name": "IFAD calls for proposals",
+      "url": "https://www.ifad.org/en/calls-for-proposals",
+      "type": "html",
+      "why": "Recurrent global/regional grant calls (2026: RSPA, Central Sahel - both closed); page blocked automated fetch (403)."
+    },
+    {
+      "funder": "FONTAGRO",
+      "name": "FONTAGRO Convocatoria 2027",
+      "url": "https://fontagro.org/en/iniciativas/convocatorias/convocatoria-2027",
+      "type": "html",
+      "why": "Page exists but no dates yet; already in existing records as upcoming."
+    },
+    {
+      "funder": "CAF",
+      "name": "CAF calls",
+      "url": "https://www.caf.com/en/work-with-us/calls",
+      "type": "html",
+      "why": "Occasional research calls (e.g., AI and digitalisation); could not load (TLS certificate error)."
+    },
+    {
+      "funder": "IDB",
+      "name": "IDB calls for proposals",
+      "url": "https://www.iadb.org/en/calls-for-proposals",
+      "type": "html",
+      "why": "IDB/IDB Lab research and innovation calls; blocked automated fetch (403)."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "APN 2026 Call for Proposals (CRRP and CAPaBLE) - DUPLICATE of existing record; STATUS UPDATE: now OPEN, Stage 1 deadline Monday 30 November 2026 23:59 JST, Stage 2 (by invitation) 29 March 2027; projects start 1 Oct 2027; sub-regional themes incl. 'digital technologies and AI for Earth observation' and food/water/energy security",
+      "url": "https://www.apn-gcr.org/news/2026-call-for-proposals-under-the-crrp-and-capable-programmes/",
+      "reason": "Already in existing records (listed as upcoming) - update existing record rather than duplicate."
+    },
+    {
+      "title": "Minciencias Convocatoria 53 - Córdoba CTeI (reactivación agrícola, Plan bienal 2025-2026, corte 2)",
+      "url": "https://minciencias.gov.co/node/9573",
+      "reason": "Closed 23 Oct 2026 16:00 (in evaluation)."
+    },
+    {
+      "title": "ECMWF SEWA 2026_SEWA_G233 - Regional pilots on impact-based forecast tools",
+      "url": "https://www.ecmwf.int/en/about/grants/sewa-grants",
+      "reason": "Closed 30 Sep 2026."
+    },
+    {
+      "title": "IFAD grant - Leveraging IFAD's Rural Sector Performance Assessment (RSPA)",
+      "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-grant-to-implement-the-initiative-leveraging-ifad-s-rural-sector-performance-assessment-for-policy-and-investment-",
+      "reason": "Closed 4 Sep 2026; not thematically core."
+    },
+    {
+      "title": "IFAD US$2M Central Sahel food systems & climate resilience grant",
+      "url": "https://opportunitiesfeed.com/2026/09/29/ifad-opens-a-us2-million-call-to-strengthen-food-systems-and-climate-resilience-in-the-central-sahel/",
+      "reason": "Closed 16 Oct 2026 (secondary source only)."
+    },
+    {
+      "title": "Adaptation Fund Climate Innovation Accelerator (AFCIA) 2026 calls (CTCN Asia-Pacific/LAC, WFP LAC)",
+      "url": "https://www.ctc-n.org/whats-happening/events/climate-adaptation-innovation-latin-america-and-caribbean",
+      "reason": "Closed (Aug-Oct 2026); technical assistance, not staff funding."
+    },
+    {
+      "title": "SPIA Small Grants: Measuring CGIAR's Policy Influence",
+      "url": "https://iaes.cgiar.org/spia",
+      "reason": "Closed 7 Aug 2026; USD 5,000 individual grants."
+    },
+    {
+      "title": "ILRI CapSha Accelerator pilot call (CGIAR)",
+      "url": "https://www.ilri.org/tenders/ilri-call-proposals-cgiar-capsha-accelerator-innovative-pilots",
+      "reason": "Closed 21 Jul 2026."
+    },
+    {
+      "title": "IDB Lab - Advancing Digital Innovation for Smallholder Farmers in LAC (GSMA/Incofin)",
+      "url": "https://challenges.adb.org/en/challenges/advancing-digital-innovation-for-smallholder-farmers",
+      "reason": "Closed 12 Apr 2024."
+    },
+    {
+      "title": "JIRCAS Visiting Research Fellowship FY2026 / JIRCAS fixed-term researcher recruitment",
+      "url": "https://www.jircas.go.jp/en/reports",
+      "reason": "Fellowship closed 31 Aug 2026; FY2027 call not announced. Current item is a staff job recruitment (JREC-IN, to 15 Nov 2026), not funding."
+    },
+    {
+      "title": "SGCI 2026 Multilateral Research Call (STISA 2034)",
+      "url": "https://innovationbridge.info/ibportal/content/sgci-multilateral-research-call-2026-advancing-africas-science-technology-and-innovation",
+      "reason": "Closed 25 Sep 2026; for national science granting council constituencies."
+    },
+    {
+      "title": "Belmont Forum Ocean 2 CRA",
+      "url": "https://www.jst.go.jp/inter/english/program_e/announce_e/announce_belmont_ocean2025.html",
+      "reason": "Closed (Aug/Sep 2026) and off-topic."
+    },
+    {
+      "title": "World Bank Development Marketplace / Food Systems Resilience / Global Shield / AfDB ACCF / CAF / EUROCLIMA / ANID / FAPESP / AGRA / AAS / RUFORUM / IAI",
+      "url": "https://www.worldbank.org",
+      "reason": "No open or officially announced call found as of 2026-11-02 (searches returned only past rounds)."
+    }
+  ]
+}

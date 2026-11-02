@@ -1,0 +1,80 @@
+id: ibm-ibm-impact-accelerator-formerly-ibm-sustainability-accelerator-nex
+title: IBM Impact Accelerator (formerly IBM Sustainability Accelerator) - next annual cohort/RFP topic
+  not yet announced
+funder: IBM
+funder_type: tech_company
+program: IBM Impact Accelerator
+opportunity_type: accelerator
+themes:
+- ai_ml
+- climate_adaptation
+- climate_smart_ag
+- capacity_building
+url: https://www.ibm.com/campaign/impact-accelerator-rfp
+source_urls:
+- https://www.ibm.com/campaign/2025/sustainability-accelerator-rfp
+status: monitoring
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: 'Last RFP (AI for learning & workforce, closed): ''All proposals must be submitted through
+  the official portal by Wednesday, March 25, 2026.'''
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: 'In-kind: two-year program at no cost; access to IBM watsonx, Granite models, IBM Cloud,
+  IBM Quantum Platform, Red Hat, technical mentorship. No cash amount stated.'
+duration: Two years
+duration_months_max: 24
+covers_staff_costs: 'no'
+support_type: in_kind_resources
+eligible_applicants: '''Nonprofit organizations and government entities, including academic institutions
+  across the globe'''
+eligible_countries: '''Organizations from any region may apply.'''
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Global nonprofits and government entities eligible; international organizations
+  not explicitly mentioned. Past cohorts covered sustainable agriculture, water, resilient cities - topic
+  changes yearly.
+lead_applicant_requirements: Sign IBM grant agreement governing access to IBM technology.
+geographic_restrictions: None
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Varies by annual topic; past: sustainable agriculture, clean energy, water management,
+  resilient cities, supply chains; 2026: AI for learning & workforce.'
+required_documents: Not specified
+application_procedure: Online RFP portal when a new cohort opens (historically Feb-April).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Aligned only when the annual topic is climate/agriculture; provides AI
+  engineering support rather than research funding.
+strategic_relevance: 2
+strategic_relevance_rationale: Possible link to IBM-NASA geospatial foundation models; no cash for staff.
+technical_feasibility: 4
+technical_feasibility_rationale: Team has EO/AI capacity to use IBM geospatial models.
+recommendation: Monitor for the 2027 topic announcement; apply only if the topic is climate/agri/resilience.
+  Credits/in-kind - lower priority than staff-funding items.
+potential_partners: IBM Research (geospatial foundation models)
+next_action: Check IBM Impact Accelerator page in Jan-Feb 2027 for the new cohort topic.
+evidence:
+  deadline_quote: All proposals must be submitted through the official portal by Wednesday, March 25,
+    2026.
+  eligibility_quote: Nonprofit organizations and government entities, including academic institutions
+    across the globe ... Organizations from any region may apply.
+  status_quote: proposals ... are currently being reviewed
+  staff_costs_quote: No cash stated; 'No cost for participants' in-kind program
+unverified_fields:
+- next_topic
+- next_deadline
+verification_notes: Official IBM campaign page loaded 2026-11-02. Page says the program takes on 'a new
+  topic and cohort of organizations each year' but does not name the next topic.
+last_verified: '2026-11-02'
+verification_source: import:corporate_tech_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:corporate_tech_2026-11-02.json

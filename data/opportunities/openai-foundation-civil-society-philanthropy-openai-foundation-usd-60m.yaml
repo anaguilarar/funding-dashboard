@@ -1,0 +1,81 @@
+id: openai-foundation-civil-society-philanthropy-openai-foundation-usd-60m
+title: OpenAI Foundation USD 60M AI weather & crop-disease forecasting for smallholders (grantees selected;
+  CIMMYT among them) - partner pathway
+funder: OpenAI Foundation (Civil Society & Philanthropy)
+funder_type: tech_company
+program: AI forecasting for smallholder farmers
+opportunity_type: grant
+themes:
+- ai_ml
+- climate_adaptation
+- digital_agriculture
+- smallholders
+- food_security
+url: https://openaifoundation.org/en-US/news/ai-forecasting-for-smallholder-farmers
+source_urls: []
+status: monitoring
+status_basis: official
+published_date: '2026-09-10'
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No application process; grantees were selected.
+funding_amount_min: null
+funding_amount_max: 60000000
+currency: USD
+funding_text: $60 million effort to 'support government-led efforts to deliver weather and crop disease
+  forecasts to 100 million smallholder farmers' over three years (total portfolio, not per grant).
+duration: Three years
+duration_months_max: 36
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: 'Selected organizations only: University of Chicago, UC Berkeley, Precision Development,
+  AIM for Scale (via University of Notre Dame), Digital Green, CIMMYT.'
+eligible_countries: South and Southeast Asia, East Africa
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'CIMMYT (CGIAR) is a direct grantee, showing CGIAR centers are fundable by this
+  funder. Alliance route: sub-award/collaboration via CIMMYT, AIM for Scale or Digital Green; watch for
+  follow-on open calls.'
+lead_applicant_requirements: By selection; no open call.
+geographic_restrictions: South/Southeast Asia and East Africa
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: AI-powered weather and crop-disease forecasts delivered through government-led systems.
+required_documents: Not specified
+application_procedure: No open call; contact via the email link on the page or through grantee consortium.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 5
+scientific_alignment_rationale: 'Core match: AI forecasting, crop modelling, climate advisory for smallholders.'
+strategic_relevance: 4
+strategic_relevance_rationale: Major new tech-philanthropy funder in the CGIAR space; sister center already
+  funded.
+technical_feasibility: 4
+technical_feasibility_rationale: Alliance has crop modelling, EO and digital advisory expertise in East
+  Africa and Asia.
+recommendation: 'Pursue as partner: approach CIMMYT and AIM for Scale to offer EO/crop-modelling components;
+  monitor OpenAI Foundation for follow-on calls.'
+potential_partners: CIMMYT, AIM for Scale, Digital Green, Precision Development
+next_action: Contact the CIMMYT lead for the OpenAI-funded forecasting work about an Alliance contribution
+  (sub-award).
+evidence:
+  deadline_quote: (none) 'The Foundation selected these organizations for their leadership in their respective
+    areas of work.'
+  eligibility_quote: University of Chicago, UC Berkeley, Precision Development, AIM for Scale, Digital
+    Green, CIMMYT
+  status_quote: Published September 10, 2026; grantees selected
+  staff_costs_quote: Not specified
+unverified_fields:
+- per_grant_amounts
+- covers_staff_costs
+- sub-award opportunities
+verification_notes: Official openaifoundation.org news page loaded 2026-11-02. Distinct from existing
+  Gates/Google.org USD 100M record (different funder).
+last_verified: '2026-11-02'
+verification_source: import:corporate_tech_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:corporate_tech_2026-11-02.json

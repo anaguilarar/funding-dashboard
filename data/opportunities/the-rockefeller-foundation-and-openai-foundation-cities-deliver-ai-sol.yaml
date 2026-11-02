@@ -1,0 +1,108 @@
+id: the-rockefeller-foundation-and-openai-foundation-cities-deliver-ai-sol
+title: 'Cities Deliver: AI Solutions for Public Services (Rockefeller Foundation + OpenAI Foundation global
+  open call, US$50M)'
+funder: The Rockefeller Foundation and OpenAI Foundation
+funder_type: foundation
+program: 'Cities Deliver: AI Solutions for Public Services'
+opportunity_type: grant
+themes:
+- climate_adaptation
+- ai_ml
+- climate_data_infrastructure
+- food_security
+- open_source_software
+url: https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/
+source_urls:
+- https://www.rockefellerfoundation.org/wp-content/uploads/2026/10/Cities-Deliver-AI-Solutions-for-Public-Services-FAQs-Final.pdf
+- https://www.rockefellerfoundation.org/wp-content/uploads/2026/10/Cities-Deliver-AI-Solutions-for-Public-Services-Terms-and-Conditions-Final.pdf
+- https://citiesdeliver.rockefellerfoundation.org/
+status: open
+status_basis: official
+published_date: '2026-10-14'
+deadline: 2026-11-29T23:59
+deadline_timezone: ET
+deadline_text: November 29, 2026 - Screening and Round 1 Proposal due at 11:59pm EST; Round 2 proposals
+  due March 1, 2027 at 11:59pm U.S. Eastern Time.
+funding_amount_min: 500000
+funding_amount_max: 2000000
+currency: USD
+funding_text: 'Seed track: $500,000 to <$1 million (early concepts ready for a first city pilot); Scale
+  track: $1 to $2 million (already piloted). Total commitment $50 million. 50% disbursed at the start
+  and 50% upon a documented mid-term milestone.'
+duration: 24 months
+duration_months_max: 24
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Nonprofit organizations (including university departments/labs and fiscally sponsored
+  organizations); public benefit corporations and, in limited circumstances, for-profits. Governments
+  cannot apply directly. Every applicant must have a city government partner (letter of intent at Round
+  1; official letter/MOU at Round 2). Individuals excluded.
+eligible_countries: 'Global: cities in Sub-Saharan Africa, MENA, Asia, Latin America and the Caribbean,
+  Europe, North America, Oceania; organizations in countries under comprehensive U.S. OFAC sanctions ineligible.'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: The call is global and open to nonprofits and research institutions; the FAQ
+  says international/multilateral organizations (e.g., UN agencies, development banks) are 'welcome as
+  additional partners' but cannot replace the city partner. It does not explicitly say whether an intergovernmental-type
+  research organization such as CIAT can be lead grantee; CIAT/Bioversity are non-profit, so lead looks
+  plausible but should be confirmed with citiesdeliver@rockfound.org (revised FAQs promised 4 Nov 2026).
+  Alternatively CIAT can partner with an eligible local nonprofit/university lead.
+lead_applicant_requirements: Eligible organization acts as sole grantee of record; must hold a city government
+  letter of intent; project must have a charitable purpose benefiting underserved communities; outputs
+  must be openly licensed and published.
+geographic_restrictions: City-level (not state/national) government partners only; OFAC-sanctioned countries
+  excluded.
+consortium_required: optional
+consortium_details: Joint projects allowed with one lead applicant as sole grantee; city government partner
+  mandatory.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Develop, pilot or expand AI solutions in real city services in four areas: Public
+  Health, Economic Mobility, Environmental Resilience (''Solutions that help cities forecast, withstand,
+  and recover from environmental shocks''), Civic Engagement. Research-only projects are not eligible.
+  Staff and compute/API credits are eligible; indirect costs capped at 15%.'
+required_documents: 'Round 1: eligibility screen, Round 1 proposal (template), documentation of legal
+  status (501(c)(3) or international equivalency determination or fiscal sponsor), city government letter
+  of intent, short video demonstrating the AI solution. Round 2: full proposal, personnel bios, cybersecurity
+  form, official letter or MOU from the city.'
+application_procedure: 'Two rounds via portal citiesdeliver.rockefellerfoundation.org: Round 1 by 29 Nov
+  2026; interviews January 2027; Round 2 by 1 Mar 2027.'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Environmental Resilience track fits AI/EO-based early warning, urban heat/flood
+  forecasting and peri-urban food security tools, but the call is about deploying AI in city public services
+  rather than research; our crop-modelling strengths are secondary.
+strategic_relevance: 3
+strategic_relevance_rationale: Large (up to US$2M), staff-eligible, global call open to LAC/Africa/Asia
+  cities; fits Alliance work with municipal governments (e.g., Cali, Nairobi, Hanoi) on climate risk and
+  food systems, but urban focus is outside core landscapes portfolio.
+technical_feasibility: 3
+technical_feasibility_rationale: Team has AI/GEE/EO and climate-risk capacity, but requires an already-identified
+  city partner letter within ~4 weeks and a working AI solution/prototype video.
+recommendation: Pursue only if a city partnership and a demonstrable AI tool already exist (e.g., climate/flood/heat
+  or urban food-security advisory with a LAC or African city). Tight Round-1 deadline; confirm CIAT lead
+  eligibility first.
+potential_partners: City governments (e.g., Alcaldía de Cali / Bogotá, Nairobi County), local universities,
+  existing Alliance urban food-systems partners.
+next_action: Check revised FAQs (posted 4 Nov 2026) and email citiesdeliver@rockfound.org to confirm whether
+  CIAT/Bioversity (international non-profit research organization) can be lead; identify city partner
+  and secure letter of intent before 29 Nov 2026.
+evidence:
+  deadline_quote: November 29, 2026 - Screening and Round 1 Proposal due at 11:59pm EST
+  eligibility_quote: 'This is a global call. To be eligible, your organization must be one of the following:
+    Nonprofit organizations, including university departments or labs, and fiscally sponsored organizations.'
+  status_quote: October 14, 2026 - Call for proposals opens
+  staff_costs_quote: Can grant money go toward staffing? Yes.
+unverified_fields:
+- cgiar_eligible (lead status of international organizations not explicit)
+- cofunding_required
+verification_notes: 'Loaded official call page and FAQ PDF (Oct 2026) on 2026-11-02. FAQ: ''International
+  and multilateral organizations ... are welcome as additional partners, but they can''t replace the city
+  partner.'' Indirect costs max 15%. Research-only projects explicitly excluded.'
+last_verified: '2026-11-02'
+verification_source: import:philanthropy_us_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:philanthropy_us_2026-11-02.json

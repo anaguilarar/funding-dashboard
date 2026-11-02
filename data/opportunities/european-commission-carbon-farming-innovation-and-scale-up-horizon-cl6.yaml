@@ -1,0 +1,90 @@
+id: european-commission-carbon-farming-innovation-and-scale-up-horizon-cl6
+title: Carbon farming innovation and scale-up - HORIZON-CL6-2027-02-CLIMATE-03
+funder: European Commission
+funder_type: multilateral
+program: Horizon Europe Work Programme 2026-2027
+opportunity_type: consortium_call
+themes:
+- climate_mitigation
+- climate_smart_ag
+- remote_sensing
+- ai_ml
+- crop_modeling
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-CLIMATE-03
+source_urls:
+- https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl6-2027-02-climate-03.json
+status: upcoming
+status_basis: official
+published_date: '2027-04-20'
+deadline: 2027-09-23T23:59
+deadline_timezone: Brussels time (CET); exact hour not in portal data (Horizon Europe standard is 17:00)
+deadline_text: Planned opening 2027-04-20; deadline 2027-09-23 (portal data)
+funding_amount_min: 6000000
+funding_amount_max: 6000000
+currency: EUR
+funding_text: RIA; topic budget EUR 12M; EU contribution per project around EUR 6 million; 2 grants expected
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Legal entities (universities, research organisations, international organisations,
+  SMEs, public bodies) per Horizon Europe rules; action type HORIZON-RIA
+eligible_countries: EU Member States and Horizon Europe Associated Countries; listed low- and middle-income
+  countries automatically eligible for funding (General Annex B)
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: 'Horizon Europe standard rules (General Annex B): legal entities in EU Member
+  States/Associated Countries and in listed low- and middle-income countries are automatically eligible
+  for funding; other third-country entities may join as associated partners or self-funded. Bioversity
+  International (legal entity registered in Italy) can participate as a funded beneficiary or coordinator;
+  CIAT (international organisation HQ Colombia) funding depends on Colombia''s status in the 2026-2027
+  Annex B list (not verified here).'
+lead_applicant_requirements: 'Standard consortium: at least three independent legal entities from three
+  different EU/Associated Countries, at least one in an EU Member State'
+geographic_restrictions: Multi-actor approach mandatory; Copernicus/Galileo must be used if satellite
+  EO is used. Third-country participation per standard General Annex B rules (no specific international
+  cooperation requirement).
+consortium_required: 'yes'
+consortium_details: Multi-actor approach mandatory; Copernicus/Galileo must be used if satellite EO is
+  used. Third-country participation per standard General Annex B rules (no specific international cooperation
+  requirement).
+cofunding_required: 'no'
+cofunding_details: RIA/CSA funded at 100% of eligible costs
+eligible_activities: Innovations for carbon farming MRV/certification under the EU CRCF Regulation using
+  ML, AI, EO, IoT; open lists of models/data; GHG inventories for the land sector
+required_documents: Part A administrative forms + Part B technical proposal via Funding & Tenders Portal
+  submission system
+application_procedure: Electronic submission via EU Funding & Tenders Portal (single stage)
+eligibility_assessment: potentially_eligible
+scientific_alignment: 4
+scientific_alignment_rationale: MRV with Earth observation + ML + modelling is core to the researcher's
+  skills
+strategic_relevance: 3
+strategic_relevance_rationale: EU CRCF focus; transferable to CGIAR carbon/MRV work in LAC/Africa but
+  topic is EU-centred
+technical_feasibility: 4
+technical_feasibility_rationale: Strong RS/ML/crop model capacity; Alliance has soil carbon expertise
+recommendation: Partner role via Bioversity (Italy) offering EO/ML MRV components; moderate priority.
+potential_partners: EU soil carbon networks, certification bodies, INRAE, WUR
+next_action: Identify EU consortium leads (WUR/INRAE) by spring 2027
+evidence:
+  deadline_quote: Planned opening 2027-04-20; deadline 2027-09-23 (portal data)
+  eligibility_quote: the proposals must apply the multi-actor approach ... If projects use satellite-based
+    earth observation ... beneficiaries must make use of Copernicus and/or Galileo/EGNOS
+  status_quote: 'Portal status: Forthcoming; planned opening 2027-04-20'
+  staff_costs_quote: Horizon Europe grants reimburse personnel costs as eligible direct costs (standard
+    Model Grant Agreement); lump-sum grants pay per work package and can cover staff.
+unverified_fields:
+- exact deadline hour
+- Colombia/CIAT automatic funding eligibility under 2026-2027 General Annex B
+- project duration (not stated in topic text)
+verification_notes: Loaded official topic data JSON from the EU Funding & Tenders Portal (https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/horizon-cl6-2027-02-climate-03.json)
+  and the SEDIA search API on 2026-11-02. Status, opening date, deadline(s), budget per project and topic
+  conditions taken from that data. Not in existing records list.
+last_verified: '2026-11-02'
+verification_source: import:europe_2026-11-02.json
+first_seen: '2026-11-02'
+history:
+- date: 2026-11-02 18:32
+  event: added
+  detail: import:europe_2026-11-02.json
