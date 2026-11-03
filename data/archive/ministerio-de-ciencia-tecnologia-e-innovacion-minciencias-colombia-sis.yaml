@@ -19,7 +19,7 @@ url: https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-re
 source_urls:
 - https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_conv_56_v_1.6docx.pdf
 - https://www.minciencias.gov.co/convocatorias/todas
-status: needs_reverification
+status: closed
 status_basis: official
 published_date: '2026-10-08'
 deadline: 2026-11-03T16:00
@@ -126,7 +126,10 @@ history:
 - date: 2026-10-27 08:17
   event: flagged
   detail: needs re-verification (url_unreachable); previous status open
+- date: 2026-11-03 18:51
+  event: closed
+  detail: deadline 2026-11-03T16:00 passed
 flags:
 - call_page_changed
-- stale_verification
+- expired
 status_before_flag: open
