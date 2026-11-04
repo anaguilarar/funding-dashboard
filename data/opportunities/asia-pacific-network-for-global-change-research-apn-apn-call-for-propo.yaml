@@ -19,7 +19,7 @@ source_urls:
 - https://www.apn-gcr.org/news/2025-call-for-proposals-under-the-crrp-and-capable-programmes/
 - https://www.apn-gcr.org/opportunities/calls-for-proposals/
 - https://www.apn-gcr.org/apnis/
-status: open
+status: needs_reverification
 status_basis: official
 published_date: '2026-11-02'
 deadline: 2026-11-30T23:59
@@ -136,4 +136,9 @@ history:
     countries in the Asia-Pacific (sub-regions: Pacific, South Asia, Southeast Asia, Temperate East Asia).
     See the APN member-country list and the Guide for Proponents on APNIS.; consortium_required: yes ->
     optional'
-flags: []
+- date: 2026-11-04 19:06
+  event: flagged
+  detail: needs re-verification (url_unreachable); previous status open
+flags:
+- url_unreachable
+status_before_flag: open
