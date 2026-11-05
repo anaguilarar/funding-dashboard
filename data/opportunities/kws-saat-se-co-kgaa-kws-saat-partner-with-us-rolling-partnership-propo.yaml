@@ -1,0 +1,90 @@
+id: kws-saat-se-co-kgaa-kws-saat-partner-with-us-rolling-partnership-propo
+title: KWS SAAT - 'Partner with us' rolling partnership proposal intake (crop & field monitoring, data-driven
+  insights, sustainable agriculture practices)
+funder: KWS SAAT SE & Co. KGaA
+funder_type: research_partnership
+program: KWS Innovation - Partner with us (Scouting & Licensing)
+opportunity_type: consortium_call
+themes:
+- digital_agriculture
+- remote_sensing
+- ai_ml
+- climate_smart_ag
+- crop_modeling
+url: https://www.kws.com/corp/en/innovation/partner-with-us/
+source_urls:
+- https://www.kws.com/corp/en/innovation/partner-with-us/form/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline stated; proposals submitted via a standing 'SUBMIT YOUR PROPOSAL' form.
+funding_amount_min: null
+funding_amount_max: null
+currency: Not specified
+funding_text: Not specified. Page describes partnership forms (joint research, licensing, market access,
+  financial investment, startup investments, joint ventures, spinouts); no grant amounts.
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Universities, research institutes, startups and industry partners (per page description).
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: No restriction stated; research institutes explicitly sought. CIAT/Alliance could
+  submit a joint-research proposal (e.g., EO/AI crop and field monitoring, phenotyping) as lead partner.
+  Terms (IP, funding) negotiated bilaterally.
+lead_applicant_requirements: Not specified
+geographic_restrictions: Not specified
+consortium_required: 'no'
+consortium_details: Bilateral partnership with KWS.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Partner focus areas listed: plant trait discovery, breeding technologies, crop and
+  field monitoring, sustainable agriculture practices, new markets and business models, data-driven insights.'
+required_documents: Not specified (online proposal form).
+application_procedure: Submit proposal via kws.com/corp/en/innovation/partner-with-us/form/; contacts
+  Dr. Stefan Schwarz (Lead Scouting & Licensing, stefan.schwarz@kws.com) and Daniel Guerrero (Manager
+  Scouting & Licensing, daniel.guerrerobonilla@kws.com).
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Crop/field monitoring and data-driven insights match UAV/satellite phenotyping
+  and ML skills, but KWS is a breeding company (maize, sugar beet, cereals, vegetables) with commercial
+  IP focus, not coffee/cocoa or smallholder climate adaptation.
+strategic_relevance: 2
+strategic_relevance_rationale: Commercial seed partner; limited fit with public-goods mandate; IP terms
+  may conflict with CGIAR open-access policy.
+technical_feasibility: 4
+technical_feasibility_rationale: Team has high-throughput phenotyping (RS + ML) capability that fits KWS
+  scouting interests.
+recommendation: 'Low-priority, opportunistic: only pursue if a specific phenotyping/monitoring tool can
+  be offered as a joint research project with funding to CIAT and acceptable IP terms. Not a grant programme;
+  staff-cost coverage unknown.'
+potential_partners: KWS Scouting & Licensing team
+next_action: 'Optional: email Stefan Schwarz with a 1-page capability note on UAV/satellite phenotyping
+  to ask whether KWS funds research-institute collaborations and on what IP terms.'
+evidence:
+  deadline_quote: No deadline; page offers 'SUBMIT YOUR PROPOSAL' form.
+  eligibility_quote: KWS works with universities, research institutes, startups, and industry (page summary);
+    seeking partners in 'crop and field monitoring' and 'data-driven insights'.
+  status_quote: In our fields of innovation, we are looking for strong partnerships to take technologies
+    to the next level. Are you interested in partnering with us?
+  staff_costs_quote: Not specified
+unverified_fields:
+- funding_amount
+- covers_staff_costs
+- duration
+- eligible_countries
+- IP terms
+verification_notes: Loaded official KWS partner-with-us page on 2026-11-04. It is a standing partnership/scouting
+  intake, not a grant call; financial terms are negotiated case by case.
+last_verified: '2026-11-04'
+verification_source: import:corporate_agrifood_gap_2026-11-04.json
+first_seen: '2026-11-04'
+history:
+- date: 2026-11-04 09:15
+  event: added
+  detail: import:corporate_agrifood_gap_2026-11-04.json
+flags: []

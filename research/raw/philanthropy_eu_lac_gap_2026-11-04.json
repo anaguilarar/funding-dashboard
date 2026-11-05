@@ -1,0 +1,313 @@
+{
+  "group": "philanthropy_eu_lac_gap_2026-11",
+  "searched_on": "2026-11-04",
+  "opportunities": [
+    {
+      "title": "Oak Foundation - Letter of Enquiry (rolling), Environment Programme: Regenerative Landscapes / Nature and People",
+      "funder": "Oak Foundation",
+      "funder_type": "foundation",
+      "program": "Environment Programme (sub-programmes: Regenerative landscapes; Nature and people; Marine food systems and livelihoods)",
+      "opportunity_type": "grant",
+      "themes": [
+        "multifunctional_landscapes",
+        "biodiversity",
+        "climate_adaptation",
+        "food_security",
+        "smallholders"
+      ],
+      "url": "https://oakfnd.org/submit-enquiry/",
+      "source_urls": [
+        "https://oakfnd.org/grant-making/",
+        "https://oakfnd.org/programmes/environment/"
+      ],
+      "status": "rolling",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "No deadline; unsolicited letters of enquiry accepted through the online form. 'Please note we do not have open calls for proposal at this time.'",
+      "funding_amount_min": 25000,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Over 350 grants a year; average grant award USD 900,000; 'except in special circumstances, we generally do not provide programme grants under USD 25,000'. 'We generally fund no more than 50 per cent of any project budget or 20 per cent of organisational budgets.'",
+      "duration": "Multi-year ('We generally commit multi-year, core support grants (i.e. unrestricted funding), or flexible project grants'); maximum not specified",
+      "duration_months_max": null,
+      "covers_staff_costs": "Not specified",
+      "support_type": "project_funding",
+      "eligible_applicants": "Not-for-profit organisations ('Not-for-profit organisations that have not been invited to apply by a programme officer can submit unsolicited requests for funding through our letter of enquiry process.')",
+      "eligible_countries": "Regenerative landscapes: buffer zones/communal lands in Southern Africa; Nature and people: Southern Africa, Southeast Asia, Europe; Marine food systems: Africa, Asia, Latin America",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "Oak funds not-for-profit organisations; the pages neither include nor exclude international organisations explicitly. Alliance could submit an LOI as lead (not-for-profit international research org) or partner with a Southern African NGO. Terrestrial geography is limited to Southern Africa (regenerative landscapes) and Southern Africa/Southeast Asia/Europe (nature and people); Latin America appears only in the marine sub-programme.",
+      "lead_applicant_requirements": "Not-for-profit; must select the matching programme in the LOI form and state amount requested, total project cost and committed co-funding.",
+      "geographic_restrictions": "Regenerative landscapes: 'We focus on buffer zones outside protected land and areas that include communal lands in Southern Africa.'",
+      "consortium_required": "no",
+      "consortium_details": "Not required",
+      "cofunding_required": "yes",
+      "cofunding_details": "Oak generally funds no more than 50% of a project budget or 20% of an organisational budget; the LOI form asks whether co-funding is committed and for potential co-funders.",
+      "eligible_activities": "Regenerative agriculture ('a farming system that's good for people and good for nature') and rewilding in Southern Africa; living-landscapes approaches safeguarding biodiversity and livelihoods; small-scale fisheries / marine food systems.",
+      "required_documents": "Online LOI form only: organisation details, amount requested (USD), total project cost, co-funding, programme and strategy alignment, project location, purpose and short project description.",
+      "application_procedure": "Submit LOI once via the online form. Oak responds within two months only if it needs more information or invites a formal proposal; then formal application and due diligence. 'We only approve a few submissions through our online letter of enquiry process each year' and programme budgets are allocated about a year in advance.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Regenerative agriculture and living landscapes match multifunctional landscapes / climate-smart ag; EO/AI/crop modelling would be supporting rather than core methods.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Large multi-year grants (average USD 900k) suit staff-funded work, but terrestrial geography is Southern Africa only; no LAC terrestrial window.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Alliance has landscape/agroecology work in Africa; would need Southern African community-based partners and co-funding (Oak max 50%).",
+      "recommendation": "Worth a targeted LOI only if a co-funded Southern Africa regenerative-agriculture/landscape project with community partners exists; very low LOI success rate. Otherwise monitor.",
+      "potential_partners": "Southern African community-based conservation / regenerative agriculture NGOs (existing Oak grantees)",
+      "next_action": "Ask Alliance Africa teams about a co-funded Southern Africa regenerative landscapes concept; read Oak Environment strategy; submit LOI selecting 'Environment - Regenerative Landscapes'.",
+      "evidence": {
+        "deadline_quote": "Please note we do not have open calls for proposal at this time.",
+        "eligibility_quote": "Not-for-profit organisations that have not been invited to apply by a programme officer can submit unsolicited requests for funding through our letter of enquiry process.",
+        "status_quote": "Oak's application process begins with entry through one of two pathways: an invitation from Oak; and the submission of a Letter of Enquiry.",
+        "staff_costs_quote": "For project grants, we encourage applicants to request the true costs, including overhead costs, for such grants."
+      },
+      "unverified_fields": [
+        "covers_staff_costs (not explicit; core grants are unrestricted)",
+        "international_orgs_eligible",
+        "duration_months_max"
+      ],
+      "verification_notes": "Loaded oakfnd.org/grant-making/, /programmes/environment/ and /submit-enquiry/ on 2026-11-04. Standing LOI route, not a call; Oak explicitly states it has no open calls."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "Fondation Daniel et Nina Carasso",
+      "name": "Calls for projects",
+      "url": "https://www.fondationcarasso.org/en/calls-for-projects/",
+      "type": "html",
+      "why": "Funds mainly through thematic open calls (Sustainable Food; Art) in France and Spain. Only open food call on 2026-11-04 is Tiina (impact loans up to EUR 100k for French start-ups/farms, until 2 March 2028) - not a fit. Watch for research-oriented sustainable food / agroecology calls."
+    },
+    {
+      "funder": "Oak Foundation",
+      "name": "Grant-making process / Letter of enquiry",
+      "url": "https://oakfnd.org/grant-making/",
+      "type": "html",
+      "why": "Invitation or rolling unsolicited LOI; multi-year core or project grants, average USD 900k, generally not under USD 25k, max 50% of project budget. Environment: regenerative landscapes (Southern Africa)."
+    },
+    {
+      "funder": "Laudes Foundation",
+      "name": "Becoming a partner",
+      "url": "https://www.laudesfoundation.org/how-we-work/becoming-a-partner/",
+      "type": "html",
+      "why": "Grant inquiry via contact form, then invitation to propose; grants below and above EUR 500k (Investment Committee). Food programme is city/industry-focused and lists agroecology/non-urban food system transformation outside scope - low fit; monitor for strategy change."
+    },
+    {
+      "funder": "John D. and Catherine T. MacArthur Foundation",
+      "name": "Info for grantseekers (Climate Solutions)",
+      "url": "https://www.macfound.org/grants/info-for-grantseekers",
+      "type": "html",
+      "why": "'We generally do not fund unsolicited proposals'; occasional open calls posted on site. Climate Solutions status 'Not Accepting' on 2026-11-04. Long-term strategic grants."
+    },
+    {
+      "funder": "Ford Foundation",
+      "name": "Grant opportunities",
+      "url": "https://www.fordfoundation.org/work/our-grants/grant-opportunities/",
+      "type": "html",
+      "why": "No unsolicited proposals; 'There are currently no public grant opportunities' (2026-11-04). Natural Resources and Climate Justice and the Andean Region office fund by invitation; typical size not stated."
+    },
+    {
+      "funder": "The Christensen Fund",
+      "name": "Homepage / news",
+      "url": "https://www.christensenfund.org/",
+      "type": "html",
+      "why": "Indigenous-led biocultural grantmaking (Kenya, Mexico, US, Global); mainly by invitation with occasional public open calls announced on website/social media (seen via search; grantmaking page returned 404). Typical size not verified. Low fit for CGIAR lead; Mexico programme possible for partner-led agrobiodiversity."
+    },
+    {
+      "funder": "Global Crop Diversity Trust (Crop Trust)",
+      "name": "Open calls for consultants & tenders (procurement portal)",
+      "url": "https://www.croptrust.org/join-us/open-calls-for-consultants-tenders/",
+      "type": "html",
+      "why": "Funds genebanks, crop wild relatives and BOLD (Norway-funded 10-year project from 2021) through selected partners; calls/tenders appear on a JS-rendered portal (portal.croptrust.org/procurement) - check manually. Sizes not stated."
+    },
+    {
+      "funder": "Global Crop Diversity Trust (Crop Trust)",
+      "name": "Power of Diversity Funding Facility",
+      "url": "https://www.croptrust.org/what-we-do/projects/power-of-diversity-funding-facility/",
+      "type": "html",
+      "why": "Multi-donor facility (BMZ/KfW EUR 10M + Ireland EUR 2M) for opportunity crops incl. Colombia (AGROSAVIA partner); no open call stated - monitor for calls CIAT/Alliance could join as technical partner."
+    },
+    {
+      "funder": "Fondazione Cariplo",
+      "name": "Bandi",
+      "url": "https://www.fondazionecariplo.it/contributi/bandi/",
+      "type": "html",
+      "why": "Open calls (bandi) for entities of its territory (Lombardy area); e.g. 'Cofinanziamento Progetti Europei' (no deadline) co-funds EU bids of local non-profits/public bodies. Bioversity (Rome) not in territory - partner-only."
+    },
+    {
+      "funder": "Compagnia di San Paolo",
+      "name": "Contributi / bandi",
+      "url": "https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/",
+      "type": "html",
+      "why": "Open calls and guidelines focused on its territory (culture, welfare, AI in social economy, sustainable supply chains for firms). No international agri-food/climate research call on 2026-11-04."
+    },
+    {
+      "funder": "Volkswagen Foundation",
+      "name": "Our funding portfolio",
+      "url": "https://www.volkswagenstiftung.de/en/our-funding-portfolio",
+      "type": "html",
+      "why": "Open calls for research largely hosted in Germany (e.g. Circularity of Critical Metals deadline 15 Feb 2027; Scoping Workshops 2 Mar 2027). No climate/agri/Global South call at present."
+    },
+    {
+      "funder": "Robert Bosch Stiftung",
+      "name": "Funding (calls for proposals)",
+      "url": "https://bosch-stiftung.de/en/funding",
+      "type": "html",
+      "why": "Funds exclusively through open topic calls, no unsolicited requests; 'There are currently no calls for proposals' (2026-11-04). Has a climate change topic area."
+    },
+    {
+      "funder": "Fundación Bolívar Davivienda",
+      "name": "Convocatorias",
+      "url": "https://www.fundacionbolivardavivienda.org/convocatorias/",
+      "type": "html",
+      "why": "Donations/grants channelled only through annual calls tied to two strategic foci. Open calls target Colombian SMEs (Emprende País 2027, closes 10 Dec 2026) and impact investors (AuRA) - not research. Watch Emprende País Rural."
+    },
+    {
+      "funder": "Fundación Grupo Argos",
+      "name": "Grupo Argos Foundation page",
+      "url": "https://www.grupoargos.com/en/sustainability/grupo-argos-foundation/",
+      "type": "html",
+      "why": "Operational corporate foundation (water & biodiversity, watershed conservation, restoration) working via alliances; no open call found; page is JS-rendered. Possible co-funding partner for Colombian landscape/watershed work."
+    },
+    {
+      "funder": "Instituto Clima e Sociedade (iCS)",
+      "name": "Editais",
+      "url": "https://climaesociedade.org/editais/",
+      "type": "html",
+      "why": "Several editais per year (e.g. Desafio IA Natureza & Clima; community-based adaptation; Amazon economy research with Bezos Earth Fund) plus year-round Carta de Intenção via Fluxx. Only Brazilian organisations or Brazilian branches of international orgs; projects must benefit Brazil. No edital open on 2026-11-04."
+    },
+    {
+      "funder": "Fundación FEMSA",
+      "name": "FAQ",
+      "url": "https://fundacionfemsa.org/faq/",
+      "type": "html",
+      "why": "Operational corporate foundation (water security, circular economy, early childhood) in FEMSA communities; no public call or application process. Partnership-only."
+    },
+    {
+      "funder": "Fundo Vale",
+      "name": "Como se engajar",
+      "url": "https://www.fundovale.org/como-se-engajar/",
+      "type": "html",
+      "why": "Brazil-focused catalytic capital for socio-environmental impact businesses / bioeconomy; contact by email, no open call. Not a research funder."
+    },
+    {
+      "funder": "IKEA Foundation",
+      "name": "Our grants",
+      "url": "https://www.ikeafoundation.org/how-we-work/our-grants",
+      "type": "html",
+      "why": "'IKEA Foundation does not accept unsolicited funding requests.' Large multi-year grants to selected partners. Partnership-only; monitor strategy."
+    },
+    {
+      "funder": "Children's Investment Fund Foundation (CIFF)",
+      "name": "What we fund / grant-making process",
+      "url": "https://ciff.org/what-we-fund/",
+      "type": "html",
+      "why": "Partner-cultivated grantmaking ('We work closely with partners to develop ideas and proposals'); concept note only at CIFF request; climate action and nutrition portfolios. No open application."
+    },
+    {
+      "funder": "Gordon and Betty Moore Foundation",
+      "name": "Our grantmaking (incl. Andes-Amazon)",
+      "url": "https://www.moore.org/about/our-grantmaking",
+      "type": "html",
+      "why": "'We do not accept unsolicited grant proposals'; brief ~100-word email inquiries accepted. Andes-Amazon work is by invitation."
+    },
+    {
+      "funder": "David and Lucile Packard Foundation",
+      "name": "Funding opportunities / RFPs",
+      "url": "https://www.packard.org/grantees/funding-opportunties/",
+      "type": "html",
+      "why": "Less than 1% of grants from unsolicited proposals; occasional RFPs ('There are currently no open RFPs' on 2026-11-04)."
+    },
+    {
+      "funder": "Patrick J. McGovern Foundation",
+      "name": "Grants database",
+      "url": "https://www.mcgovern.org/grants/",
+      "type": "html",
+      "why": "AI/data-for-public-good grants to nonprofits; no public application form found on site (invitation-based in practice). Monitor for open calls/challenges; typical size not verified."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "Fondation Carasso - Tiina program: accelerating food and agricultural transitions",
+      "url": "https://fondationcarasso.org/en/calls-for-proposals/the-tiina-program-accelerating-food-and-agricultural-transitions/",
+      "reason": "Open until 2 March 2028 but impact loans (up to EUR 100k, 2-7 years) for start-ups/agricultural players in France - ineligible/not relevant."
+    },
+    {
+      "title": "Fondation Daniel et Nina Carasso - other calls",
+      "url": "https://www.fondationcarasso.org/en/calls-for-projects/",
+      "reason": "No other open sustainable-food call; remaining listed calls are art calls marked closed (2026-11-04)."
+    },
+    {
+      "title": "Laudes Foundation - grant inquiry route",
+      "url": "https://www.laudesfoundation.org/what-we-do/programmes/food/",
+      "reason": "Rolling inquiry exists but Food programme targets cities/food industry; agroecology and non-urban food system transformation listed outside focus - not relevant."
+    },
+    {
+      "title": "MacArthur Foundation - Climate Solutions",
+      "url": "https://www.macfound.org/grants/info-for-grantseekers",
+      "reason": "Climate Solutions marked 'Not Accepting'; generally no unsolicited proposals; no open call."
+    },
+    {
+      "title": "Ford Foundation - Natural Resources & Climate Justice / Andean Region",
+      "url": "https://www.fordfoundation.org/work/our-grants/grant-opportunities/",
+      "reason": "'There are currently no public grant opportunities'; no unsolicited proposals."
+    },
+    {
+      "title": "The Christensen Fund",
+      "url": "https://www.christensenfund.org/",
+      "reason": "Invitation-only Indigenous-led grantmaking; no open call found; grantmaking page returned 404 - could not verify further."
+    },
+    {
+      "title": "Crop Trust - BOLD / Crop Wild Relatives / Power of Diversity",
+      "url": "https://www.croptrust.org/what-we-do/projects/bold/",
+      "reason": "No open call stated on project pages; procurement portal is JS-rendered and could not be read - could not verify any open call."
+    },
+    {
+      "title": "Fondazione Cariplo - Cofinanziamento Progetti Europei (no deadline)",
+      "url": "https://www.fondazionecariplo.it/bando/cofinanziamento-progetti-europei/",
+      "reason": "Rolling, but for non-profit/public 'enti del territorio' (Cariplo area) to co-fund EU bids; Bioversity (Rome) not eligible as lead."
+    },
+    {
+      "title": "Compagnia di San Paolo - current bandi",
+      "url": "https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/",
+      "reason": "Calls focused on territory culture, welfare, AI in social economy, enterprises - not relevant/ineligible."
+    },
+    {
+      "title": "Volkswagen Foundation - current offers",
+      "url": "https://www.volkswagenstiftung.de/en/our-funding-portfolio",
+      "reason": "No climate/agri/Global South call open; offers target research hosted in Germany."
+    },
+    {
+      "title": "Robert Bosch Stiftung",
+      "url": "https://bosch-stiftung.de/en/funding",
+      "reason": "'There are currently no calls for proposals'; no unsolicited requests accepted."
+    },
+    {
+      "title": "Fundación Bolívar Davivienda - Emprende País 2027 / AuRA",
+      "url": "https://www.fundacionbolivardavivienda.org/convocatorias/",
+      "reason": "Open calls are for Colombian SMEs and impact investors, not research organisations - not relevant."
+    },
+    {
+      "title": "Fundación Grupo Argos",
+      "url": "https://www.grupoargos.com/en/sustainability/grupo-argos-foundation/",
+      "reason": "No open call found; operational foundation working via alliances; official page JS-rendered - could not verify any application route."
+    },
+    {
+      "title": "Instituto Clima e Sociedade - Carta de Intenção / editais",
+      "url": "https://climaesociedade.org/como-solicitar-uma-doacao/",
+      "reason": "No edital open; year-round LOI only for Brazilian organisations or Brazilian branches of international orgs, projects must benefit Brazil - Alliance ineligible as lead (partner via Brazilian org only)."
+    },
+    {
+      "title": "Fundación FEMSA",
+      "url": "https://fundacionfemsa.org/faq/",
+      "reason": "No public call/application process; water security, circular economy, early childhood in FEMSA communities - not relevant."
+    },
+    {
+      "title": "Fundo Vale",
+      "url": "https://www.fundovale.org/como-se-engajar/",
+      "reason": "Invests in Brazilian impact businesses (bioeconomy); no open call; not a research funder."
+    }
+  ]
+}

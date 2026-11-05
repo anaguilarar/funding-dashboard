@@ -1,0 +1,97 @@
+id: mitsui-co-ltd-mitsui-co-co-creation-fund-second-round-2026-solicitatio
+title: Mitsui & Co. Co-Creation Fund - second-round 2026 solicitation (selection end of March 2027)
+funder: Mitsui & Co., Ltd.
+funder_type: foundation
+program: Mitsui & Co. Co-Creation Fund (successor channel to the Mitsui & Co. Environment Fund)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- food_security
+- smallholders
+- digital_agriculture
+- capacity_building
+url: https://www.mitsui.com/jp/en/sustainability/contribution/co-creation_fund/index.html
+source_urls:
+- https://www.mitsui.com/jp/en/sustainability/contribution/topics/2026/1253599_15359.html
+- https://form.mitsui.com/webapp/form/16694_csy_20/index.do
+status: open
+status_basis: official
+published_date: '2026-06-01'
+deadline: 2026-11-30T23:59
+deadline_timezone: Not specified
+deadline_text: The deadline of application is 30th of November 2026.
+funding_amount_min: 10000000
+funding_amount_max: 100000000
+currency: JPY
+funding_text: About 10-100 million yen per project; two projects selected each year; no award if no project
+  qualifies.
+duration: Three years from the start of the grant period, with annual continuation reviews
+duration_months_max: 36
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: In principle, the applicant must belong to an organization or group with a juridical
+  personality (NPO, public interest corporation, university, company, government agency, etc.), with approval
+  from the head/authorized signatory; must be able to do an online interview.
+eligible_countries: 'No restriction stated: ''No restrictions on type of social issue or region (domestic
+  or overseas)''.'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: No nationality/country limit stated and any juridical-person organization appears
+  eligible, so CIAT/Bioversity could plausibly lead, BUT a Mitsui & Co. officer or employee must recommend
+  the project and act as 'Co-Creator'. Without an internal Mitsui sponsor the application cannot proceed.
+lead_applicant_requirements: Applicant must be the main executing entity; project must be recommended
+  by a Mitsui officer/employee who agrees to act as Co-Creator.
+geographic_restrictions: None stated.
+consortium_required: 'no'
+consortium_details: Co-creation with a Mitsui employee required (not a consortium).
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Social-issue projects of any type; excluded: for-profit, political or religious
+  activities, projects funding Mitsui''s own investments, projects where the applicant is not the main
+  executor.'
+required_documents: Not specified (initial contact via website inquiry form).
+application_procedure: Contact Mitsui through the website inquiry form before the deadline; Fund Team
+  preliminary review, internal interview/review board, then external reviewers; rounds close end of May
+  and end of November; notifications in September and the following March.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Open thematically (any social issue); a climate-resilient agri-food /
+  digital advisory project could fit, but there is no explicit focus on EO/AI/crop modelling.
+strategic_relevance: 3
+strategic_relevance_rationale: Three-year grants of up to JPY 100M could fund staff and multi-year work
+  in Asia/LAC/Africa; Mitsui has a large agri-food and Japan/Asia footprint and the researcher has Japan
+  ties.
+technical_feasibility: 3
+technical_feasibility_rationale: Team could deliver an applied project; main barrier is securing a Mitsui
+  internal Co-Creator.
+recommendation: Worth pursuing only if a Mitsui & Co. contact (e.g., agri/food business unit, Mitsui offices
+  in Colombia/Kenya/Viet Nam/Japan) can be found to sponsor. The 30 Nov 2026 round is very tight; the
+  realistic target is the end-May 2027 round.
+potential_partners: Mitsui & Co. agri-food / nutrition business units; Japanese partners (JIRCAS, Univ.
+  of Tokyo).
+next_action: Submit an inquiry via the Mitsui sustainability contact form asking whether externally initiated
+  projects can be matched to a Co-Creator and whether personnel costs are eligible; aim for the May 2027
+  round.
+evidence:
+  deadline_quote: The deadline of application is 30th of November 2026.
+  eligibility_quote: In principle, the applicant must belong to an organization or group with a juridical
+    personality
+  status_quote: start of project solicitation (June 1, 2026) ... offering to be selected at the end of
+    March 2027
+  staff_costs_quote: Not specified - eligible cost categories not listed on the fund page
+unverified_fields:
+- covers_staff_costs
+- required_documents
+- international_orgs_eligible
+- deadline_timezone
+verification_notes: Loaded Mitsui topics notice (2026-06-01) and Co-Creation Fund page on 2026-11-04 via
+  WebFetch. Amounts and 3-year duration from the fund page (paraphrased by the fetch tool). The older
+  'Mitsui & Co. Environment Fund' about page only shows historical FY2019 figures and appears superseded.
+last_verified: '2026-11-04'
+verification_source: import:philanthropy_global_risk_gap_2026-11-04.json
+first_seen: '2026-11-04'
+history:
+- date: 2026-11-04 09:15
+  event: added
+  detail: import:philanthropy_global_risk_gap_2026-11-04.json
+flags: []

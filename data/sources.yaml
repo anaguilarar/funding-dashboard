@@ -1259,6 +1259,539 @@ sources:
   category: regional
   why: IDB/IDB Lab research and innovation calls; blocked automated fetch (403).
   enabled: true
+- id: fondation-daniel-et-nina-carasso-calls-for-project
+  funder: Fondation Daniel et Nina Carasso
+  name: Calls for projects
+  url: https://www.fondationcarasso.org/en/calls-for-projects/
+  type: html
+  category: foundations
+  why: Funds mainly through thematic open calls (Sustainable Food; Art) in France and Spain. Only open
+    food call on 2026-11-04 is Tiina (impact loans up to EUR 100k for French start-ups/farms, until 2
+    March 2028) - not a fit. Watch for research-oriented sustainable food / agroecology calls.
+  enabled: true
+- id: oak-foundation-grant-making-process-letter-of-enqu
+  funder: Oak Foundation
+  name: Grant-making process / Letter of enquiry
+  url: https://oakfnd.org/grant-making/
+  type: html
+  category: foundations
+  why: 'Invitation or rolling unsolicited LOI; multi-year core or project grants, average USD 900k, generally
+    not under USD 25k, max 50% of project budget. Environment: regenerative landscapes (Southern Africa).'
+  enabled: true
+- id: laudes-foundation-becoming-a-partner
+  funder: Laudes Foundation
+  name: Becoming a partner
+  url: https://www.laudesfoundation.org/how-we-work/becoming-a-partner/
+  type: html
+  category: foundations
+  why: Grant inquiry via contact form, then invitation to propose; grants below and above EUR 500k (Investment
+    Committee). Food programme is city/industry-focused and lists agroecology/non-urban food system transformation
+    outside scope - low fit; monitor for strategy change.
+  enabled: true
+- id: john-d-and-catherine-t-macarthur-foundation-info-f
+  funder: John D. and Catherine T. MacArthur Foundation
+  name: Info for grantseekers (Climate Solutions)
+  url: https://www.macfound.org/grants/info-for-grantseekers
+  type: html
+  category: foundations
+  why: '''We generally do not fund unsolicited proposals''; occasional open calls posted on site. Climate
+    Solutions status ''Not Accepting'' on 2026-11-04. Long-term strategic grants.'
+  enabled: true
+- id: ford-foundation-grant-opportunities
+  funder: Ford Foundation
+  name: Grant opportunities
+  url: https://www.fordfoundation.org/work/our-grants/grant-opportunities/
+  type: html
+  category: foundations
+  why: No unsolicited proposals; 'There are currently no public grant opportunities' (2026-11-04). Natural
+    Resources and Climate Justice and the Andean Region office fund by invitation; typical size not stated.
+  enabled: true
+- id: the-christensen-fund-homepage-news
+  funder: The Christensen Fund
+  name: Homepage / news
+  url: https://www.christensenfund.org/
+  type: html
+  category: foundations
+  why: Indigenous-led biocultural grantmaking (Kenya, Mexico, US, Global); mainly by invitation with occasional
+    public open calls announced on website/social media (seen via search; grantmaking page returned 404).
+    Typical size not verified. Low fit for CGIAR lead; Mexico programme possible for partner-led agrobiodiversity.
+  enabled: true
+- id: global-crop-diversity-trust-crop-trust-open-calls
+  funder: Global Crop Diversity Trust (Crop Trust)
+  name: Open calls for consultants & tenders (procurement portal)
+  url: https://www.croptrust.org/join-us/open-calls-for-consultants-tenders/
+  type: html
+  category: foundations
+  why: Funds genebanks, crop wild relatives and BOLD (Norway-funded 10-year project from 2021) through
+    selected partners; calls/tenders appear on a JS-rendered portal (portal.croptrust.org/procurement)
+    - check manually. Sizes not stated.
+  enabled: true
+- id: global-crop-diversity-trust-crop-trust-power-of-di
+  funder: Global Crop Diversity Trust (Crop Trust)
+  name: Power of Diversity Funding Facility
+  url: https://www.croptrust.org/what-we-do/projects/power-of-diversity-funding-facility/
+  type: html
+  category: foundations
+  why: Multi-donor facility (BMZ/KfW EUR 10M + Ireland EUR 2M) for opportunity crops incl. Colombia (AGROSAVIA
+    partner); no open call stated - monitor for calls CIAT/Alliance could join as technical partner.
+  enabled: true
+- id: fondazione-cariplo-bandi
+  funder: Fondazione Cariplo
+  name: Bandi
+  url: https://www.fondazionecariplo.it/contributi/bandi/
+  type: html
+  category: foundations
+  why: Open calls (bandi) for entities of its territory (Lombardy area); e.g. 'Cofinanziamento Progetti
+    Europei' (no deadline) co-funds EU bids of local non-profits/public bodies. Bioversity (Rome) not
+    in territory - partner-only.
+  enabled: true
+- id: compagnia-di-san-paolo-contributi-bandi
+  funder: Compagnia di San Paolo
+  name: Contributi / bandi
+  url: https://www.compagniadisanpaolo.it/it/cosa-facciamo/contributi/
+  type: html
+  category: foundations
+  why: Open calls and guidelines focused on its territory (culture, welfare, AI in social economy, sustainable
+    supply chains for firms). No international agri-food/climate research call on 2026-11-04.
+  enabled: true
+- id: volkswagen-foundation-our-funding-portfolio
+  funder: Volkswagen Foundation
+  name: Our funding portfolio
+  url: https://www.volkswagenstiftung.de/en/our-funding-portfolio
+  type: html
+  category: foundations
+  why: Open calls for research largely hosted in Germany (e.g. Circularity of Critical Metals deadline
+    15 Feb 2027; Scoping Workshops 2 Mar 2027). No climate/agri/Global South call at present.
+  enabled: true
+- id: robert-bosch-stiftung-funding-calls-for-proposals
+  funder: Robert Bosch Stiftung
+  name: Funding (calls for proposals)
+  url: https://bosch-stiftung.de/en/funding
+  type: html
+  category: foundations
+  why: Funds exclusively through open topic calls, no unsolicited requests; 'There are currently no calls
+    for proposals' (2026-11-04). Has a climate change topic area.
+  enabled: true
+- id: fundacion-bolivar-davivienda-convocatorias
+  funder: Fundación Bolívar Davivienda
+  name: Convocatorias
+  url: https://www.fundacionbolivardavivienda.org/convocatorias/
+  type: html
+  category: foundations
+  why: Donations/grants channelled only through annual calls tied to two strategic foci. Open calls target
+    Colombian SMEs (Emprende País 2027, closes 10 Dec 2026) and impact investors (AuRA) - not research.
+    Watch Emprende País Rural.
+  enabled: true
+- id: fundacion-grupo-argos-grupo-argos-foundation-page
+  funder: Fundación Grupo Argos
+  name: Grupo Argos Foundation page
+  url: https://www.grupoargos.com/en/sustainability/grupo-argos-foundation/
+  type: html
+  category: foundations
+  why: Operational corporate foundation (water & biodiversity, watershed conservation, restoration) working
+    via alliances; no open call found; page is JS-rendered. Possible co-funding partner for Colombian
+    landscape/watershed work.
+  enabled: true
+- id: instituto-clima-e-sociedade-ics-editais
+  funder: Instituto Clima e Sociedade (iCS)
+  name: Editais
+  url: https://climaesociedade.org/editais/
+  type: html
+  category: foundations
+  why: Several editais per year (e.g. Desafio IA Natureza & Clima; community-based adaptation; Amazon
+    economy research with Bezos Earth Fund) plus year-round Carta de Intenção via Fluxx. Only Brazilian
+    organisations or Brazilian branches of international orgs; projects must benefit Brazil. No edital
+    open on 2026-11-04.
+  enabled: true
+- id: fundacion-femsa-faq
+  funder: Fundación FEMSA
+  name: FAQ
+  url: https://fundacionfemsa.org/faq/
+  type: html
+  category: foundations
+  why: Operational corporate foundation (water security, circular economy, early childhood) in FEMSA communities;
+    no public call or application process. Partnership-only.
+  enabled: true
+- id: fundo-vale-como-se-engajar
+  funder: Fundo Vale
+  name: Como se engajar
+  url: https://www.fundovale.org/como-se-engajar/
+  type: html
+  category: foundations
+  why: Brazil-focused catalytic capital for socio-environmental impact businesses / bioeconomy; contact
+    by email, no open call. Not a research funder.
+  enabled: true
+- id: ikea-foundation-our-grants
+  funder: IKEA Foundation
+  name: Our grants
+  url: https://www.ikeafoundation.org/how-we-work/our-grants
+  type: html
+  category: foundations
+  why: '''IKEA Foundation does not accept unsolicited funding requests.'' Large multi-year grants to selected
+    partners. Partnership-only; monitor strategy.'
+  enabled: true
+- id: children-s-investment-fund-foundation-ciff-what-we
+  funder: Children's Investment Fund Foundation (CIFF)
+  name: What we fund / grant-making process
+  url: https://ciff.org/what-we-fund/
+  type: html
+  category: foundations
+  why: Partner-cultivated grantmaking ('We work closely with partners to develop ideas and proposals');
+    concept note only at CIFF request; climate action and nutrition portfolios. No open application.
+  enabled: true
+- id: gordon-and-betty-moore-foundation-our-grantmaking
+  funder: Gordon and Betty Moore Foundation
+  name: Our grantmaking (incl. Andes-Amazon)
+  url: https://www.moore.org/about/our-grantmaking
+  type: html
+  category: foundations
+  why: '''We do not accept unsolicited grant proposals''; brief ~100-word email inquiries accepted. Andes-Amazon
+    work is by invitation.'
+  enabled: true
+- id: david-and-lucile-packard-foundation-funding-opport
+  funder: David and Lucile Packard Foundation
+  name: Funding opportunities / RFPs
+  url: https://www.packard.org/grantees/funding-opportunties/
+  type: html
+  category: foundations
+  why: Less than 1% of grants from unsolicited proposals; occasional RFPs ('There are currently no open
+    RFPs' on 2026-11-04).
+  enabled: true
+- id: patrick-j-mcgovern-foundation-grants-database
+  funder: Patrick J. McGovern Foundation
+  name: Grants database
+  url: https://www.mcgovern.org/grants/
+  type: html
+  category: foundations
+  why: AI/data-for-public-good grants to nonprofits; no public application form found on site (invitation-based
+    in practice). Monitor for open calls/challenges; typical size not verified.
+  enabled: true
+- id: waverley-street-foundation-about-faq
+  funder: Waverley Street Foundation
+  name: About / FAQ
+  url: https://www.waverleystreet.org/about
+  type: html
+  category: foundations
+  why: 'Invitation-only climate spend-down funder (focus Healthy Land and Clean Energy). Official FAQ:
+    ''we do not accept unsolicited proposals.'' Typical grants reportedly USD 1-10M (secondary sources).
+    Monitor for policy change or regranting partners.'
+  enabled: true
+- id: the-audacious-project-apply-page
+  funder: The Audacious Project
+  name: Apply page
+  url: https://www.audaciousproject.org/apply
+  type: html
+  category: foundations
+  why: Rolling idea submission (no deadline since June 2025) for orgs with >= USD 2M annual budget; very
+    large multi-year packages (size not stated). Institutional-level channel.
+  enabled: true
+- id: swiss-re-foundation-how-to-partner-with-us
+  funder: Swiss Re Foundation
+  name: How to partner with us
+  url: https://www.swissrefoundation.org/who-we-partner-with/How-to-partner-with-us-.html
+  type: html
+  category: foundations
+  why: Mostly strategic partners selected by the foundation (concept note on invitation); applicants must
+    operate in World Bank LMICs. Annual open calls only for Entrepreneurs for Resilience (social enterprises;
+    USD 360k grant pool + up to USD 1M blended), Shine and Charity of the Year; ad-hoc EOIs (e.g., Urban
+    NbS in LMICs, closed 20 Jan 2026). CHF 8.1M total grants approved in 2025.
+  enabled: true
+- id: munich-re-foundation-climate-risk-and-adaptation-r
+  funder: Munich Re Foundation
+  name: Climate risk and adaptation (RISK Award, RAIN Challenge)
+  url: https://www.munichre-foundation.org/en/climate-adaptation.html
+  type: html
+  category: foundations
+  why: 'Funds local projects mainly via competitions: biennial RISK Award (EUR 100,000; 2027 theme ''Homes
+    at risk: Climate resilience for informal settlements'') and RAIN Challenge with Global Resilience
+    Partnership (East Africa nature-positive agriculture, up to USD 50k, 12 months). Small grants; watch
+    the 2027 rounds.'
+  enabled: true
+- id: global-resilience-partnership-with-munich-re-found
+  funder: Global Resilience Partnership (with Munich Re Foundation)
+  name: GRP Innovation Challenge news
+  url: https://www.globalresiliencepartnership.org/call-for-proposals-for-innovations-across-the-global-south-now-open/
+  type: html
+  category: foundations
+  why: Annual Innovation Challenge (RAIN East Africa agriculture; TECH4Resilience incl. SE Asia); open
+    to non-/for-profit orgs in ODA-eligible countries; up to USD 50k for 12 months. 2026 round closed
+    22 May 2026; watch for a 2027 round (opened 1 May in 2026).
+  enabled: true
+- id: z-zurich-foundation-climate-change-programmes
+  funder: Z Zurich Foundation
+  name: Climate change programmes
+  url: https://www.zurich.foundation/climate-change
+  type: html
+  category: foundations
+  why: Partnership model (Zurich Climate Resilience Alliance, Urban Climate Resilience Program, CRMC);
+    no open calls; engagement via contact / co-funding. Sizes not stated.
+  enabled: true
+- id: ocp-foundation-ocp-group-ocp-foundation-website
+  funder: OCP Foundation / OCP Group
+  name: OCP Foundation website
+  url: https://www.ocpfoundation.org/
+  type: html
+  category: foundations
+  why: Site returned 403 to automated fetch. Funds agriculture/soil research mainly via strategic partnerships
+    (UM6P, Embrapa, Arvalis, IAEA 2026 partnership) and occasional Morocco-focused calls; no verified
+    open call. Check manually; partnership route via UM6P likely.
+  enabled: true
+- id: toyota-foundation-grant-programs
+  funder: Toyota Foundation
+  name: Grant programs
+  url: https://www.toyotafound.or.jp/english/
+  type: html
+  category: foundations
+  why: Open annual calls. International Grant Program (East/SE/South Asia practitioner exchange; max JPY
+    5M for 1 yr, JPY 10M for 2 yrs) ran 1 Apr-30 May 2026 (closed). Research Grant Program 2026 closed
+    June 2026. Watch 2027 calls (~April); low thematic fit.
+  enabled: true
+- id: mitsui-co-co-creation-fund
+  funder: Mitsui & Co.
+  name: Co-Creation Fund
+  url: https://www.mitsui.com/jp/en/sustainability/contribution/co-creation_fund/index.html
+  type: html
+  category: foundations
+  why: Two rounds/year (end May, end Nov); JPY 10-100M per project, 3 years, any region; requires a Mitsui
+    employee Co-Creator. Replaces the older Mitsui & Co. Environment Fund.
+  enabled: true
+- id: the-sumitomo-foundation-grant-for-environmental-re
+  funder: The Sumitomo Foundation
+  name: Grant for Environmental Research Projects
+  url: https://www.sumitomo.or.jp/e/other.htm
+  type: html
+  category: foundations
+  why: Annual open call (15 Apr-30 Jun); General max JPY 5M (1-2 yrs), Special Subject max JPY 10M (2-3
+    yrs; FY2027 subject 'Interdisciplinary and/or international research to explore Planetary Health',
+    notice dated 7 Oct 2026). Applicant must belong to a research institution in Japan or be a Japanese
+    national/PR; applicant remuneration excluded. Alliance only as collaborator with a Japan-based PI.
+  enabled: true
+- id: data-org-funding-opportunities
+  funder: data.org
+  name: Funding opportunities
+  url: https://data.org/opportunities/
+  type: html
+  category: foundations
+  why: Lists own Innovation Challenges (all currently 'Awarded'; e.g., USD 10M Inclusive Growth and Recovery
+    Challenge) and third-party calls (e.g., Rockefeller 'Cities Deliver' USD 50M CfP). Watch for a climate/health
+    data challenge; also https://data.org/our-work/challenges/.
+  enabled: true
+- id: bloomberg-philanthropies-environment-program
+  funder: Bloomberg Philanthropies
+  name: Environment program
+  url: https://www.bloomberg.org/environment/
+  type: html
+  category: foundations
+  why: 'Official site blocked automated fetch (403). Secondary sources: no unsolicited proposals; funds
+    via invitation and occasional competitions. Very large grants. Monitor for climate RFPs/competitions.'
+  enabled: true
+- id: quadrature-climate-foundation-quadrature-charitabl
+  funder: Quadrature Climate Foundation (Quadrature Charitable Foundation)
+  name: FAQs
+  url: https://www.qc.foundation/faqs/
+  type: html
+  category: foundations
+  why: 'Invitation-only: ''We do not currently accept unsolicited applications, but we are exploring alternative
+    models.'' Climate risk is one of three funding areas. Grant size not stated. Watch for new open models.'
+  enabled: true
+- id: global-center-on-adaptation-procurement
+  funder: Global Center on Adaptation
+  name: Procurement
+  url: https://gca.org/about-us/procurement/
+  type: html
+  category: foundations
+  why: Not a grantmaker; issues RFPs/consultancy tenders (e.g., Sierra Leone climate vulnerability maps/data
+    platform, posted 21 Jul 2026; Morocco climate-resilient seeds risk assessment, posted 26 Jan 2026).
+    Service contracts; deadlines in each notice.
+  enabled: true
+- id: african-climate-foundation-grant-making
+  funder: African Climate Foundation
+  name: Grant-making
+  url: https://africanclimatefoundation.org/grant-making
+  type: html
+  category: foundations
+  why: Africa-led climate funder (Cape Town) using strategic grantmaking, fiscal hosting and incubation;
+    grantees identified by the foundation (no unsolicited proposals). New 2026-2030 strategy published
+    May 2026. Size not stated officially.
+  enabled: true
+- id: jde-peet-s-common-grounds-farmer-programme-respons
+  funder: JDE Peet's
+  name: Common Grounds farmer programme / responsible sourcing
+  url: https://jdepeets.com/sustainability/responsible-sourcing/
+  type: html
+  category: corporate_agrifood
+  why: 'Partnership approach: multi-year (3-10 yr) farmer projects co-designed with suppliers, NGOs and
+    governments; also co-funds coffee cultivar research (via World Coffee Research, already tracked).
+    No open call. Contact via jdepeets.com/contact-us (sustainability/green coffee sourcing team).'
+  enabled: true
+- id: nestle-nespresso-aaa-sustainable-quality-program
+  funder: Nestle Nespresso
+  name: AAA Sustainable Quality Program
+  url: https://www.sustainability.nespresso.com/communities/aaa-sustainable-quality-program
+  type: html
+  category: corporate_agrifood
+  why: 'Partnership approach: programme co-designed with Rainforest Alliance; works through suppliers/agronomists
+    and commissioned research (e.g., CRECE); 2030 regenerative sourcing target creates potential research/MRV
+    partnerships. No open call; approach Nespresso sustainability/AAA team via Rainforest Alliance or
+    supplier links.'
+  enabled: true
+- id: illycaffe-fondazione-ernesto-illy-fondazione-ernes
+  funder: illycaffe / Fondazione Ernesto Illy
+  name: Fondazione Ernesto Illy - projects
+  url: https://fondazionernestoilly.org/
+  type: html
+  category: corporate_agrifood
+  why: 'Invitation/partnership approach: funds scientific projects (Virtuous Agriculture, CIRAD coffee
+    rust study, climate change and coffee, reforestation in Colombia, Ethiopian germplasm) and Ernesto
+    Illy Colloquia with UNESCO-TWAS. No application process published. Contact info@fondazioneilly.org.'
+  enabled: true
+- id: fondazione-giuseppe-e-pericle-lavazza-lavazza-foun
+  funder: Fondazione Giuseppe e Pericle Lavazza
+  name: Lavazza Foundation projects
+  url: https://lavazzagroup.com/en/how-we-work/the-communities.html
+  type: html
+  category: corporate_agrifood
+  why: 'Partnership approach: 50+ projects in 20 countries implemented with local/NGO partners; founding
+    member of Coffee&Climate (climate adaptation for smallholders). No call for proposals. Foundation
+    site fondazionelavazza.com/en/; a UNDP page lists Davide Asinelli (Lavazza Foundation) as contact.'
+  enabled: true
+- id: ferrero-ferrero-farming-values-hazelnut-company-pa
+  funder: Ferrero
+  name: Ferrero Farming Values / Hazelnut Company partnerships
+  url: https://www.ferrerohazelnutcompany.com/int/en/about-us/partnerships
+  type: html
+  category: corporate_agrifood
+  why: 'Partnership approach: FFV works with NGOs (Save the Children, Earthworm), universities and research
+    institutes on cocoa, hazelnut, coffee; heavy EO/polygon traceability (Starling). No open call. Contact
+    via Ferrero sustainability/FFV team.'
+  enabled: true
+- id: the-hershey-company-cocoa-for-good
+  funder: The Hershey Company
+  name: Cocoa For Good
+  url: https://www.thehersheycompany.com/en_us/sustainability/shared-business/cocoa-for-good.html
+  type: html
+  category: corporate_agrifood
+  why: 'Partnership approach: 12-year USD 500M strategy in Cote d''Ivoire/Ghana; partners selected directly
+    (CARE, Rainforest Alliance, PUR, ICI, Earthworm/Starling, Wageningen research). No proposal intake.
+    Contact via Hershey sustainability team.'
+  enabled: true
+- id: lindt-cocoa-foundation-lindt-cocoa-foundation
+  funder: Lindt Cocoa Foundation
+  name: Lindt Cocoa Foundation
+  url: https://www.lindtcocoafoundation.org/
+  type: html
+  category: corporate_agrifood
+  why: 'Partnership approach: funds projects ''with a focus on sustainable value chains, landscape projects,
+    and research'' in selected countries through partner organizations (e.g., Lindt Farming Program in
+    Ghana, Madagascar, Ecuador; CHF 2-3M/yr). No application process. Contact via site Contact page (about-us/contact).'
+  enabled: true
+- id: tony-s-chocolonely-tony-s-open-chain-mission-allie
+  funder: Tony's Chocolonely
+  name: Tony's Open Chain - mission allies
+  url: https://tonysopenchain.com/whos-in/mission-allies
+  type: html
+  category: corporate_agrifood
+  why: 'Not a grant-maker: sourcing coalition of brands (mission allies) and processors applying 5 sourcing
+    principles in Cote d''Ivoire/Ghana. Possible research/impact-evaluation contracting only. Contact
+    via tonysopenchain.com.'
+  enabled: true
+- id: keurig-dr-pepper-kdp-corporate-responsibility-coff
+  funder: Keurig Dr Pepper
+  name: KDP corporate responsibility / coffee sourcing
+  url: https://www.keurigdrpepper.com/keurig-dr-pepper-marks-milestones-and-highlights-steady-progress-in-2024-impact-report/
+  type: html
+  category: corporate_agrifood
+  why: No public grant programme for coffee supply chains; engages farmers via supplier and NGO partners
+    and funds World Coffee Research (already tracked). Watch annual impact report for new programmes.
+  enabled: true
+- id: general-mills-foundation-general-mills-foundation
+  funder: General Mills Foundation
+  name: General Mills Foundation - Giving FAQs
+  url: https://content.generalmills.com/en/Responsibility/general-mills-foundation/giving-faqs
+  type: html
+  category: corporate_agrifood
+  why: Invitation only ('invite-only basis'); grants focused on hunger/education near facilities. Regenerative
+    agriculture funded by General Mills corporate via selected partners (Soil Health Academy, ALUS, NFWF),
+    mostly North America. No open call.
+  enabled: true
+- id: mccain-foods-mccain-foundation-mccain-foundation
+  funder: McCain Foods / McCain Foundation
+  name: McCain Foundation
+  url: https://mccainfoundation.org/eligibility-checklist/
+  type: html
+  category: corporate_agrifood
+  why: Open application but restricted to registered Canadian charities in McCain operating communities;
+    McCain Foods regen-ag work is via grower incentive programmes. Not usable by Alliance; monitor only
+    for regen-ag research partnerships. Contact info@mccainfoundation.org.
+  enabled: true
+- id: agco-agriculture-foundation-agco-agriculture-found
+  funder: AGCO Agriculture Foundation
+  name: AGCO Agriculture Foundation
+  url: https://www.agcocorp.com/int/en/home/agco-foundation.html
+  type: html
+  category: corporate_agrifood
+  why: 'Now invitation only (''accepts grant requests and proposals by invitation only''); previous open
+    cycles 2022-2024 (2024: USD 400-450k over 3 years for nonprofits worldwide). Pillars: Youth in Agriculture,
+    Agricultural Innovation, Community Empowerment. Contact agcofoundation@agcocorp.com to express interest.'
+  enabled: true
+- id: east-west-seed-knowledge-transfer-foundation-ews-k
+  funder: East-West Seed Knowledge Transfer Foundation
+  name: EWS-KT
+  url: https://eastwestseed.com/knowledge-transfer-foundation
+  type: html
+  category: corporate_agrifood
+  why: 'Implementer, not funder: delivers vegetable-farmer training (Asia/Africa) and seeks co-investment
+    from donors; collaborates with research institutions (e.g., WUR). Potential implementation partner.
+    Contact via kt.eastwestseed.com.'
+  enabled: true
+- id: basf-agricultural-solutions-basf-innovate-with-us
+  funder: BASF Agricultural Solutions
+  name: BASF Innovate with us / Open Innovation Platform Agro
+  url: https://www.basf.com/basf/www/us/en/who-we-are/innovation/Innovate_with_us
+  type: html
+  category: corporate_agrifood
+  why: 'Partnership approach: Open Innovation Platform (molecule screening), AgroStart (digital ag startups),
+    temporary campaigns, bilateral academic alliances; precedent with CGIAR (IRRI OPTIMA Rice GHG collaboration).
+    Watch for campaigns; approach via BASF Agricultural Solutions R&D/sustainability.'
+  enabled: true
+- id: kws-kws-partner-with-us
+  funder: KWS
+  name: KWS Partner with us
+  url: https://www.kws.com/corp/en/innovation/partner-with-us/
+  type: html
+  category: corporate_agrifood
+  why: Rolling partnership proposal form (see opportunities). Contacts Stefan Schwarz / Daniel Guerrero
+    (Scouting & Licensing).
+  enabled: true
+- id: the-mosaic-company-mosaic-funding-guidelines-2026
+  funder: The Mosaic Company
+  name: Mosaic Funding Guidelines 2026
+  url: https://mosaicco.com/fileLibrary/publicFiles/0-2026-Funding-Guidelines.pdf
+  type: html
+  category: corporate_agrifood
+  why: Quarterly grant rounds; international orgs by invitation for India/China/Brazil via community.relations@mosaicco.com.
+    Re-check guidelines each January.
+  enabled: true
+- id: bunge-bunge-sustainable-solutions-regenerative-agr
+  funder: Bunge
+  name: Bunge sustainable solutions / regenerative agriculture programmes
+  url: https://bunge.com/agriculture/sustainable-solutions
+  type: html
+  category: corporate_agrifood
+  why: No grant programme; regen-ag programmes (Brazil, Argentina, US, Canada, Poland w/ EIT Food, Romania,
+    Hungary) pay farmer premiums and use tech partners (xFarm, Origeo). Possible MRV/EO partnership only
+    by direct approach to Bunge sustainability team.
+  enabled: true
+- id: adm-cares-adm-cares
+  funder: ADM Cares
+  name: ADM Cares
+  url: https://www.adm.com/en-us/sustainability/goals-and-programs/adm-cares/
+  type: html
+  category: corporate_agrifood
+  why: Invitation only ('All grants are driven by ADM project champions and are by invitation only');
+    has funded international ag NGOs (TechnoServe India regen-ag, World Vision Vietnam). Express interest
+    via the ADM Cares Contact Us form.
+  enabled: true
 api_queries:
   grants_gov:
   - agriculture climate international

@@ -1,0 +1,84 @@
+id: the-audacious-project-ted-with-a-community-of-philanthropists-the-auda
+title: The Audacious Project (TED) - rolling idea submission for large multi-year initiatives
+funder: The Audacious Project (TED, with a community of philanthropists)
+funder_type: foundation
+program: Audacious Project annual cohort (rolling submissions)
+opportunity_type: grant
+themes:
+- climate_adaptation
+- food_security
+- smallholders
+- climate_data_infrastructure
+url: https://www.audaciousproject.org/apply
+source_urls:
+- https://www.audaciousproject.org/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: As of June 15, 2025, we are no longer setting a deadline for upcoming cycles. ... Ideas
+  can be shared throughout the year.
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Grant sizes not stated; site reports 70 projects launched in 7 cycles and $8.8b catalyzed
+  (i.e., very large multi-year packages - inference, not stated).
+duration: Multi-year plans ('shape their ideas into viable multi-year plans'); exact duration Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Individuals 18+ applying on behalf of a nonprofit, NGO, institution or collaboration;
+  'Organizations and initiatives should have an annual budget of at least $2M'; must be able to receive
+  philanthropic funds and have core infrastructure.
+eligible_countries: No geographic restriction stated.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Alliance/CGIAR meets the $2M budget threshold and is a nonprofit institution,
+  so a submission appears possible; realistically requires a CGIAR-wide or multi-partner, very large-scale
+  idea championed at senior leadership level.
+lead_applicant_requirements: Annual budget of at least $2M; core infrastructure to support the work.
+geographic_restrictions: None stated.
+consortium_required: optional
+consortium_details: Collaborations of several entities allowed.
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: Big, bold, scalable solutions with far-reaching social impact.
+required_documents: Not specified (online idea submission).
+application_procedure: Submit idea via /apply; rolling review; selected ideas are shaped into multi-year
+  plans and launched to philanthropists.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: No thematic call; climate adaptation/food systems at massive scale could
+  fit, but research projects are not the typical profile.
+strategic_relevance: 3
+strategic_relevance_rationale: Transformational multi-year funding if a CGIAR-wide flagship (e.g., digital
+  climate advisory for smallholders at scale) were pitched.
+technical_feasibility: 2
+technical_feasibility_rationale: Requires an institutional-level initiative and scale far beyond a single
+  research team.
+recommendation: Not a researcher-level opportunity; flag to Alliance/CGIAR resource mobilization as a
+  channel for a scaled flagship initiative.
+potential_partners: CGIAR System, other CGIAR centers, national met services, digital advisory implementers.
+next_action: Share with the Alliance resource-mobilization team; check the 'Learn if you qualify' criteria
+  before any submission.
+evidence:
+  deadline_quote: As of June 15, 2025, we are no longer setting a deadline for upcoming cycles.
+  eligibility_quote: Organizations and initiatives should have an annual budget of at least $2M.
+  status_quote: Ideas can be shared throughout the year.
+  staff_costs_quote: Not specified
+unverified_fields:
+- funding_amount_min
+- funding_amount_max
+- covers_staff_costs
+- duration_months_max
+- required_documents
+verification_notes: Loaded audaciousproject.org and /apply on 2026-11-04. Grant size not stated officially.
+last_verified: '2026-11-04'
+verification_source: import:philanthropy_global_risk_gap_2026-11-04.json
+first_seen: '2026-11-04'
+history:
+- date: 2026-11-04 09:15
+  event: added
+  detail: import:philanthropy_global_risk_gap_2026-11-04.json
+flags: []

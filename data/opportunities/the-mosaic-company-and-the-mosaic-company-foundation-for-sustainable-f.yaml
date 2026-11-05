@@ -1,0 +1,93 @@
+id: the-mosaic-company-and-the-mosaic-company-foundation-for-sustainable-f
+title: Mosaic Company / Mosaic Company Foundation for Sustainable Food Systems - quarterly grant rounds
+  (international orgs by invitation; India, China, Brazil focus) - next deadline 21 Dec 2026
+funder: The Mosaic Company and The Mosaic Company Foundation for Sustainable Food Systems
+funder_type: foundation
+program: 'Mosaic Funding Guidelines (Food: Global Agricultural Development, Agricultural Education; Water:
+  Nutrient Stewardship)'
+opportunity_type: grant
+themes:
+- smallholders
+- food_security
+- climate_smart_ag
+- capacity_building
+url: https://mosaicco.com/fileLibrary/publicFiles/0-2026-Funding-Guidelines.pdf
+source_urls:
+- https://mosaicco.com/Article/Announcing-The-Mosaic-Company-Foundation-for-Sustainable-Food-Systems
+status: monitoring
+status_basis: official
+published_date: 2026-01
+deadline: 2026-12-21T23:59
+deadline_timezone: EST
+deadline_text: 'Application Deadline (due by midnight, EST): ... December 21, 2026 (review to April 19,
+  2027); next listed March 22 [2027] (review to July 19, 2027)'
+funding_amount_min: null
+funding_amount_max: null
+currency: USD
+funding_text: Not specified in guidelines. 'We prefer that requests not exceed 10 percent of your organization's
+  annual operating budget and 50 percent of the program's annual budget.'
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: 501(c)(3) (US) or CRA-registered charity (Canada), 'or hold an equivalent institutional
+  registration'; must be in North America 'unless seeking a global or national partnership'. Internationally
+  based organizations only on invitation.
+eligible_countries: Online system for US/Canada; international proposals for India, China or Brazil (Mosaic
+  operating countries) by email first.
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Alliance cannot use the online form directly; must email community.relations@mosaicco.com
+  with a Food/Water opportunity in India (Alliance has a New Delhi office) or Brazil and be invited. A
+  US-registered 501(c)(3) partner (e.g., CGIAR-affiliated US foundation) could alternatively apply for
+  a 'global partnership'.
+lead_applicant_requirements: Registered charity or equivalent; nondiscrimination attestation.
+geographic_restrictions: North America, or India/China/Brazil by invitation.
+consortium_required: 'no'
+consortium_details: Not required
+cofunding_required: 'yes'
+cofunding_details: Request preferably <=50% of program annual budget and <=10% of organization operating
+  budget.
+eligible_activities: Global Agricultural Development (smallholder food security programs in developing
+  nations); Agricultural Education (research, education, extension on soil health and balanced nutrition);
+  Nutrient Stewardship in watersheds.
+required_documents: Not specified (online application after invitation).
+application_procedure: Email community.relations@mosaicco.com describing an opportunity fitting Food/Water
+  focus in India, China or Brazil; if invited, apply via online form by a quarterly deadline.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Fertilizer-company focus on soil health/balanced nutrition and smallholder
+  extension; EO/AI only as supporting methods (e.g., nutrient-management decision tools).
+strategic_relevance: 2
+strategic_relevance_rationale: Only India/Brazil overlap; invitation-only for international orgs; modest
+  grant sizes; fertilizer-industry funder.
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible if paired with Alliance India soil/nutrient team; outside researcher's
+  core LAC work.
+recommendation: Low priority. Pursue only if Alliance India has a soil-health/nutrient-advisory project
+  needing co-funding; send an inquiry email before the 21 Dec 2026 round.
+potential_partners: Alliance India office; S M Sehgal Foundation (past Mosaic grantee in India)
+next_action: Forward to Alliance Asia/India colleagues; if interested, email community.relations@mosaicco.com
+  before mid-December 2026.
+evidence:
+  deadline_quote: December 21, 2026 | December 21, 2026 – April 19, 2027 | April 19, 2027
+  eligibility_quote: On rare occasion, we will invite internationally based organizations to apply through
+    this form. If you have an opportunity ... in India, China, or Brazil ... please email us at community.relations@mosaicco.com.
+  status_quote: Revised January 2026
+  staff_costs_quote: Not specified
+unverified_fields:
+- funding_amount
+- covers_staff_costs
+- duration
+- required_documents
+verification_notes: Read official 2026 Funding Guidelines PDF (revised Jan 2026) on 2026-11-04. Table
+  lists a 'March 22, 2026' row after December 2026 that is evidently March 2027 (typo in source). Status
+  set to monitoring because international applicants need an invitation.
+last_verified: '2026-11-04'
+verification_source: import:corporate_agrifood_gap_2026-11-04.json
+first_seen: '2026-11-04'
+history:
+- date: 2026-11-04 09:15
+  event: added
+  detail: import:corporate_agrifood_gap_2026-11-04.json
+flags: []

@@ -1,0 +1,104 @@
+id: oak-foundation-oak-foundation-letter-of-enquiry-rolling-environment-pr
+title: 'Oak Foundation - Letter of Enquiry (rolling), Environment Programme: Regenerative Landscapes /
+  Nature and People'
+funder: Oak Foundation
+funder_type: foundation
+program: 'Environment Programme (sub-programmes: Regenerative landscapes; Nature and people; Marine food
+  systems and livelihoods)'
+opportunity_type: grant
+themes:
+- multifunctional_landscapes
+- biodiversity
+- climate_adaptation
+- food_security
+- smallholders
+url: https://oakfnd.org/submit-enquiry/
+source_urls:
+- https://oakfnd.org/grant-making/
+- https://oakfnd.org/programmes/environment/
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline; unsolicited letters of enquiry accepted through the online form. 'Please note
+  we do not have open calls for proposal at this time.'
+funding_amount_min: 25000
+funding_amount_max: null
+currency: USD
+funding_text: Over 350 grants a year; average grant award USD 900,000; 'except in special circumstances,
+  we generally do not provide programme grants under USD 25,000'. 'We generally fund no more than 50 per
+  cent of any project budget or 20 per cent of organisational budgets.'
+duration: Multi-year ('We generally commit multi-year, core support grants (i.e. unrestricted funding),
+  or flexible project grants'); maximum not specified
+duration_months_max: null
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: Not-for-profit organisations ('Not-for-profit organisations that have not been invited
+  to apply by a programme officer can submit unsolicited requests for funding through our letter of enquiry
+  process.')
+eligible_countries: 'Regenerative landscapes: buffer zones/communal lands in Southern Africa; Nature and
+  people: Southern Africa, Southeast Asia, Europe; Marine food systems: Africa, Asia, Latin America'
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Oak funds not-for-profit organisations; the pages neither include nor exclude
+  international organisations explicitly. Alliance could submit an LOI as lead (not-for-profit international
+  research org) or partner with a Southern African NGO. Terrestrial geography is limited to Southern Africa
+  (regenerative landscapes) and Southern Africa/Southeast Asia/Europe (nature and people); Latin America
+  appears only in the marine sub-programme.
+lead_applicant_requirements: Not-for-profit; must select the matching programme in the LOI form and state
+  amount requested, total project cost and committed co-funding.
+geographic_restrictions: 'Regenerative landscapes: ''We focus on buffer zones outside protected land and
+  areas that include communal lands in Southern Africa.'''
+consortium_required: 'no'
+consortium_details: Not required
+cofunding_required: 'yes'
+cofunding_details: Oak generally funds no more than 50% of a project budget or 20% of an organisational
+  budget; the LOI form asks whether co-funding is committed and for potential co-funders.
+eligible_activities: Regenerative agriculture ('a farming system that's good for people and good for nature')
+  and rewilding in Southern Africa; living-landscapes approaches safeguarding biodiversity and livelihoods;
+  small-scale fisheries / marine food systems.
+required_documents: 'Online LOI form only: organisation details, amount requested (USD), total project
+  cost, co-funding, programme and strategy alignment, project location, purpose and short project description.'
+application_procedure: Submit LOI once via the online form. Oak responds within two months only if it
+  needs more information or invites a formal proposal; then formal application and due diligence. 'We
+  only approve a few submissions through our online letter of enquiry process each year' and programme
+  budgets are allocated about a year in advance.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Regenerative agriculture and living landscapes match multifunctional landscapes
+  / climate-smart ag; EO/AI/crop modelling would be supporting rather than core methods.
+strategic_relevance: 3
+strategic_relevance_rationale: Large multi-year grants (average USD 900k) suit staff-funded work, but
+  terrestrial geography is Southern Africa only; no LAC terrestrial window.
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance has landscape/agroecology work in Africa; would need Southern
+  African community-based partners and co-funding (Oak max 50%).
+recommendation: Worth a targeted LOI only if a co-funded Southern Africa regenerative-agriculture/landscape
+  project with community partners exists; very low LOI success rate. Otherwise monitor.
+potential_partners: Southern African community-based conservation / regenerative agriculture NGOs (existing
+  Oak grantees)
+next_action: Ask Alliance Africa teams about a co-funded Southern Africa regenerative landscapes concept;
+  read Oak Environment strategy; submit LOI selecting 'Environment - Regenerative Landscapes'.
+evidence:
+  deadline_quote: Please note we do not have open calls for proposal at this time.
+  eligibility_quote: Not-for-profit organisations that have not been invited to apply by a programme officer
+    can submit unsolicited requests for funding through our letter of enquiry process.
+  status_quote: 'Oak''s application process begins with entry through one of two pathways: an invitation
+    from Oak; and the submission of a Letter of Enquiry.'
+  staff_costs_quote: For project grants, we encourage applicants to request the true costs, including
+    overhead costs, for such grants.
+unverified_fields:
+- covers_staff_costs (not explicit; core grants are unrestricted)
+- international_orgs_eligible
+- duration_months_max
+verification_notes: Loaded oakfnd.org/grant-making/, /programmes/environment/ and /submit-enquiry/ on
+  2026-11-04. Standing LOI route, not a call; Oak explicitly states it has no open calls.
+last_verified: '2026-11-04'
+verification_source: import:philanthropy_eu_lac_gap_2026-11-04.json
+first_seen: '2026-11-04'
+history:
+- date: 2026-11-04 09:15
+  event: added
+  detail: import:philanthropy_eu_lac_gap_2026-11-04.json
+flags: []
