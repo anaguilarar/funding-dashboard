@@ -79,5 +79,4 @@ history:
   event: added
   detail: import:tech_companies.json
 flags:
-- call_page_changed
 - stale_verification
