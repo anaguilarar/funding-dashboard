@@ -1,0 +1,84 @@
+id: european-commission-horizon-europe-cost-effective-biodiversity-monitor
+title: Cost-effective biodiversity monitoring for EU policies - HORIZON-NATURE-2027-02-05
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe - 'Transformative change towards a nature-positive economy and society' call HORIZON-NATURE-2027-02
+opportunity_type: consortium_call
+themes:
+- biodiversity
+- remote_sensing
+- ai_ml
+- climate_data_infrastructure
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NATURE-2027-02-05
+source_urls:
+- https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=HORIZON-NATURE-2027-02-05
+status: open
+status_basis: official
+published_date: '2026-10-13'
+deadline: 2027-01-14T17:00
+deadline_timezone: CET (Brussels)
+deadline_text: Opening 13 October 2026; single-stage deadline 14 January 2027
+funding_amount_min: 5000000
+funding_amount_max: 6000000
+currency: EUR
+funding_text: RIA; topic budget EUR 16,000,000 (2027); expected 3 grants; EU contribution per project
+  EUR 5,000,000 - 6,000,000
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortia of legal entities per Horizon Europe General Annexes
+eligible_countries: EU Member States and Associated Countries; LMICs per General Annexes
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Bioversity International (Italy) eligible as beneficiary; however demonstration
+  cases must serve EU legislation (Nature Restoration Regulation pollinator monitoring, Soil Monitoring
+  Law soil biodiversity, Water Framework Directive), so Alliance role is methods/AI partner rather than
+  lead.
+lead_applicant_requirements: Not specified beyond Horizon Europe standard rules
+geographic_restrictions: EU monitoring schemes (NRR, SML, WFD) - European demonstration sites
+consortium_required: 'yes'
+consortium_details: Proposals must indicate Area A (NRR/EU Pollinators Monitoring Scheme), B (soil biodiversity
+  for SML) or C (WFD); awards balanced across areas
+cofunding_required: 'no'
+cofunding_details: RIA 100% funding rate (Horizon Europe standard)
+eligible_activities: Develop scalable cost-effective biodiversity monitoring integrating technologies;
+  demonstration cases; automated and real-time monitoring frameworks supported by AI; compare approaches;
+  DNA-based species identification; Copernicus use mandatory if satellite EO used
+required_documents: Horizon Europe Part A and Part B via F&T Submission System
+application_procedure: Single-stage submission via EU Funding & Tenders Portal (submission session open
+  since 13 Oct 2026)
+eligibility_assessment: potentially_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: AI/automated and remote-sensing-supported monitoring matches skills; but
+  focus is in-situ, DNA and pollinator/soil/freshwater biodiversity in EU legal schemes.
+strategic_relevance: 2
+strategic_relevance_rationale: EU-internal policy focus; limited LAC/Africa/Asia relevance; useful for
+  Bioversity's agrobiodiversity monitoring portfolio.
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance could contribute AI/EO data fusion; would rely on European partners
+  for field schemes.
+recommendation: Low-medium priority; join only if an EU consortium needs an AI/EO data-integration partner
+  (e.g., Area A pollinator habitat mapping). Deadline is close (14 Jan 2027).
+potential_partners: Biodiversa+ members, JRC-linked institutes, UFZ, CREA (Italy), Naturalis
+next_action: Check F&T partner search for HORIZON-NATURE-2027-02-05 consortia seeking AI/EO partners before
+  mid-December 2026.
+evidence:
+  deadline_quote: startDate 2026-10-13; deadlineDate 2027-01-14; single-stage
+  eligibility_quote: Eligible countries described in Annex B of the Work Programme General Annexes.
+  status_quote: 'The submission session is now available for: HORIZON-NATURE-2027-02-02, ... HORIZON-NATURE-2027-02-05
+    (2026-10-13)'
+  staff_costs_quote: Not quoted; Horizon Europe RIA eligible costs include personnel
+unverified_fields:
+- duration
+- deadline time (17:00 assumed)
+- staff_costs_quote verbatim
+verification_notes: Loaded via official EU F&T search API on 2026-11-10 (status Open, latestInfos dated
+  2026-10-13). Not in existing records.
+last_verified: '2026-11-10'
+verification_source: import:europe_multilateral_2026-11-10.json
+first_seen: '2026-11-11'
+history:
+- date: 2026-11-11 11:00
+  event: added
+  detail: import:europe_multilateral_2026-11-10.json

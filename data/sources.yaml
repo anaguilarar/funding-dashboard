@@ -1792,6 +1792,80 @@ sources:
     has funded international ag NGOs (TechnoServe India regen-ag, World Vision Vietnam). Express interest
     via the ADM Cares Contact Us form.
   enabled: true
+- id: formas-all-calls
+  funder: Formas
+  name: All calls
+  url: https://formas.se/en/start-page/apply-for-funding/all-calls.html
+  type: html
+  category: europe
+  why: Watch for global food security / development research calls
+  enabled: true
+- id: grand-challenges-canada-funding-opportunities
+  funder: Grand Challenges Canada
+  name: Funding opportunities
+  url: https://www.grandchallenges.ca/funding-opportunities/
+  type: html
+  category: foundations
+  why: Only open call is Nexa Lighthouse (health, Asia-Pacific, deadline 8 Dec 2026) - not relevant; watch
+    for climate/food calls.
+  enabled: true
+- id: mcknight-foundation-global-collaboration-for-resilient-food-systems-cr
+  funder: McKnight Foundation
+  name: Global Collaboration for Resilient Food Systems (CRFS) grantmaking
+  url: https://www.ccrp.org/grantmaking/
+  type: html
+  category: foundations
+  why: Invite-only with occasional thematic open calls (CIAT was a 2024 grantee); no open call confirmed.
+  enabled: true
+- id: common-fund-for-commodities-call-for-proposals-30th-call-shall-be-anno
+  funder: Common Fund for Commodities
+  name: Call for Proposals (30th call 'shall be announced soon')
+  url: https://www.common-fund.org/call-for-proposals
+  type: html
+  category: multilateral
+  why: 29th call closed 1 Oct 2026; CFC funds loans/debt only and research is outside its mandate - partner
+    relevance only.
+  enabled: true
+- id: autodesk-foundation-funding-discovery-form
+  funder: Autodesk Foundation
+  name: Funding / Discovery Form
+  url: https://www.autodesk.org/funding
+  type: html
+  category: foundations
+  why: Rolling intake for climate resilience tech.
+  enabled: true
+- id: science-for-africa-foundation-funding-grand-challenges-africa-c-hab
+  funder: Science for Africa Foundation
+  name: Funding (Grand Challenges Africa, C-HAB)
+  url: https://scienceforafrica.foundation/funding
+  type: html
+  category: foundations
+  why: No open calls on 2026-11-10; past Gates-funded African agriculture climate adaptation RFPs.
+  enabled: true
+- id: terra-viva-grants-funding-news-lead-discovery-only
+  funder: Terra Viva Grants
+  name: Funding news (lead discovery only)
+  url: https://www.terravivagrants.org/funding-news/
+  type: html
+  category: monitoring
+  why: Aggregator for agriculture/environment calls; confirm on official pages.
+  enabled: true
+- id: u-s-department-of-state-feed-the-future-innovation-labs-k-state-sitas
+  funder: U.S. Department of State
+  name: Feed the Future Innovation Labs (K-State SITAS/Cereals announcement)
+  url: https://www.k-state.edu/news/articles/2026/10/feed-the-future-innovation-labs-advance-global-food-security.html
+  type: html
+  category: usa_staff
+  why: Official lead-university page; reachable when state.gov blocks automated fetches.
+  enabled: true
+- id: nasa-smd-roses-2025-page-roses-27-release
+  funder: NASA SMD
+  name: ROSES-2025 page / ROSES-27 release
+  url: https://science.nasa.gov/researchers/solicitations/roses-2025/
+  type: html
+  category: usa_staff
+  why: ROSES-27 to be released no later than Jan 2027.
+  enabled: true
 api_queries:
   grants_gov:
   - agriculture climate international

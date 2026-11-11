@@ -1,0 +1,78 @@
+id: european-commission-horizon-europe-strengthening-rural-communities-res
+title: Strengthening rural communities' resilience to shocks - HORIZON-CL6-2027-02-COMMUNITIES-01
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 6 - Call HORIZON-CL6-2027-02 (single stage)
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- food_security
+- smallholders
+- capacity_building
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-COMMUNITIES-01
+source_urls:
+- https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=HORIZON-CL6-2027-02-COMMUNITIES-01
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-09-23T17:00
+deadline_timezone: CET (Brussels)
+deadline_text: Opening 20 April 2027; single-stage deadline 23 September 2027
+funding_amount_min: 5000000
+funding_amount_max: 5000000
+currency: EUR
+funding_text: RIA; topic budget EUR 15,000,000 (2027); expected 3 grants of about EUR 5,000,000
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortia per Horizon Europe General Annexes; multi-actor approach mandatory
+eligible_countries: EU Member States and Associated Countries; LMICs per General Annexes
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Bioversity International (Italy) eligible as beneficiary. Topic is EU rural-areas
+  oriented, but 'International cooperation is encouraged to foster knowledge exchange and peer-to-peer
+  learning across countries' - Alliance could bring LAC/Africa comparative cases.
+lead_applicant_requirements: Not specified beyond Horizon Europe standard rules
+geographic_restrictions: Primarily EU rural areas (long-term vision for EU rural areas 2040)
+consortium_required: 'yes'
+consortium_details: 'Multi-actor approach required: researchers, local authorities, rural communities,
+  civil protection; SSH expertise required'
+cofunding_required: 'no'
+cofunding_details: RIA 100% funding rate
+eligible_activities: Assess shocks (climate, environmental, socio-economic) on rural communities; resilience
+  indicators; inclusive anticipatory governance and DRR plans; community-based adaptation; contribute
+  to JRC Resilience Dashboards
+required_documents: Horizon Europe Part A and Part B
+application_procedure: Single-stage submission via F&T Portal after opening on 20 April 2027
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Community resilience/SSH focus; EO-based shock detection and resilience
+  indicators are a possible but secondary contribution.
+strategic_relevance: 2
+strategic_relevance_rationale: EU rural focus; international cooperation only encouraged.
+technical_feasibility: 3
+technical_feasibility_rationale: Could provide climate-shock indicators and anticipatory analytics; SSH/multi-actor
+  lead needed from EU partners.
+recommendation: Monitor; low priority unless an EU consortium seeks a Global South comparative/anticipatory-analytics
+  partner.
+potential_partners: JRC Resilience Dashboard teams, Wageningen UR, CREA, rural development networks
+next_action: Re-check when the call opens (20 Apr 2027) and scan partner search.
+evidence:
+  deadline_quote: startDate 2027-04-20; deadlineDate 2027-09-23; single-stage
+  eligibility_quote: the proposals must apply the multi-actor approach ... International cooperation is
+    encouraged to foster knowledge exchange and peer-to-peer learning across countries.
+  status_quote: 'Status: Forthcoming; budget {''2027'': ''15000000''}, expected grants 3'
+  staff_costs_quote: Not quoted; Horizon Europe RIA eligible costs include personnel
+unverified_fields:
+- duration
+- deadline time (17:00 assumed)
+verification_notes: Loaded via official EU F&T search API on 2026-11-10. Topic in WP 2026-2027 (first
+  indexed Dec 2025) but not in existing records.
+last_verified: '2026-11-10'
+verification_source: import:europe_multilateral_2026-11-10.json
+first_seen: '2026-11-11'
+history:
+- date: 2026-11-11 11:00
+  event: added
+  detail: import:europe_multilateral_2026-11-10.json

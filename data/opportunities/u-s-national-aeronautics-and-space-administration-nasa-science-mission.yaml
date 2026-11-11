@@ -75,20 +75,25 @@ evidence:
   eligibility_quote: in general, NASA provides funding only to U.S. institutions. Organizations outside
     the U.S. that propose on the basis of a policy of no-exchange-of-funds; consult the NASA Grant and
     Cooperative Agreement Manual (GCAM)
-  status_quote: 'ROSES-25 A.15 Biosphere: Step-1 proposals due Sep 04, 2026 (mandatory); Step-2 due Nov
-    06, 2026 - closed to new proposers.'
+  status_quote: NASA's Science Mission Directorate plans to release Research Opportunities in Space and
+    Earth Sciences 2027 (ROSES-27) no later than January 2027. (ROSES-2025 page re-read 2026-11-10; ROSES-27
+    not yet released)
   staff_costs_quote: 'Not applicable to CIAT: no exchange of funds for non-U.S. organizations.'
 unverified_fields:
-- ROSES-27 Earth science element list (incl. whether LCLUC/SARI, Earth Action agriculture, NISAR or CSDA
-  elements are solicited)
+- ROSES-27 Earth science element list (agriculture/Earth Action/SERVIR/LCLUC/NISAR content unknown until
+  release)
 - due dates
 - budgets
-verification_notes: Loaded science.nasa.gov ROSES-2025 page, NSPIRES A.15 Biosphere summary and Grants.gov
-  API record 363241 on 2026-10-22. ROSES-27 release statement summarized from the official ROSES-2025
-  page; the page 'last updated' stamp (April 2026) conflicts with October 2026 entries, so the release
-  timing should be re-checked.
-last_verified: '2026-10-22'
-verification_source: import:usa_staff_2026-10-22.json
+verification_notes: '2026-11-10: Re-loaded science.nasa.gov ROSES-2025 page. ROSES-27 is NOT yet released;
+  the page still states release ''no later than January 2027''. No ROSES-2026 was issued. Changes since
+  2026-10-22 are ROSES-25 Amendment 77 (''A.18 Geosphere'' released as a new opportunity on or about 2
+  Oct 2026, mandatory NOIs) and a new A.15 Biosphere requirement (on or about 8 Oct 2026) to budget travel
+  to an annual PI meeting. Neither concerns agriculture. The page mentions no agriculture, food security,
+  SERVIR, Earth Action/applied sciences, land-cover or NISAR elements. Page ''last updated'' stamp still
+  reads Apr 21, 2026, despite newer entries. Funding eligibility unchanged: U.S. institutions only, non-U.S.
+  participants on a no-exchange-of-funds basis.'
+last_verified: '2026-11-10'
+verification_source: import:reverification_2026-11-10.json
 first_seen: '2026-10-22'
 history:
 - date: 2026-10-22 10:54
@@ -100,6 +105,6 @@ history:
 - date: 2026-10-22 10:55
   event: reverified
   detail: no material change
-flags:
-- call_page_changed
-- stale_verification
+- date: 2026-11-11 11:00
+  event: reverified
+  detail: no material change

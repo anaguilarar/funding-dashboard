@@ -1,0 +1,101 @@
+id: global-eba-fund-co-led-by-iucn-and-unep-funded-by-germany-s-internatio
+title: 'Global EbA Fund - Medium-Size Grants Call for Proposals (first-ever call; General Track: Strategic
+  Scaling and Global Influence), up to USD 500,000 / 24 months'
+funder: Global EbA Fund (co-led by IUCN and UNEP; funded by Germany's International Climate Initiative,
+  IKI / BMUKN)
+funder_type: multilateral
+program: Global EbA Fund - Medium-Size Grants
+opportunity_type: grant
+themes:
+- climate_adaptation
+- multifunctional_landscapes
+- biodiversity
+- climate_smart_ag
+- food_security
+url: https://globalebafund.org/medium-size-grants/
+source_urls:
+- https://iucn.org/news/202608/iucn-and-unep-offering-usd75-million-grants-ecosystem-based-adaptation-projects
+- https://globalebafund.org/small-size-grants/
+status: open
+status_basis: official
+published_date: '2026-08-24'
+deadline: 2026-11-16T23:59
+deadline_timezone: Not specified
+deadline_text: Submissions open 12 October to 16 November, 2026.
+funding_amount_min: null
+funding_amount_max: 500000
+currency: USD
+funding_text: 'Grant Size: each grant up to USD 500,000 (approx. 10 grants per secondary listings; number
+  not confirmed on official page).'
+duration: Project duration of 24 months or less
+duration_months_max: 24
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: NGOs, INGOs, IGOs, CBOs, Indigenous Peoples' Organisations, universities/academic
+  institutions, research institutes/think tanks, private sector companies, and consortia. UNEP and IUCN
+  offices not eligible; government entities may join consortia but cannot receive funds.
+eligible_countries: Project is Global, Thematic, or otherwise targets only ODA-eligible countries.
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: IGOs and research institutes are explicitly listed as eligible; CIAT (international
+  organization) or Bioversity International could lead or be co-applicant. Must build on existing EbA
+  work.
+lead_applicant_requirements: A clearly defined lead 'Applicant Organisation' that is the contract party;
+  project must be built/based on existing work; at least three indicators from the Fund's Core Indicator
+  Framework.
+geographic_restrictions: Global/thematic or ODA-eligible countries only (Colombia, Central America, Africa,
+  Asia ODA countries qualify).
+consortium_required: optional
+consortium_details: Consortia allowed with a defined lead applicant; co-applicant mandate required for
+  partners.
+cofunding_required: Not specified
+cofunding_details: FAQ encourages seeking additional donors; no mandatory co-financing stated.
+eligible_activities: 'Three priority topics: (I) Innovative Finance Solutions for EbA; (II) EbA for Human
+  Development and Security (fragile/conflict-affected contexts); (III) Interlinkages for people-nature-climate-land
+  synergies across the Rio Conventions. Focus on removing systemic barriers to scaling EbA.'
+required_documents: Applicant Declaration; Co-applicant Mandate; Medium-Size Grants Application Form;
+  Theory of Change, Logframe and Project Activities Form; Project Proposal Budget Template; Due Diligence
+  and Financial Capacity Questionnaire.
+application_procedure: Submit in English via the Fund's online platform ('All applications must be submitted
+  on the online platform').
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: EbA / landscape adaptation is core to the Multifunctional Landscapes area;
+  EO/AI/crop modelling can support evidence and investment-readiness (e.g., spatial targeting of EbA,
+  climate-risk layers for innovative finance), but methods are secondary to the scaling/finance framing.
+strategic_relevance: 4
+strategic_relevance_rationale: IUCN/UNEP/IKI-backed, ODA focus, matches Alliance landscapes & adaptation
+  mission; 'interlinkages' topic fits agroforestry/land restoration portfolio.
+technical_feasibility: 3
+technical_feasibility_rationale: Feasible only if built on an existing Alliance EbA/landscape project;
+  deadline in 6 days makes a new proposal very tight.
+recommendation: Pursue only if a landscape/EbA team already has a near-ready concept building on existing
+  work (e.g., Colombia/Central America agroforestry or watershed EbA); otherwise monitor for the next
+  medium-size round. Not a staff-salary-confirmed scheme - check the budget template.
+potential_partners: Alliance Multifunctional Landscapes team; national NGOs in ODA countries; IUCN regional
+  offices as non-funded partners.
+next_action: 'By 12 Nov: check with Alliance landscapes/adaptation leads whether an existing EbA project
+  can be scaled; download budget template to confirm personnel cost rules; submit by 16 Nov 2026.'
+evidence:
+  deadline_quote: Submissions open 12 October to 16 November, 2026.
+  eligibility_quote: NGOs, INGOs, IGOs, CBOs, Indigenous Peoples' Organisations, universities/academic
+    institutions, research institutes/think tanks, private sector companies, and consortia ... UNEP and
+    IUCN offices are not currently eligible to apply for funding.
+  status_quote: 'Medium-Size Grants Call for Proposals ... Grant Size: each grant up to USD 500,000 ...
+    Project duration of 24 months or less'
+  staff_costs_quote: Not specified on the call page; budget template not reviewed.
+unverified_fields:
+- covers_staff_costs
+- deadline_timezone
+- number_of_awards
+- indirect_cost_rate
+verification_notes: Loaded globalebafund.org/medium-size-grants/ and IUCN news (Aug 2026) on 2026-11-10.
+  FAQ page returned 404. Off-group (multilateral/IKI) but missed in existing records; surfaced via Terra
+  Viva Grants lead. Companion 8th small-size grants call (up to USD 250k) closed 26 Oct 2026.
+last_verified: '2026-11-10'
+verification_source: import:philanthropy_us_corporate_2026-11-10.json
+first_seen: '2026-11-11'
+history:
+- date: 2026-11-11 11:00
+  event: added
+  detail: import:philanthropy_us_corporate_2026-11-10.json

@@ -18,7 +18,8 @@ source_urls:
 - https://simpler.grants.gov/opportunity/7b148400-3d26-4af7-ab04-cb82c2799a97
 - https://files.simpler.grants.gov/opportunities/7b148400-3d26-4af7-ab04-cb82c2799a97/attachments/45fef206-8e8f-4b8a-80d6-df0dcc7e1e68/Statement_of_Interest_-FtF_IL_Amendment_1.pdf
 - https://files.simpler.grants.gov/opportunities/7b148400-3d26-4af7-ab04-cb82c2799a97/attachments/07cab512-cb38-401d-9b06-b03612921f2c/Feed_the_Future_Innovation_Labs_Statement_of_Interest_-_QA.pdf
-status: needs_reverification
+- https://www.k-state.edu/news/articles/2026/10/feed-the-future-innovation-labs-advance-global-food-security.html
+status: monitoring
 status_basis: official
 published_date: '2026-03-10'
 deadline: null
@@ -34,7 +35,8 @@ funding_text: '"Individual awards may range from a minimum of $20 million to a m
   to the availability of funds)". Amounts are per lab (prime award), not per sub-recipient; sub-award
   sizes Not specified.'
 duration: '"Length of performance period: Up to 60 months"; "Anticipated project start date No later than
-  September 30, 2026".'
+  September 30, 2026". K-State (lead university) reports its two labs (Cereals, SITAS) received ''$16.6
+  million in funding for the next two years'' combined, so the first funded tranche covers about 2 years.'
 duration_months_max: 60
 covers_staff_costs: Not specified
 support_type: project_funding
@@ -53,7 +55,10 @@ cgiar_eligibility_notes: 'LEAD: no (prime restricted to U.S. Title XII universit
   receive sub-awards from the lead universities. Most relevant labs for the Alliance: Coffee and Cacao
   (U. Hawaii; LAC relevance), Sustainable Intensification of Targeted Agricultural Systems - SITAS (Kansas
   State), Cereals (Kansas State), Fertilizer and Soil Health (Auburn), High Value Crops - SAFE (U. Florida).
-  Whether a given lab already includes CGIAR partners is Not specified.'
+  Whether a given lab already includes CGIAR partners is Not specified. UPDATE 2026-11-10: K-State''s
+  official announcement lists the International Rice Research Institute, IITA and CIMMYT (all CGIAR centers)
+  as SITAS lab partners, so CGIAR centers are confirmed as partners in at least one lab. CIAT/Bioversity
+  is not named.'
 lead_applicant_requirements: U.S. Title XII-eligible college/university (land-grant, sea-grant, or other
   U.S. universities with agricultural research/extension capacity).
 geographic_restrictions: LMICs; geographic targeting must align with U.S. National Security Strategy and
@@ -91,11 +96,13 @@ recommendation: Partner-only (ineligible as lead). High priority to contact lab 
   are starting up (start no later than 30 Sep 2026; 60-month horizon), offering EO/crop-model/digital
   advisory services and LAC field networks, especially to the Coffee & Cacao (U. Hawaii) and SITAS/Cereals
   (Kansas State) labs. Coordinate with Alliance/CGIAR partnership office.
-potential_partners: University of Hawaii (Coffee and Cacao); Kansas State University (Cereals; SITAS);
+potential_partners: 'University of Hawaii (Coffee and Cacao); Kansas State University (Cereals; SITAS);
   Auburn University (Fertilizer and Soil Health); University of Florida (High Value Crops - SAFE); University
-  of Georgia (Peanut); Washington State (Animal Health); Mississippi State (Fish).
-next_action: Identify Management Entity directors of the Coffee & Cacao, SITAS and Cereals labs (university
-  websites) and send a partnership note; confirm CIAT/Bioversity active SAM.gov registration.
+  of Georgia (Peanut); Washington State (Animal Health); Mississippi State (Fish). SITAS already includes
+  IRRI, IITA, CIMMYT and IFDC; Cereals lab partners: Clemson, Cornell, LSU, Purdue, Texas A&M, U. Florida.'
+next_action: Contact the SITAS lab director (Vara Prasad, K-State; lab works in 8 countries incl. Central
+  America) and the Coffee & Cacao lab (U. Hawaii/Clemson) to offer EO/crop-modelling services in Central
+  America; use IRRI/CIMMYT as CGIAR channels; confirm CIAT/Bioversity SAM.gov registration.
 evidence:
   deadline_quote: 'Concept Note Application deadline: April 9, 2026'
   eligibility_quote: All types of U.S. and non-U.S. entities are eligible as collaborating partners (i.e.
@@ -110,13 +117,17 @@ unverified_fields:
 - sub-award sizes
 - partner countries of each lab
 - whether labs will run open competitive sub-grant calls
-verification_notes: Loaded State Dept media note of 2026-10-15 (state.gov, via direct HTTP fetch), the
-  Simpler.Grants.gov record for DFOP0017826 (status closed, posted 2026-03-10, closed 2026-04-09), the
-  SOI Amendment 1 PDF and the SOI Q&A PDF on 2026-10-22. Also loaded state.gov media note of 2026-02-18
-  announcing USD 40M to CIMMYT (context only). Status set to 'monitoring' because the prime call is closed
-  and the record is a partner pathway, not an open call.
-last_verified: '2026-10-22'
-verification_source: import:usa_staff_2026-10-22.json
+- state.gov release text not re-read on 2026-11-10 (HTTP 403 to automated fetch)
+verification_notes: '2026-11-10: The official state.gov release URL returns HTTP 403 to the automated
+  fetcher (bot block), not a 404. A site-restricted web search on state.gov still indexes it under the
+  same title (''State Department Announces Feed the Future Innovation Labs to Support Agriculture Research''),
+  so the URL is kept. feedthefuture.gov did not resolve (DNS failure) and its indexed lab table is legacy
+  USAID content. Loaded K-State''s official news release (Oct 2026), which confirms the Cereals and SITAS
+  labs, USD 16.6M for two years, and the partner lists including IRRI, IITA and CIMMYT. The prime call
+  stays closed (Concept Note deadline 9 Apr 2026). There is no open partner call, so status stays ''monitoring''.
+  Earlier verification of 2026-10-22 (SOI, Q&A, Simpler.Grants.gov) still applies.'
+last_verified: '2026-11-10'
+verification_source: import:reverification_2026-11-10.json
 first_seen: '2026-10-22'
 history:
 - date: 2026-10-22 10:54
@@ -131,7 +142,6 @@ history:
 - date: 2026-10-27 08:17
   event: flagged
   detail: needs re-verification (url_unreachable); previous status monitoring
-flags:
-- url_unreachable
-- stale_verification
-status_before_flag: monitoring
+- date: 2026-11-11 10:59
+  event: reverified
+  detail: 'status: needs_reverification -> monitoring'

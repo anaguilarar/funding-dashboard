@@ -92,9 +92,8 @@ recommendation: Pursue only if (a) the researcher (or a junior Alliance postdoc)
   agrees to host. Only one candidate per institution - coordinate early.
 potential_partners: Colombian universities (e.g., Universidad Nacional de Colombia, Universidad del Valle,
   Universidad de los Andes) as host; local governments/community organizations as societal partners.
-next_action: Email science.foundation@axa.com this week asking whether the Alliance of Bioversity International
-  and CIAT (international research organization) qualifies as a host; in parallel identify a university
-  host and check its Operational Contact registration before 3 Nov 2026.
+next_action: Only viable if the host institution was registered on the AXA platform by 3 Nov 2026; if
+  so, submit the EOI before 12 Nov 2026 16:00 CET. Otherwise drop for this cycle.
 evidence:
   deadline_quote: 'Step 1: Expression of Interest: October 20 - November 12, 2026 (4 PM CET) Institutions
     not yet registered in the platform must register by November 3, 2026 (4 PM CET) to submit EOI'
@@ -112,13 +111,19 @@ verification_notes: 'Loaded on 2026-10-22: institution.axa-research.org call pag
   the 8-page guidelines PDF (budget, eligibility, topics), AXA Foundation news article dated 20.10.2026
   and calls-for-projects page. Note: some university research-office pages state ''There will be no call
   in 2026'' for the old AXA postdoc fellowships - this New Gen call is the newly launched replacement,
-  confirmed on official AXA pages.'
-last_verified: '2026-10-22'
-verification_source: import:philanthropy_staff_2026-10-22.json
+  confirmed on official AXA pages. | 2026-11-10: Re-loaded institution.axa-research.org Key Dates. The
+  deadline is unchanged: ''Step 1: Expression of Interest: October 20 - November 12, 2026 (4 PM CET)''.
+  No extension notice. Note: ''Institutions not yet registered in the platform must register by November
+  3, 2026 (4 PM CET) to submit EOI''. That date has passed, so only institutions already registered can
+  still submit. The fetch tool described the page as a read-only/cached copy, so check the live portal
+  before submitting.'
+last_verified: '2026-11-10'
+verification_source: import:reverification_2026-11-10.json
 first_seen: '2026-10-22'
 history:
 - date: 2026-10-22 10:55
   event: added
   detail: import:philanthropy_staff_2026-10-22.json
-flags:
-- stale_verification
+- date: 2026-11-11 11:00
+  event: reverified
+  detail: no material change

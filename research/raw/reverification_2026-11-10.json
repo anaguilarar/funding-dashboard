@@ -1,0 +1,351 @@
+{
+  "group": "reverification_2026-11-10",
+  "searched_on": "2026-11-10",
+  "opportunities": [
+    {
+      "title": "Feed the Future Innovation Labs (U.S. Department of State, 8 labs announced 2026-10-15) - funded sub-recipient pathway for international research centers",
+      "funder": "U.S. Department of State - Office of Global Food Security",
+      "funder_type": "bilateral",
+      "program": "Feed the Future Innovation Labs, DFOP0017826 (Assistance Listing 19.017); Title XII of the Foreign Assistance Act",
+      "opportunity_type": "consortium_call",
+      "themes": [
+        "food_security",
+        "smallholders",
+        "climate_smart_ag",
+        "digital_agriculture",
+        "ai_ml",
+        "capacity_building"
+      ],
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/state-department-announces-feed-the-future-innovation-labs-to-support-agriculture-research/",
+      "source_urls": [
+        "https://simpler.grants.gov/opportunity/7b148400-3d26-4af7-ab04-cb82c2799a97",
+        "https://files.simpler.grants.gov/opportunities/7b148400-3d26-4af7-ab04-cb82c2799a97/attachments/45fef206-8e8f-4b8a-80d6-df0dcc7e1e68/Statement_of_Interest_-FtF_IL_Amendment_1.pdf",
+        "https://files.simpler.grants.gov/opportunities/7b148400-3d26-4af7-ab04-cb82c2799a97/attachments/07cab512-cb38-401d-9b06-b03612921f2c/Feed_the_Future_Innovation_Labs_Statement_of_Interest_-_QA.pdf",
+        "https://www.k-state.edu/news/articles/2026/10/feed-the-future-innovation-labs-advance-global-food-security.html"
+      ],
+      "status": "monitoring",
+      "status_basis": "official",
+      "published_date": "2026-03-10",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "Prime competition closed: \"Concept Note Application deadline: April 9, 2026\". Awards announced October 15, 2026. No deadline for partner/sub-recipient engagement has been published; any sub-award calls would be issued by the individual labs.",
+      "funding_amount_min": 20000000,
+      "funding_amount_max": 40000000,
+      "currency": "USD",
+      "funding_text": "\"Individual awards may range from a minimum of $20 million to a maximum of $40 million (approximately) over the life of the award.\" \"$64 million total in FY 2026 (with outyear funding subject to the availability of funds)\". Amounts are per lab (prime award), not per sub-recipient; sub-award sizes Not specified.",
+      "duration": "\"Length of performance period: Up to 60 months\"; \"Anticipated project start date No later than September 30, 2026\". K-State (lead university) reports its two labs (Cereals, SITAS) received '$16.6 million in funding for the next two years' combined, so the first funded tranche covers about 2 years.",
+      "duration_months_max": 60,
+      "covers_staff_costs": "Not specified",
+      "support_type": "project_funding",
+      "eligible_applicants": "Prime: \"Applications must only be submitted by eligible U.S. colleges and universities as defined under Section 296(d) of Title XII of the Foreign Assistance Act\". Partners: \"All types of U.S. and non-U.S. entities are eligible as collaborating partners (i.e. sub-recipients or contractors at various tiers)\".",
+      "eligible_countries": "Activities in low- and middle-income countries (World Bank classification) aligned with U.S. foreign-policy goals; specific lab countries Not specified in the release.",
+      "international_orgs_eligible": "yes",
+      "cgiar_eligible": "yes",
+      "cgiar_eligibility_notes": "LEAD: no (prime restricted to U.S. Title XII universities; prime competition closed). FUNDED PARTNER: yes - the SOI states non-U.S. entities are eligible as sub-recipients or contractors 'at various tiers', provided they are not excluded in SAM.gov, and it explicitly describes the labs as collaborating with 'national and international research centers'. CIAT/Bioversity can therefore receive sub-awards from the lead universities. Most relevant labs for the Alliance: Coffee and Cacao (U. Hawaii; LAC relevance), Sustainable Intensification of Targeted Agricultural Systems - SITAS (Kansas State), Cereals (Kansas State), Fertilizer and Soil Health (Auburn), High Value Crops - SAFE (U. Florida). Whether a given lab already includes CGIAR partners is Not specified. UPDATE 2026-11-10: K-State's official announcement lists the International Rice Research Institute, IITA and CIMMYT (all CGIAR centers) as SITAS lab partners, so CGIAR centers are confirmed as partners in at least one lab. CIAT/Bioversity is not named.",
+      "lead_applicant_requirements": "U.S. Title XII-eligible college/university (land-grant, sea-grant, or other U.S. universities with agricultural research/extension capacity).",
+      "geographic_restrictions": "LMICs; geographic targeting must align with U.S. National Security Strategy and State Department Agency Strategic Plan 2026-2030.",
+      "consortium_required": "yes",
+      "consortium_details": "Labs are university-led multi-partner programs: \"multiple partners, principal of which are U.S. universities, working in collaboration with scientists in developing country universities, national and international research centers, the private sector, and non-governmental organizations\". No required percentage of funding for sub-awards (Q&A Answer 25).",
+      "cofunding_required": "no",
+      "cofunding_details": "\"Cost sharing or matching is not required.\"",
+      "eligible_activities": "Objective 1: productivity, sustainable intensification, soil/water management, resilience to weather shocks, pests/pathogens, breeding, livestock/animal health. Objective 2: nutrition, food systems, food safety. Cross-cutting: \"Use of a range of innovations and advances, including Artificial Intelligence and digital solutions\"; \"Coordination and collaboration with the global agricultural research community, including global research institutions\".",
+      "required_documents": "For partners: Not specified (determined by each lead university's sub-award process; must be registered/not excluded in SAM.gov).",
+      "application_procedure": "No open application for partners. Engage directly with the Management Entity (lead university) of each lab; sub-awards are made under 2 CFR 200.331/200.318-200.320 procedures per Q&A Answer 25.",
+      "eligibility_assessment": "confirmed_ineligible",
+      "scientific_alignment": 3,
+      "scientific_alignment_rationale": "Climate-resilience, sustainable intensification and AI/digital decision support for smallholders are explicit themes, but the labs are crop/commodity-centred; RS/crop-modelling would be a service component within lab research portfolios.",
+      "strategic_relevance": 5,
+      "strategic_relevance_rationale": "Main surviving U.S. government channel for international agricultural research after USAID's dismantling; up to 5-year programmes; Coffee & Cacao lab directly relevant to Colombia/LAC; State Dept has also directly funded a CGIAR center (CIMMYT, USD 40M, Feb 2026).",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Alliance has deep coffee/cacao, soils, digital agriculture and EO capacity in LAC, Africa and Asia; feasibility depends on lab partner selection.",
+      "recommendation": "Partner-only (ineligible as lead). High priority to contact lab directors now while awards are starting up (start no later than 30 Sep 2026; 60-month horizon), offering EO/crop-model/digital advisory services and LAC field networks, especially to the Coffee & Cacao (U. Hawaii) and SITAS/Cereals (Kansas State) labs. Coordinate with Alliance/CGIAR partnership office.",
+      "potential_partners": "University of Hawaii (Coffee and Cacao); Kansas State University (Cereals; SITAS); Auburn University (Fertilizer and Soil Health); University of Florida (High Value Crops - SAFE); University of Georgia (Peanut); Washington State (Animal Health); Mississippi State (Fish). SITAS already includes IRRI, IITA, CIMMYT and IFDC; Cereals lab partners: Clemson, Cornell, LSU, Purdue, Texas A&M, U. Florida.",
+      "next_action": "Contact the SITAS lab director (Vara Prasad, K-State; lab works in 8 countries incl. Central America) and the Coffee & Cacao lab (U. Hawaii/Clemson) to offer EO/crop-modelling services in Central America; use IRRI/CIMMYT as CGIAR channels; confirm CIAT/Bioversity SAM.gov registration.",
+      "evidence": {
+        "deadline_quote": "Concept Note Application deadline: April 9, 2026",
+        "eligibility_quote": "All types of U.S. and non-U.S. entities are eligible as collaborating partners (i.e. sub-recipients or contractors at various tiers) of the applicant, provided that they are not excluded from U.S. Government acquisition and assistance awards (this may be verified through SAM.gov).",
+        "status_quote": "October 15, 2026 Today, the State Department announced eight Feed the Future Innovation Labs in partnership with U.S. Land Grant Universities from around the country.",
+        "staff_costs_quote": "Not specified for sub-recipients; Q&A Answer 14: \"Information about allowable indirect costs can be found in 2 CFR 200.414.\""
+      },
+      "unverified_fields": [
+        "covers_staff_costs (sub-award budgets not described)",
+        "sub-award sizes",
+        "partner countries of each lab",
+        "whether labs will run open competitive sub-grant calls",
+        "state.gov release text not re-read on 2026-11-10 (HTTP 403 to automated fetch)"
+      ],
+      "verification_notes": "2026-11-10: The official state.gov release URL returns HTTP 403 to the automated fetcher (bot block), not a 404. A site-restricted web search on state.gov still indexes it under the same title ('State Department Announces Feed the Future Innovation Labs to Support Agriculture Research'), so the URL is kept. feedthefuture.gov did not resolve (DNS failure) and its indexed lab table is legacy USAID content. Loaded K-State's official news release (Oct 2026), which confirms the Cereals and SITAS labs, USD 16.6M for two years, and the partner lists including IRRI, IITA and CIMMYT. The prime call stays closed (Concept Note deadline 9 Apr 2026). There is no open partner call, so status stays 'monitoring'. Earlier verification of 2026-10-22 (SOI, Q&A, Simpler.Grants.gov) still applies."
+    },
+    {
+      "title": "NASA ROSES-27 Earth Science program elements (announced for release no later than January 2027) - CIAT only on no-exchange-of-funds basis",
+      "funder": "U.S. National Aeronautics and Space Administration (NASA), Science Mission Directorate, Earth Science Division",
+      "funder_type": "national_agency",
+      "program": "Research Opportunities in Space and Earth Sciences 2027 (ROSES-27), Appendix A Earth Science (e.g., biosphere / land-cover land-use change, applied sciences) - elements not yet published",
+      "opportunity_type": "grant",
+      "themes": [
+        "remote_sensing",
+        "multifunctional_landscapes",
+        "food_security",
+        "ai_ml",
+        "climate_adaptation"
+      ],
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
+      "source_urls": [
+        "https://nspires.nasaprs.com/external/solicitations/summary.do?solNum=NNH25ZDA001N-BIOS",
+        "https://www.grants.gov/search-results-detail/363241"
+      ],
+      "status": "upcoming",
+      "status_basis": "official",
+      "published_date": "Not specified",
+      "deadline": null,
+      "deadline_timezone": "Not specified",
+      "deadline_text": "NASA SMD \"plans to release Research Opportunities in Space and Earth Sciences 2027 (ROSES-27) no later than January 2027\" (ROSES-2025 page). Element due dates Not specified.",
+      "funding_amount_min": null,
+      "funding_amount_max": null,
+      "currency": "USD",
+      "funding_text": "Not specified for ROSES-27. Note: NASA does not fund non-U.S. organizations.",
+      "duration": "Not specified",
+      "duration_months_max": null,
+      "covers_staff_costs": "no",
+      "support_type": "project_funding",
+      "eligible_applicants": "\"in general, NASA provides funding only to U.S. institutions. Organizations outside the U.S. that propose on the basis of a policy of no-exchange-of-funds\" (Grants.gov eligibility text for ROSES-25 Earth science elements).",
+      "eligible_countries": "Funding: U.S. institutions only. Non-U.S. participation on no-exchange-of-funds basis.",
+      "international_orgs_eligible": "no",
+      "cgiar_eligible": "no",
+      "cgiar_eligibility_notes": "FUNDED LEAD: no. FUNDED SUBAWARDEE: no (NASA funds only U.S. institutions; non-U.S. organizations participate on a no-exchange-of-funds basis per the NASA GCAM/Foreign PI instructions). UNFUNDED: CIAT could be a non-U.S. PI/Co-I on a no-exchange-of-funds basis, contributing in-kind (field data, crop models, LAC/Asia networks) to a U.S.-led proposal whose U.S. team is funded. Does NOT fund CIAT staff. Included only for strategic value (land-cover/land-use and agriculture EO science networks).",
+      "lead_applicant_requirements": "U.S. institution for funded proposals; registration in NSPIRES.",
+      "geographic_restrictions": "Not specified for ROSES-27.",
+      "consortium_required": "optional",
+      "consortium_details": "Not specified.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Non-U.S. participants must self-fund their contribution.",
+      "eligible_activities": "Not specified until ROSES-27 is released (ROSES-25 Earth science elements included A.4 Rapid Response, A.14 Atmosphere, A.15 Biosphere, A.16 Cryosphere, A.17 Hydrosphere, A.18 Geosphere).",
+      "required_documents": "Not specified",
+      "application_procedure": "Via NSPIRES once ROSES-27 elements are released; many Earth science elements use mandatory Step-1 proposals or NOIs.",
+      "eligibility_assessment": "confirmed_ineligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "NASA biosphere/LCLUC and applied-science agriculture elements match RS/ML crop and land-use work directly, but exact ROSES-27 element content is unverified.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Access to NASA science teams and data products; no funding for CIAT staff.",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "Team can contribute in-kind EO/crop-model expertise and ground data.",
+      "recommendation": "Do not count as staff funding. Monitor ROSES-27 release (by Jan 2027) and offer CIAT as an unfunded collaborator to U.S. PIs (e.g., NASA Harvest-linked universities) where it adds data access or co-authorship value.",
+      "potential_partners": "U.S. universities active in NASA LCLUC/Harvest (e.g., University of Maryland), U.S. SERVIR science team members.",
+      "next_action": "Watch the NASA ROSES page and NSPIRES in Dec 2026-Jan 2027; identify U.S. PIs planning biosphere/land-use proposals.",
+      "evidence": {
+        "deadline_quote": "plans to release Research Opportunities in Space and Earth Sciences 2027 (ROSES-27) no later than January 2027",
+        "eligibility_quote": "in general, NASA provides funding only to U.S. institutions. Organizations outside the U.S. that propose on the basis of a policy of no-exchange-of-funds; consult the NASA Grant and Cooperative Agreement Manual (GCAM)",
+        "status_quote": "NASA's Science Mission Directorate plans to release Research Opportunities in Space and Earth Sciences 2027 (ROSES-27) no later than January 2027. (ROSES-2025 page re-read 2026-11-10; ROSES-27 not yet released)",
+        "staff_costs_quote": "Not applicable to CIAT: no exchange of funds for non-U.S. organizations."
+      },
+      "unverified_fields": [
+        "ROSES-27 Earth science element list (agriculture/Earth Action/SERVIR/LCLUC/NISAR content unknown until release)",
+        "due dates",
+        "budgets"
+      ],
+      "verification_notes": "2026-11-10: Re-loaded science.nasa.gov ROSES-2025 page. ROSES-27 is NOT yet released; the page still states release 'no later than January 2027'. No ROSES-2026 was issued. Changes since 2026-10-22 are ROSES-25 Amendment 77 ('A.18 Geosphere' released as a new opportunity on or about 2 Oct 2026, mandatory NOIs) and a new A.15 Biosphere requirement (on or about 8 Oct 2026) to budget travel to an annual PI meeting. Neither concerns agriculture. The page mentions no agriculture, food security, SERVIR, Earth Action/applied sciences, land-cover or NISAR elements. Page 'last updated' stamp still reads Apr 21, 2026, despite newer entries. Funding eligibility unchanged: U.S. institutions only, non-U.S. participants on a no-exchange-of-funds basis."
+    },
+    {
+      "title": "APN Call for Proposals (CRRP and CAPaBLE) - next annual cycle (expected launch Nov 2026)",
+      "funder": "Asia-Pacific Network for Global Change Research (APN)",
+      "funder_type": "regional_fund",
+      "program": "2026 Call for Proposals - Collaborative Regional Research Programme (CRRP) and Scientific Capacity Development Programme (CAPaBLE)",
+      "opportunity_type": "grant",
+      "themes": [
+        "climate_adaptation",
+        "remote_sensing",
+        "ai_ml",
+        "food_security",
+        "multifunctional_landscapes",
+        "biodiversity",
+        "capacity_building"
+      ],
+      "url": "https://www.apn-gcr.org/news/2026-call-for-proposals-under-the-crrp-and-capable-programmes/",
+      "source_urls": [
+        "https://www.apn-gcr.org/opportunities/calls-for-proposals/frequently-asked-questions/",
+        "https://www.apn-gcr.org/news/2025-call-for-proposals-under-the-crrp-and-capable-programmes/",
+        "https://www.apn-gcr.org/opportunities/calls-for-proposals/",
+        "https://www.apn-gcr.org/apnis/"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-11-02",
+      "deadline": "2026-11-30T23:59",
+      "deadline_timezone": "JST",
+      "deadline_text": "Stage 1: Submission of Summary Proposal (online via APNIS): Monday, 30 November 2026, 23:59 Japan Standard Time. Stage 2 (full proposals, by invitation only): 29 March 2027, 23:59 JST.",
+      "funding_amount_min": null,
+      "funding_amount_max": 45000,
+      "currency": "USD",
+      "funding_text": "Call page: \"A limited amount of funding is available to support CRRP and CAPaBLE activities\". FAQ: \"APN provides an annual budget limit of USD 45,000 for projects under the Collaborative Regional Research Programme (CRRP)\" and \"USD 40,000 for projects under the Scientific Capacity Development Programme (CAPaBLE).\" No administrative overhead allowed.",
+      "duration": "CRRP typically 2 years (maximum 3, rarely funded); CAPaBLE typically 1 year (maximum 2). Funding and implementation from 1 October 2027.",
+      "duration_months_max": 36,
+      "covers_staff_costs": "partial",
+      "support_type": "project_funding",
+      "eligible_applicants": "Researchers, academics and practitioners working in nonprofit or government institutions based in APN member or approved countries. Collaborators from non-member/non-approved countries cannot receive APN funding but may participate as resource persons or experts.",
+      "eligible_countries": "APN member and approved countries in the Asia-Pacific (sub-regions: Pacific, South Asia, Southeast Asia, Temperate East Asia). See the APN member-country list and the Guide for Proponents on APNIS.",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "International organisations are not addressed explicitly. Eligibility depends on where the institution is based: an Alliance office in an APN member country (e.g., Viet Nam, a Southeast Asia member) might qualify as a nonprofit institution there, but this was not confirmed. Safer route: an Alliance researcher in Asia leads or co-leads with national partners (universities, NARS) from at least two developing member countries; staff based in non-member countries can only take part as unfunded resource persons.",
+      "lead_applicant_requirements": "Project leader affiliated with a nonprofit or government institution in an APN member or approved country. CRRP proposals from developed-country proponents need at least two developing APN member or approved countries as collaborators. One-country summary proposals are accepted only from developing countries and only under CAPaBLE.",
+      "geographic_restrictions": "Asia-Pacific APN member and approved countries only; proposals must address one or more sub-regional priority topics.",
+      "consortium_required": "optional",
+      "consortium_details": "CRRP is regional and multi-country (APN does not fund one-country CRRP research). CAPaBLE accepts one-country proposals from developing countries. Codesign with stakeholders is mandatory.",
+      "cofunding_required": "Not specified",
+      "cofunding_details": "Not specified on the call page or FAQ.",
+      "eligible_activities": "Collaborative regional research (CRRP) and scientific capacity development (CAPaBLE) on sub-regional priority topics. Southeast Asia: climate resilience and loss and damage; digital technologies and AI for Earth observation; One Health; chemicals, waste, pollution and circular economy. South Asia: climate resilience; nature-based solutions; digital technologies and AI for Earth observation; food, water, energy and human security; governance and knowledge systems. Similar lists for the Pacific and Temperate East Asia.",
+      "required_documents": "Stage 1: Summary Proposal submitted online via APNIS following the CRRP and CAPaBLE Guide for Proponents. Stage 2: full proposal (by invitation only).",
+      "application_procedure": "Register on APNIS (https://www.apn-gcr.org/apnis/) and submit the Stage 1 Summary Proposal by 30 Nov 2026, 23:59 JST. Shortlisted proponents are invited to submit a full proposal by 29 Mar 2027. Funding starts 1 Oct 2027.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "Explicit priority topic 'digital technologies and AI for Earth observation' (South Asia, Southeast Asia, Temperate East Asia), plus climate resilience and food security, matches the EO/AI/climate-agriculture profile directly.",
+      "strategic_relevance": 3,
+      "strategic_relevance_rationale": "Good fit for the Alliance Asia hub and partnerships with Southeast Asian NARS, but grants are small (up to USD 45k per year).",
+      "technical_feasibility": 4,
+      "technical_feasibility_rationale": "A summary proposal on EO/AI for crop monitoring or climate resilience in Southeast Asia is within existing capacity. Main constraint is the 4-week window for Stage 1.",
+      "recommendation": "Apply with a short Stage 1 summary proposal (CRRP) on AI and Earth observation for rice/crop climate resilience in Southeast Asia. Have an Alliance Asia (Viet Nam) researcher or a national partner lead, with at least two developing member countries. Small budget and only partial salary support, so treat it as seed and networking funding.",
+      "potential_partners": "Vietnam Academy of Agricultural Sciences (VAAS), Lao and Cambodian NARS, Philippine and Thai universities, IRRI, University of Tokyo contacts (Temperate East Asia link).",
+      "next_action": "Confirm with the APN secretariat (advisory.service@apn-gcr.org) whether the Alliance's Viet Nam office counts as an eligible institution in a member country. Draft the summary proposal on APNIS before 30 Nov 2026.",
+      "evidence": {
+        "deadline_quote": "Stage 1: Submission of Summary Proposal (online via APNIS): Monday, 30 November 2026, 23:59 Japan Standard Time.",
+        "eligibility_quote": "Researchers, academics and practitioners working in institutions based in APN member countries",
+        "status_quote": "2026 Call for Proposals under the CRRP and CAPaBLE Programmes (news item dated 2 November 2026); the Calls for Proposals page marks the 2025 call [CLOSED] but gives the 2026 call no closed marker.",
+        "staff_costs_quote": "APN may provide partial salary support for time spent implementing a project (FAQ; also: \"APN does not cover consultancy fees or salary payments\")"
+      },
+      "unverified_fields": [
+        "Guide for Proponents details (on APNIS, not read)",
+        "eligibility of international organisations / Alliance country offices",
+        "cofunding_required"
+      ],
+      "verification_notes": "2026-11-10: Re-loaded the official 2026 call news page (loads fine, URL unchanged) and the APN Calls for Proposals listing page. Deadlines are confirmed unchanged: 'Monday, 30 November 2026, 23:59 Japan Standard Time' (Stage 1) and 'Monday, 29 March 2027, 23:59 Japan Standard Time' (Stage 2). No extension or closure notice. The listing page marks the 2025 call [CLOSED] but not the 2026 call. The 'url_unreachable' flag was likely a transient error. Funding caps and duration come from the standing FAQ (verified 2026-11-02)."
+    },
+    {
+      "title": "AXA New Gen 2026 Postdoctoral Fellowship - Responsible Nature-Based Solutions for a Resilient, Sustainable and Inclusive Future",
+      "funder": "AXA Foundation for Human Progress (formerly AXA Research Fund)",
+      "funder_type": "foundation",
+      "program": "AXA New Gen (Science pillar) - 2026 call on Responsible Nature-Based Solutions",
+      "opportunity_type": "fellowship",
+      "themes": [
+        "climate_adaptation",
+        "multifunctional_landscapes",
+        "food_security",
+        "biodiversity",
+        "climate_smart_ag"
+      ],
+      "url": "https://institution.axa-research.org",
+      "source_urls": [
+        "https://institution.axa-research.org/guidelines.pdf",
+        "https://axafoundation.org/en/news/new-gen-standing-by-young-researchers",
+        "https://axafoundation.org/en/calls-for-projects",
+        "https://axafoundation.org/en/science/fund-your-research"
+      ],
+      "status": "open",
+      "status_basis": "official",
+      "published_date": "2026-10-20",
+      "deadline": "2026-11-12T16:00",
+      "deadline_timezone": "CET",
+      "deadline_text": "Step 1: Expression of Interest: October 20 - November 12, 2026 (4 PM CET). Institutions not yet registered in the platform must register by November 3, 2026 (4 PM CET) to submit EOI. Step 2: Full application (for shortlisted candidates only): November 24 - December 17, 2026 (4 PM CET)",
+      "funding_amount_min": null,
+      "funding_amount_max": 140000,
+      "currency": "EUR",
+      "funding_text": "The AXA New Gen is awarded for a maximum amount of 140,000EUR in total, to be spent over two years. ... The budget will help cover: Annual salary of the researcher (based on institution internal policy); Equipment/resources (databases, survey costs, consumables, etc.); Academic activities (conferences, workshops, fieldwork, etc.); Outreach activities (beyond academic audiences). ... Overhead costs are NOT eligible.",
+      "duration": "2 years ('An AXA New Gen Fellowship is awarded for a period of 2 years.'); projects expected to start before June 2028",
+      "duration_months_max": 24,
+      "covers_staff_costs": "partial",
+      "support_type": "fellowship_salary",
+      "eligible_applicants": "Host institution applies on behalf of ONE early-career candidate per institution. Hosts: academic institutions (registered in WHED) and public research organizations. Candidate: PhD defended within the last 5 years before 10 Oct 2026 (+6 months per child), no permanent (tenured/tenure-track) position, full-time on the project.",
+      "eligible_countries": "Global ('The project calls are global.')",
+      "international_orgs_eligible": "unclear",
+      "cgiar_eligible": "unclear",
+      "cgiar_eligibility_notes": "Hosts must be universities or public research organizations; 'Associations, foundations, governmental bodies, hospitals, independent research centers, museums, and NGOs are not eligible for AXA funding.' The Alliance/CIAT is an international (treaty-based) research organization - not clearly a 'public research organization' and possibly read as an 'independent research center'. Must be confirmed with science.foundation@axa.com before 3 Nov 2026 registration deadline. Safer route: the candidate is hosted by a partner university (e.g., a Colombian or European university) with the Alliance as a societal/non-academic partner. Also note the fellowship is for the candidate's own salary - the candidate must meet PhD+5 and no permanent position rules.",
+      "lead_applicant_requirements": "Institution's Operational Contact submits EOI in English: candidate details (date of birth, PhD defense date), short CV (max 2 pages), research project description (max 3,000 characters). Researcher must hold PhD for no more than 5 years and not hold a permanent position.",
+      "geographic_restrictions": "None stated (global call).",
+      "consortium_required": "yes",
+      "consortium_details": "Project must include at least one transdisciplinary aspect: (i) collaboration across disciplines (social sciences/humanities/economics AND natural/environmental sciences/engineering/technology) and (ii) societal partners (public authorities, communities, civil society organizations, practitioners). Private for-profit companies are not eligible as project partners.",
+      "cofunding_required": "no",
+      "cofunding_details": "'Host institutions will be expected to participate in the AXA New Gen's general funding with studentships, PhD support, and material resources ... There is no minimum requirement for the institution's contribution. However, a larger contribution makes the proposal more attractive.'",
+      "eligible_activities": "Postdoctoral research on nature-based solutions: disaster risk reduction and adaptation; food and water security under climate stress ('NbS for sustainable agriculture, forest and landscape restoration, and water resources management'); urban green infrastructure; health/cultural dimensions; economic models and financing of NbS; governance and social justice.",
+      "required_documents": "EOI: candidate details, 2-page CV, 3,000-character project description. Full application (shortlisted): detailed research program, CV and publication list, letters of support (supervisor at host institution and an academic and/or non-academic partner), budget incl. host contribution.",
+      "application_procedure": "Host institution registers on https://institution.axa-research.org (by 3 Nov 2026), Operational Contact submits EOI by 12 Nov 2026 16:00 CET; shortlisted full application 24 Nov - 17 Dec 2026; rebuttal 30 Mar - 5 Apr 2027; results June 2027.",
+      "eligibility_assessment": "potentially_eligible",
+      "scientific_alignment": 4,
+      "scientific_alignment_rationale": "NbS for agriculture/landscape restoration and food security under climate stress fits Multifunctional Landscapes; RS/EO and crop modelling can quantify NbS trade-offs, but a social-science component is mandatory.",
+      "strategic_relevance": 4,
+      "strategic_relevance_rationale": "Directly matches Alliance Multifunctional Landscapes/climate action agenda; global call; prestigious early-career salary support.",
+      "technical_feasibility": 3,
+      "technical_feasibility_rationale": "Feasible technically; binding constraints are the candidate profile (PhD+5, non-permanent), the host-institution eligibility question and the very short EOI window.",
+      "recommendation": "Pursue only if (a) the researcher (or a junior Alliance postdoc) defended the PhD after ~Oct 2021 and has no permanent post, and (b) AXA confirms the Alliance can host, or a partner university agrees to host. Only one candidate per institution - coordinate early.",
+      "potential_partners": "Colombian universities (e.g., Universidad Nacional de Colombia, Universidad del Valle, Universidad de los Andes) as host; local governments/community organizations as societal partners.",
+      "next_action": "Only viable if the host institution was registered on the AXA platform by 3 Nov 2026; if so, submit the EOI before 12 Nov 2026 16:00 CET. Otherwise drop for this cycle.",
+      "evidence": {
+        "deadline_quote": "Step 1: Expression of Interest: October 20 - November 12, 2026 (4 PM CET) Institutions not yet registered in the platform must register by November 3, 2026 (4 PM CET) to submit EOI",
+        "eligibility_quote": "Only academic institutions and public research organizations (e.g. universities, public research institutes) can act as host institutions. The AXA Foundation for Human Progress does not accept hosts: associations, foundations, NGOs, private companies, governmental bodies, hospitals, independent research centers, museums, or other cultural institutions.",
+        "status_quote": "New Gen Programme: Responsible Nature-Based Solutions for a Resilient, Sustainable and Inclusive Future - Applications open: October 20, 2026; Applications close: November 12, 2026",
+        "staff_costs_quote": "The budget will help cover: Annual salary of the researcher (based on institution internal policy) ... Overhead costs are NOT eligible."
+      },
+      "unverified_fields": [
+        "Whether an international organization such as CIAT counts as a 'public research organization'"
+      ],
+      "verification_notes": "Loaded on 2026-10-22: institution.axa-research.org call page (key dates, eligibility), the 8-page guidelines PDF (budget, eligibility, topics), AXA Foundation news article dated 20.10.2026 and calls-for-projects page. Note: some university research-office pages state 'There will be no call in 2026' for the old AXA postdoc fellowships - this New Gen call is the newly launched replacement, confirmed on official AXA pages. | 2026-11-10: Re-loaded institution.axa-research.org Key Dates. The deadline is unchanged: 'Step 1: Expression of Interest: October 20 - November 12, 2026 (4 PM CET)'. No extension notice. Note: 'Institutions not yet registered in the platform must register by November 3, 2026 (4 PM CET) to submit EOI'. That date has passed, so only institutions already registered can still submit. The fetch tool described the page as a read-only/cached copy, so check the live portal before submitting."
+    }
+  ],
+  "monitor_sources": [
+    {
+      "funder": "European Space Agency",
+      "name": "Living Planet Fellowship",
+      "url": "https://eo4society.esa.int/communities/scientists/living-planet-fellowship/",
+      "type": "html",
+      "why": "Page states 'There is currently no active Call. Stay tuned for a new Call in early 2027.' Postdoc salary support for EO science, but past calls required ESA Member/Associated State nationality, so the researcher (Colombian) is likely ineligible as fellow."
+    },
+    {
+      "funder": "U.S. Department of State",
+      "name": "Feed the Future Innovation Labs (K-State SITAS/Cereals announcement)",
+      "url": "https://www.k-state.edu/news/articles/2026/10/feed-the-future-innovation-labs-advance-global-food-security.html",
+      "type": "html",
+      "why": "Official lead-university page; reachable when state.gov blocks automated fetches."
+    },
+    {
+      "funder": "NASA SMD",
+      "name": "ROSES-2025 page / ROSES-27 release",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
+      "type": "html",
+      "why": "ROSES-27 to be released no later than Jan 2027."
+    }
+  ],
+  "rejected_leads": [
+    {
+      "title": "ESA Living Planet Fellowship 2027",
+      "url": "https://eo4society.esa.int/communities/scientists/living-planet-fellowship/",
+      "reason": "Not open: 'There is currently no active Call. Stay tuned for a new Call in early 2027.' No dates or terms published yet. Earlier calls required ESA Member/Associated State nationality."
+    },
+    {
+      "title": "ESA Science Hub Challenges 2027 Call for Participation (posted 5 Nov 2026 on eo4society.esa.int)",
+      "url": "https://eo4society.esa.int/",
+      "reason": "Invites universities to take part in ESA Science Hub challenges; not research funding for CIAT; details not verified."
+    },
+    {
+      "title": "ESA ITT 'Advanced Methods for Resilience Activity' (posted 1 Oct 2026)",
+      "url": "https://eo4society.esa.int/",
+      "reason": "ESA tender; deadline and eligibility not shown on the page; ESA tenders are normally restricted to entities in ESA member states, so not a fit for CIAT as prime. Not verified further."
+    },
+    {
+      "title": "ITU AI for Good GeoAI Challenge (FAO aquaculture pond identification; GeoFM heights)",
+      "url": "https://aiforgood.itu.int/about-us/geoai-challenge/",
+      "reason": "Closed: the aquaculture challenge closed 16 Aug 2026 and GeoFM is listed as completed. No 2027 GeoAI challenge listed yet."
+    },
+    {
+      "title": "Amazon Research Awards Fall 2026 calls for proposals",
+      "url": "https://www.amazon.science/research-awards/call-for-proposals",
+      "reason": "Not relevant / closing: 'The submission period has been extended to November 11.' The Fall 2026 topics are Agentic AI, security, automated reasoning, cryptography, Trainium, multilingual evaluation and multimodal perception. No sustainability or agriculture call (the Sustainability CFP was Fall 2025, closed)."
+    },
+    {
+      "title": "Belmont Forum Collaborative Research Actions",
+      "url": "https://belmontforum.org/",
+      "reason": "No new food systems or climate CRA. Only the Ocean 2 CRA (deadline 27 Aug 2026, passed) and 'Biodiversity 3' (future opportunity, no date) are listed."
+    },
+    {
+      "title": "Google.org Generative AI Accelerator",
+      "url": "https://impactchallenge.withgoogle.com/genaiaccelerator/",
+      "reason": "Closed: 'Organizations have now been selected' (2025 cohort from the USD 30M open call launched Jan 2025). No new call open."
+    }
+  ]
+}

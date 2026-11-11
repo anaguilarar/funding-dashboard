@@ -100,19 +100,22 @@ evidence:
   eligibility_quote: Researchers, academics and practitioners working in institutions based in APN member
     countries
   status_quote: 2026 Call for Proposals under the CRRP and CAPaBLE Programmes (news item dated 2 November
-    2026); proposals sought "for funding and implementation from 1 October 2027"
+    2026); the Calls for Proposals page marks the 2025 call [CLOSED] but gives the 2026 call no closed
+    marker.
   staff_costs_quote: 'APN may provide partial salary support for time spent implementing a project (FAQ;
     also: "APN does not cover consultancy fees or salary payments")'
 unverified_fields:
 - Guide for Proponents details (on APNIS, not read)
 - eligibility of international organisations / Alliance country offices
 - cofunding_required
-verification_notes: On 2026-11-02 loaded the official APN 2026 call news page (deadline, eligibility,
-  themes, start date) and the APN Calls for Proposals FAQ (funding caps, duration, salary and overhead
-  rules, country requirements). Funding caps and duration come from the standing FAQ, not the 2026 call
-  page. This record updates the existing 'upcoming' record in place.
-last_verified: '2026-11-02'
-verification_source: import:apn_update_2026-11-02.json
+verification_notes: '2026-11-10: Re-loaded the official 2026 call news page (loads fine, URL unchanged)
+  and the APN Calls for Proposals listing page. Deadlines are confirmed unchanged: ''Monday, 30 November
+  2026, 23:59 Japan Standard Time'' (Stage 1) and ''Monday, 29 March 2027, 23:59 Japan Standard Time''
+  (Stage 2). No extension or closure notice. The listing page marks the 2025 call [CLOSED] but not the
+  2026 call. The ''url_unreachable'' flag was likely a transient error. Funding caps and duration come
+  from the standing FAQ (verified 2026-11-02).'
+last_verified: '2026-11-10'
+verification_source: import:reverification_2026-11-10.json
 first_seen: '2026-10-14'
 history:
 - date: 2026-10-14 11:49
@@ -136,4 +139,6 @@ history:
     countries in the Asia-Pacific (sub-regions: Pacific, South Asia, Southeast Asia, Temperate East Asia).
     See the APN member-country list and the Guide for Proponents on APNIS.; consortium_required: yes ->
     optional'
-flags: []
+- date: 2026-11-11 11:00
+  event: reverified
+  detail: no material change

@@ -1,0 +1,96 @@
+id: european-commission-horizon-europe-understanding-and-avoiding-maladapt
+title: Understanding and avoiding maladaptation to climate change - HORIZON-CL5-2027-01-D1-10
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Cluster 5 - Destination 1 'Climate sciences and responses', call HORIZON-CL5-2027-01
+opportunity_type: consortium_call
+themes:
+- climate_adaptation
+- climate_smart_ag
+- food_security
+- multifunctional_landscapes
+- remote_sensing
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-01-D1-10
+source_urls:
+- https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=HORIZON-CL5-2027-01-D1-10
+status: upcoming
+status_basis: official
+published_date: Not specified
+deadline: 2027-03-04T17:00
+deadline_timezone: CET (Brussels)
+deadline_text: Opening 17 November 2026; single-stage deadline 04 March 2027
+funding_amount_min: 5000000
+funding_amount_max: 6000000
+currency: EUR
+funding_text: RIA; topic budget EUR 18,000,000 (2027); expected 3 grants; EU contribution per project
+  EUR 5,000,000 - 6,000,000
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: 'Legal entities in consortia per Horizon Europe General Annexes (standard RIA: at
+  least 3 independent entities from 3 different EU Member States/Associated Countries, at least one from
+  a Member State)'
+eligible_countries: EU Member States and Associated Countries automatically eligible for funding; LMICs
+  listed in General Annexes eligible; other third countries per Programme Guide
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Bioversity International (registered in Italy) can join as a funded beneficiary;
+  Horizon Europe personnel costs are eligible actual costs. CIAT (Colombia) is not automatically eligible
+  for funding (Colombia not on LMIC list), so run any Colombian/LAC case-study work through Bioversity
+  or as associated partner.
+lead_applicant_requirements: Not specified beyond Horizon Europe standard rules
+geographic_restrictions: Topic is EU-policy oriented (EU Adaptation Strategy, Climate-ADAPT), but scope
+  explicitly covers evidence 'across sectors and regions, both in Europe and globally'
+consortium_required: 'yes'
+consortium_details: Standard Horizon Europe RIA consortium; coordination with Mission Adaptation and Cluster
+  5 Destination 1 projects encouraged
+cofunding_required: 'no'
+cofunding_details: RIA funded at 100% of eligible costs (Horizon Europe standard)
+eligible_activities: Identify drivers of maladaptation across systems; map/validate evidence via case
+  studies (local/regional/national); strengthen methodological toolbox for complex climate risk and adaptation
+  assessment; propose corrective responses and prevention guidelines; feed EU repositories (Climate-ADAPT)
+  and European Climate Risk Assessments. If satellite EO is used, Copernicus and/or Galileo/EGNOS must
+  be used.
+required_documents: Horizon Europe Part A (online forms) and Part B (technical description) via F&T Submission
+  System
+application_procedure: Single-stage submission through the EU Funding & Tenders Portal
+eligibility_assessment: confirmed_eligible
+scientific_alignment: 3
+scientific_alignment_rationale: Adaptation evidence and risk-assessment methods are core; Alliance crop-model/EO
+  evidence on maladaptation in agriculture (e.g., irrigation, land-use shifts, crop switching) fits a
+  case-study work package, but topic is SSH/policy heavy rather than RS/AI-centric.
+strategic_relevance: 4
+strategic_relevance_rationale: Global evidence on agricultural maladaptation from LAC/Africa/Asia is a
+  distinctive CGIAR contribution; IPCC-relevant.
+technical_feasibility: 4
+technical_feasibility_rationale: Team can deliver crop-modelling and remote-sensing based adaptation outcome
+  assessments as case studies.
+recommendation: Pursue as partner (Bioversity Italy as beneficiary) in a European consortium; offer global
+  agri-food case studies on maladaptation detected via EO + crop modelling. Opens 17 Nov 2026, deadline
+  4 Mar 2027 - start partner search now.
+potential_partners: Climate-ADAPT/EEA-linked institutes, PIK, CMCC (Italy), IIASA, Wageningen UR, BC3,
+  SEI
+next_action: Register topic in F&T partner search after 17 Nov 2026 opening; contact CMCC/PIK/WUR adaptation
+  groups proposing a global agriculture maladaptation case-study WP.
+evidence:
+  deadline_quote: startDate 2026-11-17; deadlineDate 2027-03-04; deadlineModel single-stage
+  eligibility_quote: Eligible Countries described in Annex B of the Work Programme General Annexes.
+  status_quote: 'Status: Forthcoming (31094501); budget {''2027'': ''18000000''}, expected grants 3, min
+    5000000, max 6000000'
+  staff_costs_quote: Not quoted from topic page; Horizon Europe RIA eligible costs include personnel costs
+    (General Annexes/Model Grant Agreement)
+unverified_fields:
+- duration
+- deadline time (17:00 assumed standard Horizon Europe cut-off)
+- staff_costs_quote verbatim
+verification_notes: 'Loaded via official EU Funding & Tenders search API (SEDIA) on 2026-11-10: topic
+  metadata, description, conditions and budget overview. Portal topic page is JS-rendered; URL follows
+  standard pattern. Not in existing records.'
+last_verified: '2026-11-10'
+verification_source: import:europe_multilateral_2026-11-10.json
+first_seen: '2026-11-11'
+history:
+- date: 2026-11-11 11:00
+  event: added
+  detail: import:europe_multilateral_2026-11-10.json

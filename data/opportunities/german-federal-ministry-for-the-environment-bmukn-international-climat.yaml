@@ -1,0 +1,88 @@
+id: german-federal-ministry-for-the-environment-bmukn-international-climat
+title: IKI Medium Grants 2026 (7th ideas competition) - Green skills for local climate action incl. sustainable
+  agriculture
+funder: German Federal Ministry for the Environment (BMUKN) - International Climate Initiative (IKI)
+funder_type: bilateral
+program: IKI Medium Grants
+opportunity_type: grant
+themes:
+- climate_adaptation
+- climate_smart_ag
+- capacity_building
+- biodiversity
+url: https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/
+source_urls:
+- https://www.international-climate-initiative.com/en/find-funding/medium-grants/
+status: open
+status_basis: official
+published_date: '2026-10-13'
+deadline: 2027-01-12T11:59
+deadline_timezone: CET
+deadline_text: The ideas competition (call) opens on 13 October 2026 and closes on 12 January 2027 at
+  11.59 am (CET).
+funding_amount_min: 300000
+funding_amount_max: 800000
+currency: EUR
+funding_text: Total budget of up to EUR 8 million; individual projects EUR 300,000 - 800,000
+duration: 2 to 3 years
+duration_months_max: 36
+covers_staff_costs: Not specified
+support_type: project_funding
+eligible_applicants: civil society organisations, academic institutions and not-for-profit organisations
+  based in Germany
+eligible_countries: Developing and emerging economies in the Global South; 1-2 implementing countries
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Lead must be based in Germany (permanent establishment by first disbursement).
+  Alliance cannot lead unless it has a German establishment; possible role as local partner organisation
+  in Colombia/implementing country, but partner rules not stated on page.
+lead_applicant_requirements: Applicant must have a permanent business establishment, branch or other facility
+  in Germany by the time of first disbursement; must partner with 1-2 local implementing organisations
+geographic_restrictions: Global South, bilateral or regional (1-2 countries)
+consortium_required: 'yes'
+consortium_details: German applicant plus one or two local partner organisations in implementing country/countries
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Priority I ''Green skills for local climate action'': practical approaches such
+  as community-based renewable energy, sustainable agriculture; Priority II ''Future-proof coasts'': marine/coastal
+  ecosystem protection with digital biodiversity monitoring'
+required_documents: Project outline via online portal; concept note and sample outline form templates
+application_procedure: 'Two-phase: outline via IKI ideas platform by 12 Jan 2027; selected outlines invited
+  to full proposal. Online info seminar 19 November, 10:00-11:30 CET.'
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Climate-smart/sustainable agriculture skills fits thematically; research
+  methods (RS/AI/crop modelling) are secondary in a skills-focused implementation grant.
+strategic_relevance: 3
+strategic_relevance_rationale: Useful partner route with German universities/NGOs for Colombia/Central
+  America climate-smart agriculture skills; small multi-year budget.
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance can supply training content on digital advisory/CSA as local
+  partner.
+recommendation: 'Partner opportunity only: approach German university or NGO partners (e.g., GIZ-linked
+  NGOs, Univ. Hohenheim, Univ. Bonn ZEF) to lead with Alliance/CIAT as local implementing partner in Colombia.
+  Confirm partner eligibility in the IMG Administrative Guidelines.'
+potential_partners: ZEF Univ. Bonn, Univ. Hohenheim, Welthungerhilfe, Leibniz ZALF
+next_action: Register for 19 Nov 2026 IKI seminar; read IMG Administrative Guidelines (05/2026) on partner
+  eligibility and personnel costs; contact a German lead by early December.
+evidence:
+  deadline_quote: The ideas competition (call) opens on 13 October 2026 and closes on 12 January 2027
+    at 11.59 am (CET).
+  eligibility_quote: civil society organisations, academic institutions and not-for-profit organisations
+    based in Germany
+  status_quote: Call open (Medium Grants page, 'Apply now')
+  staff_costs_quote: Not specified on call page
+unverified_fields:
+- covers_staff_costs
+- partner organisation eligibility (international organisations)
+- cofunding
+verification_notes: Loaded official IKI pages (medium-grants and medium-grants-2026) on 2026-11-10. Opened
+  13 Oct 2026 - missed in earlier runs. IKI Thematic Call page shows 'Call closed' with no 2026/27 call
+  announced.
+last_verified: '2026-11-10'
+verification_source: import:europe_multilateral_2026-11-10.json
+first_seen: '2026-11-11'
+history:
+- date: 2026-11-11 11:00
+  event: added
+  detail: import:europe_multilateral_2026-11-10.json

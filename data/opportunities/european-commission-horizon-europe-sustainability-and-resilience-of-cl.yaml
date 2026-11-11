@@ -1,0 +1,84 @@
+id: european-commission-horizon-europe-sustainability-and-resilience-of-cl
+title: Sustainability and resilience of climate projections and related data records for European and
+  global science and policy - HORIZON-BRIDGING-2027-04-08
+funder: European Commission (Horizon Europe)
+funder_type: multilateral
+program: Horizon Europe Bridging actions 2027 (HORIZON-BRIDGING-2027-04)
+opportunity_type: consortium_call
+themes:
+- climate_data_infrastructure
+- climate_adaptation
+- open_source_software
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-BRIDGING-2027-04-08
+source_urls:
+- https://api.tech.ec.europa.eu/search-api/prod/rest/search?apiKey=SEDIA&text=HORIZON-BRIDGING-2027-04-08
+status: open
+status_basis: official
+published_date: '2026-10-06'
+deadline: 2027-02-16T17:00
+deadline_timezone: CET (Brussels)
+deadline_text: Opening 06 October 2026; single-stage deadline 16 February 2027
+funding_amount_min: 5000000
+funding_amount_max: 5000000
+currency: EUR
+funding_text: CSA; topic budget EUR 5,000,000; expected 1 grant
+duration: Not specified
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: project_funding
+eligible_applicants: Consortia per Horizon Europe General Annexes; LMIC entities 'may exceptionally participate
+  in this Coordination and Support Action as beneficiary or affiliated entity'
+eligible_countries: EU Member States and Associated Countries; LMICs automatically eligible may exceptionally
+  participate
+international_orgs_eligible: 'yes'
+cgiar_eligible: 'yes'
+cgiar_eligibility_notes: Bioversity International (Italy) could be a beneficiary; realistically a minor
+  partner/user-community role (climate projection data for agricultural impact modelling in vulnerable
+  countries).
+lead_applicant_requirements: Not specified
+geographic_restrictions: European + global coordination of ESGF; 'strong focus on inclusiveness, equity,
+  and the needs of the most vulnerable countries'
+consortium_required: 'yes'
+consortium_details: Single CSA expected to be led by European climate modelling/data community (e.g.,
+  ENES/ESGF nodes)
+cofunding_required: 'no'
+cofunding_details: CSA 100% funding rate
+eligible_activities: Track availability of CMIP/CORDEX projections and risks; coordinate Europe-wide mitigation
+  of data-access risks; strengthen Earth System Grid Federation (ESGF) resilience in Europe and globally;
+  links to ESFRI and EOSC
+required_documents: Horizon Europe Part A and Part B
+application_procedure: Single-stage submission via F&T Portal (submission session open since 6 Oct 2026)
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Climate data infrastructure is an interest area, but this is an ESGF governance/infrastructure
+  CSA, not crop/EO research.
+strategic_relevance: 2
+strategic_relevance_rationale: Single grant almost certainly led by ENES/ESGF; Alliance role limited to
+  user-needs input for Global South agriculture.
+technical_feasibility: 2
+technical_feasibility_rationale: Alliance does not operate ESGF nodes.
+recommendation: Do not lead; only offer a small user-community/LMIC-needs task if approached by the ESGF
+  consortium.
+potential_partners: IPSL, DKRZ, CMCC, CEDA (ENES/ESGF nodes)
+next_action: 'Optional: contact CMCC (Italy) to offer a Global South agricultural-user task before January
+  2027.'
+evidence:
+  deadline_quote: startDate 2026-10-06; deadlineDate 2027-02-16; single-stage
+  eligibility_quote: If eligible for funding, legal entities established in low- to middle-income countries
+    automatically eligible for Horizon Europe funding may exceptionally participate in this Coordination
+    and Support Action as beneficiary or affiliated entity.
+  status_quote: 'The submission session is now available for: HORIZON-BRIDGING-2027-04-03, HORIZON-BRIDGING-2027-04-11,
+    HORIZON-BRIDGING-2027-04-08'
+  staff_costs_quote: Not quoted; Horizon Europe CSA eligible costs include personnel
+unverified_fields:
+- duration
+- deadline time (17:00 assumed)
+verification_notes: Loaded via official EU F&T search API on 2026-11-10. Included mainly for climate-data-infrastructure
+  tracking; low priority.
+last_verified: '2026-11-10'
+verification_source: import:europe_multilateral_2026-11-10.json
+first_seen: '2026-11-11'
+history:
+- date: 2026-11-11 11:00
+  event: added
+  detail: import:europe_multilateral_2026-11-10.json

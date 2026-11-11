@@ -1,0 +1,88 @@
+id: autodesk-foundation-autodesk-foundation-rolling-discovery-form-health
+title: 'Autodesk Foundation - rolling Discovery Form (Health & Resilience: climate adaptation technologies
+  for low-resource communities, incl. agriculture), USD 100k-1M unrestricted grants'
+funder: Autodesk Foundation
+funder_type: tech_company
+program: Autodesk Foundation impact funding - Health & Resilience opportunity area
+opportunity_type: grant
+themes:
+- climate_adaptation
+- digital_agriculture
+- smallholders
+- ai_ml
+url: https://www.autodesk.org/funding
+source_urls:
+- https://www.autodesk.org/
+- https://autodesk.fluxx.io/apply/investment
+status: rolling
+status_basis: official
+published_date: Not specified
+deadline: null
+deadline_timezone: Not specified
+deadline_text: No deadline; complete the Discovery Form, response within about three weeks; full application
+  by invitation.
+funding_amount_min: 100000
+funding_amount_max: 1000000
+currency: USD
+funding_text: Our funding ranges from $100,000 to $1,000,000, with most commitments falling between $250,000
+  and $500,000. For nonprofits, we generally provide unrestricted grants.
+duration: Not specified (renewals at the end of each funding period are referenced)
+duration_months_max: null
+covers_staff_costs: 'yes'
+support_type: core_or_program_funding
+eligible_applicants: Nonprofits and startups using design, engineering or technology within the Foundation's
+  impact opportunity areas.
+eligible_countries: Not specified
+international_orgs_eligible: unclear
+cgiar_eligible: unclear
+cgiar_eligibility_notes: Page does not address non-US or intergovernmental organizations; Alliance would
+  need to confirm via the Discovery Form (US-registered affiliate or fiscal sponsor could be an option).
+lead_applicant_requirements: Must work within one of the Foundation's impact opportunity areas ('thesis-driven
+  approach').
+geographic_restrictions: Not specified; Health & Resilience targets 'low-resource communities most vulnerable
+  to climate change'.
+consortium_required: 'no'
+consortium_details: Not specified
+cofunding_required: Not specified
+cofunding_details: Not specified
+eligible_activities: 'Health & Resilience: ''improve resilience in low-resource communities most vulnerable
+  to climate change'' - focus areas include built environment, agriculture, energy access, water and sanitation.'
+required_documents: Discovery Form (5-10 minutes); invited Application for Funding.
+application_procedure: Complete Discovery Form at autodesk.fluxx.io/apply/investment; Foundation invites
+  a small selection to full application each year.
+eligibility_assessment: potentially_eligible
+scientific_alignment: 2
+scientific_alignment_rationale: Technology-for-resilience framing fits digital advisory/climate-risk tools
+  for smallholders, but funder emphasizes scaling organizations, not research.
+strategic_relevance: 3
+strategic_relevance_rationale: Unrestricted, sizeable grants from a tech funder; agriculture explicitly
+  in resilience focus; but the funder favours scaling nonprofits/startups.
+technical_feasibility: 3
+technical_feasibility_rationale: Alliance could pitch an open-source digital climate-advisory / risk tool
+  with scaling partners; low effort to submit Discovery Form.
+recommendation: 'Low-cost lead: submit a short Discovery Form framing an open digital climate-adaptation
+  tool for smallholders (e.g., site-specific advisory) and ask about eligibility of international organizations.'
+potential_partners: Alliance Digital Inclusion / climate services teams; scaling NGO partners in LAC/Africa.
+next_action: Submit Discovery Form; ask explicitly whether non-US international research organizations
+  are eligible.
+evidence:
+  deadline_quote: The first step to be considered for Autodesk Foundation funding is to complete our Discovery
+    Form.
+  eligibility_quote: We take a thesis-driven approach and therefore only consider organizations working
+    within one of our impact opportunity areas.
+  status_quote: Each year we invite a small selection of organizations to fill out our Application for
+    Funding.
+  staff_costs_quote: For nonprofits, we generally provide unrestricted grants.
+unverified_fields:
+- eligible_countries
+- international_orgs_eligible
+- duration
+verification_notes: Loaded autodesk.org and autodesk.org/funding on 2026-11-10 (page content partially
+  truncated). Lead surfaced via impactopen.org aggregator. Staff costs inferred from 'unrestricted' grants.
+last_verified: '2026-11-10'
+verification_source: import:philanthropy_us_corporate_2026-11-10.json
+first_seen: '2026-11-11'
+history:
+- date: 2026-11-11 11:00
+  event: added
+  detail: import:philanthropy_us_corporate_2026-11-10.json
