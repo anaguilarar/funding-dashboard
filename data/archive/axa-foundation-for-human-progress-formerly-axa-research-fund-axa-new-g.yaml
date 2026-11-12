@@ -17,7 +17,7 @@ source_urls:
 - https://axafoundation.org/en/news/new-gen-standing-by-young-researchers
 - https://axafoundation.org/en/calls-for-projects
 - https://axafoundation.org/en/science/fund-your-research
-status: open
+status: closed
 status_basis: official
 published_date: '2026-10-20'
 deadline: 2026-11-12T16:00
@@ -127,5 +127,8 @@ history:
 - date: 2026-11-11 11:00
   event: reverified
   detail: no material change
+- date: 2026-11-12 19:20
+  event: closed
+  detail: deadline 2026-11-12T16:00 passed
 flags:
-- call_page_changed
+- expired
