@@ -18,7 +18,7 @@ url: https://minciencias.gov.co/node/9582
 source_urls:
 - https://minciencias.gov.co/sites/default/files/upload/convocatoria/tdr_convocatoria54_publicada.pdf
 - https://minciencias.gov.co/convocatorias/todas
-status: open
+status: closed
 status_basis: official
 published_date: '2026-10-23'
 deadline: 2026-11-13T16:00
@@ -109,5 +109,9 @@ history:
 - date: 2026-11-02 18:32
   event: added
   detail: import:regional_multilateral_2026-11-02.json
+- date: 2026-11-13 18:59
+  event: closed
+  detail: deadline 2026-11-13T16:00 passed
 flags:
 - call_page_changed
+- expired
