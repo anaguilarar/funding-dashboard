@@ -16,7 +16,7 @@ url: https://globalebafund.org/medium-size-grants/
 source_urls:
 - https://iucn.org/news/202608/iucn-and-unep-offering-usd75-million-grants-ecosystem-based-adaptation-projects
 - https://globalebafund.org/small-size-grants/
-status: open
+status: closed
 status_basis: official
 published_date: '2026-08-24'
 deadline: 2026-11-16T23:59
@@ -99,4 +99,8 @@ history:
 - date: 2026-11-11 11:00
   event: added
   detail: import:philanthropy_us_corporate_2026-11-10.json
-flags: []
+- date: 2026-11-17 20:15
+  event: closed
+  detail: deadline 2026-11-16T23:59 passed
+flags:
+- expired

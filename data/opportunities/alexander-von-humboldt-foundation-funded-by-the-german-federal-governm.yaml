@@ -88,5 +88,4 @@ history:
   event: added
   detail: import:europe_staff_2026-10-22.json
 flags:
-- call_page_changed
 - stale_verification

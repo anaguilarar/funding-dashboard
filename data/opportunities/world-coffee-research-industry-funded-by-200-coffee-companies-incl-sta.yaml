@@ -95,5 +95,4 @@ history:
   event: added
   detail: import:corporate_agrifood_2026-10-22.json
 flags:
-- call_page_changed
 - stale_verification
