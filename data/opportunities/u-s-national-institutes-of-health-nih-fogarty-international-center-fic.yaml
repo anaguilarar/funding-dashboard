@@ -13,7 +13,7 @@ url: https://www.grants.gov/search-results-detail/363873
 source_urls:
 - https://www.fic.nih.gov/Programs/Pages/environmental-occupational.aspx
 - https://api.grants.gov/v1/api/fetchOpportunity (opportunityId 363873)
-status: upcoming
+status: needs_reverification
 status_basis: official
 published_date: '2026-09-16'
 deadline: 2027-09-22T23:59
@@ -98,5 +98,10 @@ history:
 - date: 2026-10-22 10:55
   event: reverified
   detail: no material change
+- date: 2026-11-20 19:29
+  event: flagged
+  detail: needs re-verification (url_unreachable, stale_verification); previous status upcoming
 flags:
+- url_unreachable
 - stale_verification
+status_before_flag: upcoming

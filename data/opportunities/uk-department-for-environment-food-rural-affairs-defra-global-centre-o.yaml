@@ -111,4 +111,5 @@ history:
   event: added
   detail: import:philanthropy_us_2026-11-02.json
 flags:
+- call_page_changed
 - stale_verification

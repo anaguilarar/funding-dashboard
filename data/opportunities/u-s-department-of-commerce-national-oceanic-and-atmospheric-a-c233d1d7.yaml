@@ -16,7 +16,7 @@ url: https://www.grants.gov/search-results-detail/364130
 source_urls:
 - https://apply07.grants.gov/grantsws/rest/opportunity/att/download/355324
 - https://api.grants.gov/v1/api/fetchOpportunity (opportunityId 364130)
-status: rolling
+status: needs_reverification
 status_basis: official
 published_date: '2026-10-20'
 deadline: 2028-09-30T23:59
@@ -116,5 +116,10 @@ history:
 - date: 2026-10-22 10:55
   event: added
   detail: import:usa_staff_2026-10-22.json
+- date: 2026-11-20 19:29
+  event: flagged
+  detail: needs re-verification (url_unreachable, stale_verification); previous status rolling
 flags:
+- url_unreachable
 - stale_verification
+status_before_flag: rolling
