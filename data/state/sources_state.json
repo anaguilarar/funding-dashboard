@@ -1,8 +1,8 @@
 {
  "european-commission-eu-funding-tenders-portal-hori": {
-  "last_checked": "2026-11-21T18:30:32",
+  "last_checked": "2026-11-22T18:53:22",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:32",
+  "last_ok": "2026-11-22T18:53:22",
   "hash": "25d21a6a559431d994cec49586d9a11710ccbe8ef9c1717ffe9d48cb9cbd7da9",
   "links": [
    "https://ec.europa.eu/info/funding-tenders/opportunities/data/topic-list.html"
@@ -10,9 +10,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='ec.europa.eu', port=443): Max retries exceeded with url: /info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals (Caused by NameResolutionError(\"H"
  },
  "european-commission-horizon-europe-work-programme": {
-  "last_checked": "2026-11-21T18:30:33",
+  "last_checked": "2026-11-22T18:53:24",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:33",
+  "last_ok": "2026-11-22T18:53:24",
   "hash": "c7e27797b5fb55e7c9f1ae56868e256414d738ebcb2595a1b77325880c2b3d19",
   "links": [
    "http://www.linkedin.com/company/european-commission",
@@ -95,9 +95,9 @@
   "last_error": "HTTP 429"
  },
  "prima-foundation-prima-calls-awp-2027-expected-by": {
-  "last_checked": "2026-11-21T18:30:35",
+  "last_checked": "2026-11-22T18:53:26",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:35",
+  "last_ok": "2026-11-22T18:53:26",
   "hash": "6339276d4b4585f2e0f2f5a3681640893aeae4a9a9d1720b608e6257d68ed336",
   "links": [
    "https://fit4reuse.org/",
@@ -161,9 +161,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='prima-med.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='prima-med.org', port=443): Failed to resolve 'prima-med.org'"
  },
  "esa-eo4society-living-planet-fellowship-eo-africa": {
-  "last_checked": "2026-11-21T18:30:37",
+  "last_checked": "2026-11-22T18:53:27",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:37",
+  "last_ok": "2026-11-22T18:53:27",
   "hash": "924ce99628869fb7ff383b0981075e2be24d0e945e4945fcb3423260b1e8ab55",
   "links": [
    "http://www.esa.int",
@@ -238,9 +238,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='eo4society.esa.int', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='eo4society.esa.int', port=443): Failed to resolve 'eo4s"
  },
  "danida-fellowship-centre-calls-for-research-applic": {
-  "last_checked": "2026-11-21T18:30:38",
+  "last_checked": "2026-11-22T18:53:29",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:38",
+  "last_ok": "2026-11-22T18:53:29",
   "hash": "089035ae49624c22856861df931bc253a46bbfc598057fed5d2b4d7e97c61e67",
   "links": [
    "https://amg.um.dk/policies-and-strategies/stategy-for-danish-development-cooperation",
@@ -317,9 +317,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='dfcentre.com', port=443): Max retries exceeded with url: /research/calls-for-applications/ (Caused by NameResolutionError(\"HTTPSConnection(host='dfcentre.com', port=443): Fai"
  },
  "belmont-forum-collaborative-research-actions": {
-  "last_checked": "2026-11-21T18:30:40",
+  "last_checked": "2026-11-22T18:53:31",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:40",
+  "last_ok": "2026-11-22T18:53:31",
   "hash": "04f69303a814b83f875424d8cfd7b11fa118b1356dac192f760c1283a20ca565",
   "links": [
    "https://belmontforum.org/",
@@ -352,7 +352,7 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='belmontforum.org', port=443): Max retries exceeded with url: /cras (Caused by NameResolutionError(\"HTTPSConnection(host='belmontforum.org', port=443): Failed to resolve 'belm"
  },
  "ukri-ukri-funding-finder-rss": {
-  "last_checked": "2026-11-21T18:30:41",
+  "last_checked": "2026-11-22T18:53:32",
   "failures": 0,
   "items": [
    "https://www.ukri.org/opportunity/2026-to-2027-strategic-longer-and-larger-slola-outlines/",
@@ -418,9 +418,9 @@
   ]
  },
  "snsf-sdc-sor4d-programme": {
-  "last_checked": "2026-11-21T18:30:42",
+  "last_checked": "2026-11-22T18:53:33",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:42",
+  "last_ok": "2026-11-22T18:53:33",
   "hash": "a644f3ae698b278e2dc37e77500917ae7f311424da24fd952e34b631c231b4af",
   "links": [
    "https://api.whatsapp.com/send?text=",
@@ -512,9 +512,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.snf.ch', port=443): Max retries exceeded with url: /en/A7KYBOFbiGirvsj1/news/new-solution-oriented-research-for-development-sor4d-call-launched (Caused by NameResolutionE"
  },
  "biodiversa-biodivfuture-2026-2027-joint-call-novel": {
-  "last_checked": "2026-11-21T18:30:44",
+  "last_checked": "2026-11-22T18:53:35",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:44",
+  "last_ok": "2026-11-22T18:53:35",
   "hash": "ef4eec8334c04a50eeb93a41fadf4f430a79ffb642ef858ebe853fe9ac79fc00",
   "links": [
    "https://cookiedatabase.org/tcf/purposes/",
@@ -574,9 +574,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.biodiversa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.biodiversa.eu', port=443): Failed to resolve 'www.bi"
  },
  "wellcome-climate-and-health-funding-climate-impact": {
-  "last_checked": "2026-11-21T18:30:45",
+  "last_checked": "2026-11-22T18:53:36",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:45",
+  "last_ok": "2026-11-22T18:53:36",
   "hash": "b8565642292ebd5c2dca5b78381bfe5b6830dfbd1efcebb5f9b54367855606bf",
   "links": [
    "http://browser-update.org/update.html?force_outdated=true",
@@ -663,9 +663,9 @@
   "last_error": "HTTP 403"
  },
  "global-methane-hub-gmh-news-rice-methane-innovatio": {
-  "last_checked": "2026-11-21T18:30:46",
+  "last_checked": "2026-11-22T18:53:37",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:46",
+  "last_ok": "2026-11-22T18:53:37",
   "hash": "a0c4422bab77fe341a13f909f22e53ee76ae99a57439f01fef96f74c23337d46",
   "links": [
    "https://www.carbonbrief.org/scientists-concerned-by-record-high-global-methane-emissions/",
@@ -702,9 +702,9 @@
   "last_error": "HTTP 403"
  },
  "bezos-earth-fund-news-and-insights": {
-  "last_checked": "2026-11-21T18:30:48",
+  "last_checked": "2026-11-22T18:53:39",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:48",
+  "last_ok": "2026-11-22T18:53:39",
   "hash": "4d0d97de236c4bd151fdcb652a180a34c1f5296b5fa7ea69f7389343228825f3",
   "links": [
    "https://www.bezosearthfund.org/",
@@ -747,14 +747,14 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.bezosearthfund.org', port=443): Max retries exceeded with url: /news-and-insights (Caused by NameResolutionError(\"HTTPSConnection(host='www.bezosearthfund.org', port=443)"
  },
  "gates-foundation-global-grand-challenges-listing": {
-  "last_checked": "2026-11-21T18:30:49",
+  "last_checked": "2026-11-22T18:53:40",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:49",
+  "last_ok": "2026-11-22T18:53:40",
   "hash": "25dec0da96a02cfcd1d9a5e2cb9396ec1d67ace8f98e8ca1dfb2913fde52500f",
   "links": [
    "https://gcgh.grandchallenges.org/",
    "https://gcgh.grandchallenges.org/about",
-   "https://gcgh.grandchallenges.org/cdn-cgi/l/email-protection#ddbaafbcb3b9beb5bcb1b1b8b3bab8ae9dbabca9b8aebbb2a8b3b9bca9b4b2b3f3b2afba",
+   "https://gcgh.grandchallenges.org/cdn-cgi/l/email-protection#bddacfdcd3d9ded5dcd1d1d8d3dad8cefddadcc9d8cedbd2c8d3d9dcc9d4d2d393d2cfda",
    "https://gcgh.grandchallenges.org/challenge/2026-grand-challenges-annual-meeting-call-action",
    "https://gcgh.grandchallenges.org/challenge/ai-enabled-consumer-engagement-advance-family-planning",
    "https://gcgh.grandchallenges.org/challenge/breakthrough-solutions-and-cost-disruptive-innovations-screening-and-diagnosis",
@@ -785,9 +785,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='gcgh.grandchallenges.org', port=443): Max retries exceeded with url: /challenges (Caused by NameResolutionError(\"HTTPSConnection(host='gcgh.grandchallenges.org', port=443): F"
  },
  "cambridge-africa-mastercard-foundation-cambridge-a": {
-  "last_checked": "2026-11-21T18:30:51",
+  "last_checked": "2026-11-22T18:53:42",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:51",
+  "last_ok": "2026-11-22T18:53:42",
   "hash": "02a9d759efb86fd099855c14312ad704707b116e43a3fba85114881209e1fc64",
   "links": [
    "http://eepurl.com/hvr62n",
@@ -879,9 +879,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.cambridge-africa.cam.ac.uk', port=443): Max retries exceeded with url: /initiatives/mastercard-foundation-and-university-of-cambridge-climate-resilience-and-sustainabilit"
  },
  "climate-change-ai-innovation-grants": {
-  "last_checked": "2026-11-21T18:30:52",
+  "last_checked": "2026-11-22T18:53:43",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:52",
+  "last_ok": "2026-11-22T18:53:43",
   "hash": "17f06d71c182a324660622613b5d2aa14bff6253b9dc37dcb690aac274a71d4a",
   "links": [
    "https://community.climatechange.ai/",
@@ -959,9 +959,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.climatechange.ai', port=443): Max retries exceeded with url: /innovation_grants (Caused by NameResolutionError(\"HTTPSConnection(host='www.climatechange.ai', port=443): Fa"
  },
  "lacuna-fund-apply-open-upcoming-rfps": {
-  "last_checked": "2026-11-21T18:30:54",
+  "last_checked": "2026-11-22T18:53:45",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:54",
+  "last_ok": "2026-11-22T18:53:45",
   "hash": "909f168a8d9cf073c029b660b35d9a57b935ff4576bcde105c858b7c2bcfee4c",
   "links": [
    "https://acts-net.org/",
@@ -982,9 +982,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='lacunafund.org', port=443): Max retries exceeded with url: /apply/ (Caused by NameResolutionError(\"HTTPSConnection(host='lacunafund.org', port=443): Failed to resolve 'lacuna"
  },
  "global-innovation-fund-apply-for-funding": {
-  "last_checked": "2026-11-21T18:30:57",
+  "last_checked": "2026-11-22T18:53:47",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:57",
+  "last_ok": "2026-11-22T18:53:47",
   "hash": "e3ea24ce4c2edbaa55ef9e6d00321aa69d92475525e0c9ef665e9c674d7e26e9",
   "links": [
    "https://boundless-glider.files.svdcdn.com/production/uploads/PDF-Documents/Strategy/GIF-Strategy-Document.pdf?dm=1784801357",
@@ -1017,9 +1017,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.globalinnovation.fund', port=443): Max retries exceeded with url: /apply-for-funding (Caused by NameResolutionError(\"HTTPSConnection(host='www.globalinnovation.fund', por"
  },
  "fondation-botnar-funding-opportunities": {
-  "last_checked": "2026-11-21T18:30:58",
+  "last_checked": "2026-11-22T18:53:48",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:58",
+  "last_ok": "2026-11-22T18:53:48",
   "hash": "6b5c72fd1be8350bd653645bf91b8a04c93eed7644465347fe72e68a8b8aaeed",
   "links": [
    "https://fondationbotnar.my.site.com/Grantmaking/login",
@@ -1041,9 +1041,9 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.fondationbotnar.org', port=443): Max retries exceeded with url: /funding-opportunities/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fondationbotnar.org', po"
  },
  "mcknight-foundation-global-collaboration-for-resil": {
-  "last_checked": "2026-11-21T18:30:58",
+  "last_checked": "2026-11-22T18:53:50",
   "failures": 0,
-  "last_ok": "2026-11-21T18:30:58",
+  "last_ok": "2026-11-22T18:53:50",
   "hash": "14cb39017ca2e410e4b9d1022abfdb224605dda4baeceb0a645dfbf14ee36ede",
   "links": [
    "http://www.ccrp.org/contact/",
@@ -1078,9 +1078,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.ccrp.org', port=443): Max retries exceeded with url: /faq/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.ccrp.org', port=443): Failed to resolve 'www.ccrp.org"
  },
  "schmidt-sciences-opportunities": {
-  "last_checked": "2026-11-21T18:31:02",
+  "last_checked": "2026-11-22T18:53:52",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:02",
+  "last_ok": "2026-11-22T18:53:52",
   "hash": "b73a8e6d1594925da6620930b6404607038d9455cc22c9c92688f4ac3e27deae",
   "links": [
    "https://cookiedatabase.org/tcf/purposes/",
@@ -1116,9 +1116,9 @@
   "last_error": "HTTP 403"
  },
  "ffar-grants-funding": {
-  "last_checked": "2026-11-21T18:31:02",
+  "last_checked": "2026-11-22T18:53:53",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:02",
+  "last_ok": "2026-11-22T18:53:53",
   "hash": "ae8fa0d54f08d11c592eb94c9d6af3cb1a2fba8b834835ec7078b2bd17012f66",
   "links": [
    "https://foundationfar.org",
@@ -1195,9 +1195,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='foundationfar.org', port=443): Max retries exceeded with url: /grants-funding/ (Caused by NameResolutionError(\"HTTPSConnection(host='foundationfar.org', port=443): Failed to "
  },
  "google-org-google-org-impact-challenges-listing": {
-  "last_checked": "2026-11-21T18:31:03",
+  "last_checked": "2026-11-22T18:53:54",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:03",
+  "last_ok": "2026-11-22T18:53:54",
   "hash": "23d7177e9e858ce2a98ad3680bfcc5a9228dc68aadda284a39cfd17dd7d1dabc",
   "links": [
    "https://about.google/",
@@ -1233,10 +1233,10 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.google.org', port=443): Max retries exceeded with url: /impact-challenges/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.google.org', port=443): Failed to res"
  },
  "google-org-google-org-accelerator-generative-ai": {
-  "last_checked": "2026-11-21T18:31:06",
+  "last_checked": "2026-11-22T18:53:56",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:06",
-  "hash": "acad5a629d1439c181a5689ebc95c84400a2f92bba117674b6522068f9e82153",
+  "last_ok": "2026-11-22T18:53:56",
+  "hash": "e60db3d6268b236d44d536c8b7584208861d45d518e6219173248e686067de2b",
   "links": [
    "https://3is.org/",
    "https://ai.google/",
@@ -1291,9 +1291,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='impactchallenge.withgoogle.com', port=443): Max retries exceeded with url: /genaiaccelerator/ (Caused by NameResolutionError(\"HTTPSConnection(host='impactchallenge.withgoogle"
  },
  "google-research-google-academic-research-awards-ga": {
-  "last_checked": "2026-11-21T18:31:06",
+  "last_checked": "2026-11-22T18:53:57",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:06",
+  "last_ok": "2026-11-22T18:53:57",
   "hash": "d5485a7642942360e9df80652ee4853837740013ed6cb26ffb396910191abd49",
   "links": [
    "https://about.google/",
@@ -1371,9 +1371,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='research.google', port=443): Max retries exceeded with url: /programs-and-events/google-academic-research-awards/ (Caused by NameResolutionError(\"HTTPSConnection(host='resear"
  },
  "google-deepmind-google-deepmind-accelerator-ai-for": {
-  "last_checked": "2026-11-21T18:31:08",
+  "last_checked": "2026-11-22T18:53:59",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:08",
+  "last_ok": "2026-11-22T18:53:59",
   "hash": "85647b7aecfc1c416920443d47dd6074f2ae620add3cb3440077b9f372037156",
   "links": [
    "http://farmersforforests.org",
@@ -1457,9 +1457,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='deepmind.google', port=443): Max retries exceeded with url: /accelerators/ai-for-the-planet/ (Caused by NameResolutionError(\"HTTPSConnection(host='deepmind.google', port=443)"
  },
  "google-research-agricultural-landscape-understandi": {
-  "last_checked": "2026-11-21T18:31:10",
+  "last_checked": "2026-11-22T18:54:00",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:10",
+  "last_ok": "2026-11-22T18:54:00",
   "hash": "c050d18b4138f762c614c9706737fbf750ff6b7cf3e0ce2e5d6e971ac072e98f",
   "links": [
    "https://ai.google.dev/",
@@ -1541,20 +1541,20 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: /agricultural-understanding/api (Caused by NameResolutionError(\"HTTPSConnection(host='developers.google.com'"
  },
  "meta-meta-research-requests-for-proposals": {
-  "last_checked": "2026-11-21T18:31:11",
+  "last_checked": "2026-11-22T18:54:01",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:11",
+  "last_ok": "2026-11-22T18:54:01",
   "hash": "98d593a3bbcad2b15acd4c62379d42bb3d0310144acb73fd03b7ffbb1a3386c1",
   "links": [
    "http://ai.facebook.com/",
    "https://about.facebook.com/",
-   "https://l.facebook.com/l.php?u=https%3A%2F%2Fengineering.fb.com%2F&h=AUBIcbQL4y39Oe8np8DvnXqcWeIDuVxjKdgTOFvQnGuGaucjXG_OsxOnOmWrd2IuhkPW7e0WCYHyVE928RA3S8qh2wMcODPh57p0RgZsIQYKj8Onuh4TielQsxpCotN8nvKZxJge2dDF7LS3",
-   "https://l.facebook.com/l.php?u=https%3A%2F%2Ffort.fb.com%2Fresearcher-datasets&h=AUBO4SUiR0NnuONLlpD5u5LlHdW_RRPkYVduyRyGIhCiO-7qupfQm2MCTvR0wdyw20Hhnku-gN_QlVB3a2Ood_wwROlkUG_NcBy0WvPftLbxyPIZ9lxWHeVjY8ZmA3_eseT7cITrk7BA2S22",
-   "https://l.facebook.com/l.php?u=https%3A%2F%2Ftech.fb.com%2F&h=AUABIQKyHjv7w8YxNw-z6AwcFw-6XEZCOqKl0noSoWm1lG78fRNhHtPK0PwtuCq0kdbU3iK2yr4TOPcgQ0AT2emmZyr20zpjC4KuL6sajXapK6rDTUI_SIPtX-GFKu5-gVqNO0bala8vc5Mx",
-   "https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fresearchtools%2Fmeta-content-library&h=AUAsVspEqRYt79aZrlZ8xvnv_eyxgvrxcIF8NOlRXBQ5ycE22mUOpmJWQskFTPDup-IwyQ7Ohr_SBMepnQeaWVAdtWV76WoQd4ixzKMUecBdy01AOsl2d_hwYPfyK5Na527N8q1erH1L6enY",
-   "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AUD2RIvReZ-gS2ks_dcCIQPAYgFe4pPyQydgvV4lwvy4SjKbsKlv7wTofWgVgxfWywfGHTX85MX3ctnx3231avtoKIHt2WSSyS1XWF4lGL9Z9CHsay6-z-M6BLZ9RcOG3k0ulGurl2rDjrmU",
-   "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2Fareas-of-work%2Fresearch%2F%3Fp%5Bteams%5D%5B0%5D%3DResearch%26teams%5B0%5D%3DResearch&h=AUBTIihuXbdpBrYQTysngU-VZ1TfYYQ-VPftKpi3qDeeOJZlc4MxTudUmSukQeRmtkR-u41mP7UciPBS4Qu_6BmH7IUdUWbFioMMwUzKwBqmoUHGB83QE6vtUaVey9g72envj6CmKhfMqi-m",
-   "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2Fareas-of-work%2Fresearch%2F%3Fp%5Bteams%5D%5B0%5D%3DResearch%26teams%5B0%5D%3DResearch&h=AUDKjIV4ye6zP4Gbl-jlvJTrUuVTHMqsZxMkhXXf6uPAfXDsSxu4HEpZEM7Eq52NMnCPZWg8JrBIdhI3aO1-n3TvKFqt7HfvXjTPwgdea0jfJi41_ZcxnY3AR7UGwrC_SOUHqKVhWzoy-4Jh",
+   "https://l.facebook.com/l.php?u=https%3A%2F%2Fengineering.fb.com%2F&h=AUDxY4m3CQGn2bS_kZ0AAseJpEs8jhBZgsIES2lUuunQOPjGH1RA63Yo7PEddiWlvg718wfBrsPspCKeu_op9do9JCTbjyT1b3pWECXljFBOZFFDqmXERJFqfU5kMpi9Jz8DgApUzbvdTBLJ",
+   "https://l.facebook.com/l.php?u=https%3A%2F%2Ffort.fb.com%2Fresearcher-datasets&h=AUCV8EL2LUE68RAH7timL-BWoCsnqiNAbCOYyj05e8WbgUP9auUA2JWo5kq25GmwjrXkAmU58oY5VKH8h5LSH8YW1ZSWk9vqxW2rgSIJVPn57bayITglC_emVulqWLA4DqTRUufnzFSL_BdS",
+   "https://l.facebook.com/l.php?u=https%3A%2F%2Ftech.fb.com%2F&h=AUAfnU5NHJMasIDGTlqywHPsUwHsqGAk_iICWYdFX6OIJN40izSmcYV5ctR-dA5fJmrjXcyRpa_RBdlMqgijTy-epmp3XKFlow9ks1zaJOHzfgOym6a3JL1azZj6kEhX17WhHZfdrfGKsNFN",
+   "https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fresearchtools%2Fmeta-content-library&h=AUBhVWnTjz2vvkVNRs2OpBvPx-jiP6ZJ7ejcqnAZ3b1lmAZRAXpiJuDuMmMo7H637DYIDu80ez98sG3Rfd9LRIiMYq5NxyYo1taPNEgATqvDNldbl6NPcCFQV8VFAy4OMCj2qW9GGdcBx6p0",
+   "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AUB8SkWcyN-SxIEsXnCS21NKKGmo7vLlNSIiR6TAiPf--P4C9L7WjMg66-2OlOeT49Hph5JMBWNSaltA7yuccLTSEjQkzoeP4mNWgg5CF-D6oIzJLYC7dcphZLbRyhZOQOV6icPyMVeFV-LB",
+   "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2Fareas-of-work%2Fresearch%2F%3Fp%5Bteams%5D%5B0%5D%3DResearch%26teams%5B0%5D%3DResearch&h=AUB_dnZY43zC3aFY2j5c4Ehjdp2zIVhYt5Dj9NkAvzFJEMuxgP6o2gFMzj8VLVdzuosunfy20ps3ClLPP7-ttZx9p-KctLJ6jzfw6jKWboRtT2O9aRN0_Q1hfkwK0MFA08L1tkJ-SUIqOd2A",
+   "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2Fareas-of-work%2Fresearch%2F%3Fp%5Bteams%5D%5B0%5D%3DResearch%26teams%5B0%5D%3DResearch&h=AUC0Ym8b7fhS6GlToegPqScTGWy8KOaF_p_gBDZmXihwyADd4dTFJJ3kN7Urwdp9Jwg3RSEx-1KUvziGUY9G13jAQM0oS8DP6VumSPYhyDnlmplcn2AWyUstifvtp4L8VA3dCZd8bTTPPJLP",
    "https://oculus.com/blog/",
    "https://research.facebook.com/",
    "https://research.facebook.com/blog",
@@ -1575,9 +1575,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='research.facebook.com', port=443): Max retries exceeded with url: /research-awards/ (Caused by NameResolutionError(\"HTTPSConnection(host='research.facebook.com', port=443): F"
  },
  "meta-llama-ai-innovation-llama-impact-grants": {
-  "last_checked": "2026-11-21T18:31:13",
+  "last_checked": "2026-11-22T18:54:03",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:13",
+  "last_ok": "2026-11-22T18:54:03",
   "hash": "617cf68a0881762c0db34ca87d4604eca3980193b0200a342a87210f9bceb044",
   "links": [
    "https://about.fb.com/news/2024/10/meta-hugging-face-and-scaleway-unveil-the-5-winners-of-the-european-ai-startup-program-at-station-f/",
@@ -1671,9 +1671,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='dev.meta.ai', port=443): Max retries exceeded with url: /llama/llama-ai-innovation/ (Caused by NameResolutionError(\"HTTPSConnection(host='dev.meta.ai', port=443): Failed to r"
  },
  "microsoft-ai-for-good-lab-open-call": {
-  "last_checked": "2026-11-21T18:31:14",
+  "last_checked": "2026-11-22T18:54:05",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:14",
+  "last_ok": "2026-11-22T18:54:05",
   "hash": "bc4279d314604b811722c0c203c5df20fae74c2329f6f7f287668a73d84eea36",
   "links": [
    "https://about.ads.microsoft.com/en-us?s_cid=dig-src_uhfcomm",
@@ -1818,9 +1818,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.microsoft.com', port=443): Max retries exceeded with url: /en-us/research/academic-program/ai-for-good-lab-open-call/ (Caused by NameResolutionError(\"HTTPSConnection(host"
  },
  "microsoft-azure-for-academic-research-credits-cont": {
-  "last_checked": "2026-11-21T18:31:16",
+  "last_checked": "2026-11-22T18:54:06",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:16",
+  "last_ok": "2026-11-22T18:54:06",
   "hash": "9bea09df279377d57dc38846b9e926c7c2946e975e9db554365a35720f2423d6",
   "links": [
    "https://account.microsoft.com/",
@@ -1922,9 +1922,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.microsoft.com', port=443): Max retries exceeded with url: /en-us/azure-academic-research/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.microsoft.com', port=4"
  },
  "nvidia-academic-grant-program": {
-  "last_checked": "2026-11-21T18:31:17",
+  "last_checked": "2026-11-22T18:54:07",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:17",
+  "last_ok": "2026-11-22T18:54:07",
   "hash": "77fb25398c704b4ae6dde639442f3cdac26fbd90ec7f6a35e9e9285f15d38584",
   "links": [
    "http://ai.nvidia.com",
@@ -2115,9 +2115,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.nvidia.com', port=443): Max retries exceeded with url: /en-us/industries/higher-education-research/academic-grant-program/ (Caused by NameResolutionError(\"HTTPSConnection"
  },
  "ibm-ibm-sustainability-accelerator": {
-  "last_checked": "2026-11-21T18:31:19",
+  "last_checked": "2026-11-22T18:54:10",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:19",
+  "last_ok": "2026-11-22T18:54:10",
   "hash": "7730caa527f14d1c85a472ea3ad45e5185b815173175cba9c7b8bb94d3e01bb9",
   "links": [
    "https://blogs.worldbank.org/en/voices/we-can-do-more-help-countries-deal-climate-disasters",
@@ -2142,9 +2142,9 @@
   "last_error": "HTTP 403"
  },
  "anthropic-claude-for-nonprofits": {
-  "last_checked": "2026-11-21T18:31:20",
+  "last_checked": "2026-11-22T18:54:11",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:20",
+  "last_ok": "2026-11-22T18:54:11",
   "hash": "f545fea9d87fcbb1c77cb13031166118272a4ecd38df03e19fe3286b84927f31",
   "links": [
    "https://academy.claude.com/",
@@ -2274,9 +2274,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='claude.com', port=443): Max retries exceeded with url: /solutions/nonprofits (Caused by NameResolutionError(\"HTTPSConnection(host='claude.com', port=443): Failed to resolve '"
  },
  "esri-esri-nonprofit-program": {
-  "last_checked": "2026-11-21T18:31:21",
+  "last_checked": "2026-11-22T18:54:12",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:21",
+  "last_ok": "2026-11-22T18:54:12",
   "hash": "ebf6c99b6a14cbbb593e9a3790241ff192dca2e5cd01e41b29adf2913e4fa5e1",
   "links": [
    "https://app.ngok.techsoup.org/Default.aspx?vendorAppId=06b0c7d4-075c-458f-a5b7-d2b1409ffd9d",
@@ -2304,9 +2304,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.esri.com', port=443): Max retries exceeded with url: /en-us/industries/nonprofit/nonprofit-program (Caused by NameResolutionError(\"HTTPSConnection(host='www.esri.com', po"
  },
  "planet-planet-science-nonprofit-programs": {
-  "last_checked": "2026-11-21T18:31:23",
+  "last_checked": "2026-11-22T18:54:13",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:23",
+  "last_ok": "2026-11-22T18:54:13",
   "hash": "7f03d8a1c6b7ea20e70962750ff839768b8eaa30b4b6388c0b47a3ecb95bd1f5",
   "links": [
    "http://community.planet.com/",
@@ -2425,9 +2425,9 @@
   "last_error": "ReadTimeout: HTTPSConnectionPool(host='www.planet.com', port=443): Read timed out. (read timeout=30)"
  },
  "idrc-idrc-funding-calls": {
-  "last_checked": "2026-11-21T18:31:24",
+  "last_checked": "2026-11-22T18:54:15",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:24",
+  "last_ok": "2026-11-22T18:54:15",
   "hash": "fa50c0ccfc58ca7557c1a2a56bfb6208c8069484cacab622efb630755634bafd",
   "links": [
    "https://idl-bnc-idrc.dspacedirect.org/?locale-attribute=en",
@@ -2496,9 +2496,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='idrc-crdi.ca', port=443): Max retries exceeded with url: /en/funding (Caused by NameResolutionError(\"HTTPSConnection(host='idrc-crdi.ca', port=443): Failed to resolve 'idrc-c"
  },
  "jst-satreps-call-announcements": {
-  "last_checked": "2026-11-21T18:31:26",
+  "last_checked": "2026-11-22T18:54:17",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:26",
+  "last_ok": "2026-11-22T18:54:17",
   "hash": "b0af03ee77949b4db34d40c73067dfff03af13a9feacfad52949c3b559700e44",
   "links": [
    "https://form2.jst.go.jp/s/satreps_question",
@@ -2551,9 +2551,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.jst.go.jp', port=443): Max retries exceeded with url: /global/english/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.jst.go.jp', port=443): Failed to resolve "
  },
  "jsps-invitational-fellowships-application": {
-  "last_checked": "2026-11-21T18:31:27",
+  "last_checked": "2026-11-22T18:54:18",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:27",
+  "last_ok": "2026-11-22T18:54:18",
   "hash": "c70957ca6b320b2bb04decef3103e019185b2f31477bd98597998a6f37db1355",
   "links": [
    "https://warp.ndl.go.jp/info:ndljp/pid/12354299/www.jsps.go.jp/english/e-inv/index.html",
@@ -2633,10 +2633,10 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.jsps.go.jp', port=443): Max retries exceeded with url: /english/e-inv/application/index.html (Caused by NameResolutionError(\"HTTPSConnection(host='www.jsps.go.jp', port=4"
  },
  "nasa-roses-solicitations-sara": {
-  "last_checked": "2026-11-21T18:31:29",
+  "last_checked": "2026-11-22T18:54:19",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:29",
-  "hash": "5131380ef6e70ead2d357b5a025e30ed89a5cae4549a48167cf757ef90d1e5c4",
+  "last_ok": "2026-11-22T18:54:19",
+  "hash": "73e91e703f8f393b08dee446aa1f80e0694ca7e03c65deaa645ab16f61da9b90",
   "links": [
    "http://oig.nasa.gov/",
    "https://assets.science.nasa.gov/content/dam/science/cds/researchers/library-and-useful-links/2025/How_to_Subscribe_to_the_ROSES-2025_Due_Date_Calendars-tagged.pdf",
@@ -2873,9 +2873,9 @@
   "last_error": "ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
  },
  "minciencias-convocatorias-minciencias": {
-  "last_checked": "2026-11-21T18:31:31",
+  "last_checked": "2026-11-22T18:54:22",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:31",
+  "last_ok": "2026-11-22T18:54:22",
   "hash": "8531f2c510dabdf278478a05fb727490ca48c204486a2e45e5d6f3b65b1d9ae1",
   "links": [
    "https://minciencias.gov.co/atencion-al-ciudadano",
@@ -3001,9 +3001,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.minciencias.gov.co', port=443): Max retries exceeded with url: /convocatorias/todas (Caused by NameResolutionError(\"HTTPSConnection(host='www.minciencias.gov.co', port=44"
  },
  "minciencias-plan-de-convocatorias-actei-2025-2026": {
-  "last_checked": "2026-11-21T18:31:32",
+  "last_checked": "2026-11-22T18:54:23",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:32",
+  "last_ok": "2026-11-22T18:54:23",
   "hash": "b9142491af728ba098a9537f7a23f0fa261ed2fb69f604998c4c742ac0e05926",
   "links": [
    "https://minciencias.gov.co/",
@@ -3136,9 +3136,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='minciencias.gov.co', port=443): Max retries exceeded with url: /plan-convocatorias-actei-2025-2026-0 (Caused by NameResolutionError(\"HTTPSConnection(host='minciencias.gov.co'"
  },
  "fapesp-calls-for-proposals-2026": {
-  "last_checked": "2026-11-21T18:31:34",
+  "last_checked": "2026-11-22T18:54:25",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:34",
+  "last_ok": "2026-11-22T18:54:25",
   "hash": "60755ca94acbaf8e8258f7dcb40fd5bf8fd48caf836ac85a9a5dc28c5442981b",
   "links": [
    "http://agencia.fapesp.br/en/",
@@ -3300,9 +3300,9 @@
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='fapesp.br', port=443): Max retries exceeded with url: /en/17334/call-for-proposals-2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='fapesp.br', port=443) at 0x1d967"
  },
  "grand-challenges-canada-apply-for-funding": {
-  "last_checked": "2026-11-21T18:31:35",
+  "last_checked": "2026-11-22T18:54:25",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:35",
+  "last_ok": "2026-11-22T18:54:25",
   "hash": "ca04e9706542e0b52b382775cfdbd03a9c631fdede5a015ec9176f6534ae8f3f",
   "links": [
    "http://www.beinginitiative.org/",
@@ -3353,9 +3353,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.grandchallenges.ca', port=443): Max retries exceeded with url: /apply-for-funding/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.grandchallenges.ca', port=443"
  },
  "nsfc-nsfc-international-cooperation-guides": {
-  "last_checked": "2026-11-21T18:31:37",
+  "last_checked": "2026-11-22T18:54:28",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:37",
+  "last_ok": "2026-11-22T18:54:28",
   "hash": "57b2a03e8f6b1f1ae873218df4592a4d6044399a3f6de8ccb581c507cf87709b",
   "links": [
    "http://grants.nsfc.gov.cn/egrantweb/help-center?nTabs=fzr",
@@ -3507,9 +3507,9 @@
   "last_error": "SSLError: HTTPSConnectionPool(host='www.nsfc.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: una"
  },
  "usda-fas-borlaug-fellowship-program-grants-gov": {
-  "last_checked": "2026-11-21T18:31:38",
+  "last_checked": "2026-11-22T18:54:29",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:38",
+  "last_ok": "2026-11-22T18:54:29",
   "hash": "8ce776b962bd119b3f8267a143306dab833dba27a495079265054c48732e588f",
   "links": [
    "https://files.simpler.grants.gov/opportunities/bd5eb2ec-d0c0-4137-b0f2-185f37785dee/attachments/1039d67f-e9bd-4f4c-b4ca-5ef995806c2b/FY26_BFP_NOFO_FINAL.pdf",
@@ -3549,9 +3549,9 @@
   "last_error": "HTTP 403"
  },
  "secihti-mexico-convocatorias-secihti": {
-  "last_checked": "2026-11-21T18:31:40",
+  "last_checked": "2026-11-22T18:54:30",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:40",
+  "last_ok": "2026-11-22T18:54:30",
   "hash": "c37a978db4fabfbb0f33a2cd988329f8ff3641749c853229508db559c44267df",
   "links": [
    "http://outlook.com/owa/secihiti.mx",
@@ -3611,9 +3611,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='secihti.mx', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='secihti.mx', port=443): Failed to resolve 'secihti.mx' ([Errno "
  },
  "green-climate-fund-cgiar-system-organization-accre": {
-  "last_checked": "2026-11-21T18:31:41",
+  "last_checked": "2026-11-22T18:54:31",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:41",
+  "last_ok": "2026-11-22T18:54:31",
   "hash": "a73a1e1473eb6d63f6abcca390f8f3fd5f66f01c70bf70b637d8a87466f64f3c",
   "links": [
    "https://apps.gcfund.org",
@@ -3728,9 +3728,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.greenclimate.fund', port=443): Max retries exceeded with url: /partners/accredited-entities/cgiar (Caused by NameResolutionError(\"HTTPSConnection(host='www.greenclimate.f"
  },
  "green-climate-fund-readiness-and-preparatory-suppo": {
-  "last_checked": "2026-11-21T18:31:42",
+  "last_checked": "2026-11-22T18:54:33",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:42",
+  "last_ok": "2026-11-22T18:54:33",
   "hash": "2c7dcbe9762eb200c4e1b523843ae44cd3b1ec54dc5e18f56a5ed81bf39973be",
   "links": [
    "https://apps.gcfund.org",
@@ -3847,9 +3847,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.greenclimate.fund', port=443): Max retries exceeded with url: /access-funding/readiness-preparatory-support (Caused by NameResolutionError(\"HTTPSConnection(host='www.gree"
  },
  "adaptation-fund-apply-for-funding-innovation-lla-w": {
-  "last_checked": "2026-11-21T18:31:44",
+  "last_checked": "2026-11-22T18:54:34",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:44",
+  "last_ok": "2026-11-22T18:54:34",
   "hash": "a474b424caed0b4305101dd1d6c389927fccc6b95d54e5b9657895fc9f6ec7f8",
   "links": [
    "https://act.unfoundation.org/onlineactions/ql-Plvl-8UyPnR2kZ52-XQ2",
@@ -4000,8 +4000,8 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.adaptation-fund.org', port=443): Max retries exceeded with url: /apply-funding/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.adaptation-fund.org', port=443):"
  },
  "wfp-innovation-accelerator-adaptation-fund-adaptat": {
-  "last_checked": "2026-11-21T18:31:46",
-  "failures": 11,
+  "last_checked": "2026-11-22T18:54:36",
+  "failures": 12,
   "last_ok": "2026-11-05T07:36:36",
   "hash": "2ddb8514a77f8433b5d5e9345339f6e25e1dff83860d53fd6ccf3b445c2a8d27",
   "links": [
@@ -4047,9 +4047,9 @@
   "last_error": "HTTP 403"
  },
  "un-ctcn-unep-adaptation-fund-afcia-technical-assis": {
-  "last_checked": "2026-11-21T18:31:47",
+  "last_checked": "2026-11-22T18:54:38",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:47",
+  "last_ok": "2026-11-22T18:54:38",
   "hash": "0a271486d25764b5403691097d3776f116a81f0a17f33395653591a2ea438c6b",
   "links": [
    "https://forms.microsoft.com/e/mJ1XfUsd02",
@@ -4078,8 +4078,8 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.ctc-n.org', port=443): Max retries exceeded with url: /whats-happening/events/climate-adaptation-innovation-latin-america-and-caribbean (Caused by NameResolutionError(\"HT"
  },
  "wfp-wfp-innovation-apply": {
-  "last_checked": "2026-11-21T18:31:48",
-  "failures": 11,
+  "last_checked": "2026-11-22T18:54:39",
+  "failures": 12,
   "last_ok": "2026-11-05T07:36:38",
   "hash": "de7e9f9d773e3164876489d9271b03695cbd4cf29d1911ca8818f92ca23e33fd",
   "links": [
@@ -4102,9 +4102,9 @@
   "last_error": "HTTP 403"
  },
  "gef-gef-council-meetings-work-programs": {
-  "last_checked": "2026-11-21T18:31:50",
+  "last_checked": "2026-11-22T18:54:40",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:50",
+  "last_ok": "2026-11-22T18:54:40",
   "hash": "efe92d6e317910c79ccc1f5d50614018a8d83fc99506744b3d6cac7e46b6e73a",
   "links": [
    "https://gefportal.worldbank.org",
@@ -4345,9 +4345,9 @@
   "last_error": "HTTP 403"
  },
  "inter-american-development-bank-idb-lab-idb-calls": {
-  "last_checked": "2026-11-21T18:31:52",
+  "last_checked": "2026-11-22T18:54:42",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:52",
+  "last_ok": "2026-11-22T18:54:42",
   "hash": "d0b1f5c88d752262a031e0b62288751088169e283988bcf7a24601a54e32ebdd",
   "links": [
    "https://events.iadb.org/calendar/?lang=en",
@@ -4399,9 +4399,9 @@
   "last_error": "HTTP 503"
  },
  "fontagro-idb-iica-fontagro-annual-call": {
-  "last_checked": "2026-11-21T18:31:53",
+  "last_checked": "2026-11-22T18:54:43",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:53",
+  "last_ok": "2026-11-22T18:54:43",
   "hash": "155c8ddab30dc92bc3e10aeeccdf58e816ee999ba6e1e7b17a7d91838c526cb2",
   "links": [
    "https://fontagro.org/en/alianzas",
@@ -4434,10 +4434,10 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='fontagro.org', port=443): Max retries exceeded with url: /en/iniciativas/convocatorias/convocatoria-2026 (Caused by NameResolutionError(\"HTTPSConnection(host='fontagro.org', "
  },
  "itu-ai-for-good-geoai-challenge-ai-for-climate-inn": {
-  "last_checked": "2026-11-21T18:31:56",
+  "last_checked": "2026-11-22T18:54:46",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:56",
-  "hash": "c4451f6c5a9efdd89bc68c27a1db4955d5f31754b50e0becfa7bc4430c6e164b",
+  "last_ok": "2026-11-22T18:54:46",
+  "hash": "e8d7ffef533dcf96a2724261e49188e1495af8d3466a6ff2b808be0fc69ce7f3",
   "links": [
    "https://2027summit.aiforgood.itu.int/",
    "https://2027summit.aiforgood.itu.int/passes",
@@ -4479,11 +4479,11 @@
    "https://aiforgood.itu.int/engage/",
    "https://aiforgood.itu.int/engage/sponsor/",
    "https://aiforgood.itu.int/event/ai-for-good-innovation-factory-2026-live-pitching-session/",
+   "https://aiforgood.itu.int/event/ai-for-good-sandbox-hackathon-united-arab-emirates/",
    "https://aiforgood.itu.int/event/an-agentic-platform-for-earth-intelligence-earth-virtual-experts-community-driven-model-context-protocol-registry/",
    "https://aiforgood.itu.int/event/geogpt-multimodal-ai-for-earth-data-analysis-and-sustainable-development/",
    "https://aiforgood.itu.int/event/introduction-to-terratorch/",
    "https://aiforgood.itu.int/event/launch-of-2026-itu-geoai-challenge-reaching-new-heights-with-geofm-embeddings/",
-   "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-korea-2027/",
    "https://aiforgood.itu.int/event/trust-in-action-putting-context-and-control-to-work/",
    "https://aiforgood.itu.int/eventcat/discovery-geoai/",
    "https://aiforgood.itu.int/from-discovery-to-delivery-how-ai-is-reshaping-the-pharmaceutical-value-chain/",
@@ -4539,9 +4539,9 @@
   "last_error": "HTTP 403"
  },
  "world-bank-global-data-facility": {
-  "last_checked": "2026-11-21T18:31:56",
+  "last_checked": "2026-11-22T18:54:47",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:56",
+  "last_ok": "2026-11-22T18:54:47",
   "hash": "bd3cc84e2314eaa1a8908ebf1a58cbeddfd7b0f7bc95e4935bc30faf650440b8",
   "links": [
    "https://blogs.worldbank.org/team/maria-gabriela-tercero-gomez",
@@ -4575,10 +4575,10 @@
   "last_error": "HTTP 403"
  },
  "climate-investment-funds-cif-news-calls-for-expres": {
-  "last_checked": "2026-11-21T18:31:58",
+  "last_checked": "2026-11-22T18:54:52",
   "failures": 0,
-  "last_ok": "2026-11-21T18:31:58",
-  "hash": "b92fa30ab6300ab70ffe95c4ca4356f4a896ddb0157df31425e1bb20741fa93b",
+  "last_ok": "2026-11-22T18:54:52",
+  "hash": "3a20f569d70680dde25811daf66c6da98ccaa75ec2e6ddf38fb63d719513abee",
   "links": [
    "https://www.cif.org/contact-us",
    "https://www.cif.org/disclaimer",
@@ -4603,7 +4603,6 @@
    "https://www.cif.org/news/our-clean-technology-fund-accelerator-energy-systems-transformation",
    "https://www.cif.org/news/public-finance-rock-private-capital-ripples",
    "https://www.cif.org/news/turkiyes-ambitions-cop31-are-anchored-pioneering-efforts-home",
-   "https://www.cif.org/news/united-kingdom-backs-climate-investment-funds-amplifi-unlock-private-finance-clean-energy",
    "https://www.cif.org/translation-disclaimer",
    "https://www.facebook.com/CIFaction/",
    "https://www.flickr.com/photos/cifaction/",
@@ -4616,9 +4615,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.cif.org', port=443): Max retries exceeded with url: /news (Caused by NameResolutionError(\"HTTPSConnection(host='www.cif.org', port=443): Failed to resolve 'www.cif.org' ("
  },
  "soff-wmo-undp-unep-soff-access": {
-  "last_checked": "2026-11-21T18:32:00",
+  "last_checked": "2026-11-22T18:54:53",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:00",
+  "last_ok": "2026-11-22T18:54:53",
   "hash": "3a665b04a2e694bec78146ff282d9e74884bfa39fc58f16ef9a949685dd5c9fe",
   "links": [
    "https://earlywarningsforall.org",
@@ -4682,9 +4681,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.un-soff.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.un-soff.org', port=443): Failed to resolve 'www.un-sof"
  },
  "fontagro-convocatorias-listing-incl-convocatoria-2": {
-  "last_checked": "2026-11-21T18:32:01",
+  "last_checked": "2026-11-22T18:54:54",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:01",
+  "last_ok": "2026-11-22T18:54:54",
   "hash": "3f647fb2792020426ce922dd827fb9495b7b13b8245247ac7d45886f8f254bac",
   "links": [
    "https://fontagro.org/en/alianzas",
@@ -4726,9 +4725,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='fontagro.org', port=443): Max retries exceeded with url: /en/iniciativas/convocatorias/ (Caused by NameResolutionError(\"HTTPSConnection(host='fontagro.org', port=443): Failed"
  },
  "fontagro-news": {
-  "last_checked": "2026-11-21T18:32:02",
+  "last_checked": "2026-11-22T18:54:55",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:02",
+  "last_ok": "2026-11-22T18:54:55",
   "hash": "1f141900eb5058d0c5a94b67977876cdc81163e815c06dd3849f6c3831d461c9",
   "links": [
    "https://fontagro.org/es/alianzas",
@@ -4750,9 +4749,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='fontagro.org', port=443): Max retries exceeded with url: /es/noticias (Caused by NameResolutionError(\"HTTPSConnection(host='fontagro.org', port=443): Failed to resolve 'fonta"
  },
  "apn-calls-for-proposals": {
-  "last_checked": "2026-11-21T18:32:05",
+  "last_checked": "2026-11-22T18:54:57",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:05",
+  "last_ok": "2026-11-22T18:54:57",
   "hash": "36ff6989d6d78e61f984f8c691fa99fb89489660303716bebc69db435e0aed3a",
   "links": [
    "https://donate.apn-gcr.org/",
@@ -4814,9 +4813,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.apn-gcr.org', port=443): Max retries exceeded with url: /opportunities/calls-for-proposals/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.apn-gcr.org', port=4"
  },
  "inter-american-institute-for-global-change-researc": {
-  "last_checked": "2026-11-21T18:32:05",
+  "last_checked": "2026-11-22T18:54:58",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:05",
+  "last_ok": "2026-11-22T18:54:58",
   "hash": "345fff1cf80d8241f1864e5ee27861be5e9b3df9fedcf278a3062eb1c1a7be73",
   "links": [
    "http://iai.int/pdf/en/iai-open-data-policy-e.pdf",
@@ -4863,9 +4862,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.iai.int', port=443): Max retries exceeded with url: /en/post/detail/Call-for-applicants (Caused by NameResolutionError(\"HTTPSConnection(host='www.iai.int', port=443): Fai"
  },
  "iai-seed-grant-programme": {
-  "last_checked": "2026-11-21T18:32:07",
+  "last_checked": "2026-11-22T18:55:00",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:07",
+  "last_ok": "2026-11-22T18:55:00",
   "hash": "b76b59d1f135d65d2b1c58185db0f894a486d3400e43bda300bdb57b2dc6fdbe",
   "links": [
    "http://iai.int/pdf/en/iai-open-data-policy-e.pdf",
@@ -4929,9 +4928,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.iai.int', port=443): Max retries exceeded with url: /en/capacity-building/seed-grant (Caused by NameResolutionError(\"HTTPSConnection(host='www.iai.int', port=443): Failed"
  },
  "geo-mountains-geo-work-programme-mri-cnr-isac-sdc": {
-  "last_checked": "2026-11-21T18:32:10",
+  "last_checked": "2026-11-22T18:55:06",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:10",
+  "last_ok": "2026-11-22T18:55:06",
   "hash": "9a14be20e2500243183d6b74c384783b8e8eadd31cf4c8f08a37c8aa7cd157b3",
   "links": [
    "http://www.mountainresearchinitiative.org",
@@ -5019,9 +5018,9 @@
   "last_error": "HTTP 503"
  },
  "group-on-earth-observations-geo-get-involved-event": {
-  "last_checked": "2026-11-21T18:32:11",
+  "last_checked": "2026-11-22T18:55:07",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:11",
+  "last_ok": "2026-11-22T18:55:07",
   "hash": "56eb160deac1fd3f056218fc73db6ed93c688a140774a9fba178910e0b97690b",
   "links": [
    "https://earthobservations.org/",
@@ -5086,9 +5085,9 @@
   "last_error": "HTTP 403"
  },
  "cgiar-iaes-spia-iaes-news-and-calls": {
-  "last_checked": "2026-11-21T18:32:12",
+  "last_checked": "2026-11-22T18:55:08",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:12",
+  "last_ok": "2026-11-22T18:55:08",
   "hash": "cc87180b5c6660708fddd65104aae70cb5a0da5c240fe01b3c49000f1a2771c5",
   "links": [
    "https://iaes.cgiar.org/",
@@ -5173,9 +5172,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='iaes.cgiar.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='iaes.cgiar.org', port=443): Failed to resolve 'iaes.cgiar.o"
  },
  "cgiar-scaling-for-impact-program-page": {
-  "last_checked": "2026-11-21T18:32:14",
+  "last_checked": "2026-11-22T18:55:09",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:14",
+  "last_ok": "2026-11-22T18:55:09",
   "hash": "0e6932cc8a4ac485b7750a38cafa52e9e2bdc3a0c3f90d7d8dc788dfc5676cec",
   "links": [
    "https://alliancebioversityciat.org/",
@@ -5439,16 +5438,16 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.cgiar.org', port=443): Max retries exceeded with url: /cgiar-research-portfolio-2025-2030/scaling-impact (Caused by NameResolutionError(\"HTTPSConnection(host='www.cgiar.o"
  },
  "global-research-alliance-on-agricultural-ghgs-clif": {
-  "last_checked": "2026-11-21T18:32:23",
+  "last_checked": "2026-11-22T18:55:16",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:23",
+  "last_ok": "2026-11-22T18:55:16",
   "hash": "906818b1936e807deaf3b731961c1c319a3420b3e306f13a7a275b359651543f",
   "links": [
    "http://www.blacksheepdesign.co.nz",
    "https://confirmsubscription.com/h/d/A3031E9B310D0BFA",
    "https://globalresearchalliance.org/about/",
    "https://globalresearchalliance.org/awards-and-fellowships",
-   "https://globalresearchalliance.org/cdn-cgi/l/email-protection#9ebba9adfbbba8adecfbbba9aab8bda7a9a5bba9acf7ffbba9aab8bda8aaa5bba8a9bba8fdb8bdafafafa5b8bda7a6a5ffb8bdafaea6a5ecbba8abb8bdafafaba5bba8abbba8afb8bdafafaaa5fdb8bdafaeaaa5bba8afb8bdafaea6a5f2b8bdafaeaba5ffbba8fbb8bda7a7a5fbb8bdaaa8a5b8bdafafafa5ecbba8a9",
+   "https://globalresearchalliance.org/cdn-cgi/l/email-protection#f586d0c3c09687d0c3c0d3d6c4c4c3ced3d6ccc2ced3d6c4c4c1ced3d6c4c5c0ced0c3c4d3d6c4c4c3ced3d6c3c1ce92999a9794d3d6c4c5cdced3d6c4c4c1ce90d0c2c6d3d6c4c5c4ced0c3c4d3d6c4c4c1ced0c3c6d3d6c4c5c1ced3d6ccc2ced3d6c4c5cdce999c94d0c3909690db9ad0c2c7d0c3c2",
    "https://globalresearchalliance.org/community/",
    "https://globalresearchalliance.org/e-learning",
    "https://globalresearchalliance.org/events",
@@ -5469,9 +5468,9 @@
   "last_error": "ChunkedEncodingError: Response ended prematurely"
  },
  "climatelaunchpad-climate-kic-colombia-country-page": {
-  "last_checked": "2026-11-21T18:32:23",
+  "last_checked": "2026-11-22T18:55:17",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:23",
+  "last_ok": "2026-11-22T18:55:17",
   "hash": "f5163f18a29f2145dc49507d6ab5a0da7e929af75f92e8909ae4a40e44d3e26c",
   "links": [
    "https://climatelaunchpad.org/about-climatelaunchpad/",
@@ -5503,9 +5502,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='africa.ai4d.ai', port=443): Max retries exceeded with url: /calls/ (Caused by NameResolutionError(\"HTTPSConnection(host='africa.ai4d.ai', port=443): Failed to resolve 'africa"
  },
  "nsfc-nsfc-project-guide-notices": {
-  "last_checked": "2026-11-21T18:32:25",
+  "last_checked": "2026-11-22T18:55:19",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:25",
+  "last_ok": "2026-11-22T18:55:19",
   "hash": "921ddbec54339101bb3c28cbd69cf1d4dbf1de870eb6fe731d72d34756bf50fb",
   "links": [
    "https://www.nsfc.gov.cn/",
@@ -5544,9 +5543,9 @@
   "last_error": "SSLError: HTTPSConnectionPool(host='www.nsfc.gov.cn', port=443): Max retries exceeded with url: /p1/3381/2824/zntg.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certific"
  },
  "nsfc-nsfc-english-international-cooperation": {
-  "last_checked": "2026-11-21T18:32:26",
+  "last_checked": "2026-11-22T18:55:20",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:26",
+  "last_ok": "2026-11-22T18:55:20",
   "hash": "93c4992b8abb57532e110d2e2e78e61eec966e4054ff728a1a7d5144051d1899",
   "links": [
    "https://www.nsfc.gov.cn/english/site_1/about/10.html",
@@ -5572,9 +5571,9 @@
   "last_error": "SSLError: HTTPSConnectionPool(host='www.nsfc.gov.cn', port=443): Max retries exceeded with url: /english/site_1/international/D6/2026/01-20/502.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
  },
  "kunming-biodiversity-fund-unep-kbf-page": {
-  "last_checked": "2026-11-21T18:32:28",
+  "last_checked": "2026-11-22T18:55:22",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:28",
+  "last_ok": "2026-11-22T18:55:22",
   "hash": "3620209a6104595182576be42ff7a293401fa8bd8cae8cb194fde714d4e02d46",
   "links": [
    "https://pixabay.com/users/pasja1000-6355831/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4183977",
@@ -5663,9 +5662,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.unep.org', port=443): Max retries exceeded with url: /topics/nature-action/kunming-biodiversity-fund-kbf (Caused by NameResolutionError(\"HTTPSConnection(host='www.unep.or"
  },
  "cas-pifi-portal": {
-  "last_checked": "2026-11-21T18:32:31",
+  "last_checked": "2026-11-22T18:55:24",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:31",
+  "last_ok": "2026-11-22T18:55:24",
   "hash": "35d810c4299bac0e5fb28f4655e20135ece7d49b9bf801bd7f0702b4d21c0294",
   "links": [
    "http://en.ustc.edu.cn",
@@ -5699,9 +5698,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='pifi.cas.cn', port=443): Max retries exceeded with url: /front/mobi/PIFI.html (Caused by NameResolutionError(\"HTTPSConnection(host='pifi.cas.cn', port=443): Failed to resolve"
  },
  "anso-anso-announcements-and-open-calls": {
-  "last_checked": "2026-11-21T18:32:33",
+  "last_checked": "2026-11-22T18:55:27",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:33",
+  "last_ok": "2026-11-22T18:55:27",
   "hash": "b381192b6135f762cdf24bd64920bb88b04703d162d18e3d1a233fe97b0078df",
   "links": [
    "https://www.anso.org.cn",
@@ -5749,9 +5748,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.anso.org.cn', port=443): Max retries exceeded with url: /Announcements/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.anso.org.cn', port=443): Failed to resol"
  },
  "cbas-cbas-news": {
-  "last_checked": "2026-11-21T18:32:36",
+  "last_checked": "2026-11-22T18:55:29",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:36",
+  "last_ok": "2026-11-22T18:55:29",
   "hash": "30a2a7db84dcff10750f89ccba75c1b8c64142b61f68a3161f31b23eec169239",
   "links": [
    "http://www.aircas.cas.cn/ways_nomination_form/",
@@ -5841,9 +5840,9 @@
   "last_error": "SSLError: HTTPSConnectionPool(host='tysp.cstec.org.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: c"
  },
  "most-national-s-t-management-information-system": {
-  "last_checked": "2026-11-21T18:32:37",
+  "last_checked": "2026-11-22T18:55:31",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:37",
+  "last_ok": "2026-11-22T18:55:31",
   "hash": "fd0b2b66cfa5e10ec32a64cbb6f40d06de8d0bae78502275ef851636a7d08053",
   "links": [
    "https://service.most.gov.cn/u/cms/static/202205/å¥åºä¸å®¶åºæ¬æ å_20220531223134.pdf",
@@ -5854,9 +5853,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='service.most.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='service.most.gov.cn', port=443): Failed to resolve 'se"
  },
  "fao-fao-china-south-south-cooperation-gateway": {
-  "last_checked": "2026-11-21T18:32:38",
+  "last_checked": "2026-11-22T18:55:32",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:38",
+  "last_ok": "2026-11-22T18:55:32",
   "hash": "5e4230a20c90ac6e63ebc6dd56c88c6c9fca6b87878ef5653d663d5e71cda8c4",
   "links": [
    "https://fao.org/contact-us/data-protection-and-privacy/en/",
@@ -5923,9 +5922,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.fao.org', port=443): Max retries exceeded with url: /sstc-gateway/topics/fao-china-ssc (Caused by NameResolutionError(\"HTTPSConnection(host='www.fao.org', port=443): Fail"
  },
  "corteva-agriscience-corteva-open-innovation-challe": {
-  "last_checked": "2026-11-21T18:32:39",
+  "last_checked": "2026-11-22T18:55:33",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:39",
+  "last_ok": "2026-11-22T18:55:33",
   "hash": "8e9d34d24bfdbd74707363bef9e657de07ac7b33eb1bbe29e8bdea566b344c52",
   "links": [
    "https://privacyrequest.us.corteva.com/",
@@ -5950,17 +5949,17 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='openinnovation.corteva.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='openinnovation.corteva.com', port=443): Failed "
  },
  "bayer-crop-science-bayer-crop-science-on-halo-gran": {
-  "last_checked": "2026-11-21T18:32:41",
+  "last_checked": "2026-11-22T18:55:34",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:41",
+  "last_ok": "2026-11-22T18:55:34",
   "hash": "60f7d311c6ecdf22cf415f9b4a3968e1ad756f1853cbb755ef67156c7e91f2f8",
   "links": [],
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.halo.science', port=443): Max retries exceeded with url: /company/bayer-crop-science (Caused by NameResolutionError(\"HTTPSConnection(host='www.halo.science', port=443): F"
  },
  "syngenta-group-shoots-by-syngenta-live-challenges": {
-  "last_checked": "2026-11-21T18:32:43",
+  "last_checked": "2026-11-22T18:55:36",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:43",
+  "last_ok": "2026-11-22T18:55:36",
   "hash": "34a51647bcdbb47258a9d74a17c48fd08d1c1a382ed71aa331736ccbe9683fd4",
   "links": [
    "https://shootsbysyngenta.com/",
@@ -5998,9 +5997,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.shootsbysyngenta.com', port=443): Max retries exceeded with url: /challenges (Caused by NameResolutionError(\"HTTPSConnection(host='www.shootsbysyngenta.com', port=443): F"
  },
  "world-coffee-research-wcr-news": {
-  "last_checked": "2026-11-21T18:32:44",
+  "last_checked": "2026-11-22T18:55:37",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:44",
+  "last_ok": "2026-11-22T18:55:37",
   "hash": "5ba3e1464ac8e27470ec2bdb0668edc2d713e70d4dbe8177cc7c34f45d736f9c",
   "links": [
    "https://cafeclima.worldcoffeeresearch.org/",
@@ -6041,9 +6040,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='worldcoffeeresearch.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='worldcoffeeresearch.org', port=443): Failed to res"
  },
  "idh-idh-news-latte-coffee-cocoa-landscapes": {
-  "last_checked": "2026-11-21T18:32:47",
+  "last_checked": "2026-11-22T18:55:41",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:47",
+  "last_ok": "2026-11-22T18:55:41",
   "hash": "00e41d7ef17d7817a5bfd5119612ccc595fac00625afb25d70b0d014cdc70130",
   "links": [
    "https://farmfitinsightshub.org/",
@@ -6115,9 +6114,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='idh.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='idh.org', port=443): Failed to resolve 'idh.org' ([Errno 11001] ge"
  },
  "ab-inbev-and-partners-100-accelerator-faq-cohort-c": {
-  "last_checked": "2026-11-21T18:32:47",
+  "last_checked": "2026-11-22T18:55:41",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:47",
+  "last_ok": "2026-11-22T18:55:41",
   "hash": "6e19eb75cf5f934d658af966958d54d5e03dad36dfa1926b8bc8da89641aeee4",
   "links": [
    "https://mailchi.mp/100accelerator/100-sing-up-page",
@@ -6134,14 +6133,14 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.100accelerator.com', port=443): Max retries exceeded with url: /faq (Caused by NameResolutionError(\"HTTPSConnection(host='www.100accelerator.com', port=443): Failed to re"
  },
  "ffar-agmission-corporate-co-funded-rfas-ffar-grant": {
-  "last_checked": "2026-11-21T18:32:49",
-  "failures": 20,
+  "last_checked": "2026-11-22T18:55:56",
+  "failures": 21,
   "last_error": "HTTP 404"
  },
  "axa-foundation-for-human-progress-calls-for-projec": {
-  "last_checked": "2026-11-21T18:32:51",
+  "last_checked": "2026-11-22T18:55:57",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:51",
+  "last_ok": "2026-11-22T18:55:57",
   "hash": "6d908608c2c316c097a3b0701fcbb837310f54d850753e31742279868ed85ad2",
   "links": [
    "https://axafoundation.org/en/about-foundation",
@@ -6176,9 +6175,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='axafoundation.org', port=443): Max retries exceeded with url: /en/calls-for-projects (Caused by NameResolutionError(\"HTTPSConnection(host='axafoundation.org', port=443): Fail"
  },
  "the-branco-weiss-fellowship-application-timelines": {
-  "last_checked": "2026-11-21T18:32:52",
+  "last_checked": "2026-11-22T18:55:58",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:52",
+  "last_ok": "2026-11-22T18:55:58",
   "hash": "7fac221357ab1c04c048a8bdf77927b6d0b066ab4e40aabdd44c6c8ab897ca70",
   "links": [
    "https://brancoweissfellowship.org/",
@@ -6216,16 +6215,16 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='brancoweissfellowship.org', port=443): Max retries exceeded with url: /who-should-apply/timelines/ (Caused by NameResolutionError(\"HTTPSConnection(host='brancoweissfellowship"
  },
  "novo-nordisk-foundation-east-africa-mission-food-s": {
-  "last_checked": "2026-11-21T18:32:55",
+  "last_checked": "2026-11-22T18:56:01",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:55",
+  "last_ok": "2026-11-22T18:56:01",
   "hash": "3bbc64c5c89c623a09c7a0ed166d164036e509c7d73c0c33faa523105ca8162a",
   "links": [
    "https://branding.novonordiskfonden.dk/",
    "https://novonordiskfonden.dk//app/uploads/202412-Novo-Nordisk-Foundation-Intellectual-Property-Policy-for-Stand-Alone-Grants.pdf",
    "https://novonordiskfonden.dk//app/uploads/Diversity-Policy.pdf",
    "https://novonordiskfonden.dk//app/uploads/NNF-Cookie-Policy.pdf",
-   "https://novonordiskfonden.dk/cdn-cgi/l/email-protection#127b7c747d527c7d647d7c7d60767b6179747d7c76777c3c7679",
+   "https://novonordiskfonden.dk/cdn-cgi/l/email-protection#3950575f567957564f5657564b5d504a525f56575d5c57175d52",
    "https://novonordiskfonden.dk/en/careers-and-jobs/",
    "https://novonordiskfonden.dk/en/committees",
    "https://novonordiskfonden.dk/en/electronic-invoicing/",
@@ -6292,24 +6291,24 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='novonordiskfonden.dk', port=443): Max retries exceeded with url: /en/who-we-are/east-africa/ (Caused by NameResolutionError(\"HTTPSConnection(host='novonordiskfonden.dk', port"
  },
  "noaa-grants-gov-search-api-noaa-baas-and-cpo-compe": {
-  "last_checked": "2026-11-21T18:32:55",
-  "failures": 20,
+  "last_checked": "2026-11-22T18:56:01",
+  "failures": 21,
   "last_error": "HTTP 403"
  },
  "noaa-climate-program-office-cpo-funding-opportunit": {
-  "last_checked": "2026-11-21T18:32:56",
-  "failures": 20,
+  "last_checked": "2026-11-22T18:56:02",
+  "failures": 21,
   "last_error": "HTTP 403"
  },
  "u-s-department-of-state-office-of-the-spokesman-re": {
-  "last_checked": "2026-11-21T18:32:58",
-  "failures": 20,
+  "last_checked": "2026-11-22T18:56:04",
+  "failures": 21,
   "last_error": "HTTP 403"
  },
  "u-s-department-of-state-feed-the-future-innovation": {
-  "last_checked": "2026-11-21T18:32:59",
+  "last_checked": "2026-11-22T18:56:06",
   "failures": 0,
-  "last_ok": "2026-11-21T18:32:59",
+  "last_ok": "2026-11-22T18:56:06",
   "hash": "6beec5cd4823ba6220c4171cae1fb110e7badc29b0b1204a36233086775bbe00",
   "links": [
    "https://files.simpler.grants.gov/opportunities/7b148400-3d26-4af7-ab04-cb82c2799a97/attachments/07cab512-cb38-401d-9b06-b03612921f2c/Feed_the_Future_Innovation_Labs_Statement_of_Interest_-_QA.pdf",
@@ -6346,13 +6345,13 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='simpler.grants.gov', port=443): Max retries exceeded with url: /opportunity/7b148400-3d26-4af7-ab04-cb82c2799a97 (Caused by NameResolutionError(\"HTTPSConnection(host='simpler"
  },
  "nasa-roses-solicitations-page": {
-  "last_checked": "2026-11-21T18:33:01",
-  "failures": 20,
+  "last_checked": "2026-11-22T18:56:07",
+  "failures": 21,
   "last_error": "HTTP 404"
  },
  "nih-fogarty-international-center-geohealth-program": {
-  "last_checked": "2026-11-21T18:33:02",
-  "failures": 3,
+  "last_checked": "2026-11-22T18:56:08",
+  "failures": 4,
   "last_ok": "2026-11-18T19:50:10",
   "hash": "335570679aa926a01c282770c2b03dd048db8fe7c0cae43fc0baeff1ffbbe13f",
   "links": [
@@ -6386,14 +6385,14 @@
   "last_error": "SSLError: HTTPSConnectionPool(host='www.grants.gov', port=443): Max retries exceeded with url: /search-results-detail/363873 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] cer"
  },
  "usda-foreign-agricultural-service-food-for-progres": {
-  "last_checked": "2026-11-21T18:33:04",
-  "failures": 20,
+  "last_checked": "2026-11-22T18:56:10",
+  "failures": 21,
   "last_error": "HTTP 403"
  },
  "usda-fas-food-for-progress-fy2026-nofo-reference-f": {
-  "last_checked": "2026-11-21T18:33:05",
+  "last_checked": "2026-11-22T18:56:11",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:05",
+  "last_ok": "2026-11-22T18:56:11",
   "hash": "90390691f98cd2069b752a6c205c04c8a66931d773c39508840588933b8e5a69",
   "links": [
    "https://apps.fas.usda.gov/fais/webapp",
@@ -6439,9 +6438,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='simpler.grants.gov', port=443): Max retries exceeded with url: /opportunity/362536 (Caused by NameResolutionError(\"HTTPSConnection(host='simpler.grants.gov', port=443): Faile"
  },
  "european-commission-funding-tenders-portal-msca-20": {
-  "last_checked": "2026-11-21T18:33:07",
+  "last_checked": "2026-11-22T18:56:13",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:07",
+  "last_ok": "2026-11-22T18:56:13",
   "hash": "25d21a6a559431d994cec49586d9a11710ccbe8ef9c1717ffe9d48cb9cbd7da9",
   "links": [
    "https://ec.europa.eu/info/funding-tenders/opportunities/data/topic-list.html"
@@ -6449,25 +6448,25 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='ec.europa.eu', port=443): Max retries exceeded with url: /info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2027-DN-01-01 (Caused by N"
  },
  "european-commission-horizon-europe-search-api-fort": {
-  "last_checked": "2026-11-21T18:33:09",
-  "failures": 20,
+  "last_checked": "2026-11-22T18:56:15",
+  "failures": 21,
   "last_error": "HTTP 405"
  },
  "european-space-agency-living-planet-fellowship-eo": {
-  "last_checked": "2026-11-21T18:33:11",
+  "last_checked": "2026-11-22T18:56:17",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:11",
-  "hash": "3ac008671b5536f0f26dd48ec38e45bebb6fadee28e9937366858719446d9f34",
+  "last_ok": "2026-11-22T18:56:17",
+  "hash": "3ca41f9cdf1a818a28714905c8046bb9e1e8ec03c582f20a10c15d12bafdb21a",
   "links": [
    "http://www.esa.int",
    "http://www.esa.int/Services/Terms_and_conditions",
-   "https://dx.doi.org/10.1002/9781119986843.ch11",
-   "https://dx.doi.org/10.1007/s40725-019-00098-z",
-   "https://dx.doi.org/10.1016/j.srs.2026.100462",
-   "https://dx.doi.org/10.1029/2019JC015820",
+   "https://dx.doi.org/10.1016/j.rse.2024.114232",
+   "https://dx.doi.org/10.1016/j.rse.2025.114797",
+   "https://dx.doi.org/10.1016/j.srs.2022.100053",
    "https://dx.doi.org/10.1175/JPO-D-13-0278.1",
-   "https://dx.doi.org/10.3390/rs16152698",
-   "https://dx.doi.org/10.4430/bgta0107",
+   "https://dx.doi.org/10.22541/essoar.169755203.35554469/v1",
+   "https://dx.doi.org/10.3390/rs14205107",
+   "https://dx.doi.org/10.5194/tc-14-3747-2020",
    "https://eo4society.esa.int/",
    "https://eo4society.esa.int/2021/03/15/quantifying-river-ice-movement-through-a-combination-of-european-satellite-monitoring-services/",
    "https://eo4society.esa.int/2021/04/08/sea-surface-salinity-and-temperature-role-in-atlantic-tropical-instability-waves/",
@@ -6553,9 +6552,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='eo4society.esa.int', port=443): Max retries exceeded with url: /communities/scientists/living-planet-fellowship/ (Caused by NameResolutionError(\"HTTPSConnection(host='eo4soci"
  },
  "bmz-giz-fonds-foerderung-internationale-agrarforsc": {
-  "last_checked": "2026-11-21T18:33:14",
+  "last_checked": "2026-11-22T18:56:20",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:14",
+  "last_ok": "2026-11-22T18:56:20",
   "hash": "fb8913b557161864ff9cb94618eeddf50158065e31071c8304297a85590405ad",
   "links": [
    "http://www.icipe.org/research",
@@ -6668,9 +6667,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.giz.de', port=443): Max retries exceeded with url: /de/projekte/fonds-foerderung-internationale-agrarforschung-fia (Caused by NameResolutionError(\"HTTPSConnection(host='w"
  },
  "bmukn-germany-zug-iki-large-grants-2026-in-prepara": {
-  "last_checked": "2026-11-21T18:33:14",
+  "last_checked": "2026-11-22T18:56:21",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:14",
+  "last_ok": "2026-11-22T18:56:21",
   "hash": "d4988dc766108a22491e4bd57fc858118868a6763487873b0fb17100a610161d",
   "links": [
    "https://bsky.app/profile/iki-germany.bsky.social",
@@ -6753,9 +6752,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.international-climate-initiative.com', port=443): Max retries exceeded with url: /en/project-funding/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.internatio"
  },
  "biodiversa-biodiversa-open-call-page": {
-  "last_checked": "2026-11-21T18:33:16",
+  "last_checked": "2026-11-22T18:56:22",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:16",
+  "last_ok": "2026-11-22T18:56:22",
   "hash": "2b48e8d802cc3671ced69c2f8e280552503598189b8b61acd02a07365ae45daf",
   "links": [
    "https://cookiedatabase.org/tcf/purposes/",
@@ -6836,9 +6835,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.biodiversa.eu', port=443): Max retries exceeded with url: /2026/06/09/2026-2027-joint-call/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.biodiversa.eu', port"
  },
  "alexander-von-humboldt-foundation-georg-forster-re": {
-  "last_checked": "2026-11-21T18:33:17",
+  "last_checked": "2026-11-22T18:56:24",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:17",
+  "last_ok": "2026-11-22T18:56:24",
   "hash": "4d58dcac2660168e5756552328a79d29018e4463c0087a15626c95ce23aaa325",
   "links": [
    "http://gepris.dfg.de/gepris/OCTOPUS?language=en/",
@@ -6927,9 +6926,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.humboldt-foundation.de', port=443): Max retries exceeded with url: /en/apply/sponsorship-programmes/georg-forster-research-fellowship (Caused by NameResolutionError(\"HTTP"
  },
  "w-k-kellogg-foundation-wkkf-mexico-page-grantee-sp": {
-  "last_checked": "2026-11-21T18:33:18",
+  "last_checked": "2026-11-22T18:56:25",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:18",
+  "last_ok": "2026-11-22T18:56:25",
   "hash": "ef456692bf8b21ec29c7dde81bfcc1c2cfbf594f0e5202bdb0ed6c650367b755",
   "links": [
    "https://www.facebook.com/KelloggFoundation",
@@ -6985,9 +6984,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.wkkf.org', port=443): Max retries exceeded with url: /where-we-work/mexico/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.wkkf.org', port=443): Failed to reso"
  },
  "world-cocoa-foundation-wcf-news-resources-cfi-carb": {
-  "last_checked": "2026-11-21T18:33:20",
+  "last_checked": "2026-11-22T18:56:27",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:20",
+  "last_ok": "2026-11-22T18:56:27",
   "hash": "e032661bab673205c04f1b79f22f9f782e716e7e791f44d4d1194d6e3420c48f",
   "links": [
    "https://worldcocoa.us16.list-manage.com/subscribe?u=a7f5c1243d3172c0f53ee3e00&id=4da3b20ae9",
@@ -7080,9 +7079,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='worldcocoafoundation.org', port=443): Max retries exceeded with url: /news-and-resources (Caused by NameResolutionError(\"HTTPSConnection(host='worldcocoafoundation.org', port"
  },
  "fondo-accion-colombia-fondo-accion-convocatorias": {
-  "last_checked": "2026-11-21T18:33:22",
+  "last_checked": "2026-11-22T18:56:28",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:22",
+  "last_ok": "2026-11-22T18:56:28",
   "hash": "e1a277b275a043140b1b1734aee55913820ddb5475708182d442007eb243b143",
   "links": [
    "http://instagram.com/fondoaccion",
@@ -7143,9 +7142,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='fondoaccion.org', port=443): Max retries exceeded with url: /convocatorias/ (Caused by NameResolutionError(\"HTTPSConnection(host='fondoaccion.org', port=443): Failed to resol"
  },
  "global-coffee-platform-gcp-latest": {
-  "last_checked": "2026-11-21T18:33:24",
+  "last_checked": "2026-11-22T18:56:30",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:24",
+  "last_ok": "2026-11-22T18:56:30",
   "hash": "24553f22aac3731a422582198a27df1558f3fc0f181a0b229a7039c5ab309278",
   "links": [
    "https://www.facebook.com/GlobalCoffeePlatform?ref=hl",
@@ -7234,9 +7233,9 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.globalcoffeeplatform.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.globalcoffeeplatform.org', port=443): Fai"
  },
  "forest-future-alliance-ex-1t-org-wef-forest-future": {
-  "last_checked": "2026-11-21T18:33:25",
+  "last_checked": "2026-11-22T18:56:31",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:25",
+  "last_ok": "2026-11-22T18:56:31",
   "hash": "4f9c63e29c5f5a85c883fdef12b4296eb35f12993d0b5ed7245154d4a1afaf5f",
   "links": [
    "http://weforum.org/about/privacy-and-terms-of-use/",
@@ -7259,19 +7258,19 @@
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.forestfuturealliance.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.forestfuturealliance.org', port=443): Fai"
  },
  "bayer-crop-science-grants4ag": {
-  "last_checked": "2026-11-21T18:33:26",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:56:32",
+  "failures": 15,
   "last_error": "HTTP 403"
  },
  "nestle-foundation-lausanne-research-grants-for-lmi": {
-  "last_checked": "2026-11-21T18:33:28",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:56:34",
+  "failures": 15,
   "last_error": "HTTP 403"
  },
  "microsoft-ai-for-good-lab": {
-  "last_checked": "2026-11-21T18:33:30",
+  "last_checked": "2026-11-22T18:56:36",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:30",
+  "last_ok": "2026-11-22T18:56:36",
   "hash": "016069502bdddfd8df082af22c9e2c65a2204aa33901605dff94b7fe6cdf90b7",
   "links": [
    "https://about.ads.microsoft.com/en-us?s_cid=dig-src_uhfcomm",
@@ -7441,9 +7440,9 @@
   ]
  },
  "amazon-amazon-research-awards": {
-  "last_checked": "2026-11-21T18:33:31",
+  "last_checked": "2026-11-22T18:56:37",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:31",
+  "last_ok": "2026-11-22T18:56:37",
   "hash": "be4b89858dbd4c1bdcf08f0c9e32f822e7c4804929bdd9dec0a2f812c20909c5",
   "links": [
    "https://aws.amazon.com/blogs",
@@ -7531,9 +7530,9 @@
   ]
  },
  "openai-foundation-news": {
-  "last_checked": "2026-11-21T18:33:32",
+  "last_checked": "2026-11-22T18:56:38",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:32",
+  "last_ok": "2026-11-22T18:56:38",
   "hash": "fa8758b0e9383ba32f0297345c85564716ef60024a0460cac60adcabca2c1c79",
   "links": [
    "https://openaifoundation.org/careers",
@@ -7555,9 +7554,9 @@
   ]
  },
  "louis-dreyfus-foundation-foundation-site": {
-  "last_checked": "2026-11-21T18:33:37",
+  "last_checked": "2026-11-22T18:56:42",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:37",
+  "last_ok": "2026-11-22T18:56:42",
   "hash": "00047f299bd42205a983dd04cf62f251221f800e20986923844e4f165411b283",
   "links": [
    "http://www.ldc.com",
@@ -7591,19 +7590,19 @@
   ]
  },
  "rabo-foundation-rabo-foundation": {
-  "last_checked": "2026-11-21T18:33:37",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:56:43",
+  "failures": 15,
   "last_error": "HTTP 403"
  },
  "european-commission-funding-tenders-portal-search": {
-  "last_checked": "2026-11-21T18:33:38",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:56:44",
+  "failures": 15,
   "last_error": "HTTP 405"
  },
  "danida-fellowship-centre-dfc-research-calls-ffu": {
-  "last_checked": "2026-11-21T18:33:41",
+  "last_checked": "2026-11-22T18:56:47",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:41",
+  "last_ok": "2026-11-22T18:56:47",
   "hash": "089035ae49624c22856861df931bc253a46bbfc598057fed5d2b4d7e97c61e67",
   "links": [
    "https://amg.um.dk/policies-and-strategies/stategy-for-danish-development-cooperation",
@@ -7679,9 +7678,9 @@
   ]
  },
  "snsf-sdc-sor4d-programme-x": {
-  "last_checked": "2026-11-21T18:33:42",
+  "last_checked": "2026-11-22T18:56:47",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:42",
+  "last_ok": "2026-11-22T18:56:47",
   "hash": "08da86a2a457207f8087158a6d7228d70b3f7b91d400a46542ed96c6aec343e7",
   "links": [
    "https://bsky.app/profile/snsf.ch",
@@ -7770,9 +7769,9 @@
   ]
  },
  "bmukn-iki-iki-find-funding": {
-  "last_checked": "2026-11-21T18:33:43",
+  "last_checked": "2026-11-22T18:56:49",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:43",
+  "last_ok": "2026-11-22T18:56:49",
   "hash": "d4988dc766108a22491e4bd57fc858118868a6763487873b0fb17100a610161d",
   "links": [
    "https://bsky.app/profile/iki-germany.bsky.social",
@@ -7854,15 +7853,15 @@
   ]
  },
  "prima-foundation-prima-calls": {
-  "last_checked": "2026-11-21T18:33:45",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:56:51",
+  "failures": 15,
   "last_error": "HTTP 404"
  },
  "research-council-of-norway-calls-for-proposals": {
-  "last_checked": "2026-11-21T18:33:47",
+  "last_checked": "2026-11-22T18:56:52",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:47",
-  "hash": "c6dba3a030ea22c4a3eeb1041936f3057d52fe8814fbfd5e4d82730a539ade67",
+  "last_ok": "2026-11-22T18:56:52",
+  "hash": "40d30892f5232f93d2b16aa5a510878c3116565ba3d44d49b15d53968b0e5369",
   "links": [
    "https://identitet.forskningsradet.no/verktoykasse",
    "https://prosjektbanken.forskningsradet.no/en",
@@ -7951,9 +7950,9 @@
   ]
  },
  "erc-erc-calls-stg-cog-adg": {
-  "last_checked": "2026-11-21T18:33:47",
+  "last_checked": "2026-11-22T18:56:53",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:47",
+  "last_ok": "2026-11-22T18:56:53",
   "hash": "07c724f6092ba7c5a414933eddbaa529297893024fb6044b7a9a9ab610aa2fed",
   "links": [
    "https://bsky.app/profile/erc.europa.eu",
@@ -8027,20 +8026,20 @@
   ]
  },
  "nasa-roses-25-table-2-earth-science-due-dates": {
-  "last_checked": "2026-11-21T18:33:49",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:56:55",
+  "failures": 15,
   "last_error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "gates-foundation-grand-challenges-grand-challenges": {
-  "last_checked": "2026-11-21T18:33:50",
+  "last_checked": "2026-11-22T18:56:56",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:50",
+  "last_ok": "2026-11-22T18:56:56",
   "hash": "c10fcecfcda0edcd7c92762b14ad5c82dc1f293a4aaeee2755c64baa8c2868a6",
   "links": [
    "http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities",
    "https://gcgh.grandchallenges.org/",
    "https://gcgh.grandchallenges.org/about",
-   "https://gcgh.grandchallenges.org/cdn-cgi/l/email-protection#4d2a3f2c23292e252c212128232a283e0d2a2c39283e2b223823292c3924222363223f2a",
+   "https://gcgh.grandchallenges.org/cdn-cgi/l/email-protection#e38491828d87808b828f8f868d848690a38482978690858c968d8782978a8c8dcd8c9184",
    "https://gcgh.grandchallenges.org/challenges",
    "https://gcgh.grandchallenges.org/champions",
    "https://gcgh.grandchallenges.org/champions/filtered",
@@ -8062,9 +8061,9 @@
   ]
  },
  "mcknight-foundation-global-collaboration-for-resil-x": {
-  "last_checked": "2026-11-21T18:33:52",
+  "last_checked": "2026-11-22T18:56:58",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:52",
+  "last_ok": "2026-11-22T18:56:58",
   "hash": "eebdbb009008c76a889250de17dde0bc1774260dd5d17b724802614545d2f327",
   "links": [
    "https://bbgmapply.yourcausegrants.com/apply/auth/signin",
@@ -8145,9 +8144,9 @@
   ]
  },
  "climate-change-ai-ccai-calls": {
-  "last_checked": "2026-11-21T18:33:53",
+  "last_checked": "2026-11-22T18:56:59",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:53",
+  "last_ok": "2026-11-22T18:56:59",
   "hash": "558503d94edaff6ada89c7e64796d9104992431be6c8c600e39b8b0ea00fbcdd",
   "links": [
    "https://community.climatechange.ai/",
@@ -8192,9 +8191,9 @@
   ]
  },
  "rockefeller-foundation-rockefeller-foundation-home": {
-  "last_checked": "2026-11-21T18:33:55",
+  "last_checked": "2026-11-22T18:57:01",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:55",
+  "last_ok": "2026-11-22T18:57:01",
   "hash": "61d5c85c0a618987bef8677f305250bc557da59fa4163c5f3dff68f08d0ba30e",
   "links": [
    "https://impactreport.rockefellerfoundation.org/",
@@ -8261,14 +8260,14 @@
   ]
  },
  "usda-fas-borlaug-fellowship-program": {
-  "last_checked": "2026-11-21T18:33:56",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:57:02",
+  "failures": 15,
   "last_error": "HTTP 403"
  },
  "ausgleichsstiftung-landwirtschaft-und-umwelt-foerd": {
-  "last_checked": "2026-11-21T18:33:58",
+  "last_checked": "2026-11-22T18:57:04",
   "failures": 0,
-  "last_ok": "2026-11-21T18:33:58",
+  "last_ok": "2026-11-22T18:57:04",
   "hash": "ed8eecabd9cacb1e4408508996e98dba46e85b07f60fce617f070bfcadcb02fd",
   "links": [
    "http://www.ausgleichsstiftung.org/",
@@ -8284,9 +8283,9 @@
   ]
  },
  "ecmwf-ecmwf-grants-arcx-sewa-listing": {
-  "last_checked": "2026-11-21T18:34:00",
+  "last_checked": "2026-11-22T18:57:06",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:00",
+  "last_ok": "2026-11-22T18:57:06",
   "hash": "39c9108dfea9da8ec9995dad53b587e2d0a41baac4ed03612bfe022553d2ea4d",
   "links": [
    "https://events.ecmwf.int/category/2/",
@@ -8348,9 +8347,9 @@
   ]
  },
  "minciencias-colombia-convocatorias-minciencias-tod": {
-  "last_checked": "2026-11-21T18:34:01",
+  "last_checked": "2026-11-22T18:57:07",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:01",
+  "last_ok": "2026-11-22T18:57:07",
   "hash": "8531f2c510dabdf278478a05fb727490ca48c204486a2e45e5d6f3b65b1d9ae1",
   "links": [
    "https://minciencias.gov.co/",
@@ -8475,9 +8474,9 @@
   ]
  },
  "belmont-forum-belmont-forum-home-open-calls": {
-  "last_checked": "2026-11-21T18:34:02",
+  "last_checked": "2026-11-22T18:57:08",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:02",
+  "last_ok": "2026-11-22T18:57:08",
   "hash": "17ed7c367fd95fbc3e0f70960a651758cf4572325fcae250576db5c5c9baa685",
   "links": [
    "https://belmontforum.org/",
@@ -8515,9 +8514,9 @@
   ]
  },
  "fontagro-fontagro-convocatoria-2027": {
-  "last_checked": "2026-11-21T18:34:04",
+  "last_checked": "2026-11-22T18:57:10",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:04",
+  "last_ok": "2026-11-22T18:57:10",
   "hash": "1d9bd147bc658358d5c80e63462f141defd53a9f73fb2ddf9309466730ae8f67",
   "links": [
    "https://fontagro.org/en/alianzas",
@@ -8547,14 +8546,14 @@
   ]
  },
  "caf-caf-calls": {
-  "last_checked": "2026-11-21T18:34:05",
-  "failures": 14,
+  "last_checked": "2026-11-22T18:57:11",
+  "failures": 15,
   "last_error": "SSLError: HTTPSConnectionPool(host='www.caf.com', port=443): Max retries exceeded with url: /en/work-with-us/calls (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate v"
  },
  "idb-idb-calls-for-proposals": {
-  "last_checked": "2026-11-21T18:34:07",
+  "last_checked": "2026-11-22T18:57:13",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:07",
+  "last_ok": "2026-11-22T18:57:13",
   "hash": "d0b1f5c88d752262a031e0b62288751088169e283988bcf7a24601a54e32ebdd",
   "links": [
    "https://events.iadb.org/calendar/?lang=en",
@@ -8606,14 +8605,14 @@
   "last_error": "HTTP 503"
  },
  "fondation-daniel-et-nina-carasso-calls-for-project": {
-  "last_checked": "2026-11-21T18:34:09",
-  "failures": 12,
+  "last_checked": "2026-11-22T18:57:14",
+  "failures": 13,
   "last_error": "HTTP 403"
  },
  "oak-foundation-grant-making-process-letter-of-enqu": {
-  "last_checked": "2026-11-21T18:34:11",
+  "last_checked": "2026-11-22T18:57:17",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:11",
+  "last_ok": "2026-11-22T18:57:17",
   "hash": "d5c2dd6a2f76f4fc5b7faecf02ffdce2434d67353d82fc9b88518c3f20d35f57",
   "links": [
    "https://cookiedatabase.org/tcf/purposes/",
@@ -8650,9 +8649,9 @@
   ]
  },
  "laudes-foundation-becoming-a-partner": {
-  "last_checked": "2026-11-21T18:34:12",
+  "last_checked": "2026-11-22T18:57:18",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:12",
+  "last_ok": "2026-11-22T18:57:18",
   "hash": "f10686ee6ee21e7e6f8baf7cd9233590a51db00df12ea47e5ebc50fdf3ce5b07",
   "links": [
    "https://laudes.h5mag.com/annual_report_2025",
@@ -8705,9 +8704,9 @@
   ]
  },
  "john-d-and-catherine-t-macarthur-foundation-info-f": {
-  "last_checked": "2026-11-21T18:34:13",
+  "last_checked": "2026-11-22T18:57:19",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:13",
+  "last_ok": "2026-11-22T18:57:19",
   "hash": "7fe713ecd203ccea547ccd62181d78f81f2831c5086cdd9c0045fcc35f1d3bdd",
   "links": [
    "https://macfound.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=Submit+a+New+Idea",
@@ -8793,9 +8792,9 @@
   ]
  },
  "ford-foundation-grant-opportunities": {
-  "last_checked": "2026-11-21T18:34:14",
+  "last_checked": "2026-11-22T18:57:20",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:14",
+  "last_ok": "2026-11-22T18:57:20",
   "hash": "7b20287b1db3657ab53ce14196bfe6d00a9ff3ebc796359d81d8c60c22eb99c1",
   "links": [
    "https://fordfoundation.org/learning/library/research-reports/how-we-meet-this-moment/",
@@ -8877,9 +8876,9 @@
   ]
  },
  "the-christensen-fund-homepage-news": {
-  "last_checked": "2026-11-21T18:34:16",
+  "last_checked": "2026-11-22T18:57:22",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:16",
+  "last_ok": "2026-11-22T18:57:22",
   "hash": "6ec8458ee46cb21e1b77cbfa27cc621e3eee00824f4e3e4fa599e5ba1aa8ebd7",
   "links": [
    "https://christense2dev.wpengine.com/united-states/",
@@ -8904,16 +8903,16 @@
   ]
  },
  "global-crop-diversity-trust-crop-trust-open-calls": {
-  "last_checked": "2026-11-21T18:34:18",
+  "last_checked": "2026-11-22T18:57:24",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:18",
+  "last_ok": "2026-11-22T18:57:24",
   "hash": "f1d4d02da365d3884c1cc2230c1b640d57da7225cfbcaecb0021174d35ebbbb4",
   "links": []
  },
  "global-crop-diversity-trust-crop-trust-power-of-di": {
-  "last_checked": "2026-11-21T18:34:19",
+  "last_checked": "2026-11-22T18:57:25",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:19",
+  "last_ok": "2026-11-22T18:57:25",
   "hash": "24aa019426683304650881dd7925149b65408332808659a5615e2966ed879ef7",
   "links": [
    "http://www.croptrust.org/knowledge-hub/opportunity-crops/about/",
@@ -9094,9 +9093,9 @@
   ]
  },
  "fondazione-cariplo-bandi": {
-  "last_checked": "2026-11-21T18:34:22",
+  "last_checked": "2026-11-22T18:57:27",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:22",
+  "last_ok": "2026-11-22T18:57:27",
   "hash": "082cb1a9e461dc814af0024174b465ca860daeefbe174b9fb40568e344a3f75e",
   "links": [
    "https://area.riservata.fondazionecariplo.it/it-IT/Account/Login?ReturnUrl=%2F",
@@ -9188,9 +9187,9 @@
   ]
  },
  "compagnia-di-san-paolo-contributi-bandi": {
-  "last_checked": "2026-11-21T18:34:24",
+  "last_checked": "2026-11-22T18:57:30",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:24",
+  "last_ok": "2026-11-22T18:57:30",
   "hash": "da0edd67feb91171de28185fe2e94f4b114f677484c6fcc33c9f75e0748e2ddd",
   "links": [
    "https://app.albofornitori.it/alboeproc/albo_prismascrl",
@@ -9298,9 +9297,9 @@
   ]
  },
  "volkswagen-foundation-our-funding-portfolio": {
-  "last_checked": "2026-11-21T18:34:25",
+  "last_checked": "2026-11-22T18:57:31",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:25",
+  "last_ok": "2026-11-22T18:57:31",
   "hash": "13740b1a380e004d4fda505cac4db292bc728e0bdb5a971b930bf294b59888e6",
   "links": [
    "https://bsky.app/intent/compose?text=https://www.volkswagenstiftung.de/en/our-funding-portfolio",
@@ -9362,9 +9361,9 @@
   ]
  },
  "robert-bosch-stiftung-funding-calls-for-proposals": {
-  "last_checked": "2026-11-21T18:34:27",
+  "last_checked": "2026-11-22T18:57:32",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:27",
+  "last_ok": "2026-11-22T18:57:32",
   "hash": "25f2f58569ebd4f5e4ca06db16b50c2afe1d9d3456191a4cc39014c99fee7799",
   "links": [
    "https://bosch-stiftung.de/en",
@@ -9415,9 +9414,9 @@
   ]
  },
  "fundacion-bolivar-davivienda-convocatorias": {
-  "last_checked": "2026-11-21T18:34:28",
+  "last_checked": "2026-11-22T18:57:33",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:28",
+  "last_ok": "2026-11-22T18:57:33",
   "hash": "9a65a6b10a10d5f9ab911cf0b718d64e8b8b1282d2637d005022684a429cd8cf",
   "links": [
    "https://d1yzah3i60wc0m.cloudfront.net/wp-content/uploads/2024/08/09230344/footerlegales-politica-tratamiento-datos-cultivarte.pdf",
@@ -9446,9 +9445,9 @@
   ]
  },
  "fundacion-grupo-argos-grupo-argos-foundation-page": {
-  "last_checked": "2026-11-21T18:34:31",
+  "last_checked": "2026-11-22T18:57:36",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:31",
+  "last_ok": "2026-11-22T18:57:36",
   "hash": "6e58389566107ae7bcb48201413132d4a1a818421265ea987ac7dfd832b19c39",
   "links": [
    "https://files.grupoargos.com/uploads-grupo-argos/2022/09/grupo-argos-foundation-2020.pdf",
@@ -9512,9 +9511,9 @@
   ]
  },
  "instituto-clima-e-sociedade-ics-editais": {
-  "last_checked": "2026-11-21T18:34:32",
+  "last_checked": "2026-11-22T18:57:37",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:32",
+  "last_ok": "2026-11-22T18:57:37",
   "hash": "17dd202f54642198834b27453b0a11d938f61dd75c20e776f8749713d666b3fe",
   "links": [
    "https://climaesociedade.org/boletins/",
@@ -9564,9 +9563,9 @@
   ]
  },
  "fundacion-femsa-faq": {
-  "last_checked": "2026-11-21T18:34:33",
+  "last_checked": "2026-11-22T18:57:39",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:33",
+  "last_ok": "2026-11-22T18:57:39",
   "hash": "5ea97bad3d1d52c81f76bbe567b9eabe665cbc12dc80dc2953a1e4e543cd73a0",
   "links": [
    "http://femsafoundation.org/",
@@ -9586,9 +9585,9 @@
   ]
  },
  "fundo-vale-como-se-engajar": {
-  "last_checked": "2026-11-21T18:34:34",
+  "last_checked": "2026-11-22T18:57:40",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:34",
+  "last_ok": "2026-11-22T18:57:40",
   "hash": "b604f147feb0b0e6008d24c96b8877d6cfaa817cec435276622d82838396a2de",
   "links": [
    "https://www.fundovale.org",
@@ -9616,9 +9615,9 @@
   ]
  },
  "ikea-foundation-our-grants": {
-  "last_checked": "2026-11-21T18:34:36",
+  "last_checked": "2026-11-22T18:57:41",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:36",
+  "last_ok": "2026-11-22T18:57:41",
   "hash": "b045e7f0831a6a108041baf49f6a06efffac2d92f7dbb2af53b1f6a24f0fad80",
   "links": [
    "https://www.ikeafoundation.org/",
@@ -9636,9 +9635,9 @@
   ]
  },
  "children-s-investment-fund-foundation-ciff-what-we": {
-  "last_checked": "2026-11-21T18:34:37",
+  "last_checked": "2026-11-22T18:57:43",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:37",
+  "last_ok": "2026-11-22T18:57:43",
   "hash": "7721e279d85d43d1fe9eedf7a58a67f6d8699f1de0d351dc9aeaf34798c21966",
   "links": [
    "https://89up.org",
@@ -9677,9 +9676,9 @@
   "last_error": "HTTP 503"
  },
  "gordon-and-betty-moore-foundation-our-grantmaking": {
-  "last_checked": "2026-11-21T18:34:39",
+  "last_checked": "2026-11-22T18:57:44",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:39",
+  "last_ok": "2026-11-22T18:57:44",
   "hash": "e6d876b25cab4b5a1856fe718c927803fa716f580001c5ba09b3ba2f0dd56c6b",
   "links": [
    "https://grantees.moore.org/index.aspx",
@@ -9745,9 +9744,9 @@
   ]
  },
  "david-and-lucile-packard-foundation-funding-opport": {
-  "last_checked": "2026-11-21T18:34:40",
+  "last_checked": "2026-11-22T18:57:46",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:40",
+  "last_ok": "2026-11-22T18:57:46",
   "hash": "7fbb99601e22c2ed6ebbc6f5063eb53996a205b4536e42b2d80b5b48e6ddfe97",
   "links": [
    "http://www.linkedin.com/company/packardfoundation",
@@ -9780,9 +9779,9 @@
   ]
  },
  "patrick-j-mcgovern-foundation-grants-database": {
-  "last_checked": "2026-11-21T18:34:46",
+  "last_checked": "2026-11-22T18:57:51",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:46",
+  "last_ok": "2026-11-22T18:57:51",
   "hash": "a73560f2531e7681cb2c4e756edc4e30ebb935f77f212b2a70a3358b68f93827",
   "links": [
    "https://app.getguru.com/card/TjREnMrc/The-Patrick-J-McGovern-Foundation-Privacy-Policy",
@@ -9819,10 +9818,10 @@
   ]
  },
  "waverley-street-foundation-about-faq": {
-  "last_checked": "2026-11-21T18:34:46",
+  "last_checked": "2026-11-22T18:57:52",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:46",
-  "hash": "29c9bdd0b48d1600a97f5935328147e81f63f39182d8b12ff8b547003f7c9412",
+  "last_ok": "2026-11-22T18:57:52",
+  "hash": "034ab6ca21be08c8318ad42eab99d1473a9bdadc884fb0c111572f50e5e722ce",
   "links": [
    "https://www.instagram.com/waverleystreet/",
    "https://www.linkedin.com/company/waverley-street-foundation/",
@@ -9834,14 +9833,14 @@
    "https://www.waverleystreet.org/contact",
    "https://www.waverleystreet.org/learning",
    "https://www.waverleystreet.org/news",
-   "https://www.waverleystreet.org/people/alisson-poon",
-   "https://www.waverleystreet.org/people/amanda-eller",
-   "https://www.waverleystreet.org/people/carole-excell",
-   "https://www.waverleystreet.org/people/geri-yang",
-   "https://www.waverleystreet.org/people/kate-lombardo",
+   "https://www.waverleystreet.org/people/caleb-zigas",
+   "https://www.waverleystreet.org/people/carmelita-mitchell",
+   "https://www.waverleystreet.org/people/corinne-tsai",
+   "https://www.waverleystreet.org/people/genora-givens",
+   "https://www.waverleystreet.org/people/jarnail-singh",
+   "https://www.waverleystreet.org/people/kai-carter",
    "https://www.waverleystreet.org/people/monica-barnett",
-   "https://www.waverleystreet.org/people/nathan-jayappa",
-   "https://www.waverleystreet.org/people/rudi-navarra",
+   "https://www.waverleystreet.org/people/twisha-mehta",
    "https://www.waverleystreet.org/privacy-policy",
    "https://www.waverleystreet.org/stories",
    "https://www.waverleystreet.org/team",
@@ -9850,9 +9849,9 @@
   ]
  },
  "the-audacious-project-apply-page": {
-  "last_checked": "2026-11-21T18:34:48",
+  "last_checked": "2026-11-22T18:57:53",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:48",
+  "last_ok": "2026-11-22T18:57:53",
   "hash": "61f440e7c78ce249e5b3b1fe7626e41e209b1159fdc1984426e03d21d042d065",
   "links": [
    "https://audaciousproject.my.site.com/s/Apply-IdeaSurvey/Idea_Submission",
@@ -9874,9 +9873,9 @@
   ]
  },
  "swiss-re-foundation-how-to-partner-with-us": {
-  "last_checked": "2026-11-21T18:34:50",
+  "last_checked": "2026-11-22T18:57:55",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:50",
+  "last_ok": "2026-11-22T18:57:55",
   "hash": "86de19cbe219ad838e6472b991480f772bf66a3d9146ac0dbaa97fbcb8c56fd9",
   "links": [
    "http://twitter.com/share?text=How%20to%20partner%20with%20us%3F&url=https%3A%2F%2Fwww.swissrefoundation.org%2Fwho-we-partner-with%2FHow-to-partner-with-us-.html",
@@ -9884,7 +9883,7 @@
    "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.swissrefoundation.org%2Fwho-we-partner-with%2FHow-to-partner-with-us-.html&title=How%20to%20partner%20with%20us%3F",
    "https://www.swissre.com/about-us/office-locations.html",
    "https://www.swissrefoundation.org/",
-   "https://www.swissrefoundation.org/cdn-cgi/l/email-protection#16296563747c7375622b5e7961332426627933242666776462787364332426617f627e332426636533255030777b662d7479726f2b5e7961332426627933242666776462787364332426617f627e33242663653325503326523326573326523326577e626266653325573324503324506161613865617f65656473707963787277627f797838796471332450617e793b61733b667764627873643b617f627e3324505e79613b62793b667764627873643b617f627e3b63653b387e627b7a",
+   "https://www.swissrefoundation.org/cdn-cgi/l/email-protection#bc83cfc9ded6d9dfc881f4d3cb998e8cc8d3998e8cccddcec8d2d9ce998e8ccbd5c8d4998e8cc9cf998ffa9addd1cc87ded3d8c581f4d3cb998e8cc8d3998e8cccddcec8d2d9ce998e8ccbd5c8d4998e8cc9cf998ffa998cf8998cfd998cf8998cfdd4c8c8cccf998ffd998efa998efacbcbcb92cfcbd5cfcfced9dad3c9d2d8ddc8d5d3d292d3cedb998efacbd4d391cbd991ccddcec8d2d9ce91cbd5c8d4998efaf4d3cb91c8d391ccddcec8d2d9ce91cbd5c8d491c9cf9192d4c8d1d0",
    "https://www.swissrefoundation.org/contact-us~ifr~.html#ContactFormWrapper",
    "https://www.swissrefoundation.org/legal-notice.html",
    "https://www.swissrefoundation.org/media-detail.html?image=jcr:d7c7c2db-c0af-474e-ad27-d700d0cc004d&page=745c2662-b23a-41f9-99f4-1738d6bf1241#MediaDetail",
@@ -9924,9 +9923,9 @@
   ]
  },
  "munich-re-foundation-climate-risk-and-adaptation-r": {
-  "last_checked": "2026-11-21T18:34:51",
+  "last_checked": "2026-11-22T18:57:57",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:51",
+  "last_ok": "2026-11-22T18:57:57",
   "hash": "c8aa1f1d833074f47ed9d49dfbe1923111d4fead0dacb919c76335064d344e18",
   "links": [
    "https://www.munichre-foundation.org/en.html",
@@ -9956,9 +9955,9 @@
   ]
  },
  "global-resilience-partnership-with-munich-re-found": {
-  "last_checked": "2026-11-21T18:34:54",
+  "last_checked": "2026-11-22T18:57:59",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:54",
+  "last_ok": "2026-11-22T18:57:59",
   "hash": "4540b9d71c45ecc7a2eaf47269fcd7b5efc53b4bb4dfb32cd53b779cef06bedd",
   "links": [
    "http://www.twitter.com/share?url=https%3A%2F%2Fwww.globalresiliencepartnership.org%2Fcall-for-proposals-for-innovations-across-the-global-south-now-open%2F",
@@ -10011,9 +10010,9 @@
   ]
  },
  "z-zurich-foundation-climate-change-programmes": {
-  "last_checked": "2026-11-21T18:34:55",
+  "last_checked": "2026-11-22T18:58:00",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:55",
+  "last_ok": "2026-11-22T18:58:00",
   "hash": "1795d42a4eb34f3a7772c81489ab2ad57f49ccbb96362914977f826060fd418f",
   "links": [
    "https://assets.enablermail.com/zurichinsurance/weblinks/15/20200923_ZZFmediarelease_AdaptingtoClimateChangeProgram.pdf",
@@ -10058,15 +10057,15 @@
   ]
  },
  "ocp-foundation-ocp-group-ocp-foundation-website": {
-  "last_checked": "2026-11-21T18:34:56",
-  "failures": 12,
+  "last_checked": "2026-11-22T18:58:04",
+  "failures": 13,
   "last_error": "HTTP 403"
  },
  "toyota-foundation-grant-programs": {
-  "last_checked": "2026-11-21T18:34:59",
+  "last_checked": "2026-11-22T18:58:06",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:59",
-  "hash": "cd74a01d313d6840518737b01ac2874c49c857c5fad4dc571c820ed8f8fa2ddc",
+  "last_ok": "2026-11-22T18:58:06",
+  "hash": "520a0d35bca5fb4d952f65791a89bff8d82712b81e0f40e78fac9c2aee3b5530",
   "links": [
    "https://toyotafound.my.salesforce-sites.com/psearch/Search",
    "https://www.facebook.com/toyotafound/",
@@ -10117,9 +10116,9 @@
   ]
  },
  "mitsui-co-co-creation-fund": {
-  "last_checked": "2026-11-21T18:34:59",
+  "last_checked": "2026-11-22T18:58:06",
   "failures": 0,
-  "last_ok": "2026-11-21T18:34:59",
+  "last_ok": "2026-11-22T18:58:06",
   "hash": "28d06f7274bb3b5b9ffb8a4a08e18a9f01f8ea769fb56c05a471382db9b7420b",
   "links": [
    "https://career.mitsui.com/",
@@ -10242,9 +10241,9 @@
   ]
  },
  "the-sumitomo-foundation-grant-for-environmental-re": {
-  "last_checked": "2026-11-21T18:35:01",
+  "last_checked": "2026-11-22T18:58:08",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:01",
+  "last_ok": "2026-11-22T18:58:08",
   "hash": "00fad7e7aefa7830ab9aaea74dfa43ead7e3c7fff09075a601ad7ff09439c75d",
   "links": [
    "https://grant.sumitomo.or.jp/kankyo/login/about_en.html",
@@ -10261,9 +10260,9 @@
   ]
  },
  "data-org-funding-opportunities": {
-  "last_checked": "2026-11-21T18:35:04",
+  "last_checked": "2026-11-22T18:58:11",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:04",
+  "last_ok": "2026-11-22T18:58:11",
   "hash": "a8bbc03b0dff3de2f46e57ba3c747ef31b3ad7815b2f53ec563fb6a4537c8051",
   "links": [
    "https://cookiedatabase.org/tcf/purposes/",
@@ -10317,9 +10316,9 @@
   ]
  },
  "bloomberg-philanthropies-environment-program": {
-  "last_checked": "2026-11-21T18:35:05",
+  "last_checked": "2026-11-22T18:58:12",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:05",
+  "last_ok": "2026-11-22T18:58:12",
   "hash": "4f9856d0f1fec28a291b96c25975461885ad77f0889413f15887e4bb9f2eb837",
   "links": [
    "https://bloomberg.org/blog/",
@@ -10423,9 +10422,9 @@
   ]
  },
  "quadrature-climate-foundation-quadrature-charitabl": {
-  "last_checked": "2026-11-21T18:35:06",
+  "last_checked": "2026-11-22T18:58:13",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:06",
+  "last_ok": "2026-11-22T18:58:13",
   "hash": "762463ee6412501eb6c6f99d68b9a2f084dc5dc29c3bf08d3b1dc4530b6063ed",
   "links": [
    "https://quadrature.ai/",
@@ -10453,9 +10452,9 @@
   ]
  },
  "global-center-on-adaptation-procurement": {
-  "last_checked": "2026-11-21T18:35:08",
+  "last_checked": "2026-11-22T18:58:15",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:08",
+  "last_ok": "2026-11-22T18:58:15",
   "hash": "2627db524605025ac4149a66b02be17a144e0d4dfdaa7b46f186e64c7ae28cc3",
   "links": [
    "https://gca.org/about-climate-map-tool/",
@@ -10532,15 +10531,15 @@
   ]
  },
  "african-climate-foundation-grant-making": {
-  "last_checked": "2026-11-21T18:35:11",
-  "failures": 12,
+  "last_checked": "2026-11-22T18:58:17",
+  "failures": 13,
   "last_error": "HTTP 404"
  },
  "jde-peet-s-common-grounds-farmer-programme-respons": {
-  "last_checked": "2026-11-21T18:35:42",
-  "failures": 1,
+  "last_checked": "2026-11-22T18:58:20",
+  "failures": 0,
   "last_error": "ReadTimeout: HTTPSConnectionPool(host='www.jdepeets.com', port=443): Read timed out. (read timeout=30)",
-  "last_ok": "2026-11-20T19:34:22",
+  "last_ok": "2026-11-22T18:58:20",
   "hash": "08d2a367c0fba30d3262913a2e81b0671feb8d0358ae58f7c9637f15ff5d41e2",
   "links": [
    "https://careers.jdepeets.com/",
@@ -10583,14 +10582,14 @@
   ]
  },
  "nestle-nespresso-aaa-sustainable-quality-program": {
-  "last_checked": "2026-11-21T18:35:42",
-  "failures": 12,
+  "last_checked": "2026-11-22T18:58:20",
+  "failures": 13,
   "last_error": "HTTP 403"
  },
  "illycaffe-fondazione-ernesto-illy-fondazione-ernes": {
-  "last_checked": "2026-11-21T18:35:46",
+  "last_checked": "2026-11-22T18:58:23",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:46",
+  "last_ok": "2026-11-22T18:58:23",
   "hash": "6619ecf3f0f47ea6eecf8591b0ad2e843c8fd5d86e3df174618ee6612bfa8dce",
   "links": [
    "https://fondazionernestoilly.org/",
@@ -10635,9 +10634,9 @@
   ]
  },
  "fondazione-giuseppe-e-pericle-lavazza-lavazza-foun": {
-  "last_checked": "2026-11-21T18:35:49",
+  "last_checked": "2026-11-22T18:58:26",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:49",
+  "last_ok": "2026-11-22T18:58:26",
   "hash": "795c051603a3cbe2d3a31e9dce46be7e2ad1e3d554fd2ebce79fbd28d219c202",
   "links": [
    "https://fondazionelavazza.com/en/",
@@ -10684,9 +10683,9 @@
   ]
  },
  "ferrero-ferrero-farming-values-hazelnut-company-pa": {
-  "last_checked": "2026-11-21T18:35:49",
+  "last_checked": "2026-11-22T18:58:26",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:49",
+  "last_ok": "2026-11-22T18:58:26",
   "hash": "7d4badd96dd6baf4029c4bf1e8a48e7147856a02f4919163824b8ca5e204b7ea",
   "links": [
    "https://www.earthworm.org/",
@@ -10723,16 +10722,16 @@
   ]
  },
  "the-hershey-company-cocoa-for-good": {
-  "last_checked": "2026-11-21T18:35:50",
+  "last_checked": "2026-11-22T18:58:27",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:50",
+  "last_ok": "2026-11-22T18:58:27",
   "hash": "8ec7caf9e2bde63e06c15dd7587a189c00b45158d7899e4260fc5653ad931da5",
   "links": []
  },
  "lindt-cocoa-foundation-lindt-cocoa-foundation": {
-  "last_checked": "2026-11-21T18:35:55",
+  "last_checked": "2026-11-22T18:58:31",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:55",
+  "last_ok": "2026-11-22T18:58:31",
   "hash": "fca33c07d19261d1307ba6ff361d8c2dc3aee5723a021f228dd9488a9515e756",
   "links": [
    "https://lindtcocoafoundation.org/",
@@ -10754,9 +10753,9 @@
   ]
  },
  "tony-s-chocolonely-tony-s-open-chain-mission-allie": {
-  "last_checked": "2026-11-21T18:35:56",
+  "last_checked": "2026-11-22T18:58:32",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:56",
+  "last_ok": "2026-11-22T18:58:32",
   "hash": "141e7dcb4bf42a3deb4d107f075268a8c2f4a0a997f981064b86133e79bad13a",
   "links": [
    "https://my.tonysopenchain.com/s/",
@@ -10801,9 +10800,9 @@
   ]
  },
  "keurig-dr-pepper-kdp-corporate-responsibility-coff": {
-  "last_checked": "2026-11-21T18:35:57",
+  "last_checked": "2026-11-22T18:58:33",
   "failures": 0,
-  "last_ok": "2026-11-21T18:35:57",
+  "last_ok": "2026-11-22T18:58:33",
   "hash": "8693ef202bc5a7b147d563ce251699e1a9b09e6d69785bfb29940a920f9c19d6",
   "links": [
    "https://careers.keurigdrpepper.com/",
@@ -10862,14 +10861,14 @@
   ]
  },
  "general-mills-foundation-general-mills-foundation": {
-  "last_checked": "2026-11-21T18:36:28",
-  "failures": 12,
+  "last_checked": "2026-11-22T18:59:05",
+  "failures": 13,
   "last_error": "ConnectTimeout: HTTPSConnectionPool(host='content.generalmills.com', port=443): Max retries exceeded with url: /en/Responsibility/general-mills-foundation/giving-faqs (Caused by ConnectTimeoutError(<HTTPSConnection(h"
  },
  "mccain-foods-mccain-foundation-mccain-foundation": {
-  "last_checked": "2026-11-21T18:36:28",
+  "last_checked": "2026-11-22T18:59:05",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:28",
+  "last_ok": "2026-11-22T18:59:05",
   "hash": "d14526b4ce680b0653735c323f1f33c263777d312e16653236bcdbbe47750f34",
   "links": [
    "https://mccainfoundation.org/about/",
@@ -10893,9 +10892,9 @@
   ]
  },
  "agco-agriculture-foundation-agco-agriculture-found": {
-  "last_checked": "2026-11-21T18:36:30",
+  "last_checked": "2026-11-22T18:59:06",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:30",
+  "last_ok": "2026-11-22T18:59:06",
   "hash": "1276681179517f2f7ea02d0d76728aff88f8c349042a2b916bdda17c6c915ae9",
   "links": [
    "https://careers.agcocorp.com/",
@@ -10982,9 +10981,9 @@
   ]
  },
  "east-west-seed-knowledge-transfer-foundation-ews-k": {
-  "last_checked": "2026-11-21T18:36:33",
+  "last_checked": "2026-11-22T18:59:11",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:33",
+  "last_ok": "2026-11-22T18:59:11",
   "hash": "1faaee51e455e594fa7b5f8f1ec0802d92b97823dbffaacacfe7bfa8156fec7e",
   "links": [
    "https://bd.eastwestseed.com",
@@ -11032,9 +11031,9 @@
   ]
  },
  "basf-agricultural-solutions-basf-innovate-with-us": {
-  "last_checked": "2026-11-21T18:36:35",
+  "last_checked": "2026-11-22T18:59:12",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:35",
+  "last_ok": "2026-11-22T18:59:12",
   "hash": "abcd22474d2a73313db98f3572811735454054d3ecdcbcfbf364d00fd2cd00e7",
   "links": [
    "https://agriculture.basf.com/global/en/innovations-for-agriculture/agrostart",
@@ -11052,6 +11051,7 @@
    "https://www.basf.com/global/en/who-we-are/organization/group-companies/BASF_Venture-Capital",
    "https://www.basf.com/us/en",
    "https://www.basf.com/us/en/careers",
+   "https://www.basf.com/us/en/legal/BASF-California-AB-1305",
    "https://www.basf.com/us/en/legal/ccpa-notice",
    "https://www.basf.com/us/en/legal/contact",
    "https://www.basf.com/us/en/legal/credits",
@@ -11076,9 +11076,9 @@
   ]
  },
  "kws-kws-partner-with-us": {
-  "last_checked": "2026-11-21T18:36:36",
+  "last_checked": "2026-11-22T18:59:13",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:36",
+  "last_ok": "2026-11-22T18:59:13",
   "hash": "6cae0c37def5a8c9a4daa161ad7d6d15402ecfea3e129668424ad801ba4cbb6d",
   "links": [
    "https://foundationfar.org/",
@@ -11232,16 +11232,16 @@
   ]
  },
  "the-mosaic-company-mosaic-funding-guidelines-2026": {
-  "last_checked": "2026-11-21T18:36:37",
+  "last_checked": "2026-11-22T18:59:14",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:37",
+  "last_ok": "2026-11-22T18:59:14",
   "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "links": []
  },
  "bunge-bunge-sustainable-solutions-regenerative-agr": {
-  "last_checked": "2026-11-21T18:36:39",
+  "last_checked": "2026-11-22T18:59:16",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:39",
+  "last_ok": "2026-11-22T18:59:16",
   "hash": "2c9430cb60e642ea7e2b30aaf40acec4c1775002f29e8706e7c4abfca96767cb",
   "links": [
    "http://bunge.com.au",
@@ -11339,9 +11339,9 @@
   ]
  },
  "adm-cares-adm-cares": {
-  "last_checked": "2026-11-21T18:36:40",
+  "last_checked": "2026-11-22T18:59:17",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:40",
+  "last_ok": "2026-11-22T18:59:17",
   "hash": "defd9523914f9618cfbe31fb9eb42bdbd1cd3758b24823cee5be60f79515a7b8",
   "links": [
    "https://adm.com/compliance/",
@@ -11495,9 +11495,9 @@
   ]
  },
  "formas-all-calls": {
-  "last_checked": "2026-11-21T18:36:42",
+  "last_checked": "2026-11-22T18:59:19",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:42",
+  "last_ok": "2026-11-22T18:59:19",
   "hash": "50d7d81558f6c7446f5af0c9014e5f62717734e6ab99875db15ef85e65b5ee58",
   "links": [
    "https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=10532&lang=en&readid=&readclass=sol-call-wrapper,pagecontent,sol-subpage-wrapper,sol-beige-background,sol-call-decoration,sol-all-filters__wrapper,sol-coworker-page,sol-grid&voice=Maja",
@@ -11524,9 +11524,9 @@
   ]
  },
  "grand-challenges-canada-funding-opportunities": {
-  "last_checked": "2026-11-21T18:36:43",
+  "last_checked": "2026-11-22T18:59:20",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:43",
+  "last_ok": "2026-11-22T18:59:20",
   "hash": "ca04e9706542e0b52b382775cfdbd03a9c631fdede5a015ec9176f6534ae8f3f",
   "links": [
    "http://www.beinginitiative.org/",
@@ -11576,9 +11576,9 @@
   ]
  },
  "mcknight-foundation-global-collaboration-for-resilient-food-systems-cr": {
-  "last_checked": "2026-11-21T18:36:44",
+  "last_checked": "2026-11-22T18:59:21",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:44",
+  "last_ok": "2026-11-22T18:59:21",
   "hash": "6c2766b9a71178d41d97d562e1e922940a3e0e5c232040a0538b3e592c6fa7b3",
   "links": [
    "http://www.ccrp.org/contact/",
@@ -11611,9 +11611,9 @@
   ]
  },
  "common-fund-for-commodities-call-for-proposals-30th-call-shall-be-anno": {
-  "last_checked": "2026-11-21T18:36:46",
+  "last_checked": "2026-11-22T18:59:24",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:46",
+  "last_ok": "2026-11-22T18:59:24",
   "hash": "e0a976ebc915c1c7775aee6fe5fee133763cd0680bdc7dac0ce9b27c28b2734d",
   "links": [
    "https://common-fund.org/about-us/member-states",
@@ -11634,18 +11634,18 @@
    "https://www.common-fund.org/about-us/member-states",
    "https://www.common-fund.org/about-us/member-states/",
    "https://www.common-fund.org/call-for-proposals",
-   "https://www.common-fund.org/call-for-proposals#accordion-8npd0-1",
-   "https://www.common-fund.org/call-for-proposals#accordion-8npd0-2",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-1",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-10",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-2",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-3",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-4",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-5",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-6",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-7",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-8",
-   "https://www.common-fund.org/call-for-proposals#accordion-m2n0x-9",
+   "https://www.common-fund.org/call-for-proposals#accordion-2by5e-1",
+   "https://www.common-fund.org/call-for-proposals#accordion-2by5e-2",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-1",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-10",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-2",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-3",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-4",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-5",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-6",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-7",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-8",
+   "https://www.common-fund.org/call-for-proposals#accordion-saa5e-9",
    "https://www.common-fund.org/call-for-proposals#main-content",
    "https://www.common-fund.org/cfc-and-zambia-explore-pathways-enterprise-growth-and-value-addition",
    "https://www.common-fund.org/cfc-managing-director-meets-gc-chair-tanzanias-ambassador-caroline-kitana-chipeta",
@@ -11689,9 +11689,9 @@
   ]
  },
  "autodesk-foundation-funding-discovery-form": {
-  "last_checked": "2026-11-21T18:36:48",
+  "last_checked": "2026-11-22T18:59:25",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:48",
+  "last_ok": "2026-11-22T18:59:25",
   "hash": "d48b5741356c0deddc8cebc03b782b9025ca1627810798592851229bf092c781",
   "links": [
    "https://autodesk.fluxx.io/apply/investment",
@@ -11725,9 +11725,9 @@
   ]
  },
  "science-for-africa-foundation-funding-grand-challenges-africa-c-hab": {
-  "last_checked": "2026-11-21T18:36:49",
+  "last_checked": "2026-11-22T18:59:26",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:49",
+  "last_ok": "2026-11-22T18:59:26",
   "hash": "1f01ea7973367b1362845dc16ae13a9aed9e4ef377f0453aa8072e59c61430f8",
   "links": [
    "https://africapandemicsciences.org/",
@@ -11786,9 +11786,9 @@
   ]
  },
  "terra-viva-grants-funding-news-lead-discovery-only": {
-  "last_checked": "2026-11-21T18:36:52",
+  "last_checked": "2026-11-22T18:59:29",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:52",
+  "last_ok": "2026-11-22T18:59:29",
   "hash": "7737a7688fee5077c5066e2c51808153e4a72254de2d09e54f51bf8d51fd3e83",
   "links": [
    "https://awfchuckwallprogram.submit.com/show/18",
@@ -11899,9 +11899,9 @@
   ]
  },
  "u-s-department-of-state-feed-the-future-innovation-labs-k-state-sitas": {
-  "last_checked": "2026-11-21T18:36:52",
+  "last_checked": "2026-11-22T18:59:29",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:52",
+  "last_ok": "2026-11-22T18:59:29",
   "hash": "9ca88da87e8b97b415e6fbe475ca343019275e10064321e7e0c8cc0fbc11d7fd",
   "links": [
    "https://a.cms.omniupdate.com/11/?skin=k-state&account=k-state&site=news&action=de&path=/articles/2026/10/feed-the-future-innovation-labs-advance-global-food-security.pcf",
@@ -11940,10 +11940,10 @@
   ]
  },
  "nasa-smd-roses-2025-page-roses-27-release": {
-  "last_checked": "2026-11-21T18:36:53",
+  "last_checked": "2026-11-22T18:59:31",
   "failures": 0,
-  "last_ok": "2026-11-21T18:36:53",
-  "hash": "2eb41e1b035fd4141146fa33b853ccfca22a7d87585de820ca8163437dbd337a",
+  "last_ok": "2026-11-22T18:59:31",
+  "hash": "eb189531065640f73b880b7b9d9fd2aa7de4dad8edfdfd652dec7945f7186060",
   "links": [
    "http://oig.nasa.gov/",
    "https://ciencia.nasa.gov/",
