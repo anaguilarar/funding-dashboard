@@ -76,4 +76,5 @@ history:
 - date: 2026-11-11 11:00
   event: added
   detail: import:europe_multilateral_2026-11-10.json
-flags: []
+flags:
+- stale_verification

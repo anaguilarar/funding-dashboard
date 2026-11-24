@@ -151,3 +151,4 @@ history:
 status_before_flag: monitoring
 flags:
 - url_unreachable
+- stale_verification

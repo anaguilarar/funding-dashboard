@@ -19,7 +19,7 @@ source_urls:
 - https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf
 - https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf
 - https://rea.ec.europa.eu/funding-and-grants/horizon-europe-marie-sklodowska-curie-actions/msca-doctoral-networks_en
-status: open
+status: closed
 status_basis: official
 published_date: '2026-05-28'
 deadline: 2026-11-24T17:00
@@ -121,5 +121,8 @@ history:
 - date: 2026-10-22 11:02
   event: reverified
   detail: no material change
+- date: 2026-11-24 21:45
+  event: closed
+  detail: deadline 2026-11-24T17:00 passed
 flags:
-- stale_verification
+- expired

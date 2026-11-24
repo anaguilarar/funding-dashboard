@@ -110,3 +110,4 @@ history:
   detail: no material change
 flags:
 - call_page_changed
+- stale_verification
