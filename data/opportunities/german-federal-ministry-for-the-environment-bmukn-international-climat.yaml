@@ -87,5 +87,4 @@ history:
   event: added
   detail: import:europe_multilateral_2026-11-10.json
 flags:
-- call_page_changed
 - stale_verification
